@@ -27,7 +27,7 @@ Este proyecto tiene como finalidad tener un enfoque en latinoamérica, ya que la
 
 **· ¿Cómo puedo colaborar?**
 
-Existe un grupo donde únicamente se compartirán dominios que deben ser bloqueados porque pertenecen a las categorías mencionadas anteriormente. Cualquier usuario puede aportar dominios en este grupo. Para una mayor comunicación, se decició que el grupo tenga lugar en Telegram.
+Existe un grupo donde únicamente se compartirán dominios que deben ser bloqueados porque pertenecen a las categorías mencionadas anteriormente. Cualquier usuario puede aportar dominios en este grupo. Para una mayor comunicación, se tomó la decisión de que el grupo tenga lugar en Telegram.
 
 
 
