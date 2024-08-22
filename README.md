@@ -6,10 +6,15 @@ Esto estará basado en dos archivos, uno formato hosts y el otro formato AdBlock
 
 Se bloquearán diferentes tipos de dominios considerados inseguros, maliciosos o algo que pueda perjudicar al usuario.
 Detalladamente este proyecto bloqueará:
+
 • Pornografía.
+
 • Casas/casinos virtuales de apuestas.
+
 • Páginas phising.
+
 • Fake news.
+
 
 **· Objetivo**
 
