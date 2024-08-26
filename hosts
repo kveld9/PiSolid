@@ -1,4 +1,4 @@
-# total blocked domains: 1492
+# total blocked domains: 1515
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/hosts
 127.0.0.1 localhost
 ::1 localhost
@@ -7,6 +7,7 @@ fe80::1%lo0 localhost
 # hosts creado con la finalidad de aumentar la seguridad en la navegación en internet con un enfoque en LATAM.
 ###################
 0.0.0.0 10bet.com
+0.0.0.0 123dinero.com
 0.0.0.0 1337x.to
 0.0.0.0 1377x.to
 0.0.0.0 1winar.ar
@@ -111,8 +112,10 @@ fe80::1%lo0 localhost
 0.0.0.0 apostamosargentina.com
 0.0.0.0 apostandum.ar
 0.0.0.0 apostaquente.com.br
+0.0.0.0 apostarargentina.com
 0.0.0.0 apostarcolombia.com
 0.0.0.0 apostarenargentina.com
+0.0.0.0 apostarperu.pe
 0.0.0.0 apostas-esportivas.com
 0.0.0.0 apostasonline.com.br
 0.0.0.0 appleid-verification.com
@@ -150,7 +153,10 @@ fe80::1%lo0 localhost
 0.0.0.0 apuestasargentinas.com
 0.0.0.0 apuestas.as.com
 0.0.0.0 apuestas-bonos.com
+0.0.0.0 apuestasclub.com
 0.0.0.0 apuestas-colombia.com
+0.0.0.0 apuestas.com
+0.0.0.0 apuestas.com.co
 0.0.0.0 apuestas.com.ve
 0.0.0.0 apuestasdeportivas24.com
 0.0.0.0 apuestasdeportivas24.org
@@ -189,7 +195,10 @@ fe80::1%lo0 localhost
 0.0.0.0 apuestatotal.pe
 0.0.0.0 apuestaya.com.ar
 0.0.0.0 apuestaya.com.co
+0.0.0.0 apuestivas.com
 0.0.0.0 apuestivas.com.ar
+0.0.0.0 apuestivas.com.ec
+0.0.0.0 apuestivas.com.pa
 0.0.0.0 argentinacasinos.com
 0.0.0.0 argentinaonlinecasino.com
 0.0.0.0 argentjuegos.com.ar
@@ -374,6 +383,7 @@ fe80::1%lo0 localhost
 0.0.0.0 betsul.com.ar
 0.0.0.0 betsul.com.ve
 0.0.0.0 betsul.pe
+0.0.0.0 betting.com
 0.0.0.0 bettingguide.com
 0.0.0.0 bettingpro.com
 0.0.0.0 betus.com.pa
@@ -557,6 +567,8 @@ fe80::1%lo0 localhost
 0.0.0.0 demonoid.is
 0.0.0.0 deporteargentino.com.ar
 0.0.0.0 deportebet.com
+0.0.0.0 deportivas.com
+0.0.0.0 deportivas.com.co
 0.0.0.0 descarga.xyz
 0.0.0.0 desdeparisconamor.es
 0.0.0.0 dhoze.com
@@ -643,7 +655,9 @@ fe80::1%lo0 localhost
 0.0.0.0 fezbet.pe
 0.0.0.0 fikfap.com
 0.0.0.0 flashback.org
+0.0.0.0 foroapuestas.forobet.com
 0.0.0.0 foro.att.com.mx
+0.0.0.0 forobet.com
 0.0.0.0 fotoscaserasx.com
 0.0.0.0 foxporns.com
 0.0.0.0 foxycasino.com
@@ -750,6 +764,7 @@ fe80::1%lo0 localhost
 0.0.0.0 instabet.mx
 0.0.0.0 instabet.pe
 0.0.0.0 instapoker.com
+0.0.0.0 inteapuestas.com
 0.0.0.0 intertops.eu
 0.0.0.0 interwetten.ar
 0.0.0.0 interwetten.com
@@ -815,6 +830,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ladbrokes.com
 0.0.0.0 lancebet.com
 0.0.0.0 lapalingo.com
+0.0.0.0 laps4.com
 0.0.0.0 laredhispana.org
 0.0.0.0 lat.motorsport.com
 0.0.0.0 leadbolt.com
@@ -1174,6 +1190,7 @@ fe80::1%lo0 localhost
 0.0.0.0 programasfully.com
 0.0.0.0 programaspcfulls.co
 0.0.0.0 projectveritas.com
+0.0.0.0 pronosticadores-deportivos.com
 0.0.0.0 propellerads.com
 0.0.0.0 psicologia-online.com
 0.0.0.0 ptougeegnep.net
@@ -1285,6 +1302,7 @@ fe80::1%lo0 localhost
 0.0.0.0 sportsbet.io.mx
 0.0.0.0 sportsbetting.com
 0.0.0.0 sports.bwin.com
+0.0.0.0 sportytrader.com
 0.0.0.0 sportytrader.es
 0.0.0.0 sputniknews.com
 0.0.0.0 spyware-alert.com
@@ -1323,6 +1341,7 @@ fe80::1%lo0 localhost
 0.0.0.0 tangovia.org
 0.0.0.0 taobao.com
 0.0.0.0 tapjoy.com
+0.0.0.0 taxdown.es
 0.0.0.0 teapuesto.co
 0.0.0.0 teapuesto.com
 0.0.0.0 teapuesto.com.ar
@@ -1353,10 +1372,12 @@ fe80::1%lo0 localhost
 0.0.0.0 tlauncher.org
 0.0.0.0 tmz.com
 0.0.0.0 tnaflix.com
+0.0.0.0 todascasasdeapuestas.com
 0.0.0.0 todopago.com.ar
 0.0.0.0 tombola.com.ar
 0.0.0.0 toofab.com
 0.0.0.0 toonx.net
+0.0.0.0 topmercato.com
 0.0.0.0 torlock.com
 0.0.0.0 toroporno.com
 0.0.0.0 torrentdownloads.me
@@ -1431,6 +1452,7 @@ fe80::1%lo0 localhost
 0.0.0.0 whosdatedwho.com
 0.0.0.0 williamhill.com
 0.0.0.0 williamhill.com.pe
+0.0.0.0 winamax.es
 0.0.0.0 winbet.com.ve
 0.0.0.0 wincomparator.com
 0.0.0.0 winfil.com
@@ -1451,6 +1473,7 @@ fe80::1%lo0 localhost
 0.0.0.0 wplay.com.ve
 0.0.0.0 wuopo.com
 0.0.0.0 wv5n.cuevana.biz
+0.0.0.0 ww01.inteapuestas.com
 0.0.0.0 ww82.d-1.co
 0.0.0.0 www18.pelisplushd.to
 0.0.0.0 www21.vercomics.xxx
