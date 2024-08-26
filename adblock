@@ -1,9 +1,10 @@
-# total blocked domains: 1492
+# total blocked domains: 1515
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/adblock
 # creado con el script creador automático de hosts de @kveld9
 # hosts creado con la finalidad de aumentar la seguridad en la navegación en internet con un enfoque en LATAM.
 ###################
 ||10bet.com^
+||123dinero.com^
 ||1337x.to^
 ||1377x.to^
 ||1winar.ar^
@@ -108,8 +109,10 @@
 ||apostamosargentina.com^
 ||apostandum.ar^
 ||apostaquente.com.br^
+||apostarargentina.com^
 ||apostarcolombia.com^
 ||apostarenargentina.com^
+||apostarperu.pe^
 ||apostas-esportivas.com^
 ||apostasonline.com.br^
 ||appleid-verification.com^
@@ -147,7 +150,10 @@
 ||apuestasargentinas.com^
 ||apuestas.as.com^
 ||apuestas-bonos.com^
+||apuestasclub.com^
 ||apuestas-colombia.com^
+||apuestas.com^
+||apuestas.com.co^
 ||apuestas.com.ve^
 ||apuestasdeportivas24.com^
 ||apuestasdeportivas24.org^
@@ -186,7 +192,10 @@
 ||apuestatotal.pe^
 ||apuestaya.com.ar^
 ||apuestaya.com.co^
+||apuestivas.com^
 ||apuestivas.com.ar^
+||apuestivas.com.ec^
+||apuestivas.com.pa^
 ||argentinacasinos.com^
 ||argentinaonlinecasino.com^
 ||argentjuegos.com.ar^
@@ -371,6 +380,7 @@
 ||betsul.com.ar^
 ||betsul.com.ve^
 ||betsul.pe^
+||betting.com^
 ||bettingguide.com^
 ||bettingpro.com^
 ||betus.com.pa^
@@ -554,6 +564,8 @@
 ||demonoid.is^
 ||deporteargentino.com.ar^
 ||deportebet.com^
+||deportivas.com^
+||deportivas.com.co^
 ||descarga.xyz^
 ||desdeparisconamor.es^
 ||dhoze.com^
@@ -640,7 +652,9 @@
 ||fezbet.pe^
 ||fikfap.com^
 ||flashback.org^
+||foroapuestas.forobet.com^
 ||foro.att.com.mx^
+||forobet.com^
 ||fotoscaserasx.com^
 ||foxporns.com^
 ||foxycasino.com^
@@ -747,6 +761,7 @@
 ||instabet.mx^
 ||instabet.pe^
 ||instapoker.com^
+||inteapuestas.com^
 ||intertops.eu^
 ||interwetten.ar^
 ||interwetten.com^
@@ -812,6 +827,7 @@
 ||ladbrokes.com^
 ||lancebet.com^
 ||lapalingo.com^
+||laps4.com^
 ||laredhispana.org^
 ||lat.motorsport.com^
 ||leadbolt.com^
@@ -1171,6 +1187,7 @@
 ||programasfully.com^
 ||programaspcfulls.co^
 ||projectveritas.com^
+||pronosticadores-deportivos.com^
 ||propellerads.com^
 ||psicologia-online.com^
 ||ptougeegnep.net^
@@ -1282,6 +1299,7 @@
 ||sportsbet.io.mx^
 ||sportsbetting.com^
 ||sports.bwin.com^
+||sportytrader.com^
 ||sportytrader.es^
 ||sputniknews.com^
 ||spyware-alert.com^
@@ -1320,6 +1338,7 @@
 ||tangovia.org^
 ||taobao.com^
 ||tapjoy.com^
+||taxdown.es^
 ||teapuesto.co^
 ||teapuesto.com^
 ||teapuesto.com.ar^
@@ -1350,10 +1369,12 @@
 ||tlauncher.org^
 ||tmz.com^
 ||tnaflix.com^
+||todascasasdeapuestas.com^
 ||todopago.com.ar^
 ||tombola.com.ar^
 ||toofab.com^
 ||toonx.net^
+||topmercato.com^
 ||torlock.com^
 ||toroporno.com^
 ||torrentdownloads.me^
@@ -1428,6 +1449,7 @@
 ||whosdatedwho.com^
 ||williamhill.com^
 ||williamhill.com.pe^
+||winamax.es^
 ||winbet.com.ve^
 ||wincomparator.com^
 ||winfil.com^
@@ -1448,6 +1470,7 @@
 ||wplay.com.ve^
 ||wuopo.com^
 ||wv5n.cuevana.biz^
+||ww01.inteapuestas.com^
 ||ww82.d-1.co^
 ||www18.pelisplushd.to^
 ||www21.vercomics.xxx^
