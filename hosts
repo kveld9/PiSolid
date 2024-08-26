@@ -1,4 +1,4 @@
-# total blocked domains: 1515
+# total blocked domains: 1549
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/hosts
 127.0.0.1 localhost
 ::1 localhost
@@ -46,6 +46,7 @@ fe80::1%lo0 localhost
 0.0.0.0 22bet.pe
 0.0.0.0 24hpoker.com
 0.0.0.0 32red.com
+0.0.0.0 4atools.com
 0.0.0.0 4starsgames.com
 0.0.0.0 5dimes.eu
 0.0.0.0 777.bet
@@ -95,6 +96,7 @@ fe80::1%lo0 localhost
 0.0.0.0 ak.hetapus.com
 0.0.0.0 akutapro.com
 0.0.0.0 alemaobet.com.br
+0.0.0.0 alessandrobeggiao.com
 0.0.0.0 algiedideneb.com
 0.0.0.0 alipay.com
 0.0.0.0 alipaydev.com
@@ -103,6 +105,7 @@ fe80::1%lo0 localhost
 0.0.0.0 americanthinker.com
 0.0.0.0 amigote.com
 0.0.0.0 amsterdamscasino.com
+0.0.0.0 andresbellocentro.cl
 0.0.0.0 angelcupido.com
 0.0.0.0 antivirus-check.com
 0.0.0.0 antivirus-popup.com
@@ -202,8 +205,10 @@ fe80::1%lo0 localhost
 0.0.0.0 argentinacasinos.com
 0.0.0.0 argentinaonlinecasino.com
 0.0.0.0 argentjuegos.com.ar
+0.0.0.0 arrocesllopis.com
 0.0.0.0 articuloscorazones.com
 0.0.0.0 aulacm.com
+0.0.0.0 aulagmp.es
 0.0.0.0 b1.packs.links
 0.0.0.0 baenegocios.com
 0.0.0.0 bahisnowargentina.com.ar
@@ -212,6 +217,7 @@ fe80::1%lo0 localhost
 0.0.0.0 balonlatino.net
 0.0.0.0 bank-login.com
 0.0.0.0 bank-secure.com
+0.0.0.0 basquetplus.com
 0.0.0.0 baz.bet
 0.0.0.0 be2.com.ve
 0.0.0.0 beforeitsnews.com
@@ -420,7 +426,9 @@ fe80::1%lo0 localhost
 0.0.0.0 bingodeortega.com.ar
 0.0.0.0 bingogames.com.ar
 0.0.0.0 bingoloteria.com.ar
+0.0.0.0 bioseminis.com
 0.0.0.0 bitcasino.io
+0.0.0.0 bitcoin.com
 0.0.0.0 bitsler.com.mx
 0.0.0.0 bitsnoop.com
 0.0.0.0 bitstarz.com
@@ -533,6 +541,7 @@ fe80::1%lo0 localhost
 0.0.0.0 codere.pe
 0.0.0.0 codigobonusargentina.com
 0.0.0.0 colegialasdeverdad.com
+0.0.0.0 collspa.cl
 0.0.0.0 como-encontrar.com
 0.0.0.0 comoencontrarpareja.es
 0.0.0.0 confirm-your-account.com
@@ -623,6 +632,7 @@ fe80::1%lo0 localhost
 0.0.0.0 es.aptoide.com
 0.0.0.0 escotesdeinfarto.com
 0.0.0.0 es.johnnybet.com
+0.0.0.0 es.motorsport.com
 0.0.0.0 es.pornhub.com
 0.0.0.0 es.pretty.porn
 0.0.0.0 es.redtube.com
@@ -735,6 +745,7 @@ fe80::1%lo0 localhost
 0.0.0.0 guayu.com
 0.0.0.0 guazubet.bet.ar
 0.0.0.0 guts.com
+0.0.0.0 gyejujuy.com.ar
 0.0.0.0 happydix.com
 0.0.0.0 hclips.com
 0.0.0.0 healthimpactnews.com
@@ -744,6 +755,7 @@ fe80::1%lo0 localhost
 0.0.0.0 high5casino.com
 0.0.0.0 hollywoodgossip.com
 0.0.0.0 hollywoodlife.com
+0.0.0.0 hondubet.com
 0.0.0.0 honeygain.com
 0.0.0.0 hoodsite.com
 0.0.0.0 hpybet.com
@@ -832,7 +844,10 @@ fe80::1%lo0 localhost
 0.0.0.0 lapalingo.com
 0.0.0.0 laps4.com
 0.0.0.0 laredhispana.org
+0.0.0.0 latinka.com
+0.0.0.0 latinka.com.pe
 0.0.0.0 lat.motorsport.com
+0.0.0.0 latribet.ec
 0.0.0.0 leadbolt.com
 0.0.0.0 leaguelane.com
 0.0.0.0 legion-caliente.com
@@ -944,6 +959,7 @@ fe80::1%lo0 localhost
 0.0.0.0 mas40.com
 0.0.0.0 masjugadas.com.ar
 0.0.0.0 masterbets365-ar.com
+0.0.0.0 masterbets365.com
 0.0.0.0 matchbook.com
 0.0.0.0 match.com.ve
 0.0.0.0 maxonclick.com
@@ -1015,6 +1031,7 @@ fe80::1%lo0 localhost
 0.0.0.0 miscasasdeapuestas.com
 0.0.0.0 misionbetargentina.com.ar
 0.0.0.0 misionbet.com.ar
+0.0.0.0 m.latinka.com.pe
 0.0.0.0 mobifriends.com
 0.0.0.0 modfyp.com
 0.0.0.0 modilimitado.io
@@ -1026,6 +1043,7 @@ fe80::1%lo0 localhost
 0.0.0.0 moplay.co.uk
 0.0.0.0 morritastube.com
 0.0.0.0 motherless.com
+0.0.0.0 motorsport.com
 0.0.0.0 mrgreen.com
 0.0.0.0 mrhowtos.com
 0.0.0.0 mrwin.com
@@ -1033,6 +1051,7 @@ fe80::1%lo0 localhost
 0.0.0.0 multibet.com
 0.0.0.0 multporn.net
 0.0.0.0 mundopack.tv
+0.0.0.0 muroortodoncia.com
 0.0.0.0 muy-porno.com
 0.0.0.0 muysexy.co
 0.0.0.0 mx.mileroticos.com
@@ -1070,8 +1089,17 @@ fe80::1%lo0 localhost
 0.0.0.0 onlinebank-verify.com
 0.0.0.0 online-bingo.com.ar
 0.0.0.0 online-casino.ar
+0.0.0.0 onlinecasinoreports.ar
+0.0.0.0 onlinecasinoreportsar.com
+0.0.0.0 onlinecasinoreports.bo
+0.0.0.0 onlinecasinoreports.cl
+0.0.0.0 onlinecasinoreports.co
+0.0.0.0 onlinecasinoreports.com.mx
+0.0.0.0 onlinecasinoreports.es
+0.0.0.0 onlinecasinoreports.pe
 0.0.0.0 online-verification.com
 0.0.0.0 orimo.fr
+0.0.0.0 overlyzer.com
 0.0.0.0 pack.best
 0.0.0.0 packdemujeres.com
 0.0.0.0 packgratis.store
@@ -1104,6 +1132,7 @@ fe80::1%lo0 localhost
 0.0.0.0 paidwork.com
 0.0.0.0 palpitobet.com.ar
 0.0.0.0 palpitos.ar
+0.0.0.0 palpitos.bet.ar
 0.0.0.0 palpitos.com.ar
 0.0.0.0 panelmagistv.com
 0.0.0.0 paradisebet.com.ar
@@ -1126,6 +1155,7 @@ fe80::1%lo0 localhost
 0.0.0.0 paypal-security.com
 0.0.0.0 pccm.umich.unam.mx
 0.0.0.0 peladas69.com
+0.0.0.0 pentagol.pe
 0.0.0.0 perezhilton.com
 0.0.0.0 phishing-site.com
 0.0.0.0 pinnacle.com
@@ -1238,6 +1268,7 @@ fe80::1%lo0 localhost
 0.0.0.0 rushbet.com
 0.0.0.0 rushbet.com.ar
 0.0.0.0 rushbet.com.co
+0.0.0.0 rushbet.mx
 0.0.0.0 rushbet.pe
 0.0.0.0 safe-login.com
 0.0.0.0 sambafoot.com
@@ -1260,6 +1291,7 @@ fe80::1%lo0 localhost
 0.0.0.0 shopify.com
 0.0.0.0 shorte.st
 0.0.0.0 skidrowreloaded.com
+0.0.0.0 skrill.com
 0.0.0.0 skybet.com
 0.0.0.0 slex.io
 0.0.0.0 slotjoint.com
@@ -1337,6 +1369,7 @@ fe80::1%lo0 localhost
 0.0.0.0 supersport.com.ar
 0.0.0.0 supersport.com.ve
 0.0.0.0 supersport.pe
+0.0.0.0 syspark.com.mx
 0.0.0.0 systeme-business.online
 0.0.0.0 tangovia.org
 0.0.0.0 taobao.com
@@ -1350,6 +1383,7 @@ fe80::1%lo0 localhost
 0.0.0.0 techopedia.com
 0.0.0.0 telebingo.com.ar
 0.0.0.0 telekino.com.ar
+0.0.0.0 temerecesunasonrisa.com
 0.0.0.0 tempobet.com
 0.0.0.0 tempobet.com.mx
 0.0.0.0 terral.com.br

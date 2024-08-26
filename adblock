@@ -1,4 +1,4 @@
-# total blocked domains: 1515
+# total blocked domains: 1549
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/adblock
 # creado con el script creador automático de hosts de @kveld9
 # hosts creado con la finalidad de aumentar la seguridad en la navegación en internet con un enfoque en LATAM.
@@ -43,6 +43,7 @@
 ||22bet.pe^
 ||24hpoker.com^
 ||32red.com^
+||4atools.com^
 ||4starsgames.com^
 ||5dimes.eu^
 ||777.bet^
@@ -92,6 +93,7 @@
 ||ak.hetapus.com^
 ||akutapro.com^
 ||alemaobet.com.br^
+||alessandrobeggiao.com^
 ||algiedideneb.com^
 ||alipay.com^
 ||alipaydev.com^
@@ -100,6 +102,7 @@
 ||americanthinker.com^
 ||amigote.com^
 ||amsterdamscasino.com^
+||andresbellocentro.cl^
 ||angelcupido.com^
 ||antivirus-check.com^
 ||antivirus-popup.com^
@@ -199,8 +202,10 @@
 ||argentinacasinos.com^
 ||argentinaonlinecasino.com^
 ||argentjuegos.com.ar^
+||arrocesllopis.com^
 ||articuloscorazones.com^
 ||aulacm.com^
+||aulagmp.es^
 ||b1.packs.links^
 ||baenegocios.com^
 ||bahisnowargentina.com.ar^
@@ -209,6 +214,7 @@
 ||balonlatino.net^
 ||bank-login.com^
 ||bank-secure.com^
+||basquetplus.com^
 ||baz.bet^
 ||be2.com.ve^
 ||beforeitsnews.com^
@@ -417,7 +423,9 @@
 ||bingodeortega.com.ar^
 ||bingogames.com.ar^
 ||bingoloteria.com.ar^
+||bioseminis.com^
 ||bitcasino.io^
+||bitcoin.com^
 ||bitsler.com.mx^
 ||bitsnoop.com^
 ||bitstarz.com^
@@ -530,6 +538,7 @@
 ||codere.pe^
 ||codigobonusargentina.com^
 ||colegialasdeverdad.com^
+||collspa.cl^
 ||como-encontrar.com^
 ||comoencontrarpareja.es^
 ||confirm-your-account.com^
@@ -620,6 +629,7 @@
 ||es.aptoide.com^
 ||escotesdeinfarto.com^
 ||es.johnnybet.com^
+||es.motorsport.com^
 ||es.pornhub.com^
 ||es.pretty.porn^
 ||es.redtube.com^
@@ -732,6 +742,7 @@
 ||guayu.com^
 ||guazubet.bet.ar^
 ||guts.com^
+||gyejujuy.com.ar^
 ||happydix.com^
 ||hclips.com^
 ||healthimpactnews.com^
@@ -741,6 +752,7 @@
 ||high5casino.com^
 ||hollywoodgossip.com^
 ||hollywoodlife.com^
+||hondubet.com^
 ||honeygain.com^
 ||hoodsite.com^
 ||hpybet.com^
@@ -829,7 +841,10 @@
 ||lapalingo.com^
 ||laps4.com^
 ||laredhispana.org^
+||latinka.com^
+||latinka.com.pe^
 ||lat.motorsport.com^
+||latribet.ec^
 ||leadbolt.com^
 ||leaguelane.com^
 ||legion-caliente.com^
@@ -941,6 +956,7 @@
 ||mas40.com^
 ||masjugadas.com.ar^
 ||masterbets365-ar.com^
+||masterbets365.com^
 ||matchbook.com^
 ||match.com.ve^
 ||maxonclick.com^
@@ -1012,6 +1028,7 @@
 ||miscasasdeapuestas.com^
 ||misionbetargentina.com.ar^
 ||misionbet.com.ar^
+||m.latinka.com.pe^
 ||mobifriends.com^
 ||modfyp.com^
 ||modilimitado.io^
@@ -1023,6 +1040,7 @@
 ||moplay.co.uk^
 ||morritastube.com^
 ||motherless.com^
+||motorsport.com^
 ||mrgreen.com^
 ||mrhowtos.com^
 ||mrwin.com^
@@ -1030,6 +1048,7 @@
 ||multibet.com^
 ||multporn.net^
 ||mundopack.tv^
+||muroortodoncia.com^
 ||muy-porno.com^
 ||muysexy.co^
 ||mx.mileroticos.com^
@@ -1067,8 +1086,17 @@
 ||onlinebank-verify.com^
 ||online-bingo.com.ar^
 ||online-casino.ar^
+||onlinecasinoreports.ar^
+||onlinecasinoreportsar.com^
+||onlinecasinoreports.bo^
+||onlinecasinoreports.cl^
+||onlinecasinoreports.co^
+||onlinecasinoreports.com.mx^
+||onlinecasinoreports.es^
+||onlinecasinoreports.pe^
 ||online-verification.com^
 ||orimo.fr^
+||overlyzer.com^
 ||pack.best^
 ||packdemujeres.com^
 ||packgratis.store^
@@ -1101,6 +1129,7 @@
 ||paidwork.com^
 ||palpitobet.com.ar^
 ||palpitos.ar^
+||palpitos.bet.ar^
 ||palpitos.com.ar^
 ||panelmagistv.com^
 ||paradisebet.com.ar^
@@ -1123,6 +1152,7 @@
 ||paypal-security.com^
 ||pccm.umich.unam.mx^
 ||peladas69.com^
+||pentagol.pe^
 ||perezhilton.com^
 ||phishing-site.com^
 ||pinnacle.com^
@@ -1235,6 +1265,7 @@
 ||rushbet.com^
 ||rushbet.com.ar^
 ||rushbet.com.co^
+||rushbet.mx^
 ||rushbet.pe^
 ||safe-login.com^
 ||sambafoot.com^
@@ -1257,6 +1288,7 @@
 ||shopify.com^
 ||shorte.st^
 ||skidrowreloaded.com^
+||skrill.com^
 ||skybet.com^
 ||slex.io^
 ||slotjoint.com^
@@ -1334,6 +1366,7 @@
 ||supersport.com.ar^
 ||supersport.com.ve^
 ||supersport.pe^
+||syspark.com.mx^
 ||systeme-business.online^
 ||tangovia.org^
 ||taobao.com^
@@ -1347,6 +1380,7 @@
 ||techopedia.com^
 ||telebingo.com.ar^
 ||telekino.com.ar^
+||temerecesunasonrisa.com^
 ||tempobet.com^
 ||tempobet.com.mx^
 ||terral.com.br^
