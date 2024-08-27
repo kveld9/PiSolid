@@ -1,11 +1,11 @@
-# total dominios bloqueados: 12460
+# total dominios bloqueados: 12482
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/hosts
 127.0.0.1 localhost
 ::1 localhost
 fe80::1%lo0 localhost
 # creado con el script creador automático de hosts de @kveld9
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en internet en latinoamérica.
-# elaboración: 2024-08-27 14:49:11
+# elaboración: 2024-08-27 16:04:21
 ###################
 0.0.0.0 0.dvl.hclips.com
 0.0.0.0 01.sportlemon.tv
@@ -483,17 +483,27 @@ fe80::1%lo0 localhost
 0.0.0.0 a.city.casinoatlanticcity.com
 0.0.0.0 a.morritastube.com
 0.0.0.0 a.mx.sportingbet.com.br
+0.0.0.0 a.packs.link
 0.0.0.0 a.playcity.com
 0.0.0.0 a.poqsss.taobao.com
 0.0.0.0 a.sfdsss.taobao.com
 0.0.0.0 a.skybet.com
 0.0.0.0 a1.p-a-c-k-s.com
+0.0.0.0 a1.packs.link
 0.0.0.0 a1.packs.top
 0.0.0.0 a1.packsfree.com
 0.0.0.0 a1.packsmega.info
 0.0.0.0 a2.packs.gratis
+0.0.0.0 a2.packs.link
+0.0.0.0 a3.packs.link
 0.0.0.0 a3.packs.xxx
+0.0.0.0 a4.packs.link
+0.0.0.0 a5.packs.link
+0.0.0.0 a6.packs.link
+0.0.0.0 a7.packs.link
+0.0.0.0 a8.packs.link
 0.0.0.0 a8s7bd793b.casino.pinnacle.com
+0.0.0.0 a9.packs.link
 0.0.0.0 aaa.pinnacle.com
 0.0.0.0 aangon.com
 0.0.0.0 aarp.com
@@ -1329,6 +1339,7 @@ fe80::1%lo0 localhost
 0.0.0.0 b.admedia.com
 0.0.0.0 b.estrelabet.com
 0.0.0.0 b.skybet.com
+0.0.0.0 b1.packs.link
 0.0.0.0 b1.packs.links
 0.0.0.0 b2b-455-api-metrics.widget.staging.cloud.oddschecker.com
 0.0.0.0 b2b.chochox.com
@@ -7543,6 +7554,7 @@ fe80::1%lo0 localhost
 0.0.0.0 packgratis.store
 0.0.0.0 packs.fun
 0.0.0.0 packs.guru
+0.0.0.0 packs.link
 0.0.0.0 packs.love
 0.0.0.0 packs.pink
 0.0.0.0 packs.red
@@ -12073,6 +12085,16 @@ fe80::1%lo0 localhost
 0.0.0.0 www-x-qa.test.eonline.com
 0.0.0.0 www-x.dev.eonline.com
 0.0.0.0 www-x.test.eonline.com
+0.0.0.0 www.a.packs.link
+0.0.0.0 www.a1.packs.link
+0.0.0.0 www.a2.packs.link
+0.0.0.0 www.a3.packs.link
+0.0.0.0 www.a4.packs.link
+0.0.0.0 www.a5.packs.link
+0.0.0.0 www.a6.packs.link
+0.0.0.0 www.a7.packs.link
+0.0.0.0 www.a8.packs.link
+0.0.0.0 www.a9.packs.link
 0.0.0.0 www.apostamos.es
 0.0.0.0 www.apostar-y-futbol.com
 0.0.0.0 www.aptoide.com
@@ -12092,6 +12114,7 @@ fe80::1%lo0 localhost
 0.0.0.0 www.m.ofertasdeapuestas.es
 0.0.0.0 www.nuevatribuna.es
 0.0.0.0 www.ofertasdeapuestas.es
+0.0.0.0 www.packs.link
 0.0.0.0 www.pool.apk.aptoide.com
 0.0.0.0 www.pool.img.aptoide.com
 0.0.0.0 www.pool.obb.aptoide.com
