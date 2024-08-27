@@ -1,11 +1,11 @@
-# total dominios bloqueados: 12260
+# total dominios bloqueados: 12230
 # https://raw.githubusercontent.com/kveld9/latam-hosts/main/hosts
 127.0.0.1 localhost
 ::1 localhost
 fe80::1%lo0 localhost
 # creado con el script creador automático de hosts de @kveld9
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en internet en latinoamérica.
-# elaboración: 2024-08-27 00:48:25
+# elaboración: 2024-08-27 01:07:22
 ###################
 0.0.0.0 01.sportlemon.tv
 0.0.0.0 0b0a6ff10f8a29fce00fc03dd5812e22.us.888casino.com
@@ -3845,7 +3845,6 @@ fe80::1%lo0 localhost
 0.0.0.0 e.okmagazine.com
 0.0.0.0 eonline.com
 0.0.0.0 eot.superbet.com
-0.0.0.0 epena@aulagmp.es
 0.0.0.0 eplfantasy.sportingnews.com
 0.0.0.0 ept1.bet365.com
 0.0.0.0 e.ptrmail.thesun.co.uk
@@ -4798,7 +4797,6 @@ fe80::1%lo0 localhost
 0.0.0.0 hostedcart.buysellads.com
 0.0.0.0 host.leadbolt.com
 0.0.0.0 host.magnetdl.com
-0.0.0.0 hostmaster@btdigg.org
 0.0.0.0 hostmaster.futemax.com
 0.0.0.0 hostmaster.hostmaster.www.pornozorras.com
 0.0.0.0 hostmaster.sportlemon.tv
@@ -4981,7 +4979,6 @@ fe80::1%lo0 localhost
 0.0.0.0 inbetapi.kingsbet.com
 0.0.0.0 inbetapi.pentagol.pe
 0.0.0.0 in.betwinner.com
-0.0.0.0 inc.
 0.0.0.0 in.ch2.nordicbet.com
 0.0.0.0 in.ch2.test.nordicbet.com
 0.0.0.0 includes.thesun.co.uk
@@ -5647,7 +5644,6 @@ fe80::1%lo0 localhost
 0.0.0.0 live.smarkets.com
 0.0.0.0 live-staging.pornotube.com
 0.0.0.0 ljqtobrave.chochox.com
-0.0.0.0 llc
 0.0.0.0 lloyds.secure-confirm.com
 0.0.0.0 loadgames22.bet365.com
 0.0.0.0 loadgames22.nj.bet365.com
@@ -6350,7 +6346,6 @@ fe80::1%lo0 localhost
 0.0.0.0 mercedesbenz.marcali.com
 0.0.0.0 merchant.skrill.com
 0.0.0.0 mercola.com
-0.0.0.0 mercola.com,
 0.0.0.0 meridianbet.com
 0.0.0.0 meridianbet.com.ar
 0.0.0.0 meridianbet.com.mx
@@ -7815,8 +7810,6 @@ fe80::1%lo0 localhost
 0.0.0.0 portalvpn.chochox.com
 0.0.0.0 postasports.com
 0.0.0.0 postback.pinnacle.com
-0.0.0.0 postmaster@sportpesa.com
-0.0.0.0 postmaster@thelotter.com
 0.0.0.0 postobet.com
 0.0.0.0 posventa.marcali.com
 0.0.0.0 potatotest.high5casino.com
@@ -9212,7 +9205,6 @@ fe80::1%lo0 localhost
 0.0.0.0 ssc.superbet.com
 0.0.0.0 ssfpc.jp.motorsport.com
 0.0.0.0 ssh.chochox.com
-0.0.0.0 ssladmin@mybet.com
 0.0.0.0 ssl.chochox.com
 0.0.0.0 ssl-everywhere.portal.staging.cloud.oddschecker.com
 0.0.0.0 ssl.miposicionamientoweb.es
@@ -10568,8 +10560,6 @@ fe80::1%lo0 localhost
 0.0.0.0 test.pokerdicas.com
 0.0.0.0 test.pos.dev.palpitos.bet.ar
 0.0.0.0 test.pos.palpitos.bet.ar
-0.0.0.0 test_renew2.paddypower.com
-0.0.0.0 test_renew.paddypower.com
 0.0.0.0 testrepocom.dev.emails.32red.com
 0.0.0.0 testserver.paddypower.com
 0.0.0.0 test.sex.com
@@ -11583,8 +11573,6 @@ fe80::1%lo0 localhost
 0.0.0.0 webmail.worldcup2018.sbo.net
 0.0.0.0 webmail.xorgasmo.com
 0.0.0.0 webmail.xpaja.net
-0.0.0.0 webmaster@jizzbunker.com
-0.0.0.0 webmaster@supermatch.com.uy
 0.0.0.0 web.mig.betler.brareg.superbet.com
 0.0.0.0 web.mig.betler.superbet.com
 0.0.0.0 web.oddschecker.com
@@ -11913,14 +11901,12 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwadminer.chochox.com
 0.0.0.0 wwwapi.chochox.com
 0.0.0.0 wwwapps.chochox.com
-0.0.0.0 www.autoconfig.chochox.com
 0.0.0.0 wwwbm.chochox.com
 0.0.0.0 wwwbuild.chochox.com
 0.0.0.0 wwwbulma.chochox.com
 0.0.0.0 wwwcfduidd71b73c34fd7d0203f25aca2715831a141545807493.chochox.com
 0.0.0.0 wwwcfduiddc2a4cad1b6c87ab3114691339e11056a1614201205.chochox.com
 0.0.0.0 www.chochox.com
-0.0.0.0 www.cicd.chochox.com
 0.0.0.0 wwwci.pinnacle.com
 0.0.0.0 wwwclient.chochox.com
 0.0.0.0 wwwclientesvpn.chochox.com
@@ -11928,7 +11914,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwcloud.chochox.com
 0.0.0.0 wwwconoze.chochox.com
 0.0.0.0 wwwcpanel.chochox.com
-0.0.0.0 www.csp.chochox.com
 0.0.0.0 www-dev2.bet3000.com
 0.0.0.0 www-dev3.bet3000.com
 0.0.0.0 www-dev.bet3000.com
@@ -11941,7 +11926,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwembfeygo.chochox.com
 0.0.0.0 www.en.chochox.com
 0.0.0.0 wwweww.chochox.com
-0.0.0.0 www.fonseca.chochox.com
 0.0.0.0 wwwgatewaycitrix.chochox.com
 0.0.0.0 wwwglaajwwwtwitter.chochox.com
 0.0.0.0 wwwglpi.chochox.com
@@ -11949,7 +11933,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwgoogle.chochox.com
 0.0.0.0 wwwgrafana.chochox.com
 0.0.0.0 wwwgsbrf.chochox.com
-0.0.0.0 www.hipnosis.chochox.com
 0.0.0.0 wwwhipnosis.chochox.com
 0.0.0.0 wwwhtpps.chochox.com
 0.0.0.0 wwwhttp.chochox.com
@@ -11957,7 +11940,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwikeryromina.chochox.com
 0.0.0.0 wwwimg2.chochox.com
 0.0.0.0 wwwimg.chochox.com
-0.0.0.0 www.inteapuestas.com
 0.0.0.0 wwwipv6.chochox.com
 0.0.0.0 wwwit.chochox.com
 0.0.0.0 wwwitop.chochox.com
@@ -11969,12 +11951,10 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwli.chochox.com
 0.0.0.0 wwwljqtobrave.chochox.com
 0.0.0.0 wwwlocalhost.chochox.com
-0.0.0.0 www.login-api.chochox.com
 0.0.0.0 wwwlogin-api.chochox.com
 0.0.0.0 wwwlop.chochox.com
 0.0.0.0 wwwlopment.chochox.com
 0.0.0.0 wwwlossimpson.chochox.com
-0.0.0.0 www.magis-tv-pro.com
 0.0.0.0 wwwmandowww.chochox.com
 0.0.0.0 wwwmarvel.chochox.com
 0.0.0.0 wwwm.chochox.com
@@ -11986,7 +11966,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwnew.chochox.com
 0.0.0.0 wwwnicorobin.chochox.com
 0.0.0.0 wwwnjpartypoker.com
-0.0.0.0 www.nmgakademiewww.inteapuestas.com
 0.0.0.0 wwwnocount429.chochox.com
 0.0.0.0 wwwnoraxchoque.chochox.com
 0.0.0.0 wwwns1.chochox.com
@@ -12017,8 +11996,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwshop.chochox.com
 0.0.0.0 www-si1.32red.com
 0.0.0.0 wwwsimpson.chochox.com
-0.0.0.0 www.sitemap.chochox.com
-0.0.0.0 www.sitemaps.chochox.com
 0.0.0.0 wwwsmtp1.chochox.com
 0.0.0.0 wwwsmtpauth.chochox.com
 0.0.0.0 wwwsmtp.chochox.com
@@ -12040,7 +12017,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwvidel.chochox.com
 0.0.0.0 wwwvidrojuegos.chochox.com
 0.0.0.0 wwwvm.chochox.com
-0.0.0.0 www.vpn.chochox.com
 0.0.0.0 wwwvpn.chochox.com
 0.0.0.0 wwwvww.chochox.com
 0.0.0.0 wwwvwww.chochox.com
@@ -12057,7 +12033,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwww1.chochox.com
 0.0.0.0 wwwww25.chochox.com
 0.0.0.0 wwwww38.chochox.com
-0.0.0.0 www.ww3.chochox.com
 0.0.0.0 wwwww3.chochox.com
 0.0.0.0 wwwww5.chochox.com
 0.0.0.0 wwwww6.chochox.com
@@ -12070,12 +12045,9 @@ fe80::1%lo0 localhost
 0.0.0.0 www.www2.chochox.com
 0.0.0.0 wwwwww2.chochox.com
 0.0.0.0 wwwwww42.chochox.com
-0.0.0.0 www.www4.chochox.com
 0.0.0.0 wwwwww4.chochox.com
 0.0.0.0 wwwwww6.chochox.com
-0.0.0.0 www.www.chochox.com
 0.0.0.0 wwwwww.chochox.com
-0.0.0.0 www.www.en.chochox.com
 0.0.0.0 wwwwwwhtpps.chochox.com
 0.0.0.0 wwwwwwimg2.chochox.com
 0.0.0.0 wwwwwwimg.chochox.com
@@ -12100,7 +12072,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwwwwvm.chochox.com
 0.0.0.0 wwwwwwvpn.chochox.com
 0.0.0.0 wwwwwww.chochox.com
-0.0.0.0 www.www.webmail.chochox.com
 0.0.0.0 wwwwwwww01.chochox.com
 0.0.0.0 wwwwwwww16.chochox.com
 0.0.0.0 wwwwwwww17.chochox.com
@@ -12110,7 +12081,6 @@ fe80::1%lo0 localhost
 0.0.0.0 wwwwwwww6.chochox.com
 0.0.0.0 wwwwwwwwe.chochox.com
 0.0.0.0 wwwwwwwwq.chochox.com
-0.0.0.0 www.www.www2.chochox.com
 0.0.0.0 wwwwwwwww2.chochox.com
 0.0.0.0 wwwwwwwww4.chochox.com
 0.0.0.0 wwwwwwwww.chochox.com
