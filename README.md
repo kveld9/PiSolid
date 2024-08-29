@@ -3,9 +3,7 @@
 Este proyecto tiene como objetivo proporcionar mayor seguridad y privacidad al navegar en Internet al bloquear dominios inseguros, maliciosos o perjudiciales, con un enfoque específico en la región de Latinoamérica.
 
 ## ¿Qué es esto?
-
-Este proyecto se basa en dos tipos de archivos:
-- **Formato Hosts:** Para ser utilizado en sistemas que emplean el archivo `hosts` para el bloqueo de dominios.
+Este proyecto consta de un archivo denominado "adblock".
 - **Formato AdBlock:** Para ser utilizado en extensiones y aplicaciones que soportan listas de bloqueo de anuncios, como Pi-Hole, AdBlock Plus, uBlock Origin, AdGuard Home, entre otros.
 
 El objetivo es bloquear dominios relacionados con:
@@ -29,8 +27,6 @@ Puedes colaborar enviando dominios que consideres relevantes para ser bloqueados
 Dependiendo de la herramienta o método que utilices, deberás descargar el archivo correspondiente:
 
 - **Para Pi-Hole, AdBlock Plus, uBlock Origin, AdGuard Home, etc.:** Usa el archivo titulado `adblock`.
-- **Para AdAway:** Usa el archivo titulado `hosts`.
-- **Para el método tradicional (archivo hosts en el sistema):** Usa el archivo titulado `hosts`.
 
 ## Contribuciones
 
