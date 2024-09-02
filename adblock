@@ -1,8 +1,8 @@
-# total dominios bloqueados: 12784
+# total dominios bloqueados: 12788
 # https://github.com/kveld9/latam-hosts
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en latinoamérica.
 # este archivo bloquea dominios phishing, fake news, apuestas, pornografía.
-# elaboración: 2024-08-31 19:23:54
+# elaboración: 2024-09-01 21:03:42
 ###################
 ||000.pe^
 ||001bahisnow.com^
@@ -1615,10 +1615,12 @@
 ||bama.cl^
 ||banana.gq^
 ||bananatrans.com.br^
+||bancaserfinaza.co^
 ||bancofalabella.pe^
 ||bancofalabelladigital.com.co^
 ||bancooccidente.co^
 ||bancooregon.com.br^
+||bancosefinanza.com.co^
 ||bandaamplitude.com.br^
 ||bandacm5.com.br^
 ||bandasomelouvor.com.br^
@@ -3443,6 +3445,7 @@
 ||cromal.com.br^
 ||cronoscapital.com.mx^
 ||cronosystem.cl^
+||crossback.cl^
 ||crossfitlionsfire.com.br^
 ||crossfitsaude.com.br^
 ||crowdmining.co^
@@ -7134,6 +7137,7 @@
 ||locaspace.com.br^
 ||locibelder.com.do^
 ||loftyweb.com.br^
+||loghotrav.com.br^
 ||login-facebook.com^
 ||login-paypal.es^
 ||login-security.com^
