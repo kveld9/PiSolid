@@ -1,8 +1,8 @@
-# total dominios bloqueados: 12788
+# total dominios bloqueados: 12893
 # https://github.com/kveld9/latam-hosts
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en latinoamérica.
 # este archivo bloquea dominios phishing, fake news, apuestas, pornografía.
-# elaboración: 2024-09-01 21:03:42
+# elaboración: 2024-09-02 23:54:22
 ###################
 ||000.pe^
 ||001bahisnow.com^
@@ -100,6 +100,7 @@
 ||35bahisnow.com^
 ||360sexshop.com.ar^
 ||365redirect.co^
+||3daxis.co^
 ||3dfinancialacademy.com.br^
 ||3dproducts.com.ec^
 ||3mnengenharia.com.br^
@@ -164,6 +165,7 @@
 ||699tempobet.com^
 ||6brentwoodd.gq^
 ||6c25d930c3e6fa6664be70de2b8b66cf.gq^
+||6ow9rhxtolls.gq^
 ||6randolphs.gq^
 ||6sc.co^
 ||700tempobet.com^
@@ -656,6 +658,7 @@
 ||adquireimoveis.com.br^
 ||adr-advogados.com.br^
 ||adrede.pe^
+||adrenali.gq^
 ||adreterj.org.br^
 ||adriana.com.mx^
 ||adrianaassad.com.br^
@@ -718,6 +721,7 @@
 ||aficenter.com.co^
 ||afiliaolimpo.bet^
 ||afmm.com.br^
+||afobal.cl^
 ||afojuvaf.es^
 ||afonsoburatto.com.br^
 ||afonsosexshop.com.br^
@@ -810,6 +814,7 @@
 ||aircenter.com.br^
 ||airlgne.gq^
 ||airmore.co^
+||airproxybay.ar^
 ||aislacentro.cl^
 ||aistechnology.es^
 ||aitsagroup.com.ar^
@@ -952,6 +957,7 @@
 ||aluplast.cl^
 ||aluxor.es^
 ||alven-sa.com.ar^
+||alvoportas.com.br^
 ||alvoradaconsultoria.com.br^
 ||amaap.com.br^
 ||amac.mx^
@@ -1120,6 +1126,7 @@
 ||anunciobux.com.ve^
 ||anunciocampinas.com.br^
 ||anydesks.co^
+||anyreplicawatches.co^
 ||anzoldeouro.com.br^
 ||aonda.org.br^
 ||ap2018.co^
@@ -1381,6 +1388,7 @@
 ||articulosreligiosos.com.pe^
 ||artinlouvor.com.br^
 ||artisticsolutions.co^
+||artofads.co^
 ||artoken.co^
 ||artrevestdecor.com.br^
 ||artrio247.gq^
@@ -1408,6 +1416,7 @@
 ||asecvech.cl^
 ||asegurarte.com.ar^
 ||aseoswan.cl^
+||aservices.pa^
 ||asesgnp.com.mx^
 ||asesorcpc.cl^
 ||asesorescantabria.es^
@@ -1659,6 +1668,7 @@
 ||batlangdi.gq^
 ||batukesambashow.com.br^
 ||bauldarte.es^
+||baywttgdhe.do^
 ||baz.bet^
 ||bazar731.com.br^
 ||bazardakau.com.br^
@@ -1897,6 +1907,7 @@
 ||betwinnerargentina.com^
 ||betzillion.com^
 ||betzord.com^
+||bewhoyouare.gq^
 ||bfamilyfilms.cl^
 ||bgk24.co^
 ||bgpd.co^
@@ -1944,6 +1955,7 @@
 ||bioinvest.com.ar^
 ||biomecarbonsnewsbench.gq^
 ||biometra.com.br^
+||biosaude.co^
 ||bioseminis.com^
 ||bioservdedetizadora.com.br^
 ||biosmile.uy^
@@ -1991,6 +2003,7 @@
 ||blessimport.com.py^
 ||blig.com.br^
 ||blingacessorios.com.br^
+||blockchained.pa^
 ||blococca.com.br^
 ||blogderocha.com.br^
 ||blogdoheroi.com.br^
@@ -2097,6 +2110,7 @@
 ||bostonmedicalgroup.com.br^
 ||bostro.cl^
 ||botanasprovi.com.mx^
+||botaswolverine.com.mx^
 ||botecoviriato.com.br^
 ||botomaluco.com.br^
 ||boutiqueflordeacucena.com.br^
@@ -2195,6 +2209,7 @@
 ||bsingenieria.com.py^
 ||bsodontologia.com.br^
 ||bstats.org^
+||bsyauqwerd.pa^
 ||btc-pro.co^
 ||btdigg.org^
 ||btechbrasil.com.br^
@@ -2889,6 +2904,7 @@
 ||cidrd.com.do^
 ||cidvale.com.br^
 ||cie-chile.cl^
+||cieh.mx^
 ||cienciajoven.mx^
 ||cienciauniversalista.com.br^
 ||ciesp.com.br^
@@ -2996,6 +3012,7 @@
 ||closdechacras.com.ar^
 ||closetdabia.com.br^
 ||cloud.com.py^
+||cloudcoins.co^
 ||cloudkitties.co^
 ||cloudpsa.co^
 ||clouds11.co^
@@ -3084,6 +3101,7 @@
 ||coin-i.gq^
 ||coinfisio.com.br^
 ||coinmasa.es^
+||coinpot.co^
 ||coisasdemenininha.com.br^
 ||cojinesortopedicos.com.mx^
 ||cola-erotica.com.ar^
@@ -3385,8 +3403,11 @@
 ||courmayeur.com.br^
 ||courodaterra.com.br^
 ||couroecasa.com.br^
+||covid-funding.co^
+||covid-relief.co^
 ||cozinhacastanea.com.br^
 ||cpa.org.ar^
+||cpaservices.com.ar^
 ||cpbconstrutora.eng.br^
 ||cpbild.co^
 ||cpbld.co^
@@ -3395,6 +3416,7 @@
 ||cphm.cl^
 ||cpmgmoa.com.br^
 ||cpsoroban.com.br^
+||cpufan.cl^
 ||cpvaldivia.cl^
 ||cpx.mx^
 ||cqa.mx^
@@ -4420,6 +4442,7 @@
 ||erosex.es^
 ||erosmania.com.br^
 ||erot.co^
+||erothots.co^
 ||erotic4u.es^
 ||eroticasul.com.br^
 ||eroticavip.com.br^
@@ -4558,6 +4581,7 @@
 ||estudioadrogue.com.ar^
 ||estudiobravi.com.ar^
 ||estudiodetatuagens.com.br^
+||estudioespositoymiguel.com.ar^
 ||estudiofeldman.com.ar^
 ||estudioharapiuk.com.ar^
 ||estudioiorfida.com.ar^
@@ -4607,6 +4631,7 @@
 ||eventosloyola.cl^
 ||eventosrealiza.com.mx^
 ||everestpoker.com^
+||everydayporn.co^
 ||evesys.mx^
 ||eviver.com.br^
 ||evolueseunegocio.com.br^
@@ -4828,6 +4853,7 @@
 ||fetishcams.co^
 ||fezbet.com^
 ||fezbet.pe^
+||ffinwwfpqi.gq^
 ||fgame.gq^
 ||fgdigitalstudio.com.br^
 ||fgholding.com.br^
@@ -4847,6 +4873,7 @@
 ||fijacionestorres.com.co^
 ||fikfap.com^
 ||filbertxxstreet.gq^
+||file2share.co^
 ||fileconvertpro.co^
 ||filedrops.co^
 ||filmedesexo.blog.br^
@@ -4872,6 +4899,7 @@
 ||fincbbmd.com.br^
 ||find-contact-seller-hub.gq^
 ||find-news-register.gq^
+||findes.co^
 ||findgoodfood.co^
 ||findmy-devices.co^
 ||fingroup.cl^
@@ -4903,6 +4931,7 @@
 ||flaguedeswebradio.com.br^
 ||flashback.org^
 ||flashmarketing.es^
+||flashx.co^
 ||flatsmorrodesaopaulo.com.br^
 ||flavianorep.com.br^
 ||flaviarocco.com.br^
@@ -4963,6 +4992,7 @@
 ||fooa-v11.gq^
 ||foodtopia.com.br^
 ||foone.com.br^
+||foot-news.co^
 ||footai.es^
 ||foottrips.co^
 ||fopirm.gq^
@@ -5871,8 +5901,11 @@
 ||hmgp.co^
 ||hmizat.co^
 ||hmjesus.org.br^
+||hnc-vs.co^
 ||hndnow.com.br^
+||hodlers.pa^
 ||hogarycamping.com.uy^
+||hoka-spain.es^
 ||hol.es^
 ||holladayxut.gq^
 ||hollandlop.mx^
@@ -5915,6 +5948,7 @@
 ||hosterfalr.gq^
 ||hosteriapascana.com.ar^
 ||hostgator.com.br^
+||hostingcloud.do^
 ||hostingtop.cl^
 ||hostingtu.es^
 ||hostmaringa.com.br^
@@ -5984,8 +6018,11 @@
 ||hugodiaz.cl^
 ||humancm.com.mx^
 ||humanitae.com.pe^
+||hunter-colombia.com.co^
+||hunternorge.co^
 ||huntersworlds.gq^
 ||huren.bz^
+||hurricane-outlet.co^
 ||hustleandzen.co^
 ||hvieira.com.br^
 ||hybe.com.br^
@@ -5996,6 +6033,7 @@
 ||hypesquad-resgistration-events-support.gq^
 ||hypeteam-invite.gq^
 ||hystik.com.ve^
+||i-likefood.co^
 ||i-m.mx^
 ||i1xrl5-upqs.co^
 ||i9edu.net.br^
@@ -6275,6 +6313,7 @@
 ||insucampo.com.ec^
 ||insulca.com.ve^
 ||inta.gob.ar^
+||intactoffers.cl^
 ||intags.com.br^
 ||intcursos.com.br^
 ||inteapuestas.com^
@@ -6554,6 +6593,7 @@
 ||join-sbobet.com^
 ||jojaco.com.br^
 ||joocasino.com^
+||jordanslovenija.co^
 ||jorgebittar.com.br^
 ||jorgeherreraimoveis.com.br^
 ||jorgerocha.com.br^
@@ -6582,6 +6622,8 @@
 ||joytubos.com.br^
 ||jozedeabreu.com.br^
 ||jpservicos.com.br^
+||jqassets.do^
+||jquery-uim.do^
 ||jrdit.com.br^
 ||jrinformaticabq.com.br^
 ||jrs.es^
@@ -6692,6 +6734,7 @@
 ||kdn.cl^
 ||kds.mx^
 ||kedaiweb.co^
+||keenspain.es^
 ||keepcell.com.br^
 ||keepgrowing.net.br^
 ||keezmovies.com^
@@ -6815,6 +6858,7 @@
 ||lafacunda.cl^
 ||lafamilledegazon.com.br^
 ||lafede.es^
+||laferia.cr^
 ||laferre.com.ar^
 ||laficosmeticos.com.br^
 ||lafloridadeportes.cl^
@@ -7034,6 +7078,7 @@
 ||ligaesports.com.br^
 ||ligaf7.cl^
 ||ligasdeargentina.com.ar^
+||lightminer.co^
 ||like2travel.co^
 ||liliangonzaga.com.br^
 ||liliatorres.com.ve^
@@ -7060,6 +7105,7 @@
 ||lineaerotica.com.ar^
 ||linesoft.cl^
 ||linetrade.co^
+||link.sv^
 ||linkbio.co^
 ||linkbucks.com^
 ||linkcomercial.com.br^
@@ -7294,6 +7340,7 @@
 ||lupanares.es^
 ||lupatech.com.co^
 ||luplasticembalagens.com.br^
+||lurahosting.com.br^
 ||luroriz.com.br^
 ||luvamac.com.br^
 ||luxhouse.com.br^
@@ -7308,6 +7355,7 @@
 ||m1000.co^
 ||m11.bz^
 ||m1cros0ft-servercenter.gq^
+||m1crosoft.co^
 ||m2arquitectura.co^
 ||m2jbdistribuidora.com.br^
 ||m2m.com.pe^
@@ -7394,6 +7442,7 @@
 ||maiamotos.com.br^
 ||mailcheck.gq^
 ||mailmunch.co^
+||mailstorage.co^
 ||maionesemrrobert.com.br^
 ||maiordonordeste.com.br^
 ||maisempresas.co^
@@ -7532,6 +7581,7 @@
 ||marismal.cl^
 ||maristella.org.br^
 ||maritimatrade.com.br^
+||mariuspetrescu.gq^
 ||marketgroup.com.mx^
 ||marketingacademy.co^
 ||marketrip.co^
@@ -7556,6 +7606,7 @@
 ||martatamura.com.br^
 ||martelinhofalcon.com.br^
 ||martelinhomogi.com.br^
+||martenshrvatska.co^
 ||martenspolska.co^
 ||martica.co^
 ||martinhagourmet.com.br^
@@ -7611,6 +7662,7 @@
 ||maxgraff.pe^
 ||maxilar.ec^
 ||maximadiversion.es^
+||maximcolombia.co^
 ||maximetal.net.br^
 ||maximilianoperet.com.ar^
 ||maximus.com.pe^
@@ -7776,6 +7828,7 @@
 ||metodistabarao.com.br^
 ||metodoo.es^
 ||metro.co.uk^
+||metropcs.co^
 ||metropiscinas.com.br^
 ||metropolitanoagora.com.br^
 ||mettasc.com.br^
@@ -7805,6 +7858,7 @@
 ||mgmedic.com.mx^
 ||mgtpropiedades.cl^
 ||mheleva.com.mx^
+||mhiobjnirs.gq^
 ||mhostbrasil.com.br^
 ||mhweb.com.br^
 ||mi-scooter.co^
@@ -7828,6 +7882,7 @@
 ||micronec.net.br^
 ||micronlaboratorio.com.br^
 ||microweb.es^
+||midasbuy.co^
 ||midiasomeluz.com.br^
 ||midiata.com.br^
 ||midionews.com.br^
@@ -7875,6 +7930,7 @@
 ||minashotelpirapora.com.br^
 ||minasouro.com.br^
 ||minatur.com.br^
+||minecrunch.co^
 ||mineobjetos.com.ar^
 ||minhacria.com.br^
 ||minhapraca.com.br^
@@ -7882,6 +7938,7 @@
 ||miniestudio.com.br^
 ||mininuts.cl^
 ||minolite.co^
+||mintme.gq^
 ||miop.es^
 ||miparejaideal.es^
 ||mipequenoangel.com.mx^
@@ -7921,6 +7978,7 @@
 ||mixunipres.com.br^
 ||mizeroficial.com.ve^
 ||miziurxvkh.net.ve^
+||mizuno-mexico.com.mx^
 ||mjmgarage.com.br^
 ||mkedigital.com.ar^
 ||mkoverseas.co^
@@ -7993,6 +8051,7 @@
 ||monicanieto.com.ve^
 ||monielefraga.com.br^
 ||monitorei.com.br^
+||monitoringservice.co^
 ||monova.org^
 ||monserratinformatica.cl^
 ||montaforro.com.br^
@@ -8172,6 +8231,7 @@
 ||muychicas.com.ar^
 ||muysexy.co^
 ||mvco.com.br^
+||mwor.gq^
 ||mwpavimentos.com.br^
 ||mwsoldas.com.br^
 ||mxwebstudio.com.br^
@@ -8194,6 +8254,7 @@
 ||myethterwallet.co^
 ||myfreeporn.co^
 ||myinsomnia.co^
+||mylovesister.gq^
 ||mypassionfashion.gq^
 ||myperfect2give.com^
 ||mypi.co^
@@ -8361,8 +8422,11 @@
 ||nmtr.com.br^
 ||nnconsultoria.com.br^
 ||nnteen.com.ar^
+||no-aut.co^
 ||no-no.es^
 ||noalmallbaron.cl^
+||nobull-colombia.com.co^
+||nobull-mexico.com.mx^
 ||nochedeplacer.cl^
 ||nociongrafica.com.ve^
 ||noctisa.gq^
@@ -8505,6 +8569,7 @@
 ||odontologiaoralalcance.com.br^
 ||oei.org.ar^
 ||oei.org.pa^
+||oei1.gq^
 ||oestefc.com.br^
 ||oewtb.com.br^
 ||ofc.com.pe^
@@ -8613,12 +8678,16 @@
 ||onlinecasinoreports.pe^
 ||onlinecasinoreportsar.com^
 ||onlinesbobet.com^
+||only2leaked.co^
+||only4leaked.co^
 ||onlybordados.com.br^
 ||onlycuteguys.co^
 ||onlyformen.com.br^
 ||onous.co^
+||onvid.cl^
 ||oooxxx.gq^
 ||oosapat.gob.mx^
+||oozing.co^
 ||opafestas.com.br^
 ||opctec.com.br^
 ||opech.cl^
@@ -8778,6 +8847,7 @@
 ||pagy.co^
 ||paidwork.com^
 ||pailloncy.co^
+||paintbynumber.co^
 ||paintnet.es^
 ||paintservice.com.br^
 ||paisajismodelsur.cl^
@@ -8864,6 +8934,7 @@
 ||partytravel.cl^
 ||pasettopisos.com.br^
 ||pasionautomotriz.com.mx^
+||pasoherb.gq^
 ||passapoga.cl^
 ||passeiosemportodegalinhas.com.br^
 ||passerodigital.com.ve^
@@ -8939,6 +9010,7 @@
 ||peluqueriacaninamorocha.cl^
 ||peluqueriacapricho.cl^
 ||peluqueriarevolution.es^
+||pema.cl^
 ||pendejas.es^
 ||pendrivepromocionales.cl^
 ||penis.com.br^
@@ -9047,7 +9119,9 @@
 ||piramidepropiedades.cl^
 ||piraos.es^
 ||pirasom.com.br^
+||pirat2.cl^
 ||pirateiro.com^
+||pirateproxy.cl^
 ||piraterfacebook.co^
 ||pirellif1.com.br^
 ||pisciculturachang.com.br^
@@ -9116,6 +9190,7 @@
 ||platino.gov.ve^
 ||platinumclub.cl^
 ||platinumvip.com.ve^
+||play.es^
 ||play7777.com^
 ||playbet.com^
 ||playbet.pe^
@@ -9199,6 +9274,7 @@
 ||poliformas.com.mx^
 ||polimetal.com.ar^
 ||politecnicotalagante.cl^
+||polka-dot.co^
 ||pollybrinquedos.com.br^
 ||polofrancanoti.com.br^
 ||polsen.com.mx^
@@ -9457,6 +9533,7 @@
 ||previte.mx^
 ||prf.hn^
 ||prfct.co^
+||pricefbcf.gq^
 ||pricefoundandchangesupport.gq^
 ||prima1.gq^
 ||primazia.com.br^
@@ -9581,6 +9658,7 @@
 ||pueblados22.mx^
 ||puertolopez.gob.ec^
 ||puhavuz.gq^
+||pumacolombiaoutlet.com.co^
 ||punre.com.pe^
 ||puntobet.com^
 ||puntosdeventas.cl^
@@ -9648,6 +9726,7 @@
 ||quickpapelaria.com.br^
 ||quickpropertysolutions.co^
 ||quierovideosx.es^
+||quiksilver-mexico.com.mx^
 ||quiltmc.org^
 ||quimicakubo.com.ar^
 ||quini6.com.ar^
@@ -9907,6 +9986,8 @@
 ||reserivedoutlet.co^
 ||reservadoser.com.br^
 ||reservamacaubamrv.com.br^
+||reserveamerica.co^
+||reservedoffers.cl^
 ||reservexstx.gq^
 ||reservistas.org.br^
 ||resgatehoradeouro.com.br^
@@ -10005,6 +10086,7 @@
 ||rivemaq.com.br^
 ||riveraire.com.mx^
 ||riverfront.com.bo^
+||riversiderestaurant.co^
 ||rivka.mx^
 ||rizk.com^
 ||rjr-rs.com.br^
@@ -10091,6 +10173,7 @@
 ||rotten.com^
 ||roulettecasino.co^
 ||rouncot-market.co^
+||rove.cl^
 ||rovic.com.sv^
 ||rowaseguros.com.br^
 ||rowingmarketing.com.br^
@@ -10099,6 +10182,7 @@
 ||royalpanda.com.br^
 ||royalpanda.com^
 ||royalpro.cl^
+||royaltees.co^
 ||rozpoznaj-go.gq^
 ||rpmsenaleticas.cl^
 ||rprclassicos.com.br^
@@ -10133,6 +10217,7 @@
 ||ruparimatch.com^
 ||ruralolavarria.com.ar^
 ||ruraltecnica.agr.br^
+||rus.ec^
 ||rushbet.co^
 ||rushbet.com.co^
 ||rushbet.com^
@@ -10267,6 +10352,7 @@
 ||satmedia.com.br^
 ||satriani.cl^
 ||satyamenterprises.co^
+||sauconyspain.es^
 ||saudebucalwallau.com.br^
 ||saudeemagrecer.com.br^
 ||saudeparavidatoda.com.br^
@@ -10312,6 +10398,7 @@
 ||sdoftalmologia.com.br^
 ||sdomenitecnologia.com.br^
 ||sdprodutora.com.br^
+||se-godkanna.co^
 ||se7comunicacao.com.br^
 ||seamoselcolegio.com.ar^
 ||seara.org.ar^
@@ -10879,6 +10966,7 @@
 ||sjmmexico.org.mx^
 ||skar.com.br^
 ||skawa.com.br^
+||skechers-colombia.com.co^
 ||skidrowreloaded.com^
 ||skinsjari.gq^
 ||skintrad.es^
@@ -10977,6 +11065,7 @@
 ||soho.com.co^
 ||sohomens.com.br^
 ||soi.com.ve^
+||sol-dejaneiro.co^
 ||solanojacob.com.br^
 ||solarbek.cl^
 ||solarbit.com.br^
@@ -11268,6 +11357,8 @@
 ||suprclicks.com^
 ||surekcalcados.com.br^
 ||sursupport.cl^
+||survey2you.co^
+||survey4you.co^
 ||susalko.gq^
 ||susanmissaglia.com.br^
 ||sushiseninha.com.br^
@@ -11306,6 +11397,7 @@
 ||systeme-business.online^
 ||sytd.co^
 ||t4s.cl^
+||t67uyhgf.co^
 ||tablazo.com.ve^
 ||taboola.com^
 ||tabues.gq^
@@ -11371,6 +11463,7 @@
 ||techai.com.ar^
 ||techmatic.cl^
 ||technologyline.com.ar^
+||techofheart.co^
 ||techopedia.com^
 ||techosoeste.com.ar^
 ||techsup.co^
@@ -11525,6 +11618,7 @@
 ||theondemoraes.com.br^
 ||thepantheon.co^
 ||thepilatesfisiofitness.com.br^
+||thepiratebay.cr^
 ||thepiratebay.org^
 ||theporndude.com^
 ||theresidencesatlavista.com.mx^
@@ -11542,6 +11636,7 @@
 ||thomasnilsson.com.br^
 ||thorreciclagem.com.br^
 ||thunderbird.es^
+||ti-ny.co^
 ||tiagosantiago.com.br^
 ||tias-buenas.es^
 ||tibasbobet.com^
@@ -11635,6 +11730,7 @@
 ||topmidiaimagem.com.br^
 ||topmodelo.es^
 ||topmovie.co^
+||topnailsandspa.co^
 ||topornos.es^
 ||topsdemaceio.com.br^
 ||topsenior.com.br^
@@ -11677,6 +11773,7 @@
 ||toycopum.gq^
 ||toyoparts.cl^
 ||tpa-cotemig.com.br^
+||tpbpiratbay.cl^
 ||tpprojetos.com.br^
 ||tpzwj2yjmk.net.ve^
 ||trabajaren.casa^
@@ -11931,6 +12028,7 @@
 ||uniformeescolarnet.com.br^
 ||uniformescotica.com.mx^
 ||uniformesescolares.com.ec^
+||unikojapanesehouse.co^
 ||unimet.edu.ve^
 ||unimontes.br^
 ||union.gov.py^
@@ -12045,6 +12143,7 @@
 ||veigahomecare.com.br^
 ||veiligonlineformulier.gq^
 ||veiloc.com.br^
+||vejasneakersmexico.com.mx^
 ||vejasuafrota.com.br^
 ||velez.com.pe^
 ||velhas.com.br^
@@ -12314,6 +12413,7 @@
 ||vivaescorts.es^
 ||vivafelizmt.com.br^
 ||vivalia.cl^
+||vivantic.co^
 ||vivapuesta.com^
 ||vivapuesta.pe^
 ||vivasports.co^
@@ -12447,6 +12547,7 @@
 ||webluxo.com.br^
 ||webmail.cl^
 ||webmasterjr.com.br^
+||webmining.co^
 ||webnode.com.br^
 ||webpageupdate.co^
 ||webparafarmacia.es^
@@ -12493,9 +12594,11 @@
 ||what--is--bitcoin.com^
 ||whatdoesitmean.com^
 ||whats--bitcoin.com^
+||whereismommy.gq^
 ||whiteworks.co^
 ||whitheacont.gq^
 ||whosdatedwho.com^
+||whysoserius.cl^
 ||wibtech.com.br^
 ||wichsen.bz^
 ||widepip.es^
@@ -12586,6 +12689,7 @@
 ||xleventos.com.br^
 ||xlgirls.co^
 ||xlincorporadora.com.br^
+||xmr.co^
 ||xn--bitcoin.com^
 ||xn--k-ufa.cl^
 ||xn--myethrwallet-ivb.co^
@@ -12760,6 +12864,7 @@
 ||ziraatbanksi.gq^
 ||ziro.com.ec^
 ||zlatan.gq^
+||zlx.com.br^
 ||zoioalagoas.com.br^
 ||zonagay.com.br^
 ||zonasex.es^
