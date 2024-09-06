@@ -1,8 +1,8 @@
-# total dominios bloqueados: 12896
+# total dominios bloqueados: 12903
 # https://github.com/kveld9/latam-hosts
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en latinoamérica.
 # este archivo bloquea dominios phishing, fake news, apuestas, pornografía.
-# elaboración: 2024-09-03 21:14:18
+# elaboración: 2024-09-06 16:05:12
 ###################
 ||000.pe^
 ||001bahisnow.com^
@@ -3730,6 +3730,7 @@
 ||descargadvd.es^
 ||descargar1.es^
 ||descargarpokerstars.com^
+||descargartelelatino.app^
 ||descargartrap.com.ve^
 ||descargarvideoporno.com.ar^
 ||descargaxxx.es^
@@ -7425,6 +7426,7 @@
 ||magistvapp.app^
 ||magistvapps.com^
 ||magistvcostarica.net^
+||magistvecuador.app^
 ||magistvinternational.com^
 ||magistvla.com^
 ||magistvlatin.com^
@@ -7435,6 +7437,7 @@
 ||magistvonline.com^
 ||magistvplus.com^
 ||magistvs.app^
+||magistvvt.com^
 ||magistvx.com^
 ||magnapropiedades.cl^
 ||magnetdl.com^
@@ -7457,6 +7460,7 @@
 ||maladir.com.br^
 ||malagatour.es^
 ||malakh.cl^
+||malavida.com^
 ||male-celebs-naked.co^
 ||malicia.com.br^
 ||malicious-site.com^
@@ -11517,6 +11521,7 @@
 ||tekctronicsme.gq^
 ||tekinoglouxer.gq^
 ||tele-latino.net^
+||tele-latino.org^
 ||telecinco.es^
 ||telectronica.com.uy^
 ||telefonica.com.br^
@@ -11908,6 +11913,7 @@
 ||tuimpresion3d.com.ve^
 ||tukofertas.com.br^
 ||tulontintas.com.br^
+||tumblr.com^
 ||tumejorperfume.es^
 ||tuminita.cl^
 ||tumotoexpress.cl^
@@ -12497,6 +12503,7 @@
 ||wcs.com.br^
 ||wdantas.com.br^
 ||wdfl.co^
+||we-stats.com^
 ||we360.com.br^
 ||we6nd56ukm.net.ve^
 ||wea.com.ec^
