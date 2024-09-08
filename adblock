@@ -1,4 +1,4 @@
-# total dominios bloqueados: 21815
+# total dominios bloqueados: 21814
 # https://github.com/kveld9/latam-hosts
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en latinoamérica.
 # este archivo bloquea dominios phishing, fake news, apuestas, pornografía.
@@ -6287,7 +6287,6 @@
 ||dotomi.com^
 ||dottochateau.com.br^
 ||doubaake.co^
-||doubleclick.net^
 ||doublejump.co^
 ||douga.bz^
 ||douglasfigueiredo.com.br^
