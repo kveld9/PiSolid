@@ -1,8 +1,8 @@
-# total dominios bloqueados: 21814
+# total dominios bloqueados: 21840
 # https://github.com/kveld9/latam-hosts
 # proyecto creado con la finalidad de aumentar la seguridad en la navegación en latinoamérica.
 # este archivo bloquea dominios phishing, fake news, apuestas, pornografía.
-# elaboración: 2024-09-08 12:38:28
+# elaboración: 2024-09-08 13:02:38
 ###################
 ||000.pe^
 ||001bahisnow.com^
@@ -762,6 +762,7 @@
 ||academiadeapuestasargentina.com^
 ||academiadeapuestascolombia.com^
 ||academiadeapuestaslatam.com^
+||academiadeapuestasmexico.com^
 ||academiaforense.edu.mx^
 ||academiameta.com.br^
 ||academiamonster.com.br^
@@ -1328,6 +1329,7 @@
 ||allaclub.com.br^
 ||allanuncios.com.co^
 ||allatacadista.com.br^
+||allbestapps.es^
 ||allbet-vip.co^
 ||allcasinobet.co^
 ||allconsultores.com.br^
@@ -1701,6 +1703,7 @@
 ||apefs.org.br^
 ||apelaez.com.ar^
 ||apenpet.gq^
+||apestasdeportivasranking.mx^
 ||apexintl.co^
 ||apexslot.co^
 ||aphpresyb.gq^
@@ -1724,6 +1727,7 @@
 ||apostarargentina.com^
 ||apostarcolombia.com^
 ||apostarenargentina.com^
+||apostarenlinea.cl^
 ||apostarperu.pe^
 ||apostas-esportivas.com^
 ||apostilaconcursos.net.br^
@@ -1771,6 +1775,7 @@
 ||aptra.mx^
 ||apuba.org.ar^
 ||apuesta-argentina.com^
+||apuesta-deportiva.mx^
 ||apuesta.com.uy^
 ||apuesta.com^
 ||apuesta.mx^
@@ -1802,6 +1807,7 @@
 ||apuestas-deportivas.net^
 ||apuestas-deportivas.org^
 ||apuestas-deportivas.pe^
+||apuestas.cl^
 ||apuestas.com.co^
 ||apuestas.com.ve^
 ||apuestas.com^
@@ -1814,6 +1820,7 @@
 ||apuestasargentinas.com^
 ||apuestascasinos.cl^
 ||apuestasclub.com^
+||apuestasdeportivas.com.es^
 ||apuestasdeportivas.com^
 ||apuestasdeportivas.pe^
 ||apuestasdeportivas24.com^
@@ -1825,10 +1832,12 @@
 ||apuestasdolares.com^
 ||apuestasenlinea.co^
 ||apuestasenlineachile.cl^
+||apuestasfree.com^
 ||apuestasgana.com^
 ||apuestasganadas.com^
 ||apuestasganagol.pe^
 ||apuestashouse2.com^
+||apuestaslegales.co^
 ||apuestasonline.com.ve^
 ||apuestasonline.com^
 ||apuestasonline.mx^
@@ -1838,6 +1847,7 @@
 ||apuestatotal.com.ar^
 ||apuestatotal.com^
 ||apuestatotal.pe^
+||apuestivas.com.ar^
 ||apuestivas.com.ec^
 ||apuestivas.com.pa^
 ||apuestivas.com^
@@ -2781,6 +2791,7 @@
 ||betonline.ag^
 ||betonline.com^
 ||betorampazzo.com.br^
+||betpack.mx^
 ||betplace88.co^
 ||betplay.co^
 ||betplay.com.co^
@@ -2827,6 +2838,7 @@
 ||betstars.pe^
 ||betstarve.com^
 ||betsubarabakery.es^
+||betsuites.com^
 ||betsul.com^
 ||betsul.pe^
 ||bettaecia.com.br^
@@ -2853,6 +2865,7 @@
 ||betway.ec^
 ||betway.es^
 ||betway.it^
+||betway.mx^
 ||betway.pe^
 ||betwayarg.com^
 ||betwayargentina.com.ar^
@@ -3194,6 +3207,8 @@
 ||bonus-pl.co^
 ||bonus138c.co^
 ||bonusbitcoin.co^
+||bonusfinder.cl^
+||bonusfinder.com^
 ||bonusmais.com.br^
 ||bonussuper.com.br^
 ||boobs.bz^
@@ -3892,6 +3907,7 @@
 ||casasdeapuestas-colombia.com^
 ||casasdeapuestas.bet^
 ||casasdeapuestas.com^
+||casasdeapuestas360.es^
 ||casasdeapuestasonline.net^
 ||casasdecampocachoeira.com.br^
 ||casasdepasyterrenos.mx^
@@ -3924,6 +3940,7 @@
 ||casino-uden-rofus.co^
 ||casino-x.com^
 ||casino.mx^
+||casino.org^
 ||casino132.co^
 ||casino2rich.co^
 ||casino33.co^
@@ -4918,6 +4935,7 @@
 ||compareplanosbr.com.br^
 ||comparepromocao.com.br^
 ||compensarenlinea.co^
+||competize.com^
 ||complejoalcampo.com.ar^
 ||comprabomix.com.br^
 ||comprabr01.com.br^
@@ -5555,6 +5573,7 @@
 ||dakota76.co^
 ||dalapagarapa.com.br^
 ||dalbatec.com.br^
+||dalealbo.cl^
 ||dalmaalimentos.com.br^
 ||dalpozzo.cl^
 ||damariscosmeticos.com.br^
@@ -8071,11 +8090,13 @@
 ||fusiontrade.co^
 ||fusionvirtual.com.br^
 ||futaleufupc.cl^
+||futbol-apostar.com^
 ||futbol5donjuan.com.ar^
 ||futbolbet.com^
 ||futbolbet.mx^
 ||futbolbet.pe^
 ||futbolpremium.es^
+||futbolpronosticos.com^
 ||futboltotal.com.ar^
 ||futbolyapuestasonline.com^
 ||futdados.com^
@@ -8162,6 +8183,7 @@
 ||gambale.com.br^
 ||gambet.com^
 ||gambleonline.co^
+||gambling.com^
 ||gamblingngo.com^
 ||game69.co^
 ||gamebookers.com^
@@ -11141,6 +11163,7 @@
 ||lambo2024.co^
 ||lambo388aman.co^
 ||lamega99.com.ar^
+||lamejorcasadeapuestas.es^
 ||lameme.es^
 ||lamicafotografia.com.br^
 ||lamigal.com.ve^
@@ -14129,6 +14152,7 @@
 ||oddschecker.com^
 ||oddsjet.com^
 ||oddsring.com^
+||oddsshark.com^
 ||odiamelhor.com.br^
 ||odin4d.co^
 ||odmardern.gq^
@@ -16014,6 +16038,7 @@
 ||pron.co^
 ||pronatchile.cl^
 ||pronosticadores-deportivos.com^
+||pronosticosfutbol365.com^
 ||pronoxxx.com.mx^
 ||prontary.com.br^
 ||prontoalimento.com.py^
@@ -18850,6 +18875,7 @@
 ||stq20.com.ar^
 ||str8-creative.co^
 ||stracking.com.br^
+||strafe.com^
 ||straitjacket.co^
 ||strangesodium.co^
 ||strategicbh.gq^
