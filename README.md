@@ -18,8 +18,9 @@ El enfoque de este proyecto es específico para Latinoamérica, ya que muchos pr
 
 ## ¿Cómo se utiliza?
 
-El formato de bloqueo de dominios en AdBlock permite el bloqueo de dominios específicos, anulando el acceso a todos sus subdominios a la vez. 
-Es posibles utilizarlo en distintos softwares, entre ellos, Pi-Hole, AdGuard, AdGuard Home, Technitium, etc. Además, se puede utilizar en cualquier navegador que soporte el formato AdBlock, así como extensiones tales como AdBlock o uBlock Origin. Lo más probable, es que debas otorgar la URL del archivo "adblock" en formato RAW, para que estos softwares o extensiones pueden utilizarlo correctamente.
+El formato de bloqueo de dominios en AdBlock permite filtrar contenido al bloquear dominios específicos y, por ende, sus subdominios asociados de manera efectiva. Esta técnica es compatible con una amplia gama de softwares y herramientas de filtrado de anuncios, incluyendo Pi-Hole, AdGuard, AdGuard Home, y Technitium, entre otros. Además, este formato se puede utilizar en navegadores que admiten listas de bloqueo basadas en el formato AdBlock, como en las extensiones AdBlock o uBlock Origin.
+
+Para que estos softwares o extensiones puedan aplicar correctamente las reglas de bloqueo, es crucial proporcionar la URL del archivo en formato RAW. Este archivo debe estar accesible en línea para que pueda ser leído y procesado por las herramientas mencionadas, permitiendo así un control exhaustivo sobre los contenidos bloqueados y mejorando la experiencia de navegación al minimizar las interrupciones causadas por anuncios no deseados.
 
 ## Contribuciones
 
