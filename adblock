@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 24994.
+! Number of entries: 25035.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-09-09 23:35:34 UTC.
+! Last modified: 2024-09-10 00:31:57 UTC.
 !
 ||000.pe^
 ||0069sexshop.com.ar^
@@ -34,6 +34,7 @@
 ||100porcentoweb.com.br^
 ||100x100argentinas.com.ar^
 ||101loginsumo.co^
+||10ahora.com.ar^
 ||10bet.com^
 ||10brasil.net.br^
 ||10errorxxx.gq^
@@ -591,6 +592,7 @@
 ||aabbcc.gq^
 ||aadnotasfiscais.com.br^
 ||aadu.gq^
+||aangon.com^
 ||aapresid.org.ar^
 ||aarif.co^
 ||aarp.com^
@@ -637,6 +639,7 @@
 ||abpferidas.org.br^
 ||abraji.org.br^
 ||abrdindia.co^
+||abseits.at^
 ||absex.cl^
 ||absoluporn.es^
 ||absurdle.co^
@@ -1916,6 +1919,7 @@
 ||apuestalegal.py^
 ||apuestalegal.uy^
 ||apuestalegal.ve^
+||apuestalegalchile.com^
 ||apuestalibre.ar^
 ||apuestalibre.bo^
 ||apuestalibre.br^
@@ -2063,6 +2067,7 @@
 ||apuestasonline.ec^
 ||apuestasonline.es^
 ||apuestasonline.mx^
+||apuestasonline.net^
 ||apuestasonline.pa^
 ||apuestasonline.pe^
 ||apuestasonline.py^
@@ -2313,6 +2318,7 @@
 ||asatechw.gq^
 ||ascensoresaltura.cl^
 ||ascensoresandes.cl^
+||asciendemas.com^
 ||ascipam.com.br^
 ||ascofame.org.co^
 ||ascorfin.org.br^
@@ -2547,6 +2553,7 @@
 ||avpornhd.co^
 ||avpqsnyw5.gq^
 ||avs.com.pe^
+||avvetsupplies.com^
 ||avxxxhd.co^
 ||aw8live.co^
 ||awala.com.ar^
@@ -5527,6 +5534,7 @@
 ||casaviac.com.mx^
 ||casaweb.com.ve^
 ||cascavelsexy.com.br^
+||casefilegame.com^
 ||caseid.co^
 ||caseimeamarrei.com.br^
 ||caserascalientes.com.ar^
@@ -5555,6 +5563,7 @@
 ||casino.br^
 ||casino.cl^
 ||casino.co^
+||casino.com^
 ||casino.ec^
 ||casino.es^
 ||casino.mx^
@@ -6583,6 +6592,7 @@
 ||coinpapers.co^
 ||coinpot.co^
 ||coinswitch.co^
+||cointelegraph.com^
 ||coisasdemenininha.com.br^
 ||cojinesortopedicos.com.mx^
 ||coktogelvip3.co^
@@ -6961,6 +6971,7 @@
 ||coolbet.com^
 ||coolbet.mx^
 ||coolbet.pe^
+||coolbetchile.com^
 ||coolkidspage.com.es^
 ||coolkidsplace.com.es^
 ||coolkidsread.com.es^
@@ -7249,11 +7260,13 @@
 ||cuanhabis2.co^
 ||cuansiana.co^
 ||cuanticaservice.com.ar^
+||cuatroarquitectos.com^
 ||cubakub.co^
 ||cubaworts.gq^
 ||cuc.ac.cr^
 ||cuckold.bz^
 ||cucksessions.co^
+||cuentalatambora.com^
 ||cuentasempresariales.com.co^
 ||cuentasenlinea.com.mx^
 ||cuentosdesexo.com.ar^
@@ -7843,6 +7856,7 @@
 ||diariodetoluca.mx^
 ||diariodoinvestidoramador.com.br^
 ||diariodosertao.com.br^
+||diariolasnoticias.com^
 ||diariopenedense.com.br^
 ||diarreas.es^
 ||diazyquirini.com.ar^
@@ -8439,6 +8453,7 @@
 ||ecpox.gq^
 ||ecrm.cl^
 ||ectahous.co^
+||ecuabet.com^
 ||ecunflec.gq^
 ||edarling.es^
 ||edarmotopartes.com.ar^
@@ -8496,6 +8511,7 @@
 ||efortuny.es^
 ||eftura.gq^
 ||efvvigilantes.com.br^
+||egamersworld.com^
 ||egbertomiranda.adv.br^
 ||egenes.gq^
 ||egentic.com.br^
@@ -8545,6 +8561,7 @@
 ||elcatador.pe^
 ||elcofredeldinero.com^
 ||elconeo.co^
+||elconfidencialdigital.com^
 ||elcorreogallego.es^
 ||eldepornauta.com.ar^
 ||eldertec.com.ar^
@@ -9192,6 +9209,7 @@
 ||etze.com.ar^
 ||eucasinos.co^
 ||eufinancas.com.br^
+||eugamblers.org^
 ||eugenio.com.br^
 ||eugostodevoce.blog.br^
 ||eumeinteresso.com.br^
@@ -10272,6 +10290,7 @@
 ||gandatokek.co^
 ||gandibet.com.ar^
 ||ganedemmudas.com.br^
+||gangabet.com^
 ||ganhardinheirocompesquisas.net.br^
 ||ganhemax.com.br^
 ||gap89.cl^
@@ -10690,6 +10709,7 @@
 ||goldruncasino.com.br^
 ||goldwelgl.gq^
 ||golfoam.co^
+||golfperalada.com^
 ||golfspecialoffer.com.es^
 ||golfview.com.do^
 ||golostria.gq^
@@ -11699,6 +11719,7 @@
 ||i-m.mx^
 ||i1xrl5-upqs.co^
 ||i2tech.co^
+||i4u.com^
 ||i8vn.co^
 ||i998.co^
 ||i9bet.co^
@@ -12100,6 +12121,7 @@
 ||informationsecurity.co^
 ||informativoamil.com.br^
 ||informativobradesco1.com.br^
+||informativogoldfields.com^
 ||informativolhar.com.br^
 ||informativopira.com.br^
 ||informativourgente.com.br^
@@ -12454,6 +12476,7 @@
 ||iure.com.ar^
 ||iusacell-movil.com.mx^
 ||iusdt.co^
+||iusport.com^
 ||ivaicompras.com.br^
 ||ivaniarosa.com.br^
 ||ivankisic.pe^
@@ -12774,6 +12797,7 @@
 ||jorgeherreraimoveis.com.br^
 ||jorgerocha.com.br^
 ||jorgeschneider.com.br^
+||jornadaperfecta.com^
 ||jornalcidadesonline.com.br^
 ||jornaldainstalacao.com.br^
 ||jornaldaregiaosudeste.com.br^
@@ -14844,6 +14868,7 @@
 ||master500.com.br^
 ||masterbebedouro.com.br^
 ||masterbets365-ar.com^
+||masterbets365.com^
 ||masterbom.gq^
 ||mastercap.es^
 ||mastercon.com.br^
@@ -15530,6 +15555,7 @@
 ||miscasasdeapuestas.br^
 ||miscasasdeapuestas.cl^
 ||miscasasdeapuestas.co^
+||miscasasdeapuestas.com^
 ||miscasasdeapuestas.ec^
 ||miscasasdeapuestas.es^
 ||miscasasdeapuestas.mx^
@@ -16136,6 +16162,7 @@
 ||napsis.cl^
 ||narcstudio.co^
 ||narrow-humble.gq^
+||narrow.io^
 ||nasa4d008.co^
 ||nasa4d888.co^
 ||nasa4ddepo.co^
@@ -16537,6 +16564,7 @@
 ||novavidasaude.com.br^
 ||novavita.cl^
 ||novelty.cl^
+||novibet.com^
 ||novibet.mx^
 ||novidadeavista.com.br^
 ||novidadeboa.com.br^
@@ -16690,6 +16718,7 @@
 ||oddschecker.br^
 ||oddschecker.cl^
 ||oddschecker.co^
+||oddschecker.com^
 ||oddschecker.ec^
 ||oddschecker.es^
 ||oddschecker.mx^
@@ -16698,6 +16727,7 @@
 ||oddschecker.py^
 ||oddschecker.uy^
 ||oddschecker.ve^
+||oddspedia.com^
 ||oddsring.com^
 ||oddsshark.ar^
 ||oddsshark.bo^
@@ -17536,6 +17566,7 @@
 ||pdvinformatica.com.br^
 ||peachy99.co^
 ||peaknext.co^
+||pearlsokc.com^
 ||pecadesconto.com.br^
 ||pecastratorvolvo.com.br^
 ||pecattus.com.br^
@@ -17616,6 +17647,7 @@
 ||penis.com.br^
 ||penisware.com^
 ||pennellstoe.gq^
+||penny-slot-machines.com^
 ||pensadoemvoce.com.br^
 ||pensamientoenred.com.ar^
 ||pentagol.ar^
@@ -18010,6 +18042,7 @@
 ||playtech.com.ar^
 ||playtoday.co^
 ||playtvchannel.com.br^
+||playuzu.bet.ar^
 ||plazaatlacomulco.com.mx^
 ||plazadeasis.mx^
 ||plazalasavenidas.com.mx^
@@ -18413,6 +18446,7 @@
 ||pousoreal.com.br^
 ||povarisan.com.co^
 ||povsis.com.co^
+||powchess.com^
 ||poweraspsuper.com.es^
 ||powerclean.pe^
 ||powercompras.com.br^
@@ -20099,6 +20133,7 @@
 ||satelitdhx4d.co^
 ||satelitkenzo.co^
 ||saten.es^
+||sativadistribuciones.com^
 ||satmedia.com.br^
 ||satria4dd.co^
 ||satriani.cl^
@@ -20178,6 +20213,7 @@
 ||scoota.co^
 ||scopi.com.br^
 ||scoreland.com.co^
+||scores24.live^
 ||scoretopic.es^
 ||scout1.co^
 ||scp.bz^
@@ -22604,6 +22640,7 @@
 ||tilehotel.com.br^
 ||tillerproject.co^
 ||tiltteexx.co^
+||time2play.com^
 ||timeness.co^
 ||timind.co^
 ||timur168login.co^
@@ -23523,12 +23560,14 @@
 ||vectagon.co^
 ||veeem.com.br^
 ||veelli.co^
+||veganocosmetics.com^
 ||vegasgroup.co^
 ||vegasgrup.co^
 ||vegashero.co^
 ||vegashoki138.co^
 ||vegasmobilecasino.com^
 ||vegaspools.co^
+||vegasslotsonline.com^
 ||vegaswinner.com^
 ||veibelda.gq^
 ||veigahomecare.com.br^
@@ -24451,6 +24490,7 @@
 ||winmm18.co^
 ||winmm19.co^
 ||winmusangwin.co^
+||winnder.com^
 ||winner7.co^
 ||winpot.co^
 ||winpot.com.mx^
@@ -24878,6 +24918,7 @@
 ||ywseu2.com.br^
 ||yzpcoygst.gq^
 ||z2i.co^
+||z97a.com^
 ||z9slot.co^
 ||zabbet1.co^
 ||zabelli.com.br^
