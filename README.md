@@ -30,8 +30,12 @@ Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a travé
 
 - **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/domnlatam)
 
+## Agradecimientos
+- Gracias a [xdL](https://github.com/xdLanee) por la colaboración en el diseño gráfico.
+- Gracias a [PiSolid-group](https://t.me/pisolid) por la colaboración en el reporte de dominios.
+
 ---
 
-¡Gracias por tu interés en mejorar la seguridad y privacidad en la web para Latinoamérica!
+## Licencia
 
----
+Este proyecto está bajo la licencia GNU General Public License v3.0. [Leer más](LICENSE).
