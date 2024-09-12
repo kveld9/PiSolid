@@ -1,5 +1,7 @@
 # PiSolid: aumenta la seguridad en internet.
 
+<img src="images/pisolid-banner.png" alt="banner" width="1000" height="300">
+
 ## ¿En qué consiste?
 
 Este proyecto consta de una serie de dominios bloqueados que fueron considerados inapropiados o inseguros.
