@@ -28,7 +28,7 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 
 Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a través del grupo de Telegram. Agradecemos cualquier ayuda para hacer de este proyecto una herramienta más efectiva para todos.
 
-- **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/domnlatam)
+- **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/pisolid)
 
 ## Agradecimientos
 - Gracias a [xdL](https://github.com/xdLanee) por la colaboración en el diseño gráfico.
