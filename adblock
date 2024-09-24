@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 31805.
+! Number of entries: 31911.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-09-24 02:30:57 UTC.
+! Last modified: 2024-09-24 17:01:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -39,6 +39,7 @@
 ||0ffice.ecomademadeiras.com.br^
 ||0hj.com.br^
 ||0xbitconnect.co^
+||1-win-casino-ar.com^
 ||10-naga.co^
 ||1000argentinas.com.ar^
 ||1000culos.com.ar^
@@ -168,6 +169,7 @@
 ||1videoporno.en.wanadoo.es^
 ||1win-argentina.ar^
 ||1win-bet.com.br^
+||1win-co.com.co^
 ||1win-mx.mx^
 ||1win.ar^
 ||1win.bo^
@@ -409,6 +411,7 @@
 ||34companysprt.gq^
 ||35555.gtavfreemoney.co^
 ||360sexshop.com.ar^
+||361981994950752.graficaaoquadrado.com.br^
 ||3648712.co^
 ||365.es^
 ||365sarana.co^
@@ -433,7 +436,6 @@
 ||3dproducts.com.ec^
 ||3e.cl^
 ||3errorxxx.gq^
-||3f807a17ba40c85c372fedea7f40a35d.crimachado.com.br^
 ||3mnengenharia.com.br^
 ||3ogs.com.ar^
 ||3plgroup.com.mx^
@@ -597,6 +599,7 @@
 ||7215648.co^
 ||74306841.co^
 ||745bf2291b446e4c456e.wwwcentrum24-pl.es^
+||748972244336547.graficaaoquadrado.com.br^
 ||74f26d34ffff049368a6cff8812f86ee.gq^
 ||7584-bcmidgtetrademarketing.gq^
 ||75aa7f0e.bcdashboards.com.br^
@@ -1290,6 +1293,7 @@
 ||agencia2042.com.br^
 ||agencia2056.com.br^
 ||agencia2062.com.br^
+||agenciaaltus.com.br^
 ||agenciaasgard.com.ve^
 ||agenciabbi.com.br^
 ||agenciacanzar.com.br^
@@ -5557,6 +5561,7 @@
 ||blackdelist.com.br^
 ||blackfridaypromo.net.br^
 ||blackhatsem.co^
+||blackjacksimulator.net^
 ||blacklinknowss.co^
 ||blackmagiccasino.co^
 ||blackout-walmart-2014.com.br^
@@ -6046,6 +6051,7 @@
 ||bplay.py^
 ||bplay.uy^
 ||bplay.ve^
+||bpstfi.crmexpert.co^
 ||bqfqdm96hrbxlo6cc9af.mafe.edu.co^
 ||bqmagazine.es^
 ||br400.hostgator.com.br^
@@ -6785,6 +6791,7 @@
 ||cardinalchile.cl^
 ||cardioflush.co^
 ||cardiologiapalermo.com.ar^
+||cardschat.com^
 ||cardubansse.gq^
 ||carecatour.com.br^
 ||caredo.co^
@@ -6971,6 +6978,7 @@
 ||casino-mar-del-plata.com.ar^
 ||casino-melbet.co^
 ||casino-midas.es^
+||casino-online-mexico.com.mx^
 ||casino-online24.cl^
 ||casino-th.co^
 ||casino-tiger.com.ar^
@@ -6995,11 +7003,13 @@
 ||casino.uy^
 ||casino.ve^
 ||casino132.co^
+||casino24.co^
 ||casino24.pe^
 ||casino2rich.co^
 ||casino33.co^
 ||casino777.com^
 ||casino777.es^
+||casinoalto.com^
 ||casinoar.com^
 ||casinoargentino.com^
 ||casinoatlanticcity.com^
@@ -7010,6 +7020,7 @@
 ||casinobet.com^
 ||casinobetflik.co^
 ||casinobets.co^
+||casinobillions.com^
 ||casinobitcoin.ar^
 ||casinobitcoin.bo^
 ||casinobitcoin.br^
@@ -7026,6 +7037,7 @@
 ||casinobitcoin.ve^
 ||casinoble.cl^
 ||casinoble.pe^
+||casinobonos.es^
 ||casinobonus.bz^
 ||casinobonus2.co^
 ||casinobrazil.ar^
@@ -7042,6 +7054,7 @@
 ||casinobrazil.py^
 ||casinobrazil.uy^
 ||casinobrazil.ve^
+||casinobuenosaires.com.ar^
 ||casinocaliente.com.mx^
 ||casinocards.co^
 ||casinocarrasco.com.uy^
@@ -7064,6 +7077,7 @@
 ||casinoclubonline.py^
 ||casinoclubonline.uy^
 ||casinoclubonline.ve^
+||casinocomparador.com^
 ||casinocore.co^
 ||casinodatabase.co^
 ||casinodemadrid.es^
@@ -7071,7 +7085,9 @@
 ||casinodesign.co^
 ||casinodinero.es^
 ||casinodirects.co^
+||casinoduende.com^
 ||casinoencasa.es^
+||casinoenchile.com^
 ||casinoenlinea.ar^
 ||casinoenlinea.bo^
 ||casinoenlinea.br^
@@ -7122,6 +7138,8 @@
 ||casinogolds.co^
 ||casinogranmadrid.es^
 ||casinogranmadridonline.es^
+||casinogratis.com.ar^
+||casinogratisonline.net^
 ||casinogratogana.es^
 ||casinogreen.co^
 ||casinoin.ar^
@@ -7138,24 +7156,32 @@
 ||casinoin.py^
 ||casinoin.uy^
 ||casinoin.ve^
+||casinojaguaronline.com^
 ||casinojokaclub.co^
+||casinojugador.com^
 ||casinolabs.co^
+||casinolat.com^
 ||casinolatinamerica.com^
 ||casinolight.co^
 ||casinologin.co^
 ||casinolust.co^
 ||casinomagic.com.ar^
 ||casinomagic.com^
+||casinomagiconline.bet.ar^
 ||casinomark.co^
 ||casinomaxs.co^
 ||casinomendoza.com.ar^
+||casinomexico.com^
+||casinomexicoonline.com^
 ||casinononaams.co^
 ||casinooffline.co^
 ||casinoonline-chile.cl^
+||casinoonline.com.ve^
 ||casinoonlinecanada.co^
 ||casinoonlineenchile.cl^
 ||casinoonlineperu.pe^
 ||casinoonlinetop.com.br^
+||casinoonlinevenezuela.co.ve^
 ||casinopack.co^
 ||casinopauseandplay.es^
 ||casinoperu.com.ar^
@@ -7171,33 +7197,47 @@
 ||casinorun.com^
 ||casinos-argentinos.com^
 ||casinos-enlinea.com.ar^
+||casinos-mexico.com.mx^
+||casinos-mx.com^
 ||casinos-online-en-peru.pe^
+||casinos-online.es^
+||casinos-online.mx^
 ||casinos-online.pe^
+||casinos-seguros.com^
 ||casinos.cl^
 ||casinos.com.co^
 ||casinos.com.ec^
 ||casinos.com.py^
 ||casinos.com.ve^
+||casinos24.co^
 ||casinos24.com.br^
 ||casinoschilenos.cl^
+||casinosdellitoral.bet.ar^
+||casinosenlinea.com^
 ||casinosgemidos.com.ar^
 ||casinoshouse.co^
 ||casinositesi.co^
 ||casinoslam.com^
+||casinoslatinoamerica.com^
 ||casinoslotmachines.co^
 ||casinoslots.cl^
 ||casinosmart.co^
+||casinosmx.com.mx^
 ||casinosnobrasil.com.br^
 ||casinosonline.com.ve^
 ||casinosonlineargentina.com^
 ||casinosonlinecolombia.co^
+||casinosonlineencolombia.co^
 ||casinosonlinehex.cl^
 ||casinosport.co^
 ||casinosreales.pe^
 ||casinosriver.cl^
 ||casinostars.com^
 ||casinosuite.co^
+||casinosvirtuales.com^
 ||casinosvirtuales.es^
+||casinosvirtuales.tv^
+||casinosvirtualesargentina.com^
 ||casinotable777.co^
 ||casinotime.com^
 ||casinotoledo.es^
@@ -7760,6 +7800,7 @@
 ||chochox.com^
 ||chocolatesistas.com.ar^
 ||chocolatta.com.ar^
+||choicecasino.com^
 ||choiyo88.co^
 ||chokddd.co^
 ||cholotube.pe^
@@ -7917,6 +7958,7 @@
 ||citybet.com^
 ||citybets.co^
 ||citybets.com^
+||citycenteronline.bet.ar^
 ||citymdisp.gq^
 ||citypizza.gq^
 ||cityshoes.com.mx^
@@ -8032,7 +8074,6 @@
 ||clinicadichiara.com.br^
 ||clinicaitca.com.br^
 ||clinicalesage.com.br^
-||clinicalettieri.com.br^
 ||clinicalifecare.com.br^
 ||clinicalopezquevedo.es^
 ||clinicalosfundadores.cl^
@@ -8368,6 +8409,7 @@
 ||comercialhigisol.com.br^
 ||comercializadoraalerce.cl^
 ||comercialmotosteo.cl^
+||comercialojedamar.com^
 ||comercialtrujillo.es^
 ||comercialworld.com.br^
 ||comercialzamora.es^
@@ -8591,6 +8633,7 @@
 ||constructweb.com.br^
 ||construtoracajamar.com.br^
 ||construtorajechaves.com.br^
+||construye-t.org.mx^
 ||consubet.com.ar^
 ||consuegraespinosa.es^
 ||consuladoportuguesdocaria.com.br^
@@ -9977,7 +10020,6 @@
 ||dinamicaadministracao.com.br^
 ||dinamicaindustrial.com.br^
 ||dinamita.com.ar^
-||dinamycs.com.mx^
 ||dinasti168.co^
 ||dinastiaacessorios.com.br^
 ||dineritopower.com^
@@ -10359,6 +10401,7 @@
 ||dreambet.com^
 ||dreambets.co^
 ||dreambets.com^
+||dreams.cl^
 ||dreams.com^
 ||dreamsoluciones.cl^
 ||dreamtheatre.co^
@@ -10552,7 +10595,6 @@
 ||eaut.com.br^
 ||eb104e7d2131d2276a32.wwwcentrum24-pl.es^
 ||eb3jt.ure.es^
-||eb824043410ecb01cf4896bf8552b8e8.crimachado.com.br^
 ||ebaoffice.com.br^
 ||ebarecursosminerais.com.br^
 ||ebay.com.errorpay.co^
@@ -10754,6 +10796,8 @@
 ||elbravobet.com^
 ||elcalless.gq^
 ||elcarro.cl^
+||elcasino.org^
+||elcasinogratis.com^
 ||elcatador.pe^
 ||elcofredeldinero.com^
 ||elconeo.co^
@@ -10859,6 +10903,7 @@
 ||elmensajero.mx^
 ||elmierdero.mx^
 ||elmocitofeliz.es^
+||elmostrador.cl^
 ||elmundodelsexo.com.ar^
 ||elnono.com.py^
 ||elofundicao.com.br^
@@ -11656,6 +11701,7 @@
 ||f882.co^
 ||f898.co^
 ||f899.co^
+||f8b02f60eb70017639f9e90eccb03b95.crimachado.com.br^
 ||f8bet0.ec^
 ||f8bet2.ec^
 ||f8bett.co^
@@ -11686,6 +11732,7 @@
 ||facbookae.esy.es^
 ||facder.unitru.edu.pe^
 ||face.com.ec^
+||facebook-account-business.pages.net.br^
 ||facebook-login.pages.net.br^
 ||facebook-my-share-live-location.000.pe^
 ||facebook-net.gq^
@@ -12047,6 +12094,7 @@
 ||fiddaz.club^
 ||fideicomisoimperio.com.ar^
 ||fiduciariobajio.com.mx^
+||fiebredecasino.com^
 ||fiera-global.gq^
 ||fiestacake.es^
 ||fiestafortunes.mx^
@@ -12179,6 +12227,7 @@
 ||fishoaks.net^
 ||fisiculturismo.com.br^
 ||fisionalon.es^
+||fisiostarcuarte.com^
 ||fisipa.com.ar^
 ||fisting.bz^
 ||fitbol.com.br^
@@ -12518,6 +12567,7 @@
 ||freesexphotos.hpg.ig.com.br^
 ||freesexy.blogger.com.br^
 ||freesexy.com.br^
+||freeslots.com^
 ||freespanking.com.ar^
 ||freespin-123.co^
 ||freespin.com^
@@ -13804,6 +13854,7 @@
 ||gugocreative.com^
 ||gugus789.co^
 ||gui.cl^
+||guiacasino.com^
 ||guiacidadeonline.com.br^
 ||guiadasacompanhantes.com.br^
 ||guiadeiguape.com.br^
@@ -14282,6 +14333,7 @@
 ||hikaridesign.co^
 ||hillerclubgroup.com.es^
 ||hillierclubgroup.com.es^
+||hillsandvalleys.ph^
 ||hillswear.co^
 ||hillviewp.gq^
 ||hilwellchev.gq^
@@ -15499,6 +15551,7 @@
 ||icoach.com.br^
 ||iconicai.co^
 ||iconosgroup.com.co^
+||icontci.com.br^
 ||icontextil.com.br^
 ||icould.co^
 ||icpingenieria.cl^
@@ -16232,6 +16285,7 @@
 ||isex.vila.bol.com.br^
 ||isexo.es^
 ||isft190.com.ar^
+||isgf-wh.org^
 ||ishqpeterewaqt15.gq^
 ||isic.com.py^
 ||isilt03.co^
@@ -16242,6 +16296,7 @@
 ||islandresponse.co^
 ||islavision.com.ar^
 ||islive.es^
+||islots.ar^
 ||ismidia.net.br^
 ||ismotorrino.com.br^
 ||iso508.co^
@@ -16801,6 +16856,7 @@
 ||juegolibre.com.co^
 ||juegoresponsable.com.ar^
 ||juegos.loteriasyapuestas.es^
+||juegoscasinoenlinea.net^
 ||juegosdeapuestas.mx^
 ||juegosdibujos.es^
 ||juegosenlinea.com.ar^
@@ -17416,6 +17472,7 @@
 ||laboratoriosanangel.mx^
 ||laboratoriotavares.com.br^
 ||labordamotos.com.ar^
+||labotana.com^
 ||labporn.co^
 ||labranderia.com.mx^
 ||labrasaburger.com.br^
@@ -17457,6 +17514,7 @@
 ||lafontcuchillas.com.ar^
 ||lagana.com.ar^
 ||lagearquitetura.com.br^
+||lagerhausbar.com^
 ||lagloriadelcampo.com.pe^
 ||lago777.co^
 ||lagonova.co^
@@ -17603,19 +17661,23 @@
 ||lasplazas.es^
 ||last4d.co^
 ||lastking.co^
+||lasvegasenvivo.com^
 ||lat.am^
 ||latam-apostar.com^
 ||latamtrust.cl^
 ||latar888login.co^
+||latercera.com^
 ||latestporn.co^
 ||latiendamedica.com.co^
 ||latinasporno.co^
 ||latinatv.com.ve^
+||latincasinosonline.com^
 ||latinka.com.pe^
 ||latinkaportal.com.pe^
 ||latino.com.uy^
 ||latino10.com^
 ||latinoamerica.com^
+||latinoamericaexuberante.org^
 ||latraca.es^
 ||latribet.ec^
 ||latticemty.com.mx^
@@ -19248,6 +19310,7 @@
 ||marathonbetlatinoamerica.com.ar^
 ||marathonbetperu.com^
 ||marathonbetve.com^
+||maratonim.com.ar^
 ||maratontps.cl^
 ||marautoford.com.br^
 ||marbek.com.br^
@@ -19348,6 +19411,7 @@
 ||marketingacre.com.br^
 ||marketingbpo.com.br^
 ||marketingcorp.com.br^
+||marketingdirecto.com^
 ||marketingengineer.co^
 ||marketingeral.com.br^
 ||marketingfortes.com.br^
@@ -19602,6 +19666,7 @@
 ||mcafestival.cl^
 ||mcanet.com.br^
 ||mcar.cl^
+||mcasinos.mx^
 ||mcc-cde.org.py^
 ||mcc.pe^
 ||mcchagasadvogados.com.br^
@@ -19755,6 +19820,7 @@
 ||megasuper.com.br^
 ||megatronica.com.co^
 ||megawatch.co^
+||megawin55.co^
 ||megawindbrasil.com.br^
 ||meggalistaconvenios.com.br^
 ||meggatop.com.br^
@@ -19772,6 +19838,8 @@
 ||mejorbingo.com^
 ||mejorcasadeapuesta.com^
 ||mejorcasino.com.es^
+||mejorcasinoonline.mx^
+||mejores-casinos-enlinea.mx^
 ||mejores-casinos.pe^
 ||mejoresapuestas.com.co^
 ||mejoresapuestas.com^
@@ -19993,6 +20061,7 @@
 ||mewah99.co^
 ||mexcam.mx^
 ||mexeaqui.com.br^
+||mexicomejorcasino.com^
 ||mexplay.mx^
 ||mexplore.com.mx^
 ||mexpo.com.mx^
@@ -20189,6 +20258,7 @@
 ||minhapraca.com.br^
 ||miniestudio.com.br^
 ||minihollywood.es^
+||minijuegos.com^
 ||minimail.gq^
 ||minimumspecsforroblox.blogspot.com.br^
 ||mininuts.cl^
@@ -20458,6 +20528,7 @@
 ||monitorei.com.br^
 ||monitoringservice.co^
 ||monkstars.co^
+||monopolycasino.es^
 ||monroe.com.au^
 ||monserratinformatica.cl^
 ||monsternumbers.co^
@@ -21256,7 +21327,6 @@
 ||nazwa-pl-fbcccd0974b.unicainstrumentacao.com.br^
 ||nazwa-pl-ff874d78b2e.odarasocial.com.br^
 ||nbg.notice.do^
-||nblcc.co^
 ||nbpapelparede.com.br^
 ||ncanal.com.br^
 ||ncbrasil.com.br^
@@ -21315,6 +21385,7 @@
 ||neomkt7.com.br^
 ||neomkt8.com.br^
 ||neondiamondhackrobloxpetsimulator.blogspot.com.co^
+||neonslots.es^
 ||neoparts.com.br^
 ||neoservidor4.com.br^
 ||neotracler.co^
@@ -21579,6 +21650,7 @@
 ||nichodemercado.com.br^
 ||nichodesign.com.br^
 ||nicklocacoesdebrinquedos.com.br^
+||nickyblender.com^
 ||nicolemontero.cl^
 ||nicregistrobt.co^
 ||nididoces.com.br^
@@ -22012,7 +22084,6 @@
 ||oficinadetintas.com.br^
 ||oficinadolar.com.br^
 ||oficinadosom.com.br^
-||oficinamarques.com.br^
 ||ofiice.smartwebinfo.com.br^
 ||ofiltrodeouro.com.br^
 ||ofimarket.com.ve^
@@ -22146,7 +22217,6 @@
 ||omkilohedi.blogspot.com.es^
 ||omkt.com.br^
 ||omnibeees.ddns.com.br^
-||omniva-ee.co^
 ||omotogel.co^
 ||oms.net.br^
 ||omslot99i.co^
@@ -22208,11 +22278,14 @@
 ||onlinecanadameds.co^
 ||onlinecanadapharmacy.co^
 ||onlinecanadianpharmacy.co^
+||onlinecasino.cl^
 ||onlinecasino.ec^
 ||onlinecasino.mx^
 ||onlinecasino.pe^
+||onlinecasinolatino.com^
 ||onlinecasinoph.co^
 ||onlinecasinoprofy.es^
+||onlinecasinorank.com.ve^
 ||onlinecasinorank.es^
 ||onlinecasinoslots.co^
 ||onlinecomputerrepairservices.co^
@@ -23342,13 +23415,17 @@
 ||pjsoftservice.com.br^
 ||pk789.co^
 ||pk88cerah.co^
+||pk88gacorterus.co^
+||pk88jaya.co^
 ||pk999.co^
 ||pkescueladesexo.com.ar^
 ||pkgo.com.ve^
 ||pki.panel-laboralcj.gob.mx^
 ||pkobp.co^
 ||pkr2024jayaselau.co^
+||pkr88asik.co^
 ||pkr88gacor1.co^
+||pkr88goods.co^
 ||pkr88ind.co^
 ||pkrmantulasik.co^
 ||pl-pl-fb.pages.net.br^
@@ -23459,6 +23536,7 @@
 ||playboy.com.br^
 ||playboy.com.mx^
 ||playboy.es^
+||playcasino.mx^
 ||playcet.ar^
 ||playcet.bet.ar^
 ||playcet.bo^
@@ -23490,6 +23568,7 @@
 ||playkids.cl^
 ||playland.com.co^
 ||playojo.com^
+||playpager.com^
 ||playplace.com^
 ||playpoltar.com.co^
 ||playporn.co^
@@ -23507,6 +23586,7 @@
 ||playtvchannel.com.br^
 ||playuzu.bet.ar^
 ||playuzu.com^
+||playuzu.mx^
 ||playwin-bets.com^
 ||playwin.com^
 ||plazaatlacomulco.com.mx^
@@ -23573,7 +23653,15 @@
 ||pointbet.com^
 ||poker.md^
 ||poker88303.co^
+||poker888jaya.co^
+||poker88gg.co^
+||poker88ggs.co^
+||poker88mania99.co^
+||poker88maniamantul.co^
+||poker88no1.co^
+||poker88php.co^
 ||poker88selalujaya.co^
+||poker88togel.co^
 ||pokerarg.com.ar^
 ||pokerchile.cl^
 ||pokerdicas.com^
@@ -23589,6 +23677,7 @@
 ||pokerstars.pe^
 ||pokerstarscasino.es^
 ||pokerstarssports.com^
+||pokerwin88.co^
 ||pokerwiz.co^
 ||pokizino.co^
 ||pokrdewi.co^
@@ -25150,6 +25239,7 @@
 ||rescovetions.esy.es^
 ||rescuetoast.co^
 ||researchinfotech.co^
+||resenascasinos.com^
 ||resep4d2.co^
 ||resepoke.co^
 ||reserivedoutlet.co^
@@ -26315,6 +26405,7 @@
 ||ser-tech.com.ar^
 ||sera777login.co^
 ||sera88login.co^
+||seragro.com.py^
 ||serbubet.co^
 ||sercarindustriales.cl^
 ||serdex.cl^
@@ -27015,6 +27106,7 @@
 ||silentbet.com^
 ||silgonspa.cl^
 ||silmer.com.br^
+||silmetgomsa.com.ar^
 ||silva4d1.co^
 ||silva4donline.co^
 ||silvajardim.rj.gov.br^
@@ -27258,6 +27350,7 @@
 ||slothoki108.co^
 ||slothomebet88.co^
 ||slotjackpot108a.co^
+||slotjava.es^
 ||slotjekx.co^
 ||slotjeruk123.co^
 ||slotjitu.qqpokeronline.repl.co^
@@ -27267,6 +27360,7 @@
 ||slotmvp.co^
 ||slotozal-casino.co^
 ||slotozalcasino.co^
+||slotozilla.com^
 ||slotpalace-casino.es^
 ||slotpedia.co^
 ||slotpertama.co^
@@ -27278,6 +27372,7 @@
 ||slots-pg.com.br^
 ||slots.no^
 ||slotsakti188.co^
+||slotsdelsolonline.com^
 ||slotsejatti.co^
 ||slotspin99.co^
 ||slotspinbet138.co^
@@ -27412,6 +27507,7 @@
 ||soft-got.co^
 ||softcorporation.com.br^
 ||softonic.com^
+||softswiss.com^
 ||softwaremarket.com.br^
 ||sogim.com.br^
 ||sohnabronha.hpg.ig.com.br^
@@ -27435,6 +27531,7 @@
 ||solaropno.co^
 ||solarquente.com.br^
 ||solbet.com.ar^
+||solbet.com.py^
 ||solbet.com.ve^
 ||solbet.com^
 ||solbet.mx^
@@ -27449,6 +27546,8 @@
 ||solicitud-de-firma-digital-20245.webnode.cr^
 ||solikun.gq^
 ||solinfor.ec^
+||solitaire365.com^
+||solitar.io^
 ||solitary-snow-3512.on.fleek.co^
 ||solizetank.gq^
 ||sollas.com.br^
@@ -28617,6 +28716,7 @@
 ||tempes.gq^
 ||templateguru.co^
 ||templatespacestore.com.es^
+||templodeslots.es^
 ||tempobet.com.mx^
 ||tempobet.com^
 ||tempodecelebrar.org.br^
@@ -28766,6 +28866,7 @@
 ||thecentredes.com.es^
 ||theclapping.com.es^
 ||theclappinghands.com.es^
+||theclinic.cl^
 ||thedisruptor.co^
 ||thedoggingsite.co^
 ||theecmoama.com^
@@ -29673,6 +29774,7 @@
 ||undeco.co^
 ||undertable.co^
 ||undertake.gq^
+||undiscoaldia.com^
 ||undub.es^
 ||une.com.ve^
 ||unecentro.com.br^
@@ -29976,6 +30078,7 @@
 ||veeem.com.br^
 ||veelli.co^
 ||veganocosmetics.com^
+||vegas-expert.com^
 ||vegasgroup.co^
 ||vegashero.co^
 ||vegashoki138.co^
@@ -30493,6 +30596,7 @@
 ||vivezacortinas.com.br^
 ||vivianegata.hpg.com.br^
 ||vivianhouse.co^
+||viviconactitud.com.ar^
 ||viviendaruralelalamar.es^
 ||viviendoconeii.com.ar^
 ||vivigatinha_rj.blogger.com.br^
@@ -31049,6 +31153,7 @@
 ||winbet365.com^
 ||winbet99.co^
 ||winboxgroup.co^
+||winchile.com^
 ||wincomparator.com^
 ||windd11.co^
 ||windd12.co^
@@ -31182,6 +31287,7 @@
 ||wpoptimizeinnodbtables.gq^
 ||writemypaper.co^
 ||wsc.mx^
+||wsgargentina2022.com^
 ||wsjuara.co^
 ||wsmselaludihati.co^
 ||wsuqaftp73.en.wanadoo.es^
@@ -31711,7 +31817,6 @@
 ||zeeusss121.co^
 ||zeitconsultores.cl^
 ||zelenskyj.ru^
-||zelinscek.com.ar^
 ||zenaimoveis.com.br^
 ||zendesk.com^
 ||zentraliainmuebles.com^
@@ -31812,4 +31917,5 @@
 ||zxz.defensoria-nsjp.gob.mx^
 ||zyaviv.co^
 ||zyloingenieria.cl^
+||zyngapoker.com^
 ||zys.cl^
