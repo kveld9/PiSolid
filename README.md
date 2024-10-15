@@ -31,7 +31,7 @@ Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a travé
 - **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/pisolid)
 
 ## Agradecimientos
-- Gracias a [xdL](https://github.com/xdLanee) por la colaboración en el diseño gráfico.
+- Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
 - Gracias a [PiSolid-group](https://t.me/pisolid) por la colaboración en el reporte de dominios.
 
 ---
