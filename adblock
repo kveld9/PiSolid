@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32777.
+! Number of entries: 32783.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-19 19:00:47 UTC.
+! Last modified: 2024-10-19 21:00:47 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -3391,6 +3391,7 @@
 ||bancaeusebio.hpg.ig.com.br^
 ||bancaonline--internacional1.repl.co^
 ||bancaonline.internacional1.repl.co^
+||bancap0rinternetempresas.vbanbif.com.pe^
 ||bancap0rinternetempresas.wvwbanbif.com.pe^
 ||bancaserfinaza.co^
 ||banco.itau.cl.en.linea.area.cliente.axtonchilesa.cl^
@@ -7116,6 +7117,7 @@
 ||cinderella.net.br^
 ||cinealta.com.br^
 ||cinebuzz.co^
+||cineflickcard1.com.br^
 ||cinemalido.com.br^
 ||cinemateus.com.br^
 ||cinepornogratis.com^
@@ -25673,6 +25675,7 @@
 ||ricoterox.com.ar^
 ||ricuc.cl^
 ||ridepple.gq^
+||rieker.outlets-eu.co^
 ||rifec.co^
 ||rifkian.gq^
 ||riforma.net.br^
@@ -26562,6 +26565,7 @@
 ||sectr.co^
 ||securchase.verify.englishclassroom.com.br^
 ||secure-activationa.co^
+||secure-ato-incomefile.es^
 ||secure-gmall.gq^
 ||secure-portal.mx^
 ||secure-runescape.co^
@@ -30583,6 +30587,7 @@
 ||us.dlink.gq^
 ||us.lightningly.co^
 ||us43283zpbvxa.10up11msth1us.co^
+||us43658iqyp.14up7yzgv1us.co^
 ||us44759hydxh.zestmind.co^
 ||us47414wbksvvj.indigovibe.co^
 ||us48207czpeswd.mwygb.co^
@@ -32209,6 +32214,7 @@
 ||xcanal.es^
 ||xcasehost.com.br^
 ||xchina.co^
+||xclean90.com.br^
 ||xcnn.datapath-uk.gq^
 ||xcontent.vila.bol.com.br^
 ||xd.adnz.co^
