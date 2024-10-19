@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32709.
+! Number of entries: 32708.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-19 09:00:37 UTC.
+! Last modified: 2024-10-19 13:00:35 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1508,6 +1508,7 @@
 ||aiporn.com.es^
 ||aiquedelicia.com.br^
 ||air168pro.co^
+||airasia-claim-mygift.tratiisa.es^
 ||airballoonsite.com.es^
 ||airbet88.co^
 ||airbnb-c1eab118-2df8-426d-a3c0-0e8e4016bbf4.tangram.co^
@@ -7236,7 +7237,6 @@
 ||clgengenhariaconsultiva.com.br^
 ||clic.com.do^
 ||clicaclica.com.br^
-||click.email.e-nike.com.br^
 ||click.uol.com.br^
 ||click8.co^
 ||clickand.co^
@@ -14958,7 +14958,6 @@
 ||hotelesenmerida.info.ve^
 ||hotelesparaiso.com.pe^
 ||hotelfenixolimpia.com.br^
-||hotelgranada.ddnsgratis.com.br^
 ||hoteliracematravel.com.br^
 ||hoteljarama.es^
 ||hotelkennedy.com.ec^
