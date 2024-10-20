@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32782.
+! Number of entries: 32790.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-20 19:00:46 UTC.
+! Last modified: 2024-10-20 21:00:46 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -942,6 +942,7 @@
 ||account.login.wuxitqtvplenn.co^
 ||account.maximus.co^
 ||account.primecapitalfinance.co^
+||accountapple.com.es^
 ||accountingdept.co^
 ||accounts-login-idm-telekom-com.argos.com.uy^
 ||accounts.mx^
@@ -2439,6 +2440,7 @@
 ||appencontreaki.com.br^
 ||appfirms.co^
 ||apphacks.co^
+||apple-account.com.es^
 ||apple-isupport.co^
 ||apple-verificar.es^
 ||apple-verify.co^
@@ -9306,6 +9308,7 @@
 ||dicoval.cl^
 ||dicsodr-me.gq^
 ||dictionarypro.co^
+||didelivery.com.br^
 ||didesi.com.mx^
 ||didofile.co^
 ||die-educacion.cl^
@@ -10860,6 +10863,7 @@
 ||esposasymaridos.es^
 ||esposinhaputa.com.br^
 ||esptrader.co^
+||esquemascar.blogspot.pe^
 ||esquinadopaodequeijo.com.br^
 ||esquivias.es^
 ||esrlive.co^
@@ -17268,6 +17272,7 @@
 ||ktm303.co^
 ||kto.com^
 ||kto.pe^
+||ktoncncwvtpa.hotelplazatacna.pe^
 ||ktuj.mypi.co^
 ||ku3933.net.co^
 ||kualytecvazamentos.com.br^
@@ -21058,6 +21063,7 @@
 ||naopercaestaoportunidade.com.br^
 ||naospcserasa.com.br^
 ||napa.hn^
+||naport.com.br^
 ||narcstudio.co^
 ||narrow-humble.gq^
 ||narrow.io^
@@ -24201,6 +24207,7 @@
 ||portalprogramas.com^
 ||portalsegurosbr.com.br^
 ||portalturistico.com.br^
+||portalusuariospostpagos.co^
 ||portalvarejista.com.br^
 ||portalvivoligado.com.br^
 ||portalvoyeur.es^
@@ -24595,6 +24602,7 @@
 ||prodysersa.com.ar^
 ||profebet.co^
 ||professorfellipeguerra.com.br^
+||profexpro.com.br^
 ||proffesional.gq^
 ||profitstoday.co^
 ||profmistde.gq^
@@ -32049,6 +32057,7 @@
 ||wmd.bz^
 ||wmodz.gq^
 ||wmwmlv.com.br^
+||wneggb.blogspot.mx^
 ||wnitgl.co^
 ||wnitoto.co^
 ||woman_with_vagina_and_a_penis.bzs.es^
@@ -32138,7 +32147,6 @@
 ||wwpfei.hpg.ig.com.br^
 ||wws.atendimento-cliente.com.br.it4e.co^
 ||wwuol.com.br^
-||www-9cd9e567.mangabeiralodge.com.br^
 ||www-army-mil-bd.dowmload.co^
 ||www-enigma.co^
 ||www-login-banchile-web-online-personal-home-wps-index-cl.gq^
