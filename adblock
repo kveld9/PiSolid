@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32783.
+! Number of entries: 32784.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-20 01:00:47 UTC.
+! Last modified: 2024-10-20 03:00:46 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -23352,6 +23352,7 @@
 ||peru-retail.com^
 ||peruintitravel.com.pe^
 ||perusexshop.pe^
+||peruss.ddns.com.br^
 ||perutienda.pe^
 ||perutour360.pe^
 ||pesawatbesi.co^
