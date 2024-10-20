@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32783.
+! Number of entries: 32782.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-20 11:00:46 UTC.
+! Last modified: 2024-10-20 13:00:46 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -58,6 +58,7 @@
 ||101sex.hpg.com.br^
 ||102154460ie.hol.es^
 ||105debundinha.hpg.ig.com.br^
+||107106025673983.graficaaoquadrado.com.br^
 ||10712824.qqc.co^
 ||10a0b3da20517ee35d36.wwwcentrum24-pl.es^
 ||10ahora.com.ar^
@@ -78,6 +79,7 @@
 ||11bet.mx^
 ||11niceph.co^
 ||120.www2centrum24-pl.es^
+||122663413376911.graficaaoquadrado.com.br^
 ||123-movies.bz^
 ||123.clare88.gq^
 ||12388bet.co^
@@ -92,6 +94,7 @@
 ||125ervquroais.com.br^
 ||1264985.co^
 ||1265482.co^
+||128001542632257.graficaaoquadrado.com.br^
 ||1283733292781911.gq^
 ||12all.com.br^
 ||12bet.com^
@@ -2675,7 +2678,6 @@
 ||aquitemshop.com.br^
 ||ar-1xbet.com^
 ||ar-solutions.com.mx^
-||ar-spa.edu-5401230.co^
 ||ar-system.cl^
 ||ar.condota.com.br^
 ||ar.proyectospulsor.cl^
@@ -8482,7 +8484,6 @@
 ||cursosmelhor.com.br^
 ||cursosonlinefacil.com.br^
 ||cursosposfaveni.com.br^
-||cursostop10.com.br^
 ||cursosunipro.com.br^
 ||cursotestamentovital.com.br^
 ||curt.wiz.co^
@@ -19051,7 +19052,6 @@
 ||maildirect.com.mx^
 ||mailexpressonline.com.br^
 ||mailinbox.co^
-||mailinfo.macsolar.mx^
 ||mailing11.srv.br^
 ||mailingliststudio.es^
 ||mailingmarketing.com.br^
@@ -28857,7 +28857,6 @@
 ||svenska-casino.co^
 ||sverigecasino.com^
 ||sverigegmarket.gq^
-||svic.com.mx^
 ||svr.org.ve^
 ||svr1.com.br^
 ||svxservicos.com.br^
