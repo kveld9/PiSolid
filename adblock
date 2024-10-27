@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32839.
+! Number of entries: 32842.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-27 07:00:35 UTC.
+! Last modified: 2024-10-27 09:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1992,6 +1992,7 @@
 ||americancorner.udp.cl^
 ||americanelectric.com.br^
 ||americanfootballbetting.com^
+||americanplastics.com.mx^
 ||americansex.vila.bol.com.br^
 ||americantrash.com.br^
 ||americaofertas.com.br^
@@ -7149,6 +7150,7 @@
 ||cipit138login.co^
 ||cipit4dlogin.co^
 ||ciplac.com.br^
+||ciprodeh.org.hn^
 ||ciprosantodomingo.com.do^
 ||circlebet.com^
 ||circles.gq^
@@ -16185,6 +16187,7 @@
 ||itmeusfbcomca.pagedemo.co^
 ||itoken-online30horas.esy.es^
 ||itokenitau30horas.esy.es^
+||iton.net.ar^
 ||itororotopografia.com.br^
 ||its-soluciones.com.mx^
 ||itsadate.com.br^
