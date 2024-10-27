@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32842.
+! Number of entries: 32854.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-27 09:00:37 UTC.
+! Last modified: 2024-10-27 15:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1992,7 +1992,6 @@
 ||americancorner.udp.cl^
 ||americanelectric.com.br^
 ||americanfootballbetting.com^
-||americanplastics.com.mx^
 ||americansex.vila.bol.com.br^
 ||americantrash.com.br^
 ||americaofertas.com.br^
@@ -3190,6 +3189,7 @@
 ||avisex.cl^
 ||avisex.com.mx^
 ||avisex.com.ve^
+||avisocorpacknow.fupron.com.ar^
 ||avisosealertas.com.br^
 ||avitecdv.com.br^
 ||avivagrancruzadadefe.com.ve^
@@ -7150,7 +7150,6 @@
 ||cipit138login.co^
 ||cipit4dlogin.co^
 ||ciplac.com.br^
-||ciprodeh.org.hn^
 ||ciprosantodomingo.com.do^
 ||circlebet.com^
 ||circles.gq^
@@ -7675,6 +7674,7 @@
 ||comerciodebalas.com.br^
 ||comerciodevarginha.com.br^
 ||cometetas.es^
+||comexcol.org.mx^
 ||comexlink.com.ec^
 ||comfortline.ec^
 ||comfortrelated.co^
@@ -11224,6 +11224,7 @@
 ||facebook-my-share-live-location.000.pe^
 ||facebook-net.gq^
 ||facebook-security-marketplace.pages.med.br^
+||facebook-support-team-market.pages.mus.br^
 ||facebook-support.pages.mus.br^
 ||facebook.com-7yf9ktf451a70ca-secured-login-token.7qz6ztn.gq^
 ||facebook.com-marketplace-93839.mediaryte.co^
@@ -12341,6 +12342,7 @@
 ||ga10.com.br^
 ||ga88.co^
 ||gaaa.cl^
+||gab.esp.br^
 ||gabatilaprei.gq^
 ||gaborhungary.co^
 ||gabrielconde.com.uy^
@@ -12893,6 +12895,7 @@
 ||globalpharmedica.co^
 ||globalpromail.com.br^
 ||globalstartproduction.com.es^
+||globaltres.es^
 ||globaluniformes.com.br^
 ||globaluniformes.com.ve^
 ||globalvidaseguros.com.br^
@@ -13060,6 +13063,7 @@
 ||googie.es^
 ||google-adwords.com.es^
 ||google-drive.com.dismay.com.ar^
+||google.serviciodemigraciones.cl^
 ||googleamp.es^
 ||googlech.co^
 ||googleclassificados.com.br^
@@ -15965,6 +15969,7 @@
 ||internetworldlist.com.es^
 ||interqualitas.cl^
 ||intersantosservicos.com.br^
+||interserv.co^
 ||interstat.co^
 ||intertalent.com.br^
 ||intertectecidos.com.br^
@@ -22352,6 +22357,7 @@
 ||onbet.com^
 ||onbets.com^
 ||onces4d.co^
+||oncocenter.cl^
 ||oncofeliz.cl^
 ||oncologiaclinicafpolis.com.br^
 ||ondemorarimoveis.com.br^
@@ -25614,6 +25620,7 @@
 ||resoluciones.ugel01.gob.pe^
 ||resolutioncenter.co^
 ||resourcenetwork.co^
+||respaldo-virtual-0.webnode.cr^
 ||respin123sts.co^
 ||respuestadeportiva.com^
 ||ressfulsuanise.gq^
@@ -28118,6 +28125,8 @@
 ||soto-pero.pages.net.br^
 ||sotorcida.com.br^
 ||souk.adm.br^
+||soulmiacollection.cl^
+||soulmiacollection.com.mx^
 ||soultionz.co^
 ||soumaisenem.com.br^
 ||soundvibes.co^
@@ -29291,6 +29300,7 @@
 ||telewind.co^
 ||telhadoscosta.com.br^
 ||tellaeche.mx^
+||tellesmello.com.br^
 ||telsex.co^
 ||telstramedia.gq^
 ||telsupport-returnfund.co^
@@ -29583,6 +29593,7 @@
 ||tibagimotos.com.br^
 ||tibet.com.br^
 ||tibiafriends.com.br^
+||tibiawiki.com.br^
 ||tiburon.viralvideos.es^
 ||tibusiness.cl^
 ||ticamateur.en.wanadoo.es^
@@ -31500,6 +31511,7 @@
 ||vptrack.com.br^
 ||vresponse.com.br^
 ||vrificaciondecorreodinamico.zz.com.ve^
+||vrisoshop.co^
 ||vrmarketingbusiness.co^
 ||vrossoni.com.br^
 ||vry.edu.pe^
