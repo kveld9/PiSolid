@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32866.
+! Number of entries: 32878.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-28 11:00:35 UTC.
+! Last modified: 2024-10-28 21:00:38 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1118,6 +1118,7 @@
 ||adicii.com.br^
 ||adict.com.br^
 ||adictos.cl^
+||adidas-samba.es^
 ||adidascampus.es^
 ||adikorndorfer.com.br^
 ||adilcemoreira.com.br^
@@ -1207,6 +1208,7 @@
 ||ads.realmedia.com.br^
 ||ads.recoletos.es^
 ||ads.telecinco.es^
+||ads.terra.es^
 ||ads.todoti.com.br^
 ||ads.tripod.lycos.es^
 ||ads.videy.co^
@@ -1765,7 +1767,6 @@
 ||alljazeera.co^
 ||allmassage.com.ar^
 ||allmillionaires.co^
-||allocation-eigeniayer.co^
 ||allocation-pawscoin.co^
 ||allototogame.co^
 ||allototowin.co^
@@ -1893,6 +1894,7 @@
 ||alyexpress.es^
 ||alykaximagcatlog.esy.es^
 ||am-coaching.es^
+||am130.1.com.ar^
 ||am98.1.com.ar^
 ||amaap.com.br^
 ||amaasp.org.br^
@@ -5844,6 +5846,7 @@
 ||camposdelsur.cl^
 ||camposdojordaohospedagem.com.br^
 ||campototalweb.com.ar^
+||campuspersever.es^
 ||cams803.es^
 ||camsbanner.wtfgroup.co^
 ||camscyber.iespana.es^
@@ -5936,7 +5939,6 @@
 ||capitalsexy.com.br^
 ||capitaoassessoria.com.br^
 ||capitaorodrigo.com.br^
-||capixaba.es^
 ||capjikia.co^
 ||capoker.com.ar^
 ||capprino.com.br^
@@ -6448,6 +6450,7 @@
 ||casiwin.com^
 ||caspo777gacor.co^
 ||casquete.hpg.com.br^
+||cassarottifoods.com.br^
 ||cassidey.fondosdepantalla.com.es^
 ||cassidy.fondosdepantalla.com.es^
 ||cassinoonlinebrasil.com.br^
@@ -7611,6 +7614,7 @@
 ||colegiosantadorotea.edu.co^
 ||colegioselc.com.br^
 ||colegiovirginiapatrick.com.br^
+||colehaan-mexico.com.mx^
 ||coletivasistemas.com.br^
 ||colfarlp.org.ar^
 ||colibribranco.com.br^
@@ -7856,6 +7860,7 @@
 ||connect.secure.wellsfargoauthlogin.hosteltravessia.com.br^
 ||connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.br^
 ||connect.securewellsfargo.corn.authloginlpresent.confortocomclasse.com.br^
+||connectaglobal.co^
 ||connectcontrol.com.br^
 ||connectedagain.gq^
 ||connectionproblem.gq^
@@ -8122,6 +8127,7 @@
 ||cosmos.tur.br^
 ||cosmoservicios.cl^
 ||cospolska.co^
+||cosstores-espana.es^
 ||costabingo.com^
 ||costadelsexo.es^
 ||costadosolservices.com.br^
@@ -11748,6 +11754,7 @@
 ||firmianoadvocacia.com.br^
 ||firsharlea.gq^
 ||first168.co^
+||firstchoicebank.pronal.co^
 ||firstdiscoveries.co^
 ||firstfeature.co^
 ||fishapi.xinloiduocchua.co^
@@ -12672,6 +12679,7 @@
 ||gencomics.es^
 ||generacservice.com.ar^
 ||generagroup.com.mx^
+||generall.com.br^
 ||generasipokerr.co^
 ||generasitogeel.co^
 ||generasitoggel.co^
@@ -13525,7 +13533,6 @@
 ||gymsharkmexicotiendas.com.mx^
 ||gyros.es^
 ||gytytyty.blogspot.pe^
-||gzxvc.mypi.co^
 ||h-bet.com^
 ||h-bets.com^
 ||h-herms.es^
@@ -15896,6 +15903,7 @@
 ||instantwinner.co^
 ||instapoker.com^
 ||instavirals.co^
+||instegram.co^
 ||institucional.tourobrasil.com.br^
 ||institucional.uflo.edu.ar^
 ||instituto-online.com.mx^
@@ -17417,6 +17425,7 @@
 ||laconte.gq^
 ||lacopro.cl^
 ||lacosanostra.co^
+||lacosteromania.co^
 ||lacostilleria.cl^
 ||lacosturera.es^
 ||lacriolipolisis.es^
@@ -19623,7 +19632,6 @@
 ||maximcolombia.co^
 ||maximetal.net.br^
 ||maximil.com.br^
-||maximilianoperet.com.ar^
 ||maximore.com.br^
 ||maximumhentais.hpg.ig.com.br^
 ||maximus.com.pe^
@@ -20030,6 +20038,7 @@
 ||metamask-activation.dcsi.com.ar^
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
+||metamask-wallett.blogspot.com.br^
 ||metamask-wallett.blogspot.mx^
 ||metamaskinc.blogspot.com.ar^
 ||metamaskinc.blogspot.com.br^
@@ -20737,7 +20746,6 @@
 ||mstacessossegurosbb.com.es^
 ||mstuard.cl^
 ||msxmail.gq^
-||mt2-sdp4.mt-2.co^
 ||mta-4687.com.br^
 ||mtapower.com.br^
 ||mtgchile.cl^
@@ -25077,6 +25085,7 @@
 ||quimicakubo.com.ar^
 ||quini6.com.ar^
 ||quintaoappvistorias.com.br^
+||quintapata.com.ar^
 ||quintinoadv.com.br^
 ||quintoquartobr.com^
 ||quiroga.cl^
@@ -26093,6 +26102,7 @@
 ||rtskkm.co^
 ||rtt.sl0t97.co^
 ||rttratores.com.br^
+||rtuuehs22100123.thermovita.com.br^
 ||rtvieiratransportes.com.br^
 ||ru-xhamster.co^
 ||ru.nasvostok3.vip.createadvisors.gq^
@@ -26168,6 +26178,7 @@
 ||s.ato.mx^
 ||s.bellesa.co^
 ||s.eaobd.co^
+||s.everydayporn.co^
 ||s.idio.co^
 ||s.oance.co^
 ||s.onous.co^
@@ -26575,6 +26586,7 @@
 ||sdplo.com.br^
 ||sdprodutora.com.br^
 ||sds.pastoraldomenor.org.br^
+||sdzpoekkd.blogspot.cl^
 ||sdzpoekkd.blogspot.com.br^
 ||se-godkanna.co^
 ||se7comunicacao.com.br^
@@ -28980,7 +28992,6 @@
 ||syaambiental.cl^
 ||syk668.co^
 ||sylvanlearning.co^
-||symantecserver.co^
 ||symbioticnodes.co^
 ||symcolombia.co^
 ||symodels.hpg.ig.com.br^
@@ -29211,6 +29222,7 @@
 ||tecnarium.com.ar^
 ||tecniagro.cl^
 ||tecnicaaustral.cl^
+||tecnicaturaat.ar^
 ||tecnicoadomicilio.com.mx^
 ||tecnicoexpert.com.br.dicasdeuber.com.br^
 ||tecnifast.pe^
@@ -29373,7 +29385,6 @@
 ||teroupadecrianca.com.br^
 ||terplastic.com.mx^
 ||terra-games.co^
-||terra.es^
 ||terra.planetarium.com.br^
 ||terrabrasilispg.com.br^
 ||terrabrasilvegetais.com.br^
@@ -30564,6 +30575,7 @@
 ||unionbet.com^
 ||unioneconsultoria.com.br^
 ||unipaxms.com.br^
+||uniqloespana.es^
 ||unique-casino.es^
 ||unique-exchange.co^
 ||uniqueexport.com.br^
@@ -31609,7 +31621,6 @@
 ||wallbed.co^
 ||wallet-dappsvalidationb.on.fleek.co^
 ||wallet.nexo.geth.org.br^
-||walletconnecthub.co^
 ||wallittogel.co^
 ||wallsex.com.br^
 ||walmartconnect.cl^
@@ -31831,7 +31842,6 @@
 ||webluxo.com.br^
 ||webm1l.carrd.co^
 ||webmail-authuser-k5fhbe.crd.co^
-||webmail-b9d43bee.connexapeople.com.br^
 ||webmail-bb.adestramentoseguro.com.br^
 ||webmail.3dproducts.com.ec^
 ||webmail.adminserver.repl.co^
@@ -32226,7 +32236,6 @@
 ||wwpfei.hpg.ig.com.br^
 ||wws.atendimento-cliente.com.br.it4e.co^
 ||wwuol.com.br^
-||www-army-mil-bd.dirctt88.co^
 ||www-army-mil-bd.dowmload.co^
 ||www-enigma.co^
 ||www-login-banchile-web-online-personal-home-wps-index-cl.gq^
@@ -32249,6 +32258,7 @@
 ||www4077centrum.24-pl.es^
 ||www41.saldaodascriancas.com.br^
 ||www4757centrum2.4-pl.es^
+||www5662centrum.24-pl.es^
 ||www629centrum2.4-pl.es^
 ||www6898centrum2.4-pl.es^
 ||www8263centrum.24-pl.es^
@@ -32352,7 +32362,9 @@
 ||xllv97.rockt.es^
 ||xls-online-0569.on.fleek.co^
 ||xml-v4.barcelona-backlinks.es^
+||xml-v4.search-house.co^
 ||xml.barcelona-backlinks.es^
+||xml.search-house.co^
 ||xmodelboard.es^
 ||xmr.co^
 ||xn--80ak6aa92e.com.ipq.co^
