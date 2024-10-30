@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32807.
+! Number of entries: 32812.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-10-30 07:00:36 UTC.
+! Last modified: 2024-10-30 09:00:35 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -26349,6 +26349,10 @@
 ||santander-competencia.activaonline.cl^
 ||santander.empresarialb.com.br^
 ||santander.supernet-digital.com.mx^
+||santander3927.wwwcentrum24-web-pl.es^
+||santander4236.wwwcentrum24-web-pl.es^
+||santander4662.wwwcentrum24-web-pl.es^
+||santander6378.wwwcentrum24-web-pl.es^
 ||santanderconsorcios.com.br^
 ||santanderhelps.redemaisaude.com.br^
 ||santandermobiller.gq^
@@ -32203,6 +32207,7 @@
 ||wwwarrrga88.co^
 ||wwwbestdrugs.com.es^
 ||wwwcentrum24-pl.es^
+||wwwcentrum24-web-pl.es^
 ||wwwgoonline-bnpparibas-pl.no-no.es^
 ||wwwhttps-www-bankofireland.capitolpropiedades.com.ar^
 ||wwwmcafeecomactivate.co^
