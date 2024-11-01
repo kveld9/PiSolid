@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33095.
+! Number of entries: 33097.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-01 15:00:36 UTC.
+! Last modified: 2024-11-01 17:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -768,7 +768,6 @@
 ||9xrockersa.co^
 ||a.1cantikqq.co^
 ||a.ad.gt^
-||a.fw-a.co^
 ||a.glcdn.co^
 ||a.idio.co^
 ||a.ieesaingenieria.com.mx^
@@ -15524,6 +15523,7 @@
 ||igteen2.vila.bol.com.br^
 ||ihdm.com.ve^
 ||ihentai.com^
+||ihentai.mx^
 ||ihentaila.com^
 ||ihokibet-play.co^
 ||ihokibet-win.co^
@@ -24365,6 +24365,7 @@
 ||pornoz.com.br^
 ||pornozao.blog.br^
 ||pornozorras.com^
+||pornpics.blog.br^
 ||pornrabbit.co^
 ||pornrancho.com^
 ||pornse.co^
@@ -32766,6 +32767,7 @@
 ||xxxsex.com.br^
 ||xxxtube.co^
 ||xxxtube.com.br^
+||xxxvedio.com.co^
 ||xxxvideo.blog.br^
 ||xxxvideo.link^
 ||xxxvideo12.en.wanadoo.es^
