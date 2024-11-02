@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33103.
+! Number of entries: 33107.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-01 23:00:36 UTC.
+! Last modified: 2024-11-02 01:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -261,6 +261,7 @@
 ||210acessorios.com.br^
 ||210revquerena.com.br^
 ||212commerce.com.ve^
+||216986649680841.graficaaoquadrado.com.br^
 ||21750.tctm.co^
 ||21bet.com^
 ||21casino.com^
@@ -4722,6 +4723,7 @@
 ||bitter-term-8101.on.fleek.co^
 ||bittorrent.es^
 ||biturl.co^
+||bitvavo.com.nl.services.brcontrol.com.br^
 ||bitvavo.com.nl.services.rmtranslog.com.br^
 ||bitxel.com.co^
 ||bixtoj.gq^
@@ -6799,7 +6801,6 @@
 ||ch-eck.es^
 ||ch.icgalonline.cl^
 ||ch4s3-secure-dashboard-r3port.eventosideal.com.br^
-||chacararecantodosol.com.br^
 ||chacha.comapatecoman.gob.mx^
 ||chacinadosponce.com.ar^
 ||chaisenfuns.co^
@@ -11279,6 +11280,7 @@
 ||facebook-net.gq^
 ||facebook-security-marketplace.pages.med.br^
 ||facebook-support-team-market.pages.mus.br^
+||facebook-support-team98.pages.med.br^
 ||facebook-support.pages.mus.br^
 ||facebook.com-7yf9ktf451a70ca-secured-login-token.7qz6ztn.gq^
 ||facebook.com-marketplace-93839.mediaryte.co^
@@ -17651,6 +17653,7 @@
 ||larayasociados.com.mx^
 ||larcenterimoveis.com.br^
 ||laredo.es^
+||laredoisd.techfusionprime.com.es^
 ||larepos.es^
 ||largadoemguarapari.blogger.com.br^
 ||larinconada.com.bo^
@@ -29519,6 +29522,7 @@
 ||telesport-tv.com.ar^
 ||teletusa.com.br^
 ||telewind.co^
+||teleyz.co^
 ||telhadoscosta.com.br^
 ||tellaeche.mx^
 ||tellesmello.com.br^
