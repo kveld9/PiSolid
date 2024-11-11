@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32915.
+! Number of entries: 32917.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-11 19:00:38 UTC.
+! Last modified: 2024-11-11 21:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1029,7 +1029,6 @@
 ||acronimofenix.com.br^
 ||acrpapeis.com.br^
 ||actia.con.mx^
-||actiinvr.acesosmxx.com.mx^
 ||actiivaiten0w.loginowiverifii.repl.co^
 ||actionbet.com^
 ||actionbets.com^
@@ -2309,6 +2308,7 @@
 ||api.stats.appa.pe^
 ||api.super-surveys.co^
 ||api.wavebrowser.co^
+||api.widenet.co^
 ||api007.foxspy.com.br^
 ||api4.hit1.co^
 ||api6.hit1.co^
@@ -5295,6 +5295,7 @@
 ||brenocar.com.br^
 ||bresciamaisfm.com.br^
 ||breth.co^
+||brettonbase.co^
 ||brhealthplanosdesaude.com.br^
 ||briarwooddrive.gq^
 ||brick.co.cr^
@@ -10295,6 +10296,7 @@
 ||eliitl.gq^
 ||elinmobiliario.pe^
 ||elisee.es^
+||elite-investment.co^
 ||elite88.co^
 ||eliteacompanhantes.com.br^
 ||eliteaviation.com.br^
@@ -11985,7 +11987,6 @@
 ||forwardprincipal.com.es^
 ||forza777login.co^
 ||fosbury.co^
-||fossiloutlet.com.mx^
 ||foto-erotica.es^
 ||fotocerrado.com.br^
 ||fotoestilo.com.br^
@@ -12393,6 +12394,7 @@
 ||gal2tgp.vila.bol.com.br^
 ||galabet.com^
 ||galacasino.com^
+||galactic-fx.co^
 ||galagate.co^
 ||galaxiagay.hpg.ig.com.br^
 ||galaxy-bets.com^
@@ -22621,7 +22623,6 @@
 ||orientacaodetcc.com.br^
 ||originalbeef.com.br^
 ||originalife.com.br^
-||originegroup.com.br^
 ||orini.comapatecoman.gob.mx^
 ||orion.es^
 ||orion.pe^
@@ -25842,6 +25843,7 @@
 ||robert-m-may.pages.net.br^
 ||robertallensystem.co^
 ||robertavisotto.adv.br^
+||robertgraham.com.co^
 ||robertinha.com.br^
 ||robertofarmaceutico.com.br^
 ||robertoferes.com.br^
@@ -30608,7 +30610,6 @@
 ||unisal-money.gq^
 ||unisateducacional.com.br^
 ||uniswap.codeislaw.co^
-||uniswapp.co^
 ||united.co^
 ||unitedairlinesreservation.co^
 ||unitedwebpay.co^
@@ -31863,6 +31864,7 @@
 ||webmail-authuser-k5fhbe.crd.co^
 ||webmail-bb.adestramentoseguro.com.br^
 ||webmail.3dproducts.com.ec^
+||webmail.account-apple.com.es^
 ||webmail.adminserver.repl.co^
 ||webmail.appel.com.br^
 ||webmail.charlottekeates.co^
