@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32919.
+! Number of entries: 32931.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-11 23:00:37 UTC.
+! Last modified: 2024-11-12 01:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -941,6 +941,7 @@
 ||account-verification.frutalia.com.py^
 ||account.com.mx^
 ||account.maximus.co^
+||account.meta.com-business.co^
 ||account.primecapitalfinance.co^
 ||accountapple.com.es^
 ||accountingdept.co^
@@ -1858,6 +1859,7 @@
 ||altromaliv.gq^
 ||altrtpgacor77.co^
 ||alttus.com.br^
+||alugueldelanchaubatuba.com.br^
 ||alugueldemotosp.com.br^
 ||aluguelemgramado.com.br^
 ||alumbradocatamarca.com.ar^
@@ -2433,6 +2435,10 @@
 ||appfirms.co^
 ||apphacks.co^
 ||apple-account.com.es^
+||apple-id.gzigvwkgw.co^
+||apple-id.rsykkyivs.co^
+||apple-id.zkakrxfgh.co^
+||apple-id.zwagizxqd.co^
 ||apple-isupport.co^
 ||apple-samsung-dyson-luxury.co^
 ||apple-verificar.es^
@@ -10649,6 +10655,7 @@
 ||eporner.com.es^
 ||eporner.com^
 ||eporno.com.br^
+||epplae.asqxkagvq.co^
 ||epplae.awsdykxgs.co^
 ||epplae.fkwgyxrxv.co^
 ||epplae.vgfrgqiyi.co^
@@ -18106,6 +18113,7 @@
 ||licaoparavida.com.br^
 ||licenciamentotraumaclinic.com.br^
 ||licensekey4u.co^
+||liceocomercialtome.cl^
 ||liceolibanes.edu.ec^
 ||liceoloscondores.cl^
 ||liceomediagm.cl^
@@ -19227,6 +19235,7 @@
 ||makerlabs.mx^
 ||makeupgirls.com.ve^
 ||makinas.cl^
+||makingtech.com.br^
 ||maladir.com.br^
 ||maladiretabrasil.com.br^
 ||malakh.cl^
@@ -20773,6 +20782,7 @@
 ||mso303vip.co^
 ||msoffice.casagrandedf.com.br^
 ||mspfidelidadecer.com.br^
+||msspoof.securitydemos.tec.br^
 ||mstacessossegurosbb.com.es^
 ||mstuard.cl^
 ||msxmail.gq^
@@ -26433,6 +26443,7 @@
 ||santoantoniomacae.com.br^
 ||santodomingo.com.co^
 ||santofficio.com.br^
+||santosoutlet.com.br^
 ||santoto.co^
 ||santotomaschia.edu.co^
 ||santrading.co^
@@ -27701,6 +27712,7 @@
 ||site-dev.smartconvert.co^
 ||site-rip.co^
 ||site.bz^
+||site.securitydemos.tec.br^
 ||site.seguro.cadastro.cliente.promocao.qualitynet.com.br^
 ||site.webtupi.com.br^
 ||sitedeapostas.com^
