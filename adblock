@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33001.
+! Number of entries: 32979.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-13 10:03:12 UTC.
+! Last modified: 2024-11-13 15:33:44 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -2358,7 +2358,6 @@
 ||apostalegal.com^
 ||apostalegal.pt^
 ||apostamos.es^
-||apostamos.mx^
 ||apostamosargentina.com^
 ||apostando24.com^
 ||apostandum.ar^
@@ -2409,6 +2408,7 @@
 ||app.68win.co^
 ||app.7xbet.co^
 ||app.8xbgroup.co^
+||app.apple-pay.co^
 ||app.jupiter.co^
 ||app.monetizze.com.br^
 ||app.o61wine.com.ar^
@@ -2447,7 +2447,6 @@
 ||apple-id.sghxqfxzi.co^
 ||apple-id.vygqkzzyy.co^
 ||apple-id.ygxgaqfwx.co^
-||apple-id.yvszvgrxw.co^
 ||apple-id.zkakrxfgh.co^
 ||apple-id.zwagizxqd.co^
 ||apple-isupport.co^
@@ -2498,7 +2497,6 @@
 ||aptra.mx^
 ||apuba.org.ar^
 ||apuesta-deportiva.com^
-||apuesta-deportiva.mx^
 ||apuesta-total.app^
 ||apuesta-total.net^
 ||apuesta.ar^
@@ -2585,13 +2583,11 @@
 ||apuestas.es^
 ||apuestas.guru^
 ||apuestas.mx^
-||apuestas.name^
 ||apuestas.net^
 ||apuestas.pe^
 ||apuestas.uy^
 ||apuestas24.ar^
 ||apuestas24.cl^
-||apuestas24.ec^
 ||apuestas24.es^
 ||apuestas24.mx^
 ||apuestas24.pe^
@@ -2655,7 +2651,6 @@
 ||apuestasonline.cl^
 ||apuestasonline.co^
 ||apuestasonline.com^
-||apuestasonline.es^
 ||apuestasonline.mx^
 ||apuestasonline.net^
 ||apuestasonline.pe^
@@ -4125,7 +4120,6 @@
 ||betgolf.com.au^
 ||betgoto.com^
 ||betgrande.com^
-||betguardian.me^
 ||betgun.com^
 ||bethaniatapetes.com.br^
 ||bethard-casino.es^
@@ -4308,7 +4302,6 @@
 ||betro.com^
 ||betrockit.com^
 ||betrogers.com^
-||bets-club.com^
 ||bets-guru.com^
 ||bets.ai^
 ||bets.ar^
@@ -4950,7 +4943,6 @@
 ||bodog.bo^
 ||bodog.cl^
 ||bodog.com^
-||bodog.ec^
 ||bodog.es^
 ||bodog.mx^
 ||bodog.pa^
@@ -6173,7 +6165,6 @@
 ||cashaa.co^
 ||cashbackcoop.co^
 ||cashkilau4d.co^
-||cashstormslots.com^
 ||casil.casil.sitiomonicaemarcia.com.br^
 ||casiniabet.com^
 ||casino-7k.co^
@@ -6377,7 +6368,6 @@
 ||casinority.com^
 ||casinoroom.com^
 ||casinoroundtable.com^
-||casinorun.com^
 ||casinos-argentina.com^
 ||casinos-argentinos.com^
 ||casinos-mexico.com.mx^
@@ -6430,7 +6420,6 @@
 ||casinosonline.com.pe^
 ||casinosonline.com^
 ||casinosonlineargentina.com^
-||casinosonlineargentina.net^
 ||casinosonlinecolombia.co^
 ||casinosonlineencolombia.co^
 ||casinosonlinehex.cl^
@@ -6977,7 +6966,6 @@
 ||cherellecheri-taylor.fondosdepantalla.com.es^
 ||cheri-caffaro.fondosdepantalla.com.es^
 ||cherry-rain.fondosdepantalla.com.es^
-||cherry.bet^
 ||cherry188.co^
 ||cherrycasino.com^
 ||cherryjackpot.com^
@@ -7667,6 +7655,8 @@
 ||collectorxxx.en.wanadoo.es^
 ||collegeporn.com.es^
 ||colmenareshuneeus.cl^
+||colnbase.ata-actitud.cl^
+||colnbase.dudunafesta.com.br^
 ||coloma.com.co^
 ||colombariempreendimentos.com.br^
 ||colombia-apuestas.com^
@@ -8144,6 +8134,7 @@
 ||correos.fodiu.co^
 ||correos.fuwan.co^
 ||correosfull.com.co^
+||correosprepago.bnext.es^
 ||correosytelegrafos.bayie.co^
 ||corretoradivicia.com.br^
 ||corretoramix.com.br^
@@ -12486,7 +12477,6 @@
 ||galviani.com.br^
 ||gambalaia.com.br^
 ||gambale.com.br^
-||gambet.com^
 ||gamblecsgo.com^
 ||gambleonline.co^
 ||gamblersbet.com^
@@ -12757,7 +12747,6 @@
 ||generatorfreeaccounts.blogspot.com.uy^
 ||generic-tenormin.gq^
 ||genericviagra.jubiiblog.com.es^
-||genesis-casino.com^
 ||genesiscasino.com^
 ||genesislegalrent.com.mx^
 ||genevawatches.co^
@@ -13169,7 +13158,6 @@
 ||googlle.es^
 ||googoe.es^
 ||goolmania.es^
-||goooooooool.com^
 ||goosebomb.com^
 ||gop1.co^
 ||goplast.com.sv^
@@ -13707,7 +13695,6 @@
 ||happybets.com^
 ||happycannibalmedia.co^
 ||happydix.com^
-||happyhentai.to^
 ||happyland.com.mx^
 ||happyleads.com.br^
 ||happyluke.com^
@@ -14021,7 +14008,6 @@
 ||hentaila.online^
 ||hentaila.org^
 ||hentaila.tv^
-||hentailat.com^
 ||hentailegendado.com^
 ||hentaili.com^
 ||hentaimama.tv^
@@ -15078,7 +15064,6 @@
 ||hot-milf.co^
 ||hotanuncio.es^
 ||hotbet.com^
-||hotbets.co^
 ||hotbrazil.app.br^
 ||hotcandidgirls.blogspot.com.uy^
 ||hotcelebs.co^
@@ -15204,6 +15189,7 @@
 ||hros.co^
 ||hrw.cl^
 ||hsbc.manialimpeza.com.br^
+||hsbcs.com.mx^
 ||hsearch-plus.co^
 ||hsearchplus.co^
 ||hsearchsmart.co^
@@ -18224,7 +18210,6 @@
 ||lilly.co^
 ||lilyblossom.es^
 ||limacinco.com.br^
-||limaemeloadvocacia.com.br^
 ||limalamalaultimadefensa.com.mx^
 ||limatecinformatica.com.br^
 ||limduc.cl^
@@ -18781,7 +18766,6 @@
 ||ls-advisors.com^
 ||lsandioery.gq^
 ||lsbet.com^
-||lsbet690.com^
 ||lsm.com.ve^
 ||lsoaterfdmnhs.gq^
 ||lsoing.cl^
@@ -19056,7 +19040,6 @@
 ||magicadz.co^
 ||magicalcasino.co^
 ||magicaltouch.co^
-||magicbet.com^
 ||magicdiet.gq^
 ||magicice.com.br^
 ||magicjackpot.bet.br^
@@ -19357,7 +19340,6 @@
 ||mangahentai.mx^
 ||mangashentais.com^
 ||mangashentaiz.com^
-||mangasiso.top^
 ||mangasjbc.com.br^
 ||mangaworldadult.net^
 ||mangax.hpg.ig.com.br^
@@ -20142,6 +20124,7 @@
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
 ||metamask-wallett.blogspot.com.br^
+||metamask-wallett.blogspot.com.co^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
 ||metamaskinc.blogspot.com.ar^
@@ -21049,7 +21032,6 @@
 ||mybcasino.ag^
 ||mybet.com^
 ||mybets.com^
-||mybettinghouse.com^
 ||mybookie.ag^
 ||mybrightidea.co^
 ||mybrowser.co^
@@ -23029,7 +23011,6 @@
 ||palmresort.co^
 ||palomosalope.en.wanadoo.es^
 ||palpites365.com^
-||palpitos.ar^
 ||palpitos.bet.ar^
 ||palpitos.co^
 ||palpitos.com.ar^
@@ -24223,7 +24204,6 @@
 ||pornofollar.es^
 ||pornofoto.co^
 ||pornofriki.es^
-||pornogayargentino.com^
 ||pornogaygratis.es^
 ||pornografia.com.br^
 ||pornografo.hpg.ig.com.br^
@@ -26353,7 +26333,6 @@
 ||saffetychecks-acuont.esy.es^
 ||safifit.com.co^
 ||safirasom.com.br^
-||safone.dev^
 ||sagame-casino.co^
 ||sagame350.co^
 ||sagame68.co^
@@ -32179,7 +32158,6 @@
 ||windd13.co^
 ||windd14.co^
 ||windmuhle.com.ar^
-||windows.com^
 ||windowsclassic.co^
 ||windowshelpdesk.gq^
 ||windowstechsupport.co^
