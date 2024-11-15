@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32977.
+! Number of entries: 32983.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-15 03:00:36 UTC.
+! Last modified: 2024-11-15 09:00:40 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -2408,6 +2408,7 @@
 ||app.68win.co^
 ||app.7xbet.co^
 ||app.8xbgroup.co^
+||app.apple-pay.co^
 ||app.jupiter.co^
 ||app.monetizze.com.br^
 ||app.o61wine.com.ar^
@@ -7657,6 +7658,7 @@
 ||collegeporn.com.es^
 ||colmenareshuneeus.cl^
 ||colnbase.ata-actitud.cl^
+||colnbase.dudunafesta.com.br^
 ||coloma.com.co^
 ||colombariempreendimentos.com.br^
 ||colombia-apuestas.com^
@@ -11192,6 +11194,7 @@
 ||expressodoisirmaos.com.br^
 ||expressoemail.com.br^
 ||expressomatogrosso.com.br^
+||expressotransplay.com.br^
 ||expressplship.co^
 ||extasy.com.ar^
 ||extenctionchrome.mx^
@@ -15190,6 +15193,7 @@
 ||hros.co^
 ||hrw.cl^
 ||hsbc.manialimpeza.com.br^
+||hsbcs.com.mx^
 ||hsearch-plus.co^
 ||hsearchplus.co^
 ||hsearchsmart.co^
@@ -20121,6 +20125,7 @@
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
 ||metamask-wallett.blogspot.com.br^
+||metamask-wallett.blogspot.com.co^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
 ||metamaskinc.blogspot.com.ar^
@@ -21941,6 +21946,7 @@
 ||nom-de-fille-chaude-sur-snapchat.blogspot.com.br^
 ||nomadicspa.cl^
 ||nombor4d.co^
+||nomicx.co^
 ||nomstudio.co^
 ||non-gamstop.co^
 ||nondtenon.gq^
