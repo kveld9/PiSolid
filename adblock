@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 32983.
+! Number of entries: 32987.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-15 09:00:40 UTC.
+! Last modified: 2024-11-15 15:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -376,6 +376,7 @@
 ||388lambosuper.co^
 ||389sportt.co^
 ||389ssport.co^
+||38e784be-8133-4660-ab6b-13654fc8e9e3-00-2v6vtotflvb3f.spock.repl.co^
 ||3agirl.co^
 ||3b28c50ea9073c53e7d0.wwwcentrum24-pl.es^
 ||3bd99d26f8b5b3ac0980.centrum24-pl.es^
@@ -2163,6 +2164,7 @@
 ||angry-birds.gq^
 ||anguerafm104.com.br^
 ||anguitagestioninmobiliaria.cl^
+||anima.art.br^
 ||animacionuruguay.com.uy^
 ||animal-hentai.com^
 ||animalclub.co^
@@ -9270,6 +9272,7 @@
 ||dhl-express-group.blogspot.com.ar^
 ||dhl-express-group.blogspot.com.uy^
 ||dhl-parcel.co^
+||dhl-tracking-au.blogspot.com.uy^
 ||dhl.andreaferrer.com.br^
 ||dhl.basai.co^
 ||dhl.e-custodia.com.ec^
@@ -11333,6 +11336,7 @@
 ||faecebook.co^
 ||fafisio.com.br^
 ||faicarde.gq^
+||fail.adr.ec^
 ||faionline.edu.br^
 ||fairbet.com^
 ||faireegli.net^
@@ -16576,6 +16580,7 @@
 ||jhonbet77e.co^
 ||jhonnyxxx.xpg.com.br^
 ||jhonnyxxx1.xpg.com.br^
+||jhsbrasil.com.br^
 ||jhsstudio.com.br^
 ||ji6o3cz3.co^
 ||jiaufib.zz.com.ve^
@@ -23274,7 +23279,6 @@
 ||pay-pal-info1.gq^
 ||pay.bluxprize.com.br^
 ||paybets.com^
-||payconiqs.co^
 ||payet.com.mx^
 ||payfastsolutions.co^
 ||payforcu.gq^
