@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33129.
+! Number of entries: 33126.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-16 21:00:37 UTC.
+! Last modified: 2024-11-17 03:00:38 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1187,6 +1187,7 @@
 ||adrimar.com.br^
 ||adrinvaresort.gq^
 ||adro.co^
+||ads-api.videy.co^
 ||ads-fb.co^
 ||ads-page.co^
 ||ads.4x4brasil.com.br^
@@ -1211,7 +1212,9 @@
 ||ads.tripod.lycos.es^
 ||ads.videy.co^
 ||ads1.telecentro.net.ar^
+||ads2.videy.co^
 ||ads3.hpg.com.br^
+||ads3.videy.co^
 ||ads508.co^
 ||adsacionamentos.com.br^
 ||adserver-2.ig.com.br^
@@ -1665,7 +1668,6 @@
 ||aldeiabiquinis.com.br^
 ||aldeiario.org.br^
 ||alderdice.com.br^
-||aldiablo.cl^
 ||alecrimatelie.com.br^
 ||alecrimcosmeticos.com.br^
 ||alegrashow.com.br^
@@ -7358,7 +7360,6 @@
 ||climatizacionesmaturana.cl^
 ||climbbet.com^
 ||clinfaceslz.com.br^
-||clinica-capilar.es^
 ||clinicaabboud.com.br^
 ||clinicaalexim.com.br^
 ||clinicaargensola.es^
@@ -9309,7 +9310,6 @@
 ||dhl-express-group.blogspot.com.ar^
 ||dhl-express-group.blogspot.com.uy^
 ||dhl-parcel.co^
-||dhl-tracking-au.blogspot.com.uy^
 ||dhl.andreaferrer.com.br^
 ||dhl.basai.co^
 ||dhl.e-custodia.com.ec^
@@ -9559,7 +9559,6 @@
 ||discordalt5.repl.co^
 ||discordalts293.repl.co^
 ||discordapp.co^
-||discordapps.co^
 ||discordlist.repl.co^
 ||discordnitro.co^
 ||discordnitro9.repl.co^
@@ -11572,7 +11571,6 @@
 ||fecko.es^
 ||fedecazabarcelona.es^
 ||federaltoldosdf.com.br^
-||fedex.bigdev.co^
 ||fedexpesca.es^
 ||fedicv.es^
 ||feelingss.gq^
@@ -23188,7 +23186,6 @@
 ||pank.com.br^
 ||panoramasat.com.br^
 ||panosexe.en.wanadoo.es^
-||pantekkalisakitkepalaku.blogspot.com.ar^
 ||pantekkalisakitkepalaku.blogspot.com.es^
 ||pantherattic.co^
 ||panthermail.com.br^
@@ -30507,6 +30504,7 @@
 ||tulontintas.com.br^
 ||tulotero.es^
 ||tulotero.mx^
+||tumagiagratis.aprendemagia.cl^
 ||tumejorperfume.es^
 ||tumima.gq^
 ||tuminita.cl^
@@ -31638,7 +31636,6 @@
 ||viva.api.xiaoying.co^
 ||vivabemshop.com.br^
 ||vivabemtododia.com.br^
-||vivachina.co^
 ||vivacidade.com.br^
 ||vivaescorts.es^
 ||vivafelizmt.com.br^
