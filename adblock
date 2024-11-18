@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33131.
+! Number of entries: 33128.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-18 03:00:39 UTC.
+! Last modified: 2024-11-18 09:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1234,7 +1234,6 @@
 ||adsk2.co^
 ||adskeeper.co^
 ||adsload.co^
-||adsmetrics.co^
 ||adsoft.com.pe^
 ||adsprout.co^
 ||adsquared.co^
@@ -13883,7 +13882,6 @@
 ||help-center.co^
 ||help-edfrg.gq^
 ||help-edfrgt.gq^
-||help-eportal.com.es^
 ||help-ertgf.gq^
 ||help-ertgfd.gq^
 ||help-fdertg.gq^
@@ -18604,7 +18602,6 @@
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.pesiarbet4.co^
 ||login.regista2017pages.gq^
-||login.uxinnovation.com.br^
 ||loginak.bancogalicianp.com.ar^
 ||loginasiahoki77.co^
 ||loginawalslot.co^
@@ -22596,6 +22593,7 @@
 ||online.casino^
 ||online.cr^
 ||online.fadisma.com.br^
+||online.secureonline.com.es^
 ||onlinealertprotect.gq^
 ||onlinealertprotectorz.gq^
 ||onlineapuestas.cl^
@@ -24141,7 +24139,6 @@
 ||poligami168.com.chang99.co^
 ||polimetal.com.ar^
 ||polinew.com.br^
-||polipastosmexico.com.mx^
 ||poliself.com.br^
 ||polished-truth-3269.on.fleek.co^
 ||polishway.carrd.co^
