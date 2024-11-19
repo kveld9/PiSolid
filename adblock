@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33138.
+! Number of entries: 33142.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-18 21:00:42 UTC.
+! Last modified: 2024-11-19 03:00:40 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1949,6 +1949,7 @@
 ||amazemdodesconto.com.br^
 ||amazingshrooms.co^
 ||amazon-support.co^
+||amazon.org.bz^
 ||amazonas365.com.br^
 ||amazonasonline.cl^
 ||amazoncareers.co^
@@ -3604,6 +3605,7 @@
 ||bcgfh.co^
 ||bclick.com.br^
 ||bcnvip.com.es^
+||bcoterceirizacao.com.br^
 ||bcp.futbolfinanciero.com.pe^
 ||bctdhkl.co^
 ||bctenlinea-com.webnode.es^
@@ -10135,6 +10137,7 @@
 ||ecologiktransporte.com.ar^
 ||ecoluc.com.br^
 ||ecoluz.com.co^
+||ecom-group.co^
 ||ecom1.com.mx^
 ||ecomak.cl^
 ||ecomhlp.co^
@@ -11077,6 +11080,7 @@
 ||etiketa.com.br^
 ||etimus.com.br^
 ||etiquetasebrindes.com.br^
+||etisa.mimascota.pe^
 ||etmega.com.br^
 ||etole.com.br^
 ||etoll.govpl.co^
@@ -11781,6 +11785,7 @@
 ||fin99.co^
 ||finalbet.com^
 ||finalcountdown.co^
+||finalistcontesthub.000.pe^
 ||finallyti.com.br^
 ||finamor.com.br^
 ||financeiromasterfp.net.br^
@@ -13656,7 +13661,6 @@
 ||gycemltda.cl^
 ||gycltda.cl^
 ||gydra2web.co^
-||gylmaquinarias.pe^
 ||gymcraft.es^
 ||gymsharkbogota.com.co^
 ||gymsharkmexicotiendas.com.mx^
@@ -15902,6 +15906,7 @@
 ||informeservidor.com.br^
 ||inforperson.com.br^
 ||inforserveis.es^
+||infos-postale.x10.mx^
 ||infoshopy.com.br^
 ||infoside.inf.br^
 ||infotecaustral.com.ar^
@@ -17225,6 +17230,7 @@
 ||kifortequimica.com.br^
 ||kijangbos.co^
 ||kijangwin.co^
+||kikeflix.perlaweb.es^
 ||kikorpo.com.br^
 ||kilat69.co^
 ||kilat77.bz^
@@ -20861,6 +20867,7 @@
 ||moviewordle.co^
 ||movilhentai.com^
 ||movimientociudadanozac.org.mx^
+||movingbros.co^
 ||movistarporta.com.ar^
 ||movitek.cl^
 ||mozaikformaturas.com.br^
@@ -22342,7 +22349,6 @@
 ||odontologiaintegra.com.br^
 ||odontologiamontevideo.com.uy^
 ||odontologiaoralalcance.com.br^
-||odontoopp.com.br^
 ||odontorio.com.br^
 ||odprint.com.br^
 ||oe24.co^
@@ -26607,6 +26613,7 @@
 ||santanderweb.clientes.ananke.com.br^
 ||santavita.com.br^
 ||sante.cl^
+||santepharma.com.br^
 ||santiagoimoveispadua.com.br^
 ||santiagoingaramo.com.ar^
 ||santinas.cl^
@@ -29884,7 +29891,6 @@
 ||tiket777.co^
 ||tiket777aja.co^
 ||tiket777pro.co^
-||tiktok.es^
 ||tiktok.pro.br^
 ||tiktok18.com.br^
 ||tiktok22.co^
@@ -30419,7 +30425,6 @@
 ||tropicalcashcasino.co^
 ||tropicalpaisagem.com.br^
 ||tropilhagrillchurrascaria.com.br^
-||tropimart.co^
 ||tropitalia.com.br^
 ||trovaomotoclube.com.br^
 ||trr20181112200655341.domtemporario.com.br^
@@ -30687,7 +30692,6 @@
 ||uggbootclearance.net.co^
 ||uggboots.nom.co^
 ||uggbootsclearance.net.co^
-||uggoutletsale.net.co^
 ||uggsboots-outlet.com.co^
 ||uggshoes.co^
 ||uglow.com.co^
