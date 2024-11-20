@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33319.
+! Number of entries: 33327.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-20 15:00:36 UTC.
+! Last modified: 2024-11-20 21:00:45 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -19,7 +19,6 @@
 ||01blonde.en.wanadoo.es^
 ||01brunette.en.wanadoo.es^
 ||01cdsex.hpg.ig.com.br^
-||01up4zpe8us.co^
 ||0298d618.cftvpinheiro.com.br^
 ||02s.co^
 ||03777.co^
@@ -198,6 +197,7 @@
 ||1win.casino^
 ||1win.cl^
 ||1win.com.br^
+||1win.com.mx^
 ||1win.com.ve^
 ||1win.com^
 ||1win.ec^
@@ -349,6 +349,7 @@
 ||30aceph.co^
 ||3115c.co^
 ||315c25c0d5012f500aa1.centrum24-pl.es^
+||31betvnd.co^
 ||3257894.co^
 ||32express.com.br^
 ||32red.com^
@@ -4486,6 +4487,7 @@
 ||betvip.com^
 ||betvip.mx^
 ||betvirtual.co^
+||betvnd54.co^
 ||betvortex.com^
 ||betwarrior.ar^
 ||betwarrior.bet.ar^
@@ -7153,6 +7155,7 @@
 ||ciadoemail.com.br^
 ||ciadorh.com.br^
 ||ciadosexo.com.br^
+||ciagenesis.com.br^
 ||ciagps.com.br^
 ||cial.gq^
 ||cialisonline.es^
@@ -9259,7 +9262,6 @@
 ||dev7.com.br^
 ||devassa.com.br^
 ||devconn.co^
-||devgrosafety.com.br^
 ||devguys.com.ve^
 ||devicer.co^
 ||devilamontes.com.br^
@@ -13521,6 +13523,7 @@
 ||grupodisal.com.co^
 ||grupodoma.com.mx^
 ||grupodpi.pe^
+||grupodulcemar.pe^
 ||grupoehouse.com.ar^
 ||grupofarra.com.br^
 ||grupofergus.com.bo^
@@ -15386,6 +15389,7 @@
 ||hulk123.co^
 ||humancm.com.mx^
 ||humanitae.com.pe^
+||humanresource.tmbbank.co^
 ||humnchck.co^
 ||humorchiquedobrasil.com.br^
 ||hundsige.gq^
@@ -21374,6 +21378,7 @@
 ||nakedgirl.co^
 ||nakedgirls.bz^
 ||nakedgirlspics.co^
+||nakedwolfecolombia.com.co^
 ||namade.cl^
 ||namastea.es^
 ||namebright.com^
@@ -21853,6 +21858,7 @@
 ||new788.co^
 ||new8811.co^
 ||new883.co^
+||new884.co^
 ||new887.co^
 ||new889.ec^
 ||newage.art.br^
@@ -24721,6 +24727,7 @@
 ||pppemudatogel.co^
 ||pppemudattogel.co^
 ||pprno.co^
+||ppsromeral.cl^
 ||ppyp.radiosuperstereo.com.pe^
 ||pqnjscmrwj.hotelplazatacna.pe^
 ||pr5.net.br^
@@ -32627,6 +32634,7 @@
 ||wsjuara.co^
 ||wsmselaludihati.co^
 ||wsuqaftp73.en.wanadoo.es^
+||wtics.com.ar^
 ||wtm.monitoringservice.co^
 ||wtobetbet.co^
 ||wtobetbit.co^
