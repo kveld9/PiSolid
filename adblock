@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33322.
+! Number of entries: 33319.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-20 09:00:36 UTC.
+! Last modified: 2024-11-20 15:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -5797,7 +5797,6 @@
 ||caja-trujillo.com.pe^
 ||caja.cahtracativen.com.ve^
 ||cajaforense-sde.com.ar^
-||cajasamerica.com.mx^
 ||cajatruj1llo.com.pe^
 ||cajpe.org.pe^
 ||cakepress.es^
@@ -11691,6 +11690,7 @@
 ||ferracur.com.ar^
 ||ferrali.es^
 ||ferramentariamorais.com.br^
+||ferreiragascuritiba.com.br^
 ||ferreiros.pe.gov.br^
 ||ferrelectricosdiegonovoa.co^
 ||ferrer-guillen.es^
@@ -19310,7 +19310,6 @@
 ||mail-webmail.pagedemo.co^
 ||mail-work.com.br^
 ||mail.alphaing.com.ar^
-||mail.apexintl.co^
 ||mail.arleimedeiros.com.br^
 ||mail.artarq.com.br^
 ||mail.autotuning.cl^
@@ -20323,7 +20322,6 @@
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
 ||metamask-wallett.blogspot.com.br^
-||metamask-wallett.blogspot.com.co^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
 ||metamaskinc.blogspot.cl^
@@ -24613,7 +24611,6 @@
 ||portopraianorte.com.br^
 ||portuguesamaluca.com.br^
 ||porzo.com^
-||pos.binsa.co^
 ||posadaenmerida.com.ve^
 ||posadaladesmera.es^
 ||posadapedroelgrande.com.ve^
