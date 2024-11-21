@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33330.
+! Number of entries: 33327.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-21 03:00:36 UTC.
+! Last modified: 2024-11-21 09:00:35 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1894,6 +1894,7 @@
 ||alumichapas.com.br^
 ||aluminsumos.com.br^
 ||alumividros.ind.br^
+||alumnos.siged.mx^
 ||alunopiloto.com.br^
 ||alupix.com.br^
 ||aluplast.cl^
@@ -3313,7 +3314,6 @@
 ||b365.com^
 ||b52a.bz^
 ||b52club.pe^
-||b58d3f4b.prooffices.com.br^
 ||b8e5372c835694f68964788-goonlinebnpparibas.pl-pl.es^
 ||b8my.co^
 ||b9259371.cftvpinheiro.com.br^
@@ -13026,7 +13026,6 @@
 ||gimolukegie.blogspot.com.es^
 ||gimp.es^
 ||gina.no^
-||ginabelle.es^
 ||ginbang.co^
 ||gingreree.gq^
 ||giok168.co^
@@ -21821,7 +21820,6 @@
 ||netinformativo.com.br^
 ||netizen.co^
 ||netlens.com.br^
-||netlife.ec^
 ||netlive.net.br^
 ||netplaca.com.br^
 ||netplay247.com^
@@ -28369,6 +28367,7 @@
 ||sofrimex.com.mx^
 ||soft-bonus-0915.on.fleek.co^
 ||soft-got.co^
+||softair.com.mx^
 ||softbet.eu^
 ||softclick.com.br^
 ||softcorporation.com.br^
@@ -28671,7 +28670,6 @@
 ||sportium.es^
 ||sportium.pa^
 ||sportium.pe^
-||sportiumbet.mx^
 ||sportlemon.tv^
 ||sportpesa.com^
 ||sportretsuren.gq^
@@ -31766,7 +31764,6 @@
 ||virgincasino.com^
 ||virginoff.com.ar^
 ||virilforce.med.br^
-||virlan.co^
 ||virttes.gq^
 ||virtuabr.com.br^
 ||virtuagirl.co^
