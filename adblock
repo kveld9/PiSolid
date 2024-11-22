@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33334.
+! Number of entries: 33338.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-22 09:00:36 UTC.
+! Last modified: 2024-11-22 15:00:35 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1389,6 +1389,7 @@
 ||agencia2056.com.br^
 ||agencia2062.com.br^
 ||agenciaaltus.com.br^
+||agenciaancla.com.ar^
 ||agenciaasgard.com.ve^
 ||agenciabbi.com.br^
 ||agenciacanzar.com.br^
@@ -8652,6 +8653,7 @@
 ||cvl1pyeixs.en.wanadoo.es^
 ||cvnbmbn.co^
 ||cvsmobile.com.br^
+||cw2tc5vnhtgbplb65cgkruzgfgc0nnco2q9.organizar.arq.br^
 ||cwadistribuidoradelivros.com.br^
 ||cwconsultores.cnt.br^
 ||cworth.smartconvert.co^
@@ -13599,6 +13601,7 @@
 ||gsbdnx.blogspot.mx^
 ||gscseguranca.com.br^
 ||gsexy.com.br^
+||gsfaggsagsgasfgg.x10.mx^
 ||gshocks.com.mx^
 ||gsn.com.mx^
 ||gsnhxd.blogspot.mx^
@@ -16127,6 +16130,7 @@
 ||institutobushido.org.br^
 ||institutocarlosdourado.com.br^
 ||institutocefop.com.br^
+||institutodentalsante.com.br^
 ||institutodepatologia.com.py^
 ||institutoellas.com.br^
 ||institutofazendoadiferenca.com.br^
@@ -18955,6 +18959,7 @@
 ||lporno.hpg.com.br^
 ||lpsexxx.com.ar^
 ||lpv.cl^
+||lpyxcujiqs82pluikymoilfiogvqavyx8im.organizar.arq.br^
 ||lrassessoriacerimonial.com.br^
 ||lrenvios.com.br^
 ||lrwebstudio.com.br^
@@ -20846,7 +20851,6 @@
 ||monclersale.co^
 ||monclershopberlin.co^
 ||mondaymornings.co^
-||mondiairelay.co^
 ||mondiairelay.hn^
 ||mondialeacrilicos.com.br^
 ||monel.popstudios.com.sv^
@@ -22280,7 +22284,6 @@
 ||novinhasporno.com.br^
 ||novinhasprime.com.br^
 ||novinhaszapzap.com.br^
-||novo.zco.net.br^
 ||novoconstructora.es^
 ||novoglass.com.co^
 ||novoib5.7comm.com.br^
@@ -30528,6 +30531,7 @@
 ||trebtedonrestci.gq^
 ||treeskijang.co^
 ||treetech.ind.br^
+||treinamento.convenio.to.gov.br^
 ||treinamentociarh.com.br^
 ||treinamentosexecutivos.com.br^
 ||treinamentosok.com.br^
