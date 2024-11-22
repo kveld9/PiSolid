@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33330.
+! Number of entries: 33333.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-21 21:00:38 UTC.
+! Last modified: 2024-11-22 03:00:33 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1721,6 +1721,7 @@
 ||alfcasino.com^
 ||alfibras.com.br^
 ||alfredosfeir.cl^
+||alg-infor.com.br^
 ||algarrobodirecto.cl^
 ||algo-management.co^
 ||algo-robot.co^
@@ -6905,6 +6906,7 @@
 ||chas.stepon.co^
 ||chaseauthorizationcenterupdateaccountaccess.onbeat.co^
 ||chaseonline.chase.com.mdwe.com.br^
+||chaserefundonline.chaseonlinesupport.wucher.co^
 ||chat-caliente.es^
 ||chat-msn.com.ar^
 ||chat-openai.co^
@@ -9053,6 +9055,7 @@
 ||degradable.com.ar^
 ||degung-tv.gq^
 ||deisecarvalho.com.br^
+||deividwisley.com.br^
 ||deixaeutemostrar.com.br^
 ||deixandovocemaisbela.com.br^
 ||deixarderoncar.com.br^
@@ -12748,7 +12751,6 @@
 ||gate777.com^
 ||gatesway.trade-software.co^
 ||gatesways.co^
-||gatewayexchanges.co^
 ||gatoteencd.hpg.ig.com.br^
 ||gatwickascensores.cl^
 ||gaug.es^
@@ -13332,7 +13334,6 @@
 ||gourmetcuiaba.com.br^
 ||gouthealthy.co^
 ||gouveafoodservice.com.br^
-||gov.natorganico.agr.br^
 ||govbanteng69.co^
 ||governa.com.br^
 ||govnow.co^
@@ -16947,7 +16948,6 @@
 ||jstar888.co^
 ||jtattoo.com.br^
 ||jtexpress.cumiu.co^
-||jtexpress.guhou.co^
 ||juancasino.com^
 ||juancrismar.edu.co^
 ||juangaravaglia.com.ar^
@@ -20344,6 +20344,7 @@
 ||metamaskinc.blogspot.mx^
 ||metamaskinc.blogspot.pe^
 ||metamasksigins.blogspot.cl^
+||metamasksigins.blogspot.com.br^
 ||metamasksigins.blogspot.pe^
 ||metamasskluginn.blogspot.cl^
 ||metamasskluginn.blogspot.com.ar^
@@ -20983,7 +20984,6 @@
 ||moviewordle.co^
 ||movilhentai.com^
 ||movimientociudadanozac.org.mx^
-||movingbros.co^
 ||movistarporta.com.ar^
 ||movitek.cl^
 ||mozaikformaturas.com.br^
@@ -26769,6 +26769,7 @@
 ||santanderweb.clientes.ananke.com.br^
 ||santavita.com.br^
 ||sante.cl^
+||santepharma.com.br^
 ||santiagoimoveispadua.com.br^
 ||santiagoingaramo.com.ar^
 ||santinas.cl^
@@ -27061,6 +27062,7 @@
 ||segurancanobanco.com.br^
 ||segurancarmada.com.br^
 ||seguridad-bancaria-banpro2.webnode.es^
+||seguridad-bancaria-banpro3.webnode.es^
 ||seguridadalentis.es^
 ||seguridadvirtual.co^
 ||seguroagricolachile.cl^
@@ -28517,6 +28519,7 @@
 ||sourceusedirection.mypi.co^
 ||sousaveiculos.com.br^
 ||southafricancasinos.co.za^
+||southalcu.mx^
 ||southark.co^
 ||southerncharmespresso.co^
 ||southlandcasino.com^
@@ -29695,7 +29698,6 @@
 ||telefonsex-cam.co^
 ||telegarnn.co^
 ||telegeam.co^
-||telegram.bz^
 ||telegramcasinos.org^
 ||telegramcn.co^
 ||telegramputaria.blog.br^
@@ -29834,7 +29836,6 @@
 ||tetonasde18.es^
 ||tetra-invest.co^
 ||tevafrance.co^
-||tevatrade.co^
 ||tewsusa.co^
 ||texascasino.com^
 ||textil-once.com.ar^
@@ -30870,6 +30871,7 @@
 ||uggbootclearance.net.co^
 ||uggboots.nom.co^
 ||uggbootsclearance.net.co^
+||uggoutletsale.net.co^
 ||uggsboots-outlet.com.co^
 ||uggshoes.co^
 ||uglow.com.co^
@@ -33248,6 +33250,7 @@
 ||zeusnaga169.co^
 ||zeusqq.co^
 ||zeuuss121.co^
+||zgi3258m.paperform.co^
 ||zgptfztqa.leviathan.com.pe^
 ||zhentube.com^
 ||zi-chem.co^
