@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33333.
+! Number of entries: 33334.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-22 03:00:33 UTC.
+! Last modified: 2024-11-22 09:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1902,6 +1902,7 @@
 ||aluver.es^
 ||aluxor.es^
 ||alvapropiedades.cl^
+||alvarogil.com.pe^
 ||alven-sa.com.ar^
 ||alvesemendesassociados.com.br^
 ||alvimadv.com.br^
@@ -2238,6 +2239,7 @@
 ||anon-ib.co^
 ||anonews.co^
 ||anonibet.com^
+||anonnews.co^
 ||anonymbet.co^
 ||anoregms.org.br^
 ||anperbue.gq^
@@ -2453,6 +2455,7 @@
 ||app1e0n.repl.co^
 ||app1ejuic3.repl.co^
 ||app1esauce.repl.co^
+||app2.regionapurimac.gob.pe^
 ||app33076.hol.es^
 ||app4237.hol.es^
 ||app800694.hol.es^
@@ -3618,7 +3621,6 @@
 ||bbrp.co^
 ||bbscnews.cl^
 ||bbt.adv.br^
-||bbvanetcash.mx^
 ||bbw.bz^
 ||bc.co^
 ||bc.game^
@@ -8423,7 +8425,6 @@
 ||cronoscapital.com.mx^
 ||cronosystem.cl^
 ||croontites.gq^
-||crossback.cl^
 ||crossbet.com^
 ||crossbets.com^
 ||crossfitlionsfire.com.br^
@@ -11313,7 +11314,6 @@
 ||extremeteens.co^
 ||extremgirl.hpg.com.br^
 ||eyechannel.com.br^
-||eyjppcw2imcbogrjcnsypnyw2f08r9ljova.organizar.arq.br^
 ||ezbarcelonaez.com.br^
 ||ezbet.com^
 ||ezbets.ag^
@@ -21016,7 +21016,6 @@
 ||mrfly.com.ar^
 ||mrfly.es^
 ||mrgreen.com^
-||mrhmjb7qjiqmduuzom52k7ct5u313cb6mv5.organizar.arq.br^
 ||mrhowtos.com^
 ||mrjackpotspins.com^
 ||mrlimo.com.bo^
@@ -32437,6 +32436,7 @@
 ||whatsthere.co^
 ||wheelzone.co^
 ||whereismommy.gq^
+||whf.bz^
 ||white-bonus-6942.on.fleek.co^
 ||whitebet.com^
 ||whitedresses.co^
@@ -32647,6 +32647,7 @@
 ||wttgjumanji.gq^
 ||wuhentai.hpg.ig.com.br^
 ||wunderino.com^
+||wunderkind.co^
 ||wuopo.com^
 ||wusysoz.gq^
 ||wuywu.cl^
