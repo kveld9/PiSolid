@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33338.
+! Number of entries: 33334.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-22 15:00:35 UTC.
+! Last modified: 2024-11-22 21:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -853,7 +853,6 @@
 ||ablinks.mail.hinge.co^
 ||ablusa.org.br^
 ||abmsolucionesti.com.ar^
-||abn-amro-sandbox.0xauth.co^
 ||abn.info.ve^
 ||abnmv.co^
 ||abobet.co^
@@ -1767,6 +1766,7 @@
 ||alleagro.tecnoshot.cl^
 ||alleagro.yacolor.cl^
 ||alleegro.palcar.cl^
+||allegro.offernest.co^
 ||allegro.pl-login.form-art29401.usr20198.gq^
 ||allegro.pl-login.form-art29401.usr2365.gq^
 ||allegro.pl-login.form-art29401.usr73628.gq^
@@ -3189,6 +3189,7 @@
 ||autopartesacr.com.mx^
 ||autopecasjoaquinense.com.br^
 ||autores.ra-ma.es^
+||autoridad-dela-cooperativa-de-credito.mx^
 ||autorrebentar.hpg.ig.com.br^
 ||autosblogs.co^
 ||autoshoppingmaceio.com.br^
@@ -5289,7 +5290,6 @@
 ||br736.hostgator.com.br^
 ||brabet.com^
 ||bradesco.appempresarial.com.br^
-||bradesco.batepapoempresarial.com.br^
 ||bradesco.mv7digital.com.br^
 ||bradescob2bcompras.com.br^
 ||bradescoplanodesaude.com.br^
@@ -7324,7 +7324,6 @@
 ||clanlenpa.gq^
 ||clarabia.com.br^
 ||clarapak.org^
-||clarks-chile.cl^
 ||clarks-colombia.co^
 ||clarksspain.com.es^
 ||claro-net-emta.aceite.fbiz.com.br^
@@ -7662,7 +7661,6 @@
 ||coinbase-com.treco.cl^
 ||coinbase-revoke.radiokec.es^
 ||coinbase-wallet-setup.amerexpo.mx^
-||coinbase-wallet-setup.exprimiendoideas.com.mx^
 ||coinbase.com.eslogin.co^
 ||coinbaselogin.blogspot.com.uy^
 ||coinbursts10.co^
@@ -8785,7 +8783,6 @@
 ||czechvideo.co^
 ||czeckmate.hpg.ig.com.br^
 ||czv.eng.br^
-||czypavxsy.leviathan.com.pe^
 ||d-1.co^
 ||d-bet.com^
 ||d-boxing.on.fleek.co^
@@ -11085,7 +11082,6 @@
 ||estructuraviglianco.com.ar^
 ||estrutularengenharia.com.br^
 ||estruturalpaulista.com.br^
-||estruturapedras.com.br^
 ||estuarioempresas.cl^
 ||estudiantespervertidas.es^
 ||estudiarenelextranjero.mx^
@@ -12498,7 +12494,6 @@
 ||fvplanner.com.br^
 ||fw.bz^
 ||fw88wallet.co^
-||fwemtczjl.leviathan.com.pe^
 ||fx0292.gq^
 ||fxa21.vila.bol.com.br^
 ||fxa27.vila.bol.com.br^
@@ -17546,7 +17541,6 @@
 ||kouaaire.co^
 ||koussayjhon.gq^
 ||koutburgvil.gq^
-||kpmjmmrjr.leviathan.com.pe^
 ||kraft.eng.br^
 ||krafthaus.com.br^
 ||kralken.co^
@@ -18710,7 +18704,6 @@
 ||login-cpg-team-cpg-setup-connect.customer-secure-cg-bin-update.arcones.com.mx^
 ||login-paypal.es^
 ||login.account.co-jp.haikouujknbqg.co^
-||login.empresasmqs.cl^
 ||login.help-jhy.gq^
 ||login.hypeevent.repl.co^
 ||login.instag.repl.co^
@@ -18817,6 +18810,7 @@
 ||lonecesario.es^
 ||longchaflong.gq^
 ||longchamp-italia.co^
+||longchamp-kuwait.co^
 ||longchamphandbags.com.co^
 ||longchamppolska.co^
 ||longdresses.co^
@@ -20732,7 +20726,6 @@
 ||mmnwatches.co^
 ||mmpartner.com.br^
 ||mmpfps.com.br^
-||mmsoftwares.com.br^
 ||mmsolucionestecnologicas.com.ve^
 ||mmsport.com.br^
 ||mmx.co^
@@ -22147,6 +22140,7 @@
 ||nobitabetc.co^
 ||noblejili.co^
 ||nobrecargo.com.br^
+||nobull-colombia.co^
 ||nobull-colombia.com.co^
 ||nobull-mexico.com.mx^
 ||nobullcolombia.co^
@@ -24303,6 +24297,7 @@
 ||pollaya.com^
 ||pollybrinquedos.com.br^
 ||pollyestetica.com.br^
+||pollyggon.blogspot.mx^
 ||polobr.com.br^
 ||polodeinovacao.ifmg.edu.br^
 ||polofrancanoti.com.br^
@@ -24339,6 +24334,7 @@
 ||popayan.cl^
 ||popcorntime.com.br^
 ||popcornvod.co^
+||popflex.com.co^
 ||popgraf.cl^
 ||popgraphics.cl^
 ||popi99.co^
@@ -24575,6 +24571,7 @@
 ||port.cs-logs.gq^
 ||portablespins.co^
 ||portadeenrolar.ind.br^
+||portal-walletconnect.co^
 ||portal.completa.com.br^
 ||portal.infiniteconsulting.com.br^
 ||portal.xinloiduocchua.co^
@@ -24606,7 +24603,6 @@
 ||portalprogramas.com^
 ||portalsegurosbr.com.br^
 ||portalturistico.com.br^
-||portalusuariospostpagos.co^
 ||portalvarejista.com.br^
 ||portalvivoligado.com.br^
 ||portalvoyeur.es^
@@ -24950,7 +24946,6 @@
 ||pro5.cl^
 ||pro506vca.com.br^
 ||proaitrading.co^
-||proamerica.es^
 ||proanalise-rs.com.br^
 ||proanuncios.mx^
 ||probonos.gq^
@@ -28417,6 +28412,7 @@
 ||soldagro.cl^
 ||soldmix.com.br^
 ||solefrutti.cl^
+||solegains.co^
 ||solicitarcotacao.com.br^
 ||solicitud-de-firma-digital-20245.webnode.cr^
 ||solidar.cl^
