@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33457.
+! Number of entries: 33452.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-24 09:00:34 UTC.
+! Last modified: 2024-11-24 15:00:34 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1041,7 +1041,6 @@
 ||acpbdf.com.br^
 ||acquireinfotech.co^
 ||acrcoberturas.com.br^
-||acreditaciones.fcf.com.co^
 ||acrel.com.br^
 ||acrilgraf.cl^
 ||acrilicosespeciales.com.mx^
@@ -1983,6 +1982,7 @@
 ||amazonica-ita.com.br^
 ||amazonin.co^
 ||amazonmoney.co^
+||amazono.com.co^
 ||amazonoffice.com.br^
 ||amazonoin.co^
 ||amazonprofits.co^
@@ -2248,7 +2248,6 @@
 ||anon-ib.co^
 ||anonews.co^
 ||anonibet.com^
-||anonnews.co^
 ||anonymbet.co^
 ||anoregms.org.br^
 ||anperbue.gq^
@@ -8406,7 +8405,6 @@
 ||criacaodesitesbhmg.com.br^
 ||criativomec.com.br^
 ||cribaise.en.wanadoo.es^
-||cribasa.cl^
 ||cricbuzz365.co^
 ||cricketbetlive.com^
 ||crid.fmrp.usp.br^
@@ -8672,7 +8670,6 @@
 ||cvl1pyeixs.en.wanadoo.es^
 ||cvnbmbn.co^
 ||cvsmobile.com.br^
-||cw2tc5vnhtgbplb65cgkruzgfgc0nnco2q9.organizar.arq.br^
 ||cwadistribuidoradelivros.com.br^
 ||cwconsultores.cnt.br^
 ||cworth.smartconvert.co^
@@ -15203,7 +15200,6 @@
 ||horseandauto.com.es^
 ||horseandcarsite.com.es^
 ||horseandcarworld.com.es^
-||hortifrutisolar.com.br^
 ||hortodoype.com.br^
 ||horusfit.com.br^
 ||horusserver.com.br^
@@ -16171,7 +16167,6 @@
 ||institutobushido.org.br^
 ||institutocarlosdourado.com.br^
 ||institutocefop.com.br^
-||institutodentalsante.com.br^
 ||institutodepatologia.com.py^
 ||institutoellas.com.br^
 ||institutofazendoadiferenca.com.br^
@@ -19020,7 +19015,6 @@
 ||lporno.hpg.com.br^
 ||lpsexxx.com.ar^
 ||lpv.cl^
-||lpyxcujiqs82pluikymoilfiogvqavyx8im.organizar.arq.br^
 ||lrassessoriacerimonial.com.br^
 ||lrenvios.com.br^
 ||lrwebstudio.com.br^
@@ -26847,6 +26841,7 @@
 ||sanpix.com.br^
 ||sanrafaelexport.cl^
 ||sanrafaelsl.com.br^
+||sanseipecas.com.br^
 ||santacasadeacari.com.br^
 ||santacasino.com^
 ||santacatalina.org.pe^
@@ -28124,7 +28119,6 @@
 ||sis4dwin.co^
 ||sisbahia.coppe.ufrj.br^
 ||sisbracom.com.br^
-||siscorp.mx^
 ||sisel.cl^
 ||sisgaucom.com.br^
 ||sisi88.co^
@@ -32544,6 +32538,7 @@
 ||whatelsefloat.com.es^
 ||whatelseonline.com.es^
 ||whatmommyneeds.com.br^
+||whats-app-eros.mypi.co^
 ||whatsapp-bachup.com.br^
 ||whatsapp.italia-app.ap2018.co^
 ||whatsapp.pepe.app.br^
