@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33458.
+! Number of entries: 33457.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-24 03:00:37 UTC.
+! Last modified: 2024-11-24 09:00:34 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -7290,6 +7290,7 @@
 ||cirsa.es^
 ||cirugiamenor.cl^
 ||cirurgicarocha.com.br^
+||cis.uabjb.edu.bo^
 ||cisco.com.gruaselpiojito.com.mx^
 ||cisol.ind.br^
 ||cita.galetto.com.ar^
@@ -8193,7 +8194,6 @@
 ||cordondeoro.com.ar^
 ||coredatamtnc.co^
 ||coreral.gq^
-||coretalk.co^
 ||corg.co^
 ||corla188.mx^
 ||corla188gacor.co^
@@ -17720,7 +17720,6 @@
 ||labaulera.com.ar^
 ||labfertil.com.br^
 ||labibliahabla.com.ar^
-||labin.com.br^
 ||labirinthus.com.br^
 ||labkhand.co^
 ||labmendel.cl^
@@ -24304,7 +24303,6 @@
 ||pmesaudebr.com.br^
 ||pmqm.com.br^
 ||pmsjorge.pr.gov.br^
-||pmssrv.mercadolibre.cl^
 ||pmstrk.mercadolivre.com.br^
 ||pmu.fr^
 ||pneusola.com.br^
@@ -29081,6 +29079,7 @@
 ||strmr.co^
 ||strohlbrasil.com.br^
 ||strongnaval.com.br^
+||strparana.com.br^
 ||studio2you.com.br^
 ||studioa.com.pe^
 ||studioatrio.com.br^
