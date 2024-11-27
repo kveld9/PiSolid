@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33714.
+! Number of entries: 33719.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-27 03:00:35 UTC.
+! Last modified: 2024-11-27 09:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1498,6 +1498,7 @@
 ||adsk2.co^
 ||adskeeper.co^
 ||adsload.co^
+||adsmetrics.co^
 ||adsoft.com.pe^
 ||adsprout.co^
 ||adsquared.co^
@@ -3710,16 +3711,14 @@
 ||bananasfamosas.com.br^
 ||bananatrans.com.br^
 ||banat.co^
+||banca-respaldo.webnode.cr^
 ||bancaeusebio.hpg.ig.com.br^
-||bancaonline--internacional1.repl.co^
-||bancaonline.internacional1.repl.co^
 ||bancaserfinaza.co^
 ||banco.itau.cl.en.linea.area.cliente.axtonchilesa.cl^
 ||banco.itau.cl.ocabelodossonhos.com.br^
 ||bancodecomercio.pagedemo.co^
 ||bancoestado.cl.servicios.modificacion.clientes.solucionrecomendada.cl^
 ||bancofalabella.pe^
-||bancointernacional.giancarlofustin.repl.co^
 ||bancomacro.bumeran.com.ar^
 ||bancooccidente.co^
 ||bancooregon.com.br^
@@ -5817,6 +5816,7 @@
 ||bulk.fun^
 ||bulkd.co^
 ||bull-bet.com^
+||bull3t.co^
 ||bull789.co^
 ||bullbet.com^
 ||bulldog777.com^
@@ -7636,6 +7636,7 @@
 ||clicaclica.com.br^
 ||click.uol.com.br^
 ||click8.co^
+||clickafiliados.com.br^
 ||clickand.co^
 ||clickbetexch.co^
 ||clickbuymore.co^
@@ -8490,7 +8491,6 @@
 ||corrvidabr-sp.com.br^
 ||corsabet.com^
 ||corta.co^
-||corteizchile.cl^
 ||cortinasprincesa.com.br^
 ||cortinasypersianas.com.bo^
 ||cosale.peluqueriacaninamorocha.cl^
@@ -8753,7 +8753,6 @@
 ||csgopot.win^
 ||csgostakes.com^
 ||csgotrade.co^
-||csichillan.cl^
 ||csmoney.es^
 ||csn-sonora.mx^
 ||csneuroreabilitacao.com.br^
@@ -9635,7 +9634,6 @@
 ||dhl-parcel.co^
 ||dhl-tracking-au.blogspot.com.uy^
 ||dhl.andreaferrer.com.br^
-||dhl.basai.co^
 ||dhl.e-custodia.com.ec^
 ||dhl.express.faktura.tecsla.com.mx^
 ||dhnconstrucciones.com.ar^
@@ -9882,9 +9880,9 @@
 ||discordacc2.repl.co^
 ||discordalt4.repl.co^
 ||discordapp.co^
+||discordapps.co^
 ||discordlist.repl.co^
 ||discordnitro.co^
-||discordnitro9.repl.co^
 ||discordsearch.co^
 ||discordsite.repl.co^
 ||discordstaff.gq^
@@ -11005,6 +11003,7 @@
 ||entreraposaseouricos.com.br^
 ||entretapas.com.br^
 ||entreteneventos.com.br^
+||env-0806113.sp1.br.saveincloud.net.br^
 ||env-1557538.jl.serv.net.mx^
 ||env-3086152.jelasticlw.com.br^
 ||env-7974539.jl.serv.net.mx^
@@ -12325,7 +12324,6 @@
 ||fmradiosanjose.com.ar^
 ||fmsolesquel.ar^
 ||fngroup.com.ve^
-||fniasaa313.co^
 ||fnpmarkets.co^
 ||foborox.gq^
 ||foccosemarketing.com.br^
@@ -13619,7 +13617,6 @@
 ||gourmetcuiaba.com.br^
 ||gouthealthy.co^
 ||gouveafoodservice.com.br^
-||gov.lojanatorganico.agr.br^
 ||gov.natorganico.agr.br^
 ||govbanteng69.co^
 ||governa.com.br^
@@ -14007,6 +14004,7 @@
 ||gutshot.com^
 ||guugle888.co^
 ||gvamerica.co^
+||gverify.co^
 ||gvztim.gq^
 ||gwbcardans.com.br^
 ||gwbet.com^
@@ -16302,6 +16300,7 @@
 ||inhresidence.com.br^
 ||iniaston.co^
 ||iniciativaparidadgeneropanama.net^
+||inicio-virtual7.webnode.cr^
 ||inidhx4d.co^
 ||inifun88.co^
 ||inikilau.co^
@@ -19026,7 +19025,6 @@
 ||login-paypal.es^
 ||login.help-jhy.gq^
 ||login.hypeevent.repl.co^
-||login.instag.repl.co^
 ||login.microsftonline.com.office365.com.fbestruturasmetalicas.com.br^
 ||login.microsoftonline.com.auth.inflablesalan.com.mx^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
@@ -23339,6 +23337,7 @@
 ||ovh-com-677ca099.noticiasdopantanal.com.br^
 ||ovh-com-ace32f85.rotabioceanicanews.com.br^
 ||ovh-com-cd846436.cdasp.com.br^
+||ovh-com-e59eac87.cdasp.com.br^
 ||ovh-com-fb65374c.noticiasdopantanal.com.br^
 ||ovhcloud-com-15f1b621.cdasp.com.br^
 ||ovhcloud-com-1ffd0cc9.cdasp.com.br^
@@ -23978,6 +23977,7 @@
 ||pelicanportfoliomanagement.com^
 ||pelisplushd.to^
 ||pelita555g.co^
+||pelllarocker.es^
 ||pellomenos.com.br^
 ||pelosocial.com.br^
 ||pelotassexshop.com.br^
@@ -26341,7 +26341,6 @@
 ||restnimtirasena.gq^
 ||restolinom.co^
 ||restore-myaccount.paypal.com.bongkys.gq^
-||restore.homologar.familialigeira.com.br^
 ||restorecord.co^
 ||resugovex-1.co^
 ||resugovex-2.co^
@@ -28590,6 +28589,7 @@
 ||smallbusiness.gq^
 ||smardebtra.gq^
 ||smart-placements-sdk.ex.co^
+||smartad.mercadolibre.com.ar^
 ||smartadserver.es^
 ||smartbets.com^
 ||smartbettingguide.com^
@@ -28764,6 +28764,7 @@
 ||solegains.co^
 ||solicitarcotacao.com.br^
 ||solicitud-de-firma-digital-20245.webnode.cr^
+||solicitud-firma-digital-20244.webnode.cr^
 ||solidar.cl^
 ||solidbet777.co^
 ||solidinvest.co^
@@ -29060,6 +29061,7 @@
 ||spotify.com.ar^
 ||spotify.com.ni^
 ||spotify.com.sv^
+||spotify.eduardo.co^
 ||spotify.es^
 ||spotify.uy^
 ||spotifypremium.com.co^
@@ -30051,6 +30053,7 @@
 ||telefonsex-cam.co^
 ||telegarnn.co^
 ||telegeam.co^
+||telegram.bz^
 ||telegramcasinos.org^
 ||telegramcn.co^
 ||telegramputaria.blog.br^
@@ -31528,6 +31531,7 @@
 ||uwin33myr.co^
 ||uwsv.com^
 ||uxbet.com.br^
+||uxinnovation.com.br^
 ||uznsc.com.br^
 ||v-bet.com^
 ||v-bets.com^
@@ -32764,6 +32768,7 @@
 ||wesnoomm.gq^
 ||westbanteng69.co^
 ||westdrive.gq^
+||westerneuropean-trades.co^
 ||westernunionbrasil.blogspot.com.br^
 ||westgatepavilion.co^
 ||westgrafica.com.br^
