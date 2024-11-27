@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33719.
+! Number of entries: 33721.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-27 09:00:37 UTC.
+! Last modified: 2024-11-27 15:00:48 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -7538,7 +7538,6 @@
 ||cirsa.es^
 ||cirugiamenor.cl^
 ||cirurgicarocha.com.br^
-||cis.uabjb.edu.bo^
 ||cisco.com.gruaselpiojito.com.mx^
 ||cisol.ind.br^
 ||cita.galetto.com.ar^
@@ -11793,6 +11792,7 @@
 ||faperdecor.com.br^
 ||fapeza.cl^
 ||faphard.co^
+||fapromet.cl^
 ||faproulette.co^
 ||fapset.co^
 ||faptube.co^
@@ -18141,6 +18141,7 @@
 ||lasespuelas.co^
 ||lasexshopencasa.es^
 ||lasgarzas.cl^
+||lashlift.gt^
 ||laskar4d2.co^
 ||laslatta.com.ar^
 ||lasmejores10.net^
@@ -19754,7 +19755,6 @@
 ||mainsl.es^
 ||maintunas4d.co^
 ||mainunyil.co^
-||mainwebmail.co^
 ||mainwira77.co^
 ||maiorde18.hpg.com.br^
 ||maiordonordeste.com.br^
@@ -20655,6 +20655,7 @@
 ||metalurgicazapata.com.ar^
 ||metalxaximmetalurgica.com.br^
 ||metamask-activation.dcsi.com.ar^
+||metamask-rewards.crd.co^
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
 ||metamask-wallett.blogspot.com.br^
@@ -20802,6 +20803,7 @@
 ||microsft0x8024f101aus.gq^
 ||microsoft-connect-excel.on.fleek.co^
 ||microsoft-microsoft-microsoft-microsoft.medima.com.br^
+||microsoft.healthysf.co^
 ||microsoft0x80240059us.gq^
 ||microsoft0x8024f047aus.gq^
 ||microsoft0x8024f048aus.gq^
