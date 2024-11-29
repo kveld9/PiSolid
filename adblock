@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33744.
+! Number of entries: 33743.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-11-29 09:00:35 UTC.
+! Last modified: 2024-11-29 15:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -11168,6 +11168,7 @@
 ||erotismo.com.br^
 ||erotismo.es^
 ||erottico.xpg.com.br^
+||erpgsi.com.br^
 ||erppymes.com.mx^
 ||error-042x.gq^
 ||error-08x10.gq^
@@ -11277,7 +11278,6 @@
 ||espacomultivitall.com.br^
 ||espacomusicalcwb.com.br^
 ||espaconauticopontal.com.br^
-||espacopsicologiaconecta.com.br^
 ||espacoshowroom.com.br^
 ||espacotieli.com.br^
 ||espalhafacil.com.br^
@@ -11799,7 +11799,6 @@
 ||faperdecor.com.br^
 ||fapeza.cl^
 ||faphard.co^
-||fapromet.cl^
 ||faproulette.co^
 ||fapset.co^
 ||faptube.co^
@@ -15847,6 +15846,7 @@
 ||icloud.apple.chuxionggwwor.co^
 ||icloud.apple.hanzhongrcqgc.co^
 ||icloud.apple.heihedmbjuada.co^
+||icloud.apple.jixisqjtxving.co^
 ||icloud.apple.ziboujzowkenn.co^
 ||icloud.com.apple-service.co^
 ||icloud.com.bz^
@@ -16526,6 +16526,7 @@
 ||interwingood.co^
 ||interwinjaya.co^
 ||interwinplay.co^
+||intesasanpaolo.slsemijoias.com.br^
 ||intest.com.ve^
 ||intgame.co^
 ||inti.cl^
@@ -18161,7 +18162,6 @@
 ||lasespuelas.co^
 ||lasexshopencasa.es^
 ||lasgarzas.cl^
-||lashlift.gt^
 ||laskar4d2.co^
 ||laslatta.com.ar^
 ||lasmejores10.net^
@@ -20818,7 +20818,6 @@
 ||microsft0x8024f101aus.gq^
 ||microsoft-connect-excel.on.fleek.co^
 ||microsoft-microsoft-microsoft-microsoft.medima.com.br^
-||microsoft.healthysf.co^
 ||microsoft0x80240059us.gq^
 ||microsoft0x8024f047aus.gq^
 ||microsoft0x8024f048aus.gq^
