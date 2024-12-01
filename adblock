@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33748.
+! Number of entries: 33736.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-01 03:00:38 UTC.
+! Last modified: 2024-12-01 09:00:36 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -2167,7 +2167,6 @@
 ||alwaysalohashaveice.co^
 ||alwaysbets.com^
 ||alwayscuan.co^
-||alyexpress.es^
 ||alykaximagcatlog.esy.es^
 ||am-coaching.es^
 ||am98.1.com.ar^
@@ -2709,7 +2708,6 @@
 ||app1e.co^
 ||app1e.com.es^
 ||app1ejuic3.repl.co^
-||app1esauce.repl.co^
 ||app2.regionapurimac.gob.pe^
 ||app33076.hol.es^
 ||app4237.hol.es^
@@ -3879,6 +3877,7 @@
 ||bbrp.co^
 ||bbscnews.cl^
 ||bbt.adv.br^
+||bbvanetcash.co^
 ||bbw.bz^
 ||bc.co^
 ||bc.game^
@@ -7180,7 +7179,6 @@
 ||chas.stepon.co^
 ||chaseauthorizationcenterupdateaccountaccess.onbeat.co^
 ||chaseonline.chase.com.mdwe.com.br^
-||chaserefundonline.chaseonlinesupport.wucher.co^
 ||chat-caliente.es^
 ||chat-msn.com.ar^
 ||chat-openai.co^
@@ -8016,7 +8014,6 @@
 ||colombiadeportiva.com^
 ||colombiaporn.com.co^
 ||colombofilos.com.ar^
-||coloradomushroomdispensary.co^
 ||coloradospringsx.gq^
 ||colorear.es^
 ||coloresschool.com.mx^
@@ -11424,7 +11421,6 @@
 ||etmega.com.br^
 ||etole.com.br^
 ||etoll.govpl.co^
-||etracker.p3p.repl.co^
 ||etreze.com.br^
 ||etx.cl^
 ||etze.com.ar^
@@ -13228,7 +13224,6 @@
 ||getaheadfirst.com.es^
 ||getawebsite.co^
 ||getbanteng69.co^
-||getcashfor.co^
 ||getcoach.mx^
 ||getdesc.com.br^
 ||geteasymaps.co^
@@ -14716,7 +14711,6 @@
 ||holdenbeachfun.com.es^
 ||holdingfly.com.br^
 ||holidaypartner.co^
-||holismoambiental.cl^
 ||holladayxut.gq^
 ||hollandcasino.nl^
 ||hollandlop.mx^
@@ -23590,6 +23584,7 @@
 ||palacehotelpr.com.br^
 ||palaciododesconto.com.br^
 ||palama2.co^
+||paldobet.co^
 ||palharesinformatica.com.br^
 ||palhavitoria.com.br^
 ||palletservice.com.br^
@@ -24327,7 +24322,6 @@
 ||pisodemarmol.com.mx^
 ||pisolaminadoribeiraopreto.com.br^
 ||pisosilap.com.br^
-||pisosribarroja.es^
 ||pissettiadvogados.com.br^
 ||pistadebaile.co^
 ||pistoludas.com.br^
@@ -29276,7 +29270,6 @@
 ||stcoachingepnl.net.br^
 ||steam-repacks.com^
 ||steam-wallet.co^
-||steamcomminuty.repl.co^
 ||steamcommunity.co^
 ||steamnow.gq^
 ||steampower.co^
@@ -30452,7 +30445,6 @@
 ||tiket777.co^
 ||tiket777aja.co^
 ||tiket777pro.co^
-||tiktok.es^
 ||tiktok.pro.br^
 ||tiktok18.com.br^
 ||tiktok22.co^
@@ -31269,7 +31261,6 @@
 ||uggoutletsale.net.co^
 ||uggsboots-outlet.com.co^
 ||uggshoes.co^
-||uglow.com.co^
 ||ui.com.mx^
 ||uij.sisance.co^
 ||ujangkeren1.co^
@@ -32393,6 +32384,7 @@
 ||w11.sahabat4d.co^
 ||w12.sahabat4d.co^
 ||w14.sahabat4d.co^
+||w1volcanicpg.com.br^
 ||w2.sahabat4d.co^
 ||w2.sultan78.co^
 ||w3.sahabat4d.co^
@@ -32593,7 +32585,6 @@
 ||web.legaldeclicar.com.br^
 ||web.pe^
 ||web.sexnhanh.co^
-||web1.espalhaobem.com.br^
 ||web11-1320.cg6.co^
 ||web3pr.gq^
 ||web6728.autoridad-dela-cooperativa-de-credito.mx^
@@ -32655,9 +32646,6 @@
 ||webdisk.guessoutletsmexico.com.mx^
 ||webdisk.lululemonmexicooutlet.com.mx^
 ||webdisk.napples.co^
-||weber.espalhaobem.com.br^
-||weber2.espalhaobem.com.br^
-||weber4.espalhaobem.com.br^
 ||webespetacular.com.br^
 ||webexclusivo.com.br^
 ||webexplorer.co^
