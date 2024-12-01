@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33736.
+! Number of entries: 33732.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-01 09:00:36 UTC.
+! Last modified: 2024-12-01 15:00:37 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -2222,6 +2222,7 @@
 ||amazoncareers.co^
 ||amazoncash.co^
 ||amazoncvn.co^
+||amazoncvo.co^
 ||amazonfor.co^
 ||amazonguides.co^
 ||amazoniajunglehotel.com.br^
@@ -2440,7 +2441,6 @@
 ||angelsscort.com.mx^
 ||anggur88.co^
 ||angieconfecciones.cl^
-||angiologia.clinicabrunovargas.com.br^
 ||angkadiva4.co^
 ||angkajitupopo.co^
 ||angkasa168keren.co^
@@ -9202,7 +9202,6 @@
 ||dayanaperezsosa.com.co^
 ||dayasexshop.com.br^
 ||daybets.com^
-||daycoval.contrato.srv.br^
 ||dayraesotericos.com.br^
 ||daysgoneby-porn.blogspot.com.es^
 ||daysofhotjocks.rifes.co^
@@ -9475,7 +9474,6 @@
 ||desentupidoraribeiraopreto.com.br^
 ||desentupidoravilaprudente.com.br^
 ||desenvolversites.com.br^
-||desertf.hptelhas.com.br^
 ||desertnightscasino.co.uk^
 ||desfar.cl^
 ||desfruteisso.com.br^
@@ -11648,7 +11646,6 @@
 ||faceb00k-login.repl.co^
 ||faceb00k.co^
 ||faceb00k.com.co^
-||faceb00k.repl.co^
 ||faceb00k1.repl.co^
 ||faceb00k1431715.000.pe^
 ||faceb00ks.co^
@@ -29784,7 +29781,6 @@
 ||t-bet.com^
 ||t.omkt.co^
 ||t.podcast.co^
-||t060.co^
 ||t13.cl^
 ||t4jl9463.co^
 ||t4s.cl^
