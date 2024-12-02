@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 33728.
+! Number of entries: 33723.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-01 21:00:37 UTC.
+! Last modified: 2024-12-02 03:00:35 UTC.
 !
 ||00.pe^
 ||0003.pages.net.br^
@@ -1184,6 +1184,7 @@
 ||acc-infoservice-contact.gq^
 ||acc.ds-logs.gq^
 ||acc.eligibility.perlointer.gq^
+||acc.steambullde.es^
 ||accards.com.br^
 ||accdata.co^
 ||accefyn.org.co^
@@ -2216,11 +2217,11 @@
 ||amazingshrooms.co^
 ||amazon-support.co^
 ||amazon.org.bz^
+||amazonamn.co^
 ||amazonas365.com.br^
 ||amazonasonline.cl^
 ||amazoncareers.co^
 ||amazoncash.co^
-||amazoncvn.co^
 ||amazoncvo.co^
 ||amazonfor.co^
 ||amazonguides.co^
@@ -3888,7 +3889,6 @@
 ||bclick.com.br^
 ||bcnvip.com.es^
 ||bcoterceirizacao.com.br^
-||bcp.blueberry.com.bo^
 ||bcp.futbolfinanciero.com.pe^
 ||bctdhkl.co^
 ||bctenlinea-com.webnode.es^
@@ -13998,7 +13998,6 @@
 ||gutshot.com^
 ||guugle888.co^
 ||gvamerica.co^
-||gverify.co^
 ||gvztim.gq^
 ||gwbcardans.com.br^
 ||gwbet.com^
@@ -16436,7 +16435,6 @@
 ||institutomariadapenha.org.br^
 ||institutopascualmadoz.es^
 ||institutosummerhill.com.mx^
-||institutotebaida.edu.co^
 ||instoreexpress.com.es^
 ||instrucoesespeciais.com.br^
 ||instruprof.com.br^
@@ -19874,7 +19872,6 @@
 ||manhwahentai.me^
 ||maniadeviajar.com.br^
 ||maniakjpme.co^
-||maniniadvogados.com.br^
 ||maninthebox.blogger.com.br^
 ||manis188login.co^
 ||manjaslot88pg.co^
@@ -23757,7 +23754,6 @@
 ||pariscasino8.com^
 ||parisestudio.com.br^
 ||parisporn.co^
-||parkering.es^
 ||parkindber.gq^
 ||parkingcrew.net^
 ||parkinson.org.br^
@@ -26349,7 +26345,6 @@
 ||restnimtirasena.gq^
 ||restolinom.co^
 ||restore-myaccount.paypal.com.bongkys.gq^
-||restore.homologar.familialigeira.com.br^
 ||restorecord.co^
 ||resugovex-1.co^
 ||resugovex-2.co^
@@ -29074,7 +29069,6 @@
 ||spotify.com.ar^
 ||spotify.com.ni^
 ||spotify.com.sv^
-||spotify.eduardo.co^
 ||spotify.es^
 ||spotify.uy^
 ||spotifyhub.000.pe^
@@ -31542,6 +31536,7 @@
 ||uwin33myr.co^
 ||uwsv.com^
 ||uxbet.com.br^
+||uxinnovation.com.br^
 ||uznsc.com.br^
 ||v-bet.com^
 ||v-bets.com^
