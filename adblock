@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 40911.
+! Number of entries: 40908.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-05 03:00:39 UTC.
+! Last modified: 2024-12-05 09:00:40 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -6757,6 +6757,7 @@
 ||bqmagazine.es^
 ||br-icloud.com.br^
 ||br.brasil104-1070.com.br^
+||br.brasil105-9070.com.br^
 ||br400.hostgator.com.br^
 ||br474.hostgator.com.br^
 ||br4bet.com^
@@ -11877,7 +11878,6 @@
 ||datoporn.co^
 ||datoscede.uniandes.edu.co^
 ||daubnet.com^
-||daudcosmeticos.com.br^
 ||daun77.co^
 ||daunenjackewiemoncler.co^
 ||dauntoto.com.co^
@@ -12611,7 +12611,6 @@
 ||discod.com.br^
 ||discord-nitro.gq^
 ||discord.academy-moderator-best.repl.co^
-||discord.academyi.repl.co^
 ||discord.es^
 ||discord.hypesquad-eventreturn.repl.co^
 ||discord.hypesquad-invite-forms.repl.co^
@@ -17061,7 +17060,6 @@
 ||googlesitestemplates.com.br^
 ||googlesupport.co^
 ||googletagsmanager.co^
-||googlething-part-2.toast12.repl.co^
 ||googleupdate.co^
 ||googlevoos.com.br^
 ||googlexz.co^
@@ -31933,7 +31931,6 @@
 ||repex.es^
 ||repicky.com.ar^
 ||repivo.com.br^
-||replacespanish.oo3.co^
 ||replica-handbags.net.co^
 ||replicadesignerwatches.co^
 ||replicaonline.co^
@@ -37354,6 +37351,7 @@
 ||tramadolonline.jubiiblog.com.es^
 ||tramelsa.com.gt^
 ||tramepel.gq^
+||tramitependientedeclare.webnode.cr^
 ||tramites-sat.com.mx^
 ||trampam.co^
 ||tran85000.blogspot.com.uy^
@@ -38434,7 +38432,6 @@
 ||vendaingresso.com.br^
 ||vendasbr01.com.br^
 ||vendasbradescosaude.com.br^
-||vendasentreijuis.com.br^
 ||vendasmktorg.com.br^
 ||vendasonlinesg.com.br^
 ||vendaspacotes.com.br^
