@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 40907.
+! Number of entries: 40904.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-05 21:00:49 UTC.
+! Last modified: 2024-12-06 03:00:40 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -1551,12 +1551,12 @@
 ||account.com.mx^
 ||account.dmresorts.co^
 ||account.maximus.co^
+||account.meta.com-helpcenter.co^
 ||account.primecapitalfinance.co^
 ||accountingdept.co^
 ||accountreviewer.es^
 ||accounts-login-idm-telekom-com.argos.com.uy^
 ||accounts.binancezh.co^
-||accounts.gjccorp.com.br^
 ||accounts.mx^
 ||accountverify.gq^
 ||accreditedcasinos.com^
@@ -2084,7 +2084,6 @@
 ||agrepres.com.py^
 ||agricolacamanchaca.cl^
 ||agricolasa.com.br^
-||agricolasantarenata.cl^
 ||agricolavicuna.cl^
 ||agrigjttsw.co^
 ||agritek.es^
@@ -3175,7 +3174,6 @@
 ||apostt.bet^
 ||apowin388.co^
 ||app-1win-casino.ru^
-||app-altura.co^
 ||app-casino-mostbet.ru^
 ||app-centerm.co^
 ||app-config.enhance.co^
@@ -3685,7 +3683,6 @@
 ||articulosreligiosos.com.pe^
 ||artificialfish.com.ar^
 ||artinlouvor.com.br^
-||artis303login.co^
 ||artis77login.co^
 ||artisticsolutions.co^
 ||artofads.co^
@@ -3786,7 +3783,6 @@
 ||asistencia.net.pe^
 ||asistenteenlinea.cl^
 ||asisuenalagaita.com.ve^
-||asjstudio.cl^
 ||ask-casino.com^
 ||asland.com.pe^
 ||asle.ec^
@@ -4003,7 +3999,6 @@
 ||auth.optimizationhp.mx^
 ||auth.scotiaonline.scotiabank.enal.com.ar^
 ||auth.sumup.gessa.mx^
-||authorization.instag.repl.co^
 ||authortheme.co^
 ||authpolan.pages.net.br^
 ||autiacerye.gq^
@@ -4243,7 +4238,6 @@
 ||babylonbet.com^
 ||babylonia.es^
 ||babypark.com.br^
-||bacan.cl^
 ||bacan4dofficial.co^
 ||bacanacasino.top^
 ||bacanal.cl^
@@ -6035,7 +6029,6 @@
 ||biscesto1.com.br^
 ||bisco777.com^
 ||biscoitoramalho.com.br^
-||biscoitoskaue.com.br^
 ||bison808.co^
 ||bisteen16.hpg.com.br^
 ||bisteen26.hpg.ig.com.br^
@@ -6447,7 +6440,6 @@
 ||bollywoodcasinowin.ru^
 ||bolokuu.es^
 ||bolsaempleo.cesma.es^
-||bolsaskurtgeigermexico.com.mx^
 ||bolsavirtual.com.br^
 ||bolsospersonalizados.es^
 ||bom777casino.com^
@@ -7110,7 +7102,6 @@
 ||burancasino4.com^
 ||burberry-handbagsoutlet.com.co^
 ||burgosonline.es^
-||burhani.digiknown.com.co^
 ||buritialegre.go.gov.br^
 ||bursa303.co^
 ||busca-porno.es^
@@ -7370,6 +7361,7 @@
 ||caixavinte.com.br^
 ||caja-trujillo.com.pe^
 ||caja.cahtracativen.com.ve^
+||cajadhlexpress.mx^
 ||cajaforense-sde.com.ar^
 ||cajatruj1llo.com.pe^
 ||cajpe.org.pe^
@@ -10081,6 +10073,7 @@
 ||clarabia.com.br^
 ||clarapak.org^
 ||clarks-colombia.co^
+||clarksspain.com.es^
 ||claro-net-emta.aceite.fbiz.com.br^
 ||clarobet.com^
 ||clarobrasi.com.br^
@@ -11104,7 +11097,6 @@
 ||cosmoservicios.cl^
 ||cosmosomos.es^
 ||cospolska.co^
-||cosstores-espana.es^
 ||costabingo.com^
 ||costadelsexo.es^
 ||costadosolservices.com.br^
@@ -11155,7 +11147,6 @@
 ||cp-veloz.com.br^
 ||cpa.org.ar^
 ||cpabld.co^
-||cpanel.alphaleteespana.es^
 ||cpanel.applecider.com.br^
 ||cpanel.axel-arigato.com.mx^
 ||cpanel.inverargos.co^
@@ -11970,7 +11961,6 @@
 ||deboramissfeet.hpg.com.br^
 ||debutoto777.co^
 ||decactus.cl^
-||decalogo.mx^
 ||decalogopublicidadeinfancia.uy^
 ||decasino.be^
 ||decasinos.io^
@@ -12266,6 +12256,7 @@
 ||deutschlandcasinos.info^
 ||deutschperuana.com.pe^
 ||dev.addshop.com.br^
+||dev.api.stanley-mexico.com.mx^
 ||dev.moragues.pe^
 ||dev.operaciones.cl^
 ||dev7.com.br^
@@ -14463,6 +14454,7 @@
 ||eventosrealiza.com.mx^
 ||events-api.gazetadopovo.com.br^
 ||events.ifunny.co^
+||events.rtfkft.co^
 ||everestcasino.com^
 ||everestpoker.com^
 ||everestpoker.fr^
@@ -14697,6 +14689,7 @@
 ||facebooksecurity.blogspot.pe^
 ||facebooksecurytii.pages.net.br^
 ||facebookvideo.gq^
+||facebookvn.co^
 ||facebookweryfikacja.gq^
 ||facedook-com.gq^
 ||faceebookk.hol.es^
@@ -17437,6 +17430,7 @@
 ||guaranidasmissoes.rs.gov.br^
 ||guaranteedbet.com^
 ||guardapampa.com.ar^
+||guardianarmoryllc.co^
 ||guardianinvest.co^
 ||guardiaotop.com.br^
 ||guardiasdemexico.org.mx^
@@ -20134,7 +20128,6 @@
 ||instafollowers.co^
 ||instagram.com.ec^
 ||instagram.kanash.com.br^
-||instagram.oauth.repl.co^
 ||instagram.pe^
 ||instagram.seba.cl^
 ||instagram5807.blogspot.cl^
@@ -22240,6 +22233,7 @@
 ||laudodecamargo.com.br^
 ||launionestereo.com.co^
 ||laura777g.com^
+||lauracohen.com.ar^
 ||laurarichards.co^
 ||laurek.gq^
 ||laureles.com.ar^
@@ -22918,6 +22912,7 @@
 ||linkdhx4d.co^
 ||linkedin.ctoliifso.repl.co^
 ||linkedinlocal.es^
+||linkedinlunch.es^
 ||linkedinprofessional.com.br^
 ||linkedinprofissional.com.br^
 ||linkel.com.br^
@@ -23671,12 +23666,10 @@
 ||lululemexico.com.mx^
 ||lululemonmexicooutlet.com.mx^
 ||lululemonmexicoshop.com.mx^
-||lululemonmx.com.mx^
 ||lululemonmxtienda.com.mx^
 ||lululemonoutlet.com.es^
 ||lululemons.es^
 ||lululemonshop.com.mx^
-||lululemonshopmexico.com.mx^
 ||lumb.co^
 ||lumendatabase.org^
 ||lumiar.co^
@@ -25296,6 +25289,7 @@
 ||microsft0x8024f101aus.gq^
 ||microsoft-connect-excel.on.fleek.co^
 ||microsoft-microsoft-microsoft-microsoft.medima.com.br^
+||microsoft.com.gt^
 ||microsoft0x80240059us.gq^
 ||microsoft0x8024f047aus.gq^
 ||microsoft0x8024f048aus.gq^
@@ -26388,7 +26382,6 @@
 ||n1casino.com^
 ||n4t.co^
 ||n78rtp.co^
-||n8n.aplicacoesinfoeduc.com.br^
 ||naad.mx^
 ||nabatan.gq^
 ||nac.hpg.com.br^
@@ -29156,6 +29149,7 @@
 ||pcn.com.mx^
 ||pcpurifier.co^
 ||pcsecuresystem.bz^
+||pcsolve.co^
 ||pcspeeduppro.co^
 ||pcsupportdesk.co^
 ||pctechsupport.co^
@@ -31491,6 +31485,7 @@
 ||rallylocadora.com.br^
 ||rallyraf.gq^
 ||ralphlaurenoutlet.nom.co^
+||ralphlaurenoutletmx.com.mx^
 ||rama168.co^
 ||ramalhodaconstrucao.com.br^
 ||ramen.comapatecoman.gob.mx^
@@ -31965,7 +31960,6 @@
 ||reserivedoutlet.co^
 ||reservadoser.com.br^
 ||reservamacaubamrv.com.br^
-||reservas.discoveryourdestiny.co^
 ||reserveamerica.co^
 ||reservedoffers.cl^
 ||reservexstx.gq^
@@ -32860,6 +32854,7 @@
 ||samsarashop.es^
 ||samsung-rrhh.cl^
 ||samsung-servicecenter.co^
+||samsungcastellon.es^
 ||samsungservicecell.com.br^
 ||samsungservicio.com.co^
 ||samsungtoto.co^
@@ -34078,6 +34073,7 @@
 ||shopeeexpressbrasil.com.br^
 ||shopeeletro.com.br^
 ||shopeeloja.net.br^
+||shopeevn.co^
 ||shopeexpress.com.br^
 ||shopeezg.co^
 ||shopelite.co^
@@ -34593,7 +34589,6 @@
 ||smallbusiness.gq^
 ||smardebtra.gq^
 ||smart-placements-sdk.ex.co^
-||smartad.mercadolibre.com.ar^
 ||smartadserver.es^
 ||smartbets.com^
 ||smartbettingguide.com^
@@ -35235,6 +35230,7 @@
 ||spotify.es^
 ||spotify.uy^
 ||spotifyhub.000.pe^
+||spotifymodapk.com.co^
 ||spotifypremium.com.co^
 ||spotifypremium.net.co^
 ||spotifypremiumapk.com.mx^
@@ -36811,7 +36807,6 @@
 ||tiendamaspet.cl^
 ||tiendas-bff.prestamos.santander.com.ar^
 ||tiendawebonline.es^
-||tiendayounglamexico.com.mx^
 ||tierrasanta.com.co^
 ||tiffanyandco.nom.co^
 ||tiffanyandcolove.co^
@@ -36856,7 +36851,6 @@
 ||tim138kuat.co^
 ||timasiatique.en.wanadoo.es^
 ||timberland-shoes.com.co^
-||timberland.com.es^
 ||time2play.com^
 ||timecode.com.ar^
 ||timelesspoker.com^
@@ -36951,6 +36945,7 @@
 ||tmgasesoresseguros.com.ar^
 ||tmoda.co^
 ||tmohentai.com^
+||tmp.proteautobrasil.com.br^
 ||tmpmail.co^
 ||tmt.net.br^
 ||tmtcash.co^
@@ -37376,6 +37371,7 @@
 ||transnasif.com.br^
 ||transocidente.com.br^
 ||transparencia.ucal.edu.pe^
+||transparenciacanaa.com.br^
 ||transparenciasaojorge.com.br^
 ||transpitassi.com.br^
 ||transportadoramega.com.br^
@@ -37427,7 +37423,6 @@
 ||trendsnowcasinos.com^
 ||trendyoutlet.co^
 ||trendysale.co^
-||trendytowns.co^
 ||trentino.edu.pe^
 ||trenzinhocomecome.com.br^
 ||treoagency.gq^
@@ -37718,6 +37713,7 @@
 ||twistcasino.com^
 ||twitter.com.mx^
 ||twitters.co^
+||twittertrend.co^
 ||twixoutweb.gq^
 ||twizt.net^
 ||twltter.es^
@@ -37987,7 +37983,6 @@
 ||unimolofe.blogspot.com.ar^
 ||unimolofe.blogspot.com.es^
 ||unimolofe.blogspot.pe^
-||unimusdigital.com.br^
 ||union.gov.py^
 ||unionbet.com^
 ||unioneconsultoria.com.br^
@@ -38277,7 +38272,6 @@
 ||vape138.co^
 ||vape188.co^
 ||vara.pagostepeapulco.gob.mx^
-||varag.com.pe^
 ||varaldalingerie.com.br^
 ||varandaaki.com.br^
 ||vari.com.mx^
@@ -39158,6 +39152,7 @@
 ||vptrack.com.br^
 ||vresponse.com.br^
 ||vrificaciondecorreodinamico.zz.com.ve^
+||vrisoshop.co^
 ||vrossoni.com.br^
 ||vry.edu.pe^
 ||vsetopcasino.com^
@@ -39296,11 +39291,12 @@
 ||wallartz.co^
 ||wallbed.co^
 ||wallet-dappsvalidationb.on.fleek.co^
-||wallet-recovery-seed.es^
 ||wallet.nexo.geth.org.br^
 ||wallittogel.co^
 ||wallsex.com.br^
 ||walmartconnect.cl^
+||walmartdataventures.mx^
+||walmartjobs.co^
 ||walterbosque.com.ar^
 ||wam-poker.com^
 ||wanadoo.es^
@@ -40254,6 +40250,7 @@
 ||xhamster.desi^
 ||xhamsterporno.mx^
 ||xhamstersex.co^
+||xiaomi-center.co^
 ||xiaomiofficial.pe^
 ||xiaomioficial.com.pe^
 ||xiaomioficial.pe^
