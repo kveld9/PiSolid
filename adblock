@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 40904.
+! Number of entries: 40906.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-06 03:00:40 UTC.
+! Last modified: 2024-12-06 09:00:40 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -1546,6 +1546,7 @@
 ||acci.com.co^
 ||acciaio.com.br^
 ||accionmasvida.com.ar^
+||account-cfe.mx^
 ||account-service-v073.gq^
 ||account-verification.frutalia.com.py^
 ||account.com.mx^
@@ -13680,6 +13681,7 @@
 ||email-neo.com.br^
 ||email-trinity.com.br^
 ||email.com.co^
+||email.mailing.emailmax.com.ar^
 ||email.viola.gq^
 ||email1.vninsumosagricolas.com.br^
 ||emailaccountlogin.co^
@@ -14660,10 +14662,8 @@
 ||faceapp.x10.mx^
 ||faceb00k.co^
 ||faceb00k.com.co^
-||faceb00k1.repl.co^
 ||faceb00k1431715.000.pe^
 ||faceb00ks.co^
-||faceb0ok.repl.co^
 ||facebook-accounts.com.mx^
 ||facebook-login.mypi.co^
 ||facebook-login.pages.net.br^
@@ -20461,6 +20461,7 @@
 ||itatiaianet.com.br^
 ||itau-mobile-recadastro.hol.es^
 ||itau.com.ar^
+||itau.onegaming.com.br^
 ||itauapp-seguranca.gq^
 ||itauunibanco.gq^
 ||itc.stackcreativo.com.ve^
@@ -35513,6 +35514,7 @@
 ||stopify.co^
 ||stopvid.es^
 ||store.1sttheworld.co^
+||store.account-cfe.mx^
 ||store.facebook-support-team-980.pages.med.br^
 ||store.jbpserver.com.br^
 ||store.monkstars.co^
