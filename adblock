@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 40962.
+! Number of entries: 40964.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-07 09:00:42 UTC.
+! Last modified: 2024-12-07 15:00:40 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -1907,6 +1907,7 @@
 ||advlisboa.com.br^
 ||advmerlone.com.br^
 ||advmob.cn^
+||advmpa.com.br^
 ||advocaciadescomplicada.com.br^
 ||advocaciaraphael.adv.br^
 ||advocategroupmed.com.es^
@@ -3656,6 +3657,7 @@
 ||artecasamoveis.com.br^
 ||artecontrolada.com.br^
 ||artefatospedroni.com.br^
+||arteflordeliz.com.br^
 ||artegrafik.com.mx^
 ||artelazermaringa.com.br^
 ||artemisalenceria.cl^
@@ -19960,7 +19962,6 @@
 ||industriaflits.com.br^
 ||industrial.edu.co^
 ||industrialaredi.com.mx^
-||industrialescolombia.co^
 ||industrialesmaroga.es^
 ||industriapesada.hpg.com.br^
 ||induwest.cl^
@@ -25163,6 +25164,7 @@
 ||metamasksigins.blogspot.cl^
 ||metamasksigins.blogspot.com.br^
 ||metamasksigins.blogspot.com.es^
+||metamasksigins.blogspot.mx^
 ||metamasksigins.blogspot.pe^
 ||metamasskluginn.blogspot.cl^
 ||metamasskluginn.blogspot.com.ar^
@@ -27170,6 +27172,7 @@
 ||next1221ways.co^
 ||nextbet7.co^
 ||nextcasino.com^
+||nextdynamics.co^
 ||nextgaming.co^
 ||nextjob.com.sv^
 ||nexttop.co^
@@ -28916,6 +28919,7 @@
 ||paraisoamador.com.br^
 ||paraisobrasilia.com.br^
 ||paraisocomunicacao.com.br^
+||paraisodosorriso.com.br^
 ||paraisodosul.rs.gov.br^
 ||paraisofascinante.com.br^
 ||paraisogarden.com.br^
@@ -29139,11 +29143,9 @@
 ||paypal.verify.colegiooswaldocruz.com.br^
 ||paypal.xenit.cl^
 ||paypal95bd.blogspot.cl^
-||paypal95bd.blogspot.com.ar^
-||paypal95bd.blogspot.com.br^
 ||paypal95bd.blogspot.com.es^
 ||paypal95bd.blogspot.com.uy^
-||paypal95bd.blogspot.mx^
+||paypal95bd.blogspot.pe^
 ||paypalcasino-fi.top^
 ||paypalcasinos.co^
 ||paypalcasinos.nz^
@@ -31198,6 +31200,7 @@
 ||pybm.com.mx^
 ||pyppublisoluciones.com.ve^
 ||pzu.electronorte.com.ar^
+||q.wbhal.gq^
 ||q8store.co^
 ||qaiscasino.com^
 ||qap.net.br^
@@ -39655,7 +39658,6 @@
 ||webrapido.com.br^
 ||webreaders.co^
 ||webrecruitinginfo.gq^
-||webredevelopmentcorp.com.worldofenglish.co^
 ||webroker.com.br^
 ||webrootsupport.co^
 ||webs.com.es^
