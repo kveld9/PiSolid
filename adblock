@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 40979.
+! Number of entries: 40981.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, pornografía, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-08 09:00:38 UTC.
+! Last modified: 2024-12-08 15:00:40 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -9538,6 +9538,7 @@
 ||cespu.com.ar^
 ||cestadepromo.com.br^
 ||cestasrio.com.br^
+||cestrategic.mx^
 ||cesy.edu.mx^
 ||cet-puertovaras.cl^
 ||cetbronze.com.br^
@@ -19572,6 +19573,7 @@
 ||icloud-fmip.co^
 ||icloud-web.co^
 ||icloud.alert-id.co^
+||icloud.apple.anshunojwmqee.co^
 ||icloud.apple.chuxionggwwor.co^
 ||icloud.apple.hanzhongrcqgc.co^
 ||icloud.apple.heihedmbjuada.co^
