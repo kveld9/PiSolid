@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 35226.
+! Number of entries: 35250.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-09 03:35:44 UTC.
+! Last modified: 2024-12-09 09:00:33 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -1523,6 +1523,7 @@
 ||ad.kissasian.es^
 ||ad.kisstvshow.es^
 ||ad.terra.com.mx^
+||ad.uol.com.br^
 ||ad777game.com^
 ||adad.cl^
 ||adagro.com.br^
@@ -1548,6 +1549,7 @@
 ||adcash.cl^
 ||adcel.co^
 ||adcenter-api.cashwalk.co^
+||adclient-af.lp.uol.com.br^
 ||adcossalvador.com.br^
 ||addbet.com^
 ||addictedtomovies.co^
@@ -1622,6 +1624,7 @@
 ||adr-advogados.com.br^
 ||adrede.pe^
 ||adrenali.gq^
+||adrequisitor-af.lp.uol.com.br^
 ||adressings.co^
 ||adreterj.org.br^
 ||adriana.com.mx^
@@ -1648,6 +1651,7 @@
 ||ads.ibest.com.br^
 ||ads.localhost.net.ar^
 ||ads.mediasmart.es^
+||ads.mtv.uol.com.br^
 ||ads.oi.com.br^
 ||ads.realmedia.com.br^
 ||ads.recoletos.es^
@@ -2148,6 +2152,7 @@
 ||alipay.com^
 ||alipaydev.com^
 ||alissahouse.co^
+||alissonluis-musico.sites.uol.com.br^
 ||aljescolar.com.br^
 ||all-maxplumbing.gq^
 ||all-rightcasino.com^
@@ -3926,7 +3931,9 @@
 ||bandengenharia.com.br^
 ||banditjt.co^
 ||bandleader.com.br^
+||banerj.b.br^
 ||banescredito.es^
+||banestado.b.br^
 ||banestos.es^
 ||bangbet.com^
 ||bangbos.co^
@@ -3949,6 +3956,7 @@
 ||banner-link.com.br^
 ||banner.boostbox.com.br^
 ||banners.bol.com.br^
+||banners.img.uol.com.br^
 ||banners.inforchannel.com.br^
 ||bannersp.com.br^
 ||bantrab.webnode.com.co^
@@ -6942,6 +6950,7 @@
 ||carteirinhafacil.com.br^
 ||carteiroonline.com.br^
 ||carteirovirtualonline.com.br^
+||cartoes.uol.com.br^
 ||cartoonporno.xxx^
 ||cartoonpornvideos.com^
 ||cartopbh.com.br^
@@ -8767,6 +8776,7 @@
 ||chatgptmarketingprompts.co^
 ||chatgptx.es^
 ||chatsfriends.com^
+||chatter.uol.com.br^
 ||chatterboxsalon.co^
 ||chaty.es^
 ||chautfhe.gq^
@@ -9154,6 +9164,7 @@
 ||clic.com.do^
 ||clicaclica.com.br^
 ||click.email6.tranjan.com.br^
+||click.uol.com.br^
 ||click8.co^
 ||clickand.co^
 ||clickandbuycasino-nl.top^
@@ -9232,6 +9243,7 @@
 ||clinicaveterinariasaludanimal.es^
 ||clinicavitalgranada.es^
 ||clinicservices23.com.ve^
+||clinicway.com.br^
 ||clip445abc.gq^
 ||clipbutton.com.br^
 ||clipping.es^
@@ -9830,6 +9842,7 @@
 ||consulgesa.com.co^
 ||consult4it.com.br^
 ||consultacurp-gobmx.com.mx^
+||consultandoagora.com.br^
 ||consultaparaempresas.com.br^
 ||consultapordesconto.com.br^
 ||consultapromocional.com.br^
@@ -11558,6 +11571,7 @@
 ||dmw.bz^
 ||dmx2.com.br^
 ||dmzeletrica.com.br^
+||dna.uol.com.br^
 ||dnabet99.co^
 ||dns-1.co^
 ||dobet.co^
@@ -11982,6 +11996,7 @@
 ||e-veja.com.br^
 ||e-veja.net.br^
 ||e-walmart.com.br^
+||e.co^
 ||e.eaobd.co^
 ||e.truedata.co^
 ||e17srijon.com.br^
@@ -19903,7 +19918,9 @@
 ||log01.regalbetx.co^
 ||log05.gap8a.co^
 ||logconnectingweblogin6cpsess799238928236rdpartyehnsxw6.accountconnecting.repl.co^
+||logger.rm.uol.com.br^
 ||logger.snackly.co^
+||logger.uol.com.br^
 ||loggn-fendi188.co^
 ||logictree.co^
 ||login-account.paypal.engelca.com.br^
@@ -21587,6 +21604,7 @@
 ||metrics.fnac.es^
 ||metrics.ing.es^
 ||metrics.ionos.es^
+||metrics.uol.com.br^
 ||metrobet.com^
 ||metrocuadro.com.ve^
 ||metropiscinas.com.br^
@@ -26703,6 +26721,7 @@
 ||publicarmeulivro.com.br^
 ||publicasa.com.mx^
 ||publicidad.elmundo.es^
+||publicidade.uol.com.br^
 ||publicidadecomercial.com.br^
 ||publicidadedireto.com.br^
 ||publicidadespectacularmovil.com.mx^
@@ -26716,6 +26735,7 @@
 ||publivip7.com.br^
 ||publivip9.com.br^
 ||publiweb.com.ec^
+||pubshop.img.uol.com.br^
 ||pubtrack.co^
 ||pucuk123login.co^
 ||pucuk168login.co^
@@ -30218,6 +30238,7 @@
 ||sportpesa.com^
 ||sports-betting-wagering.com^
 ||sports-betting.co^
+||sports.yajuego.co^
 ||sportsart.mx^
 ||sportsbasement.co^
 ||sportsbest.bet^
@@ -31068,6 +31089,7 @@
 ||szuperlotto.com^
 ||t-6.co^
 ||t-bet.com^
+||t.cl^
 ||t.omkt.co^
 ||t13.cl^
 ||t4jl9463.co^
@@ -32181,6 +32203,7 @@
 ||track.searchiq.co^
 ||trackad.com.br^
 ||trackeens.co^
+||tracker.bt.uol.com.br^
 ||tracker.cl^
 ||tracker.tfile.co^
 ||trackeverything.co^
@@ -32465,7 +32488,6 @@
 ||tuimpresion3d.com.ve^
 ||tuitfdg.mypi.co^
 ||tujuh77login.co^
-||tukofertas.com.br^
 ||tuktaks.gq^
 ||tulalipresortcasino.com^
 ||tulang77login.co^
@@ -33871,6 +33893,7 @@
 ||vymltda.cl^
 ||vymproducciones.cl^
 ||vzeskyrpog.es^
+||w.ar^
 ||w1.sahabat4d.co^
 ||w10.sahabat4d.co^
 ||w11.sahabat4d.co^
@@ -34698,6 +34721,7 @@
 ||x-bets.com^
 ||x-watches.co^
 ||x-xxxvideos.com^
+||x.co^
 ||x19.casino^
 ||x1fortbet.net^
 ||x21.casino^
