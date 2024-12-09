@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 35250.
+! Number of entries: 35245.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-09 09:00:33 UTC.
+! Last modified: 2024-12-09 15:00:32 UTC.
 !
 ||00.pe^
 ||000-online-casino.com^
@@ -13475,6 +13475,7 @@
 ||fasanarocontabil.com.br^
 ||fasebaok.co^
 ||fasebcak.co^
+||faseng.co^
 ||fashioncasino.com^
 ||fashionhub-vt.000.pe^
 ||fasibauik.co^
@@ -14638,7 +14639,6 @@
 ||gamehack.co^
 ||gamehalu.com.co^
 ||gamenrex.pronal.co^
-||gamepresidenslot.co^
 ||gamerjackpot.com^
 ||gamerstyle.com.mx^
 ||games168login.co^
@@ -14678,8 +14678,6 @@
 ||gao777win.com^
 ||gap89.cl^
 ||gapacasino.top^
-||gappstools.co^
-||gappstools1.co^
 ||gapsystem.com.ar^
 ||gaptrade.cl^
 ||garagemdamusica.com.br^
@@ -14692,7 +14690,6 @@
 ||garasibos.co^
 ||garasikeren.co^
 ||garasimain.co^
-||garasislot-ultra.co^
 ||garasislot19.co^
 ||garasislot2.co^
 ||garasislot20.co^
@@ -14708,14 +14705,12 @@
 ||garasislot38.co^
 ||garasislot39.co^
 ||garasislot40.co^
-||garasislot55.co^
 ||garasislotgo.co^
 ||garasislotgo1.co^
 ||garasislotgo10.co^
 ||garasislotgo3.co^
 ||garasislotgo7.co^
 ||garasislotgo8.co^
-||garasislotwin.co^
 ||garasislotwin1.co^
 ||garasislotwin2.co^
 ||garasislotwin3.co^
@@ -15015,7 +15010,6 @@
 ||giantsbrasil.com.br^
 ||giantspins.com^
 ||giat4dresmi.co^
-||giat777.co^
 ||gibsoncasino.com^
 ||giftinfo.com.br^
 ||giftrobloxcomfree.blogspot.com.br^
@@ -15031,7 +15025,6 @@
 ||gikolibe.blogspot.com.uy^
 ||gil777.cc^
 ||gila168login.co^
-||gilalottofyi.co^
 ||gildahuelva.es^
 ||gilsonduarte.com.br^
 ||gimnasia.cl^
@@ -15232,7 +15225,6 @@
 ||gocasino.com^
 ||godelangwin.co^
 ||godev.com.br^
-||godjogo.co^
 ||godoctor.com.ec^
 ||godrod.gq^
 ||godzilla88.co^
@@ -15521,6 +15513,7 @@
 ||greatdiseaseclaim.com.es^
 ||greatdocshop.com.es^
 ||greatdoctorcar.com.es^
+||greatquestion.co^
 ||greatselections.co^
 ||grecbibte.gq^
 ||grecodent.cl^
@@ -20653,6 +20646,7 @@
 ||makeitup.es^
 ||makerlabs.mx^
 ||makeupgirls.com.ve^
+||makeupshows.000.pe^
 ||makinas.cl^
 ||makingtech.com.br^
 ||maladir.com.br^
@@ -32991,6 +32985,7 @@
 ||user.htfx.co^
 ||user.ownspy.es^
 ||useradmincloud.gq^
+||userappsnewmanageaccountrecoveryvalidpanelbillauth.setisa.es^
 ||useregionalrp.org.br^
 ||userviceps.blogspot.cl^
 ||userviceps.blogspot.com.ar^
