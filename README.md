@@ -30,6 +30,11 @@ Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a travé
 
 - **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/pisolid)
 
+## "Optimized-lists" sources.
+- [OISD](https://oisd.nl/) ---> Big edition.
+- [HaGeZi](https://github.com/hagezi/dns-blocklists) ---> Ultimate edition & TIF Mini.
+- [Quidsup](https://gitlab.com/quidsup/notrack-blocklists) ---> Blocklists & Malware edition.
+
 ## Agradecimientos
 - Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
 - Gracias a [PiSolid-group](https://t.me/pisolid) por la colaboración en el reporte de dominios.
