@@ -34,6 +34,7 @@ Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a travé
 - [OISD](https://oisd.nl/) ---> Big edition.
 - [HaGeZi](https://github.com/hagezi/dns-blocklists) ---> Ultimate edition & TIF Mini.
 - [Quidsup](https://gitlab.com/quidsup/notrack-blocklists) ---> Blocklists & Malware edition.
+- [AdGuard DNS Filter](https://github.com/cbuijs/adguarddns) 
 
 ## Agradecimientos
 - Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
