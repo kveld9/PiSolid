@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36398.
+! Number of entries: 36393.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-10 21:01:18 UTC.
+! Last modified: 2024-12-11 03:01:17 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -1454,7 +1454,6 @@
 ||acci.com.co^
 ||acciaio.com.br^
 ||accionmasvida.com.ar^
-||account-cfe.mx^
 ||account-service-v073.gq^
 ||account-verification.frutalia.com.py^
 ||account.com.mx^
@@ -9596,7 +9595,6 @@
 ||clinicaveterinariasaludanimal.es^
 ||clinicavitalgranada.es^
 ||clinicservices23.com.ve^
-||clinicway.com.br^
 ||clip445abc.gq^
 ||clipbutton.com.br^
 ||clipping.es^
@@ -10196,7 +10194,6 @@
 ||consulgesa.com.co^
 ||consult4it.com.br^
 ||consultacurp-gobmx.com.mx^
-||consultandoagora.com.br^
 ||consultaparaempresas.com.br^
 ||consultapordesconto.com.br^
 ||consultapromocional.com.br^
@@ -17783,7 +17780,6 @@
 ||imaginedecor.com.br^
 ||imahp.com.br^
 ||imaji.co^
-||imap.oficinadoestudante.com.br^
 ||imar.es^
 ||imared.es^
 ||imartgine.es^
@@ -21296,7 +21292,6 @@
 ||mail.jaquereina.com.ar^
 ||mail.jbrf.com.br^
 ||mail.mk7comunicacao.com.br^
-||mail.oficinadoestudante.com.br^
 ||mail.ourletter.com.br^
 ||mail.procuracura.com.br^
 ||mail.propertyconcierge.com.ar^
@@ -24732,6 +24727,7 @@
 ||oficina5letras.com.br^
 ||oficinadasplacas.com.br^
 ||oficinadetintas.com.br^
+||oficinadoestudante.com.br^
 ||oficinadolar.com.br^
 ||oficinadosom.com.br^
 ||ofiice.smartwebinfo.com.br^
@@ -26554,7 +26550,6 @@
 ||planeta.digimob.com.br^
 ||planetabet.com.br^
 ||planetadiversion.com.co^
-||planetanaturalaju.com.br^
 ||planetasandia.com.ar^
 ||planetasenior.cl^
 ||planetatierra.cl^
@@ -28494,6 +28489,7 @@
 ||rescuetoast.co^
 ||researchinfotech.co^
 ||reseausocialsolutions.co^
+||resedaclinicaestetica.com.br^
 ||resenascasinos.com^
 ||resenhabetsvip.com^
 ||resep4d2.co^
@@ -34872,7 +34868,6 @@
 ||vostoto-1.co^
 ||vote-site.000.pe^
 ||votebright.000.pe^
-||voteglobal.000.pe^
 ||votesomeoneelse.com.es^
 ||voting-dage.000.pe^
 ||voting-dots.000.pe^
