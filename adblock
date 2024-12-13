@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36396.
+! Number of entries: 36394.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-13 09:01:17 UTC.
+! Last modified: 2024-12-13 15:01:18 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -16927,7 +16927,6 @@
 ||hold-em-poker.com^
 ||hold-em-poker.eu^
 ||holdenbeachfun.com.es^
-||holdingfly.com.br^
 ||holidaypartner.co^
 ||holidaypoker.com^
 ||holladayxut.gq^
@@ -26625,7 +26624,6 @@
 ||planosdesaude.far.br^
 ||planosdesaudeamapa.com.br^
 ||planosdesaudecotacoe.com.br^
-||planosdesaudenotredame.com.br^
 ||planosdesaudesampa.com.br^
 ||planosdesaudeslz.com.br^
 ||planosepropostas.com.br^
@@ -29601,7 +29599,6 @@
 ||scriptaetveritas.com.br^
 ||scripts-php.es^
 ||scrslots918.co^
-||scure2glbcubnk.es^
 ||scurty-supprt782.gq^
 ||sdafds.kikoweb.com.br^
 ||sdfghghjbn.blogspot.com.co^
@@ -34862,6 +34859,7 @@
 ||voicazxemexico.com.mx^
 ||voiceprotect.co^
 ||voidlab.es^
+||volarehost.com.br^
 ||volater.gq^
 ||volkswagen.comexport.com.br^
 ||vollagio.com.br^
