@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36375.
+! Number of entries: 36386.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-12 21:01:22 UTC.
+! Last modified: 2024-12-13 03:01:16 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -1448,6 +1448,7 @@
 ||access.adm.br^
 ||access.expertdashboard.es^
 ||access.webpeypalserver.gq^
+||access.whiteaccessplatform.es^
 ||access.yitechnology.com.es^
 ||accesshomeinsurance.co^
 ||accessinstitute.com.uy^
@@ -1455,7 +1456,6 @@
 ||acci.com.co^
 ||acciaio.com.br^
 ||accionmasvida.com.ar^
-||account-cfe.mx^
 ||account-service-v073.gq^
 ||account-verification.frutalia.com.py^
 ||account.com.mx^
@@ -2318,7 +2318,6 @@
 ||almtransportes.com.br^
 ||alo-yoga-mexico.com.mx^
 ||alock.co^
-||alogationa.co^
 ||aloha4d10.co^
 ||aloha4d15.co^
 ||aloha4dcuan.co^
@@ -2429,6 +2428,7 @@
 ||amazonas365.com.br^
 ||amazoncareers.co^
 ||amazoncash.co^
+||amazoncpw.co^
 ||amazonfor.co^
 ||amazonguides.co^
 ||amazoniajunglehotel.com.br^
@@ -2871,6 +2871,7 @@
 ||apostolesdelvino.cl^
 ||apostouganhou.com.br^
 ||apostt.bet^
+||apoteke-online.co^
 ||apowin388.co^
 ||app-1win-casino.ru^
 ||app-casino-mostbet.ru^
@@ -5416,6 +5417,7 @@
 ||betzord.com^
 ||bewhoyouare.gq^
 ||bewin.it^
+||bexbank.com.br^
 ||beyondbet.com^
 ||beyondnextventures.co^
 ||beze.co^
@@ -5738,6 +5740,7 @@
 ||black-jack-casino.com^
 ||black-jack.com^
 ||black-money.gq^
+||black62.com.br^
 ||blackbambu.co^
 ||blackberry.org.mx^
 ||blackbets.com^
@@ -16949,6 +16952,7 @@
 ||home-pl-ab0420bfa1e.henriquehulse.com.br^
 ||home-pl-c1f5a162cfa.henriquehulse.com.br^
 ||home.concretizaengenharia.com.br^
+||homeadvertising.co^
 ||homebuyinglist.com.es^
 ||homecard.com.br^
 ||homecentereletronica.com.br^
@@ -19275,6 +19279,8 @@
 ||kalcho.com.mx^
 ||kalu.org.br^
 ||kalypsoproducciones.cl^
+||kamagra-rendeles.co^
+||kamagra.mx^
 ||kamidhx4d.co^
 ||kamijuliet4d.co^
 ||kamipoker1.co^
@@ -20275,6 +20281,7 @@
 ||leydi.com.ar^
 ||leyleori.gq^
 ||lfa388.co^
+||lgaiwmc1d.com^
 ||lgcasino.org^
 ||lgmontagens.com.br^
 ||lgpd1mapeamento.com.br^
@@ -21320,7 +21327,6 @@
 ||mail.jaquereina.com.ar^
 ||mail.jbrf.com.br^
 ||mail.mk7comunicacao.com.br^
-||mail.nauticacolombia.com.co^
 ||mail.ourletter.com.br^
 ||mail.procuracura.com.br^
 ||mail.propertyconcierge.com.ar^
@@ -22825,6 +22831,7 @@
 ||mmnwatches.co^
 ||mmpartner.com.br^
 ||mmpfps.com.br^
+||mmsoftwares.com.br^
 ||mmsolucionestecnologicas.com.ve^
 ||mmsport.com.br^
 ||mmsubtitles.co^
@@ -23669,6 +23676,7 @@
 ||natuvia.cr^
 ||naum.cl^
 ||naupoge.gq^
+||nauticacolombia.com.co^
 ||nauticalcenter.co^
 ||navalnautica.com.br^
 ||navegacaolacet.com.br^
@@ -24378,6 +24386,7 @@
 ||norep-layamazoon.wootraining.certificacion.cl^
 ||norgescasino.com^
 ||normal13.carrd.co^
+||normalife-hu.offeryou.co^
 ||normandy.com.br^
 ||norppacasino.top^
 ||norsa.com.br^
@@ -28238,7 +28247,6 @@
 ||realstresser.com^
 ||realtitleservices.co^
 ||realtoolfora.carrd.co^
-||realtoragencyplatforms.000.pe^
 ||realtymogul.co^
 ||realtyplaces.mx^
 ||reascalmaq.com.br^
@@ -31557,7 +31565,6 @@
 ||stonesour.com.br^
 ||stopify.co^
 ||stopvid.es^
-||storageapi2.fleek.co^
 ||store.jbpserver.com.br^
 ||storebike.com.ar^
 ||storedeluxe.com.br^
@@ -32779,6 +32786,7 @@
 ||tiket777pro.co^
 ||tiktok.es^
 ||tiktok.pro.br^
+||tiktok.tray.com.br^
 ||tiktok18.com.br^
 ||tiktok22.co^
 ||tiktok388.co^
@@ -32961,6 +32969,7 @@
 ||tomasino.com.pe^
 ||tomasitoeventos.com.ar^
 ||tomaz.co^
+||tomazcp.com.br^
 ||tombak118.co^
 ||tombola.com.ar^
 ||tombolacasino.top^
@@ -32970,6 +32979,7 @@
 ||toms-shoes.net.co^
 ||tomsshoes.nom.co^
 ||ton.updog.co^
+||tonerin-hu.offeryou.co^
 ||tonerinhelp.co^
 ||tonimartos.es^
 ||tonybarreto.com.br^
@@ -35754,6 +35764,7 @@
 ||wpoptimizeinnodbtables.gq^
 ||wptcasino.com^
 ||wptpoker.com^
+||wrantuno.gq^
 ||writemypaper.co^
 ||wriz-v2-booter.sfbaywhalewatching.com^
 ||ws015.coinhive.co^
