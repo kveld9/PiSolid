@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36450.
+! Number of entries: 36448.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-15 02:22:07 UTC.
+! Last modified: 2024-12-15 03:01:18 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -16980,7 +16980,6 @@
 ||home-pl-ab0420bfa1e.henriquehulse.com.br^
 ||home-pl-c1f5a162cfa.henriquehulse.com.br^
 ||home.concretizaengenharia.com.br^
-||homeadvertising.co^
 ||homebuyinglist.com.es^
 ||homecard.com.br^
 ||homecentereletronica.com.br^
@@ -25516,7 +25515,6 @@
 ||ovhcloud-com-575f9cb8.cdasp.com.br^
 ||ovhcloud-com-596f5126.cdasp.com.br^
 ||ovhcloud-com-7698cf27.cdasp.com.br^
-||ovhcloud-com-a806f28f.cdasp.com.br^
 ||ovhcloud-com-b5a0eb03.noticiasdopantanal.com.br^
 ||ovhcloud-com-ebe7ad4e.cdasp.com.br^
 ||ovhcloud-com-f07901e7.cdasp.com.br^
