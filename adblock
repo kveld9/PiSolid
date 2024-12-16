@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36454.
+! Number of entries: 36455.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-15 21:01:28 UTC.
+! Last modified: 2024-12-16 03:01:28 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -3434,6 +3434,7 @@
 ||asiatika.com.co^
 ||asicminer.co^
 ||asicpool.co^
+||asics-colombia.com.co^
 ||asicsencolombia.com.co^
 ||asicss.com.es^
 ||asicsshoescolombia.com.co^
@@ -15526,7 +15527,6 @@
 ||gladishouse.co^
 ||gladwellvsstreet.gq^
 ||glamboutique.co^
-||glamourstorepa.com.br^
 ||glamstudio.mx^
 ||glassesofwine.com^
 ||glassfilm.cl^
@@ -17669,7 +17669,6 @@
 ||icloud.apple.hanzhongrcqgc.co^
 ||icloud.apple.heihedmbjuada.co^
 ||icloud.apple.wuzhoubvrvywi.co^
-||icloud.apple.xintaitidpaqo.co^
 ||icloud.com.apple-service.co^
 ||icloud.com.bz^
 ||icloud.com.servicelock.com.es^
@@ -22820,6 +22819,7 @@
 ||mjlezg.co^
 ||mjmgarage.com.br^
 ||mk1.net.br^
+||mkonlinestoredanmark.co^
 ||mkoverseas.co^
 ||mksolutions.com.br^
 ||mkt-campaign.com.br^
@@ -28863,6 +28863,7 @@
 ||robux-bjfig.blogspot.com.br^
 ||robux-bjfig.blogspot.com.co^
 ||robuxfree.co^
+||robuxgeg.blogspot.cl^
 ||rochaemattosseguros.com.br^
 ||rochasgeologia.com.br^
 ||rochfe.cl^
@@ -31618,7 +31619,6 @@
 ||stonesour.com.br^
 ||stopify.co^
 ||stopvid.es^
-||storageapi-new.fleek.co^
 ||store.jbpserver.com.br^
 ||storebike.com.ar^
 ||storedeluxe.com.br^
@@ -33372,6 +33372,7 @@
 ||transtapajos.com.br^
 ||trantenjovers.gq^
 ||trapassa.gq^
+||trapstarshooters.es^
 ||tratamentoparapele.com.br^
 ||tratedagota.com.br^
 ||tratortecpa.com.br^
