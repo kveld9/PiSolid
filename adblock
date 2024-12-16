@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36455.
+! Number of entries: 36457.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-16 09:01:29 UTC.
+! Last modified: 2024-12-16 15:01:29 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -3302,6 +3302,7 @@
 ||arquelau.com.br^
 ||arquidiocesemilitar.org.br^
 ||arquidiocesisdevillavicencio.org.co^
+||arquimia.pe^
 ||arquint.com.br^
 ||arquiproyectos.cl^
 ||arquitectosdelperu.com.pe^
@@ -16097,6 +16098,7 @@
 ||grupoavanti.mx^
 ||grupobhinicio.com.br^
 ||grupobm.com.br^
+||grupobramam.com.br^
 ||grupobrass.com.br^
 ||grupobsf.cl^
 ||grupobuitrago.ec^
