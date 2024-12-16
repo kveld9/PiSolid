@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36457.
+! Number of entries: 36473.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-16 15:01:29 UTC.
+! Last modified: 2024-12-16 21:01:25 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -900,7 +900,6 @@
 ||74bet9.com^
 ||74f26d34ffff049368a6cff8812f86ee.gq^
 ||751189.co^
-||752018.co^
 ||753457.co^
 ||755735.co^
 ||757737.co^
@@ -1864,6 +1863,7 @@
 ||agenciacovil.com.br^
 ||agenciacride.com.br^
 ||agenciadaitalia.com.br^
+||agenciadamata.com.br^
 ||agenciadeempregosmt.com.br^
 ||agenciadigital7.com.br^
 ||agenciagriffe.com.br^
@@ -2741,6 +2741,7 @@
 ||aolmaiillogin.blogspot.cl^
 ||aolmaiillogin.blogspot.com.co^
 ||aonda.org.br^
+||aontestteamsupport.blogspot.com.co^
 ||aope.oxeoxe.co^
 ||aoportunidade.com.br^
 ||aovivo.foxspy.com.br^
@@ -3436,7 +3437,6 @@
 ||asicpool.co^
 ||asics-colombia.com.co^
 ||asicsencolombia.com.co^
-||asicss.com.es^
 ||asicsshoescolombia.com.co^
 ||asikqq12.co^
 ||asikqq13.co^
@@ -3841,6 +3841,7 @@
 ||b2link.com.br^
 ||b2slt88.co^
 ||b365.com^
+||b45e9741a0.au2.amezmo.co^
 ||b52a.bz^
 ||b52club.pe^
 ||b55.casino^
@@ -4104,6 +4105,8 @@
 ||barrysalmon.gq^
 ||barsaji.com.mx^
 ||bartucevic.cl^
+||barxaswebshotuofr.blogspot.com.ar^
+||barxaswebshotuofr.blogspot.com.uy^
 ||basai.co^
 ||basebet.com^
 ||basebets.com^
@@ -5537,6 +5540,7 @@
 ||bimkilo28.blogspot.com.es^
 ||bimq.co^
 ||binance-exchange.updog.co^
+||binance.com.bz^
 ||binance.updog.co^
 ||binancevip.co^
 ||binancezh.co^
@@ -9500,7 +9504,6 @@
 ||clarabia.com.br^
 ||clarapak.org^
 ||clarks-colombia.co^
-||clarksspain.com.es^
 ||claro-net-emta.aceite.fbiz.com.br^
 ||clarobet.com^
 ||clarobrasi.com.br^
@@ -9712,7 +9715,6 @@
 ||clubwin.com.br^
 ||clubworldcasinos.com^
 ||clubyeahmail.com.br^
-||cmaa.workingsafety.com.br^
 ||cmasd.com.mx^
 ||cmasesorias.cl^
 ||cmbaraodecocais.mg.gov.br^
@@ -10405,7 +10407,6 @@
 ||correionaweb.com.br^
 ||correiopremio.com.br^
 ||correo.foot-news.co^
-||correos.binba.co^
 ||correos.fuwan.co^
 ||correosfull.com.co^
 ||correosprepago.bnext.es^
@@ -11486,6 +11487,7 @@
 ||destileriapm.noise.cl^
 ||destination-mexico.mx^
 ||destinors.com.br^
+||destinoverde.pe^
 ||destinyline.co^
 ||destypad.gq^
 ||desuhentai.net^
@@ -11508,7 +11510,6 @@
 ||deutschlandcasinos.info^
 ||deutschperuana.com.pe^
 ||dev.addshop.com.br^
-||dev.api.stanley-mexico.com.mx^
 ||dev.moragues.pe^
 ||dev.operaciones.cl^
 ||dev7.com.br^
@@ -11574,6 +11575,7 @@
 ||dfdgf46567567.blogspot.pe^
 ||dfewsg.blogspot.cl^
 ||dfewsg.blogspot.com.uy^
+||dfgdfhdfhfdhdfhhdfhfdh.blogspot.mx^
 ||dfgffgdgsdfgsdsdgsdfdf.blogspot.com.es^
 ||dfgfgdufdf46456.blogspot.pe^
 ||dfghbdfdgfhfd545.blogspot.com.co^
@@ -11583,6 +11585,8 @@
 ||dfhgfjhgfjfg.blogspot.cl^
 ||dfmman-gio.gq^
 ||dfogkeog.pe^
+||dfrndfr.blogspot.com.br^
+||dfrndfr.blogspot.com.co^
 ||dfsud.com^
 ||dg0.co^
 ||dgb.cl^
@@ -13055,7 +13059,6 @@
 ||entreteneventos.com.br^
 ||entropaycasino-uk.top^
 ||entropaycasino.ca^
-||entship.co^
 ||env-0806113.sp1.br.saveincloud.net.br^
 ||env-1557538.jl.serv.net.mx^
 ||env-3086152.jelasticlw.com.br^
@@ -13536,7 +13539,6 @@
 ||eventosrealiza.com.mx^
 ||events-api.gazetadopovo.com.br^
 ||events.ifunny.co^
-||events.rtfkft.co^
 ||everestcasino.com^
 ||everestpoker.com^
 ||everestpoker.fr^
@@ -14486,10 +14488,13 @@
 ||fooa-v11.gq^
 ||foodera.co^
 ||foodexpress.net.br^
+||foodfusionpk-rfgdscprogram.blogspot.com.es^
 ||foodneteowkcoolingcotest.blogspot.com.uy^
 ||foodnetworkkitchens.000.pe^
 ||foodnetworks-lt.000.pe^
 ||foodnetworks.000.pe^
+||foodprogramnetwoek.blogspot.com.br^
+||foodprogramnetwoek.blogspot.com.uy^
 ||foodsnetworkshub.000.pe^
 ||foodtopia.com.br^
 ||fooji.co^
@@ -14678,6 +14683,8 @@
 ||freelotto.com^
 ||freemeil.gq^
 ||freeonline-casinos.net^
+||freepalestine8000.blogspot.cl^
+||freepalestine8000.blogspot.mx^
 ||freepalestnan.blogspot.cl^
 ||freeparur.gq^
 ||freepdfebook.gq^
@@ -14788,6 +14795,7 @@
 ||fubet6.com^
 ||fubet7.com^
 ||fubet9.com^
+||fuckmate.co^
 ||fudena.org.ve^
 ||fudiholdings.co^
 ||fuegoydelicia.mx^
@@ -15821,6 +15829,8 @@
 ||goodmancasino4.com^
 ||goodmancasino5.com^
 ||goodmedicineworld.com.es^
+||goodnetworkingfoodi.blogspot.com.uy^
+||goodnetworkingfoodi.blogspot.mx^
 ||goodnews.cl^
 ||goodpharmaceutical.com.es^
 ||goodpolicy66.gq^
@@ -15829,6 +15839,7 @@
 ||goodstuffguide.com.es^
 ||goodtimesrelacionamentos.com.br^
 ||goodwatches.co^
+||goodwillfoodnetworkcontestantpage-sc.blogspot.com.uy^
 ||goodwincasino.com^
 ||goof.es^
 ||googie-anaiytics.com^
@@ -16188,7 +16199,6 @@
 ||gsbdnx.blogspot.mx^
 ||gscseguranca.com.br^
 ||gsfaggsagsgasfgg.x10.mx^
-||gshocks.com.mx^
 ||gsn.com.mx^
 ||gsnhxd.blogspot.mx^
 ||gso789.co^
@@ -17241,6 +17251,7 @@
 ||hotelesenmerida.info.ve^
 ||hotelesparaiso.com.pe^
 ||hotelfenixolimpia.com.br^
+||hotelgloria.com.ar^
 ||hoteliracematravel.com.br^
 ||hoteljarama.es^
 ||hotelkennedy.com.ec^
@@ -17666,6 +17677,7 @@
 ||icloud-fmip.co^
 ||icloud-web.co^
 ||icloud.alert-id.co^
+||icloud.apple.anshunojwmqee.co^
 ||icloud.apple.chuxionggwwor.co^
 ||icloud.apple.hanzhongrcqgc.co^
 ||icloud.apple.heihedmbjuada.co^
@@ -21070,7 +21082,6 @@
 ||lululemexico.com.mx^
 ||lululemonmexicooutlet.com.mx^
 ||lululemonmexicoshop.com.mx^
-||lululemonmx.com.mx^
 ||lululemonmxtienda.com.mx^
 ||lululemonoutlet.com.es^
 ||lululemons.es^
@@ -23417,7 +23428,6 @@
 ||museudadiversidade.com.br^
 ||museupalaciorionegro.museus.gov.br^
 ||museupg.bet^
-||music-auditionloo.000.pe^
 ||musicaarte.com.br^
 ||musicaentreamigos.es^
 ||musicalintegracao.com.br^
@@ -24270,6 +24280,7 @@
 ||nicemenswatches.co^
 ||nicewatches.co^
 ||nicewatchesformen.co^
+||nicfoodnetworkckoo.blogspot.com.co^
 ||nichodemercado.com.br^
 ||nichodesign.com.br^
 ||nickhaskins.co^
@@ -26132,7 +26143,6 @@
 ||pcn.com.mx^
 ||pcpurifier.co^
 ||pcsecuresystem.bz^
-||pcsolve.co^
 ||pcspeeduppro.co^
 ||pcsupportdesk.co^
 ||pctechsupport.co^
@@ -26473,6 +26483,7 @@
 ||pin-upcasino.top^
 ||pin888login.co^
 ||pinamar.gob.ar^
+||pinamardirecto.com.ar^
 ||pinamartriplex.com.ar^
 ||pinbet88.com^
 ||pincherxxcreek.gq^
@@ -27965,7 +27976,6 @@
 ||quicooti.gq^
 ||quiksilver-mexico.com.mx^
 ||quimicakubo.com.ar^
-||quimicosfuncionales.com.mx^
 ||quini6.com.ar^
 ||quinncontainersaussie.co^
 ||quintaoappvistorias.com.br^
@@ -29647,6 +29657,8 @@
 ||scrslots918.co^
 ||scure2glbcubnk.es^
 ||scurty-supprt782.gq^
+||sd11hs.blogspot.com.co^
+||sd11hs.blogspot.com.uy^
 ||sdafds.kikoweb.com.br^
 ||sdfghghjbn.blogspot.com.co^
 ||sdfhfbpaqesdevelop3.gq^
@@ -30523,6 +30535,7 @@
 ||skar.com.br^
 ||skawa.com.br^
 ||skctoyota.cl^
+||skdjjfkfkkjhdkjd.sgbrsistemas.com.br^
 ||skechers-colombia.com.co^
 ||skechersaustralia.co^
 ||ski9776.com.br^
@@ -32211,6 +32224,7 @@
 ||taker9.casino^
 ||takethat.co^
 ||takeweb.com.br^
+||takeya.com.co^
 ||takeyouforward.co^
 ||takipcihilesi.co^
 ||taklo.co^
@@ -32442,7 +32456,6 @@
 ||telefoniabrasil.com.br^
 ||telegarnn.co^
 ||telegeam.co^
-||telegram.bz^
 ||telegram.sginfinity.com.br^
 ||telegramcasinos.org^
 ||telegramcn.co^
@@ -34145,6 +34158,7 @@
 ||utilitool.co^
 ||utilpratico.net.br^
 ||utilsmix.com.br^
+||utseaa.es^
 ||utua.com.br^
 ||uu.ynqmsm.co^
 ||uuu777win.com^
@@ -35728,6 +35742,8 @@
 ||witagazolio.webnode.es^
 ||withered-meadow-8049.on.fleek.co^
 ||witter.es^
+||wiwiwwiiwiwiwiwiwi.blogspot.com.co^
+||wiwiwwiiwiwiwiwiwi.blogspot.pe^
 ||wix5.wixnet.com.br^
 ||wizbet.com^
 ||wjcasino.com^
