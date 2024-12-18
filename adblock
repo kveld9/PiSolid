@@ -1,12 +1,12 @@
 [Adblock Plus]
 ! Title: PiSolid
-! Number of entries: 36423.
+! Number of entries: 36418.
 ! Homepage: https://github.com/kveld9/pisolid.
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! License: https://github.com/kveld9/pisolid/blob/main/LICENSE.
 ! Issues: https://github.com/kveld9/pisolid/issues.
 ! Syntax: AdBlock.
-! Last modified: 2024-12-17 21:01:27 UTC.
+! Last modified: 2024-12-18 03:01:24 UTC.
 !
 ||0-casino.info^
 ||00.pe^
@@ -1458,7 +1458,6 @@
 ||acci.com.co^
 ||acciaio.com.br^
 ||accionmasvida.com.ar^
-||account-cfe.mx^
 ||account-service-v073.gq^
 ||account-verification.frutalia.com.py^
 ||account.com.mx^
@@ -29236,7 +29235,6 @@
 ||sabordacolonia.com.br^
 ||sabores.cl^
 ||saborlaticinios.com.br^
-||sabuesospetshop.com.ar^
 ||sabun69.co^
 ||sacasino.io^
 ||sacasino.me^
@@ -33946,7 +33944,6 @@
 ||unirom.gq^
 ||unisal-money.gq^
 ||unisateducacional.com.br^
-||uniswap.codeislaw.co^
 ||united.co^
 ||unitedairlinesreservation.co^
 ||unitedwebpay.co^
@@ -34836,7 +34833,6 @@
 ||viverdepilatesoficial.com.br^
 ||viverderendadigital.com.br^
 ||vivereviajar.com.br^
-||viveromercier.com.ar^
 ||viveroscentrals.es^
 ||viverosvedo.es^
 ||viverprimeiro.com.br^
@@ -36413,7 +36409,6 @@
 ||zunomaf.gq^
 ||zunsoach.com^
 ||zurc.maph.com.mx^
-||zures.com.br^
 ||zurtel.gq^
 ||zus-wyplata.gq^
 ||zuzama.es^
