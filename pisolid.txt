@@ -3,12 +3,9 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-19T16:41:07.388Z
+! Last modified: 2024-12-19T17:24:03.440Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
-!
-!
-! Source: dom-kveld9.txt
 !
 ||0-casino.info^
 ||2track.info^
@@ -11327,9 +11324,6 @@
 ||xhamster.desi^
 ||xnxx.fit^
 ||xxxcom.fans^
-!
-! Source: filtrado-tld.txt
-!
 ||0.bgeneral0.repl.co^
 ||00.pe^
 ||000.abreubueno91.repl.co^
