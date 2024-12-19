@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-19T17:24:03.440Z
+! Last modified: 2024-12-19T23:16:12.179Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -15283,6 +15283,7 @@
 ||asicpool.co^
 ||asics-colombia.com.co^
 ||asicsencolombia.com.co^
+||asicss.com.es^
 ||asicsshoescolombia.com.co^
 ||asikqq12.co^
 ||asikqq13.co^
@@ -18014,7 +18015,6 @@
 ||clanlenpa.gq^
 ||clarabia.com.br^
 ||clarks-colombia.co^
-||clarksspain.com.es^
 ||claro-net-emta.aceite.fbiz.com.br^
 ||clarobrasi.com.br^
 ||clarohdinforma.com.br^
@@ -18841,6 +18841,7 @@
 ||cpanel.hellyhansen-espana.es^
 ||cpanel.inverargos.co^
 ||cpanel.nine-west.com.mx^
+||cpanel.ralphlaurenoutletmx.com.mx^
 ||cpanel.uberlandiavistorias.com.br^
 ||cpanel.verificacfdifacturaelectronicasatgov.com.mx^
 ||cpanell01.sinoscorp.com.br^
@@ -19662,7 +19663,6 @@
 ||detty.co^
 ||deutschperuana.com.pe^
 ||dev.addshop.com.br^
-||dev.api.stanley-mexico.com.mx^
 ||dev.moragues.pe^
 ||dev.operaciones.cl^
 ||dev7.com.br^
@@ -21317,6 +21317,7 @@
 ||eventosrealiza.com.mx^
 ||events-api.gazetadopovo.com.br^
 ||events.ifunny.co^
+||events.rtfkft.co^
 ||everthingelse.com.es^
 ||everybuy.com.br^
 ||everyevery.gq^
@@ -21918,7 +21919,6 @@
 ||flaviamodista.es^
 ||flavianorep.com.br^
 ||flaviarocco.com.br^
-||flaviatrindade.com.br^
 ||flaviense.com.br^
 ||flawlesss.co^
 ||flcontabilidaderr.com.br^
@@ -23209,6 +23209,7 @@
 ||gsbdnx.blogspot.mx^
 ||gscseguranca.com.br^
 ||gsfaggsagsgasfgg.x10.mx^
+||gshocks.com.mx^
 ||gsn.com.mx^
 ||gsnhxd.blogspot.mx^
 ||gso789.co^
@@ -24298,7 +24299,6 @@
 ||icloud-web.co^
 ||icloud.alert-id.co^
 ||icloud.apple.chuxionggwwor.co^
-||icloud.apple.hanzhongrcqgc.co^
 ||icloud.apple.heihedmbjuada.co^
 ||icloud.com.apple-service.co^
 ||icloud.com.bz^
@@ -24458,7 +24458,6 @@
 ||imaginarioeventos.cl^
 ||imaginativewarmtoolbox.zaddy82.repl.co^
 ||imaginedecor.com.br^
-||imahp.com.br^
 ||imaji.co^
 ||imar.es^
 ||imared.es^
@@ -24654,6 +24653,7 @@
 ||inflaloquitos.cl^
 ||inflatob.gq^
 ||inflavma.gq^
+||info.beritaviral.co^
 ||info.perroandante.cl^
 ||info.privacysearch.co^
 ||info24hs.com.br^
@@ -25456,6 +25456,7 @@
 ||joseeduardo.com.br^
 ||josegbueno.jazztel.es^
 ||josegeraldo.com.br^
+||joseiurato.com.ar^
 ||josemanuelperez.es^
 ||joseprietotattoo.es^
 ||josetadeucoraleorquestra.com.br^
@@ -27006,7 +27007,6 @@
 ||lululemexico.com.mx^
 ||lululemonmexicooutlet.com.mx^
 ||lululemonmexicoshop.com.mx^
-||lululemonmx.com.mx^
 ||lululemonmxtienda.com.mx^
 ||lululemonoutlet.com.es^
 ||lululemons.es^
@@ -29141,6 +29141,7 @@
 ||nenrile.gq^
 ||neo-tracler.co^
 ||neo303toto.co^
+||neocentrovacinas.com.br^
 ||neodimio.com.br^
 ||neoenterprise.com.pe^
 ||neofarm.com.br^
@@ -32340,6 +32341,7 @@
 ||registraclique.com.br^
 ||registrarargentina.com.ar^
 ||registresuabanda.com.br^
+||registroheca.com.ar^
 ||regitereses23.support20.gq^
 ||regue.com.br^
 ||reibatuta.com.br^
@@ -33094,7 +33096,6 @@
 ||sanmiguelhotel.com.ve^
 ||sanovo.com.br^
 ||sanpedroinmo.com.ar^
-||sanpelmaquinas.com.br^
 ||sanpix.com.br^
 ||sanrafaelexport.cl^
 ||sanrafaelsl.com.br^
@@ -35325,6 +35326,7 @@
 ||telefoniabrasil.com.br^
 ||telegarnn.co^
 ||telegeam.co^
+||telegram.bz^
 ||telegram.sginfinity.com.br^
 ||telegramcn.co^
 ||telegramputaria.blog.br^
