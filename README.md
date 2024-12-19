@@ -1,6 +1,6 @@
 # PiSolid: aumenta la seguridad en internet.
 
-<img src="images/pisolid-banner.png" alt="banner" style="max-width: 100%; height: auto;">
+<img src="images/banner.png" alt="banner" style="max-width: 100%; height: auto;">
 
 ## ¿En qué consiste?
 
