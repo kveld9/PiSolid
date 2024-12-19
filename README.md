@@ -24,21 +24,27 @@ El formato de bloqueo de dominios en AdBlock permite filtrar contenido al bloque
 
 Para que estos softwares o extensiones puedan aplicar correctamente las reglas de bloqueo, es crucial proporcionar la URL del archivo en formato RAW.
 
-## Contribuciones
+## "PiSolid-Ultra" fuentes
+- [OISD](https://big.oisd.nl/)
+- [HaGeZi Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt)
+- [HaGeZi TIF Mini](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt)
+- [Quids NoTrack Blocklist](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts?ref_type=heads)
+- [Quids NoTrack Malware](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts?ref_type=heads)
 
-Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a través del grupo de Telegram. Agradecemos cualquier ayuda para hacer de este proyecto una herramienta más efectiva para todos.
-
-- **Grupo de Aportes en Telegram:** [Click aquí](https://t.me/pisolid)
-
-## "Optimized-lists" sources.
-- [OISD](https://oisd.nl/) ---> Big edition.
-- [HaGeZi](https://github.com/hagezi/dns-blocklists) ---> Ultimate edition & TIF Mini.
-- [Quidsup](https://gitlab.com/quidsup/notrack-blocklists) ---> Blocklists & Malware edition.
-- [AdGuard DNS Filter](https://github.com/cbuijs/adguarddns) 
+## "PiSolid-NSFW" fuentes
+- [OISD](https://nsfw.oisd.nl)
+- [Jarellama](https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt)
+- [StevenBlack](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts)
 
 ## Agradecimientos
 - Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
-- Gracias a [PiSolid-group](https://t.me/pisolid) por la colaboración en el reporte de dominios.
+- Gracias a [hostslistcompiler](https://github.com/AdguardTeam/HostlistCompiler) por la herramienta utilizada en cada una de las presentaciones finales de PiSolid.
+
+## Contribuciones
+
+Si deseas contribuir al proyecto o sugerir mejoras, por favor, contacta a través del siguiente correo. Se agradece cualquier colaboración para hacer de este proyecto una herramienta más efectiva para todos.
+
+• kveld9@disroot.org
 
 ---
 
