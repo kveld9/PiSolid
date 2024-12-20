@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-20T16:31:43.355Z
+! Last modified: 2024-12-20T21:01:33.197Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11336,6 +11336,8 @@
 ||moimir.com^
 ||liveinternet.ru^
 ||xmsecu.com^
+||yandexcloud.net^
+||yandexadexchange.net^
 ||0.bgeneral0.repl.co^
 ||00.pe^
 ||000.abreubueno91.repl.co^
@@ -13873,7 +13875,6 @@
 ||acesso-certificado.pagedemo.co^
 ||acesso.inf.br^
 ||acessodiretostn.com.br^
-||acessoriosmicrosoft.com.br^
 ||acessou.com.br^
 ||acgproducoes.com.br^
 ||acgrupo.com.ar^
@@ -19724,7 +19725,6 @@
 ||devilrajamenang.co^
 ||devilwin.co^
 ||devisa.com.mx^
-||devlettesvik.co^
 ||devn1.com.br^
 ||devote-child.gq^
 ||devutilidades.com.br^
@@ -22307,6 +22307,7 @@
 ||fun99.co^
 ||funarj.rj.gov.br^
 ||funbox.cl^
+||fund-fx.co^
 ||fundacabletv.com.ve^
 ||fundacaocasagrande.org.br^
 ||fundacaoculturaldevarginha.com.br^
@@ -31158,6 +31159,7 @@
 ||planum.mx^
 ||planyourbackup.co^
 ||plassistec.com.br^
+||plasticasaopaulo.com.br^
 ||plasticbusinesscards.co^
 ||plasticfantasticplace.com.es^
 ||plasticosdaniel.com.ar^
@@ -32439,6 +32441,7 @@
 ||redwing.com.mx^
 ||reef33.co^
 ||reelsgyptio.gq^
+||reelviralinsta.blogspot.cl^
 ||refawra.gq^
 ||refer4me.co^
 ||referral568.co^
@@ -32455,6 +32458,7 @@
 ||refund-hmrc.uk-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675730208274.softom.com.br^
 ||reg-adnoc.co^
 ||regalanavidad.es^
+||regergerwgfwe.blogspot.com.es^
 ||regidorpuebla.org.mx^
 ||regiiisconfriiimsafeetyy.reggiscoonfrim.gq^
 ||reginacanedo.com.br^
@@ -37123,6 +37127,7 @@
 ||visualcoeventos.com.ar^
 ||visualiz.com.mx^
 ||visuallaser.med.br^
+||visualmirage.co^
 ||vitabit.es^
 ||vitafollinbrasil.com.br^
 ||vital-admin.gq^
