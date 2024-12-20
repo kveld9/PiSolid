@@ -30,6 +30,9 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [HaGeZi TIF Mini](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt)
 - [Quids NoTrack Blocklist](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.hosts?ref_type=heads)
 - [Quids NoTrack Malware](https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/malware.hosts?ref_type=heads)
+- [AdGuardDNS-optimized](https://raw.githubusercontent.com/cbuijs/adguarddns/refs/heads/main/Main/domains.adblock)
+- [DanPollock's](https://someonewhocares.org/hosts/zero/)
+- [Peter-Lowe's](https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts)
 
 ## "PiSolid-NSFW" fuentes
 - [OISD](https://nsfw.oisd.nl)
