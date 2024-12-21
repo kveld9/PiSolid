@@ -25,9 +25,9 @@ El formato de bloqueo de dominios en AdBlock permite filtrar contenido al bloque
 Para que estos softwares o extensiones puedan aplicar correctamente las reglas de bloqueo, es crucial proporcionar la URL del archivo en formato RAW.
 
 ## "PiSolid-Ultra" fuentes
-- [OISD](https://big.oisd.nl/)
-- [HaGeZi Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt)
-- [HaGeZi TIF Mini](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt)
+- [OISD-Big](https://big.oisd.nl/)
+- [HaGeZi-Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt)
+- [HaGeZi-TIF-Mini](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt)
 - [AdGuardDNS-optimized](https://raw.githubusercontent.com/cbuijs/adguarddns/refs/heads/main/Main/domains.adblock)
 
 ## "PiSolid-NSFW" fuentes
