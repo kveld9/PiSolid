@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-22T03:52:48.783Z
+! Last modified: 2024-12-22T07:21:54.122Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1682,7 +1682,6 @@
 ||betfiery.com^
 ||betfinal.com^
 ||betfinder.com^
-||betfirst.be^
 ||betfirstcasino.be^
 ||betfirstcasino.top^
 ||betflag.com^
@@ -3021,7 +3020,6 @@
 ||casino.co.uk^
 ||casino.co^
 ||casino.com.ro^
-||casino.com^
 ||casino.edu.kg^
 ||casino.es^
 ||casino.fr^
@@ -3650,7 +3648,6 @@
 ||casinometropol8001.com^
 ||casinometropol813.com^
 ||casinometropol9.com^
-||casinomexico.com^
 ||casinomia.com^
 ||casinomidas.com^
 ||casinomidasespana.top^
@@ -4083,7 +4080,6 @@
 ||casinotortuga.top^
 ||casinotown.se^
 ||casinotreasuresg.site^
-||casinotrend.ru^
 ||casinotriomphe.com^
 ||casinotrkiye.icu^
 ||casinotructuyen.org^
@@ -4579,7 +4575,6 @@
 ||databet.ec^
 ||databooter.com^
 ||dating-romance-ebook-reviews.com^
-||datingbookreview.com^
 ||datinginsider.net^
 ||daubnet.com^
 ||daybets.com^
@@ -6750,7 +6745,6 @@
 ||manekicasino.click^
 ||manekicasino.com^
 ||manekicasino.top^
-||mangashentaiz.com^
 ||mangaworldadult.net^
 ||manhattanslots.com^
 ||mansion88.com^
@@ -6923,6 +6917,7 @@
 ||mescasinos.org^
 ||messbrasil.com.br^
 ||meta777pg.com^
+||metaauth.click^
 ||metabet.com^
 ||metabet.io^
 ||metalcasino.com^
@@ -7819,7 +7814,6 @@
 ||packs.pink^
 ||packs.red^
 ||packs.top^
-||packsfree.com^
 ||packshub.org^
 ||packsinacortadores.com^
 ||packsmega.lat^
@@ -8255,7 +8249,6 @@
 ||popslotcasino.shop^
 ||popular-online-casinos.com^
 ||pornochacha.com^
-||pornocolegialas.org^
 ||pornolandia.com^
 ||pornolatino.net^
 ||portalprogramas.com^
@@ -9998,7 +9991,6 @@
 ||videopokersaloon.com^
 ||videosdetravestis.net^
 ||videosgratisxxx.com^
-||videoskaseros.com^
 ||videoslots.com^
 ||videoslotscasino.top^
 ||videosxxxgratis.org^
@@ -10390,7 +10382,6 @@
 ||wuopo.com^
 ||wwbet.bet^
 ||wwccbet.com^
-||wwin.ba^
 ||wwin.com^
 ||www-y2mate.blog^
 ||wyndhamhotels.com^
@@ -11839,9 +11830,11 @@
 ||64bits.es^
 ||64de5a1e-c460-4f99-81d8-1b1527109432.id.repl.co^
 ||650136342120.1024033307541.repl.co^
+||653262.x10.mx^
 ||654443.co^
 ||6546323q22.bluestudio.es^
 ||6546452342424--5465454546.repl.co^
+||6546452342424.5465454546.repl.co^
 ||6546456545464--345445454543543.repl.co^
 ||6546456545464.345445454543543.repl.co^
 ||6546576688888--23543534543.repl.co^
@@ -11855,6 +11848,7 @@
 ||66494acc-fc1d-4145-b591-2ec2128d357d.id.repl.co^
 ||6651cea6-4cc3-4640-ae5e-02214a5bb57d.id.repl.co^
 ||665425543542--87653656.repl.co^
+||666.amazonsu.co^
 ||6664456889000.fielty.mx^
 ||667ba7e4-4748-4c0a-9d53-56bc169dea6d.id.repl.co^
 ||668347115349425.lgc.eng.br^
@@ -11897,6 +11891,7 @@
 ||6brentwoodd.gq^
 ||6btc950n36svtywrsi7r.jun8866.co^
 ||6c2005d7-1e2c-4182-b870-dd162d3c3759.id.repl.co^
+||6d7cd743-f8b9-4146-9ef2-6517f0b26e51.id.repl.co^
 ||6d9h8ncxz4slgg8u8kzi.jun8866.co^
 ||6e1335ca-2646-43e1-aff2-f77510bad9dc.id.repl.co^
 ||6e18e713.ghmsolutions.com.br^
@@ -11922,6 +11917,7 @@
 ||7125794.co^
 ||713229.co^
 ||7183682285.mexigas.com.mx^
+||71db1a24-7e97-4c5e-a835-6ec5dcee2605.id.repl.co^
 ||71xloq.est36.edu.mx^
 ||721353673952161.fysabogados.cl^
 ||7215648.co^
@@ -11942,7 +11938,9 @@
 ||742700.co^
 ||74306841.co^
 ||744822.co^
+||74643280.jxltransporte.com.br^
 ||748157.co^
+||7487423704.mexigas.com.mx^
 ||74b180a9-f190-40b8-a8ca-791994a03126.id.repl.co^
 ||74f26d34ffff049368a6cff8812f86ee.gq^
 ||750004279175012.cocopasa.com.mx^
@@ -11991,6 +11989,7 @@
 ||789betb.co^
 ||789xin.co^
 ||78ex.co^
+||791167912816070.cocopasa.com.mx^
 ||791767.co^
 ||791834e6-44ca-45b0-9230-b25122e46d9c.id.repl.co^
 ||79211.co^
@@ -12001,6 +12000,7 @@
 ||799760.co^
 ||7af04237.coletivohojeapassarinho.com.br^
 ||7bb94c3f-ded5-4b1a-8543-542a14a62d8e.id.repl.co^
+||7bq0apdgeq6ngh1cpnk0.barclayis.co^
 ||7ce87ec1-06bd-425b-ae40-06a604651069.id.repl.co^
 ||7corp.com.br^
 ||7d22a7afb9122737dcd261c-goonlinebnpparibas.pl-pl.es^
@@ -12010,6 +12010,7 @@
 ||7ee0d7d0-2b5c-48a3-8bbe-1260e347d3de.id.repl.co^
 ||7errorxxx.gq^
 ||7evenluck.co^
+||7f43e216-381e-47ab-80ad-74e9a3d4771c.id.repl.co^
 ||7f4e3d27.cftvpinheiro.com.br^
 ||7f8cxbedwj.3846.genzai.com.co^
 ||7g3zvwnsrguq0hq5xukea.barclayis.co^
@@ -12042,6 +12043,7 @@
 ||821872.co^
 ||8243346118.mexigas.com.mx^
 ||8254744534.dptg0xl5ikfvy8atc0vp.indiomuerto.cl^
+||82735524323555.7638253.repl.co^
 ||8273678921--11111119987654.repl.co^
 ||8273678921.11111119987654.repl.co^
 ||828434.co^
@@ -12172,6 +12174,7 @@
 ||951094.co^
 ||951ert.karolgissel.repl.co^
 ||953903.co^
+||9575924591.clinicalifecenter.com.br^
 ||95c89d74-ff98-49de-834c-3930ab94eb9b.id.repl.co^
 ||96374581.co^
 ||964727.co^
@@ -13049,9 +13052,6 @@
 ||amazonoffice.com.br^
 ||amazonoin.co^
 ||amazonsul.com.br^
-||amazonucp.co^
-||amazonucq.co^
-||amazonucr.co^
 ||amazonway.co^
 ||amazoo.com.br^
 ||amazpon.es^
@@ -13640,7 +13640,6 @@
 ||assistekinformatica.com.br^
 ||assistindotv.com.br^
 ||associacaovivabicho.org.br^
-||assoleste.org.br^
 ||asstudio.co^
 ||assure-ameli-fr.serviceremboursementameli.gq^
 ||assurecentral.com.br^
@@ -15552,7 +15551,6 @@
 ||cassinosbrazil.com.br^
 ||castanheiras.net.br^
 ||castanheiras.tur.br^
-||castillodepalazuelos.es^
 ||castilloibanez.cl^
 ||castillpielnoviasyceremonia.es^
 ||castle-lepton.webnode.es^
@@ -15609,7 +15607,6 @@
 ||cbmr.com.mx^
 ||cbn.cl^
 ||cbpremsa.aistechnology.es^
-||cbq2025.com.br^
 ||cbrantofagasta.cl^
 ||cbtelefonia.com.ar^
 ||cbzoft.com.mx^
@@ -16118,6 +16115,7 @@
 ||claudiofragaimoveis.com.br^
 ||claudiogabriele.com.br^
 ||claudiomoro.cl^
+||claudiorojas.cl^
 ||claudiowilliam.com.br^
 ||clavijero.edu.mx^
 ||cleanfoodhunter.co^
@@ -18435,7 +18433,6 @@
 ||ekplus8.co^
 ||ekyoga.com.br^
 ||el-loscria.com.ar^
-||eladios.com.mx^
 ||eladorno.co^
 ||elancersmkt.com.br^
 ||elangmas89.co^
@@ -22765,7 +22762,6 @@
 ||joinkilau4d.co^
 ||joinolympus88.co^
 ||jointtraner.co^
-||jojaco.com.br^
 ||jokaviproom.co^
 ||joker188.co^
 ||joker4king.co^
@@ -23668,7 +23664,6 @@
 ||lfa388.co^
 ||lgmontagens.com.br^
 ||lgpd1mapeamento.com.br^
-||lgpdk13.com.br^
 ||lha2news.com.br^
 ||lhuang.com.br^
 ||liaamere.co^
@@ -23911,7 +23906,6 @@
 ||llventures.co^
 ||lm-groupsrl.com.ar^
 ||lmao.co^
-||lmcreativedesign.com.br^
 ||lmedsrl.com.ar^
 ||lmgltda.cl^
 ||lmnt.com.br^
@@ -28951,6 +28945,7 @@
 ||rebel-k-fest.es^
 ||rebootaccess827-online.gq^
 ||reborn369.co^
+||rebornsolutions.co^
 ||recanto3irmaos.com.br^
 ||recantoacacias.com.br^
 ||recantodolele.com.br^
@@ -29906,7 +29901,6 @@
 ||seamasteromega.co^
 ||seamoselcolegio.com.ar^
 ||seance-de-cul-gourmande.blogspot.cl^
-||seara.org.ar^
 ||searadasfraternidades.org.br^
 ||search-api.co^
 ||search-trends.co^
@@ -30129,6 +30123,7 @@
 ||server1000.com.br^
 ||server29.integrator.com.br^
 ||server3000.com.br^
+||server33.rootservers.co^
 ||serverbrsp.com.br^
 ||servercgibinmanager.servercgibin.repl.co^
 ||serverdefoco.com.br^
@@ -33671,7 +33666,6 @@
 ||willrazsi.gq^
 ||willtecindustrial.com.br^
 ||wimax-cali-190-0-14-75.orbitel.net.co^
-||win-rar.co^
 ||win-vegas-plus.co^
 ||win1help.co^
 ||win777.co^
