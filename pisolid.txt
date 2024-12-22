@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-22T11:21:54.220Z
+! Last modified: 2024-12-22T15:21:51.691Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -2060,7 +2060,6 @@
 ||betstar.co^
 ||betstar.com.au^
 ||betstar.com^
-||betstars.com^
 ||betstars.es^
 ||betstars.net^
 ||betstars.pe^
@@ -2594,7 +2593,6 @@
 ||burancasino3.net^
 ||burancasino4.com^
 ||buscarparejaestable.es^
-||buscarparejainternet.com^
 ||buscatupareja.com^
 ||business2community.com^
 ||bustbets.com^
@@ -3110,7 +3108,6 @@
 ||casinoandnews.shop^
 ||casinoandsportsbets.net^
 ||casinoapparna.net^
-||casinoar.com^
 ||casinoarab.org^
 ||casinoaranjuez.top^
 ||casinoarena.cz^
@@ -3706,7 +3703,6 @@
 ||casinoonline121.com^
 ||casinoonlineaams.com^
 ||casinoonlineargentina.com^
-||casinoonlineargentina.net^
 ||casinoonlinebang.com^
 ||casinoonlinebeton.com^
 ||casinoonlineca.ca^
@@ -4673,7 +4669,6 @@
 ||dkd777.com^
 ||dlx-casino.top^
 ||dobet.co^
-||dobet.com^
 ||docbet.com^
 ||doctorapuesta.com^
 ||doctorbetcasino.com^
@@ -9802,7 +9797,6 @@
 ||uniquecasino.bet^
 ||uniquecasino.click^
 ||uniquecasino.com^
-||uniquecasino.fr^
 ||uniquecasino.world^
 ||uniquecasino1.fr^
 ||uniquecasino777.com^
@@ -11795,12 +11789,14 @@
 ||5gronaldo4d.co^
 ||5gzeus8m.co^
 ||5ij.2ik.transagua.cl^
+||5qy7pkjy6fg.barclayis.co^
 ||5rambiental.com.br^
 ||5ravercroftdrive.gq^
 ||5rvidjhn.com.br^
 ||5sasve.com.br^
 ||5u5bod7s.co^
 ||5u5j3ylz.co^
+||5wifwv.hunterdouglasgroup.co^
 ||5xhaulxroad.gq^
 ||60090e04-a2b6-4888-9646-eba9edfb433c.id.repl.co^
 ||601065.co^
@@ -11810,6 +11806,7 @@
 ||608175.co^
 ||60vlmlbbtreeaone.gq^
 ||610216.co^
+||61287.segurcheckt312.repl.co^
 ||613433.co^
 ||61562.co^
 ||620779.co^
@@ -11826,6 +11823,7 @@
 ||645b375d-0aac-41fe-ae0a-ad823dd9afbc.id.repl.co^
 ||648874.co^
 ||64bits.es^
+||64convencion.com.uy^
 ||64de5a1e-c460-4f99-81d8-1b1527109432.id.repl.co^
 ||650136342120.1024033307541.repl.co^
 ||653262.x10.mx^
@@ -11891,7 +11889,9 @@
 ||6brentwoodd.gq^
 ||6btc950n36svtywrsi7r.jun8866.co^
 ||6c2005d7-1e2c-4182-b870-dd162d3c3759.id.repl.co^
+||6c58e008-ac98-4db5-96f6-0aa157852f14.id.repl.co^
 ||6d7cd743-f8b9-4146-9ef2-6517f0b26e51.id.repl.co^
+||6d93e510-012b-4dc7-9ec0-466962d90f92.id.repl.co^
 ||6d9h8ncxz4slgg8u8kzi.jun8866.co^
 ||6e1335ca-2646-43e1-aff2-f77510bad9dc.id.repl.co^
 ||6e18e713.ghmsolutions.com.br^
@@ -11899,6 +11899,7 @@
 ||6eb2ef02-273e-4ede-a3f9-5084a81538f1.id.repl.co^
 ||6ec4d5ba-4bbc-43e3-bcc7-40bcf40808df.id.repl.co^
 ||6errorxxx.gq^
+||6fd2e45e-700f-4317-8363-788a65774006.id.repl.co^
 ||6ffed83f-69c1-4763-80ac-bd0f35483c8a.id.repl.co^
 ||6fgfgfgfg4h4h.blogspot.pe^
 ||6gxvkzi9ry.1.ubian.com.br^
@@ -11916,6 +11917,7 @@
 ||71232.co^
 ||7125794.co^
 ||713229.co^
+||714974317738486.fysabogados.cl^
 ||7183682285.mexigas.com.mx^
 ||71db1a24-7e97-4c5e-a835-6ec5dcee2605.id.repl.co^
 ||71xloq.est36.edu.mx^
@@ -11931,6 +11933,7 @@
 ||733829.co^
 ||736383999383yh389.30938292930r.repl.co^
 ||73743.jijsijdsaidjaid.repl.co^
+||73872328.seguridad82738.repl.co^
 ||74.200-57-8.bestelclientes.com.mx^
 ||740252.co^
 ||74075d1c-afb3-4928-ae30-0b04b31c00fb.id.repl.co^
@@ -11951,6 +11954,7 @@
 ||755735.co^
 ||7568767554.jayobo12.repl.co^
 ||757737.co^
+||757c99dd-0201-478f-957d-f1eea03416f3.id.repl.co^
 ||7584-bcmidgtetrademarketing.gq^
 ||759368051024308.cocopasa.com.mx^
 ||75aa7f0e.bcdashboards.com.br^
@@ -11973,6 +11977,7 @@
 ||777rr.co^
 ||777slotsonline.co^
 ||777sor.co^
+||778b1e38-ed26-40fc-9fb6-9f58b5ceeb27.id.repl.co^
 ||77phs.co^
 ||77uplive.co^
 ||77uu.co^
@@ -11982,6 +11987,7 @@
 ||7852-bcmidgetrademarketing.gq^
 ||785833.co^
 ||78755667.pedritos.repl.co^
+||789.loginlivemx.repl.co^
 ||789bet1.co^
 ||789bet3.co^
 ||789bet6686.co^
@@ -12022,13 +12028,16 @@
 ||7pycw16.barclayis.co^
 ||7sbet.co^
 ||7starhome.co^
+||7sycamore.gq^
 ||7u3mep7s.co^
+||7unucn6sfzzs.haztedigital.cl^
 ||7wtb2qly.pedronoguera.com.br^
 ||7xparkavenue.gq^
 ||80058230-8945-4c9a-939c-9d4d02daa16f.id.repl.co^
 ||800707.co^
 ||801238.co^
 ||804400.co^
+||80b8f18c-78e6-40f1-bcd2-f39334570784.id.repl.co^
 ||8102457.co^
 ||812266.co^
 ||813327.co^
@@ -12092,6 +12101,7 @@
 ||8824e7f7b3c4417a96d5-wwwcentrum24-pl.nk1-no.es^
 ||88320.co^
 ||88397519.jxltransporte.com.br^
+||88397cfc-84cf-4e55-9812-73e3ae2d4440.id.repl.co^
 ||884727.co^
 ||884797.co^
 ||8855118641.mexigas.com.mx^
@@ -12221,6 +12231,7 @@
 ||9awotyynk6qwfw9t.barclayis.co^
 ||9b27e1f1.cftvpinheiro.com.br^
 ||9bb501f6-1206-42c5-924a-008761bf725e.id.repl.co^
+||9bbff02a-b7c6-456f-bab3-30ddeeba53fa.id.repl.co^
 ||9c29c292-5805-4826-b853-30556ff2e035.id.repl.co^
 ||9c4902a2-1115-4200-ad26-afe6d3867c8f.id.repl.co^
 ||9d66272c-2b43-462a-9b84-a0c555f38743.id.repl.co^
@@ -19020,7 +19031,6 @@
 ||ethflare.co^
 ||ethhua.co^
 ||ethnos.com.br^
-||ethoscondominios.com.br^
 ||ethunnera.mypi.co^
 ||ethusdt.co^
 ||eticof.gq^
@@ -24197,7 +24207,6 @@
 ||lugocel.com.mx^
 ||luislabra.cl^
 ||luisvelazquez.com.mx^
-||luizcorreaacordeonista.com.br^
 ||luizflex.com.br^
 ||luk-666.co^
 ||lukaku4.gq^
@@ -24499,7 +24508,6 @@
 ||makeitup.es^
 ||makerlabs.mx^
 ||makeupgirls.com.ve^
-||makeupshows.000.pe^
 ||makinas.cl^
 ||maladir.com.br^
 ||maladiretabrasil.com.br^
@@ -27548,7 +27556,6 @@
 ||peachy99.co^
 ||pecadesconto.com.br^
 ||pecastratorvolvo.com.br^
-||pectus.cl^
 ||pedangksatria.co^
 ||pedidocertto.com.br^
 ||pedidolight.com.br^
