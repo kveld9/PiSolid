@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-22T19:21:55.088Z
+! Last modified: 2024-12-23T00:34:54.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -656,7 +656,6 @@
 ||ahacasino.com^
 ||ahauditores.es^
 ||ahticasino.top^
-||aihentaigenerator.net^
 ||airportcasino.de^
 ||ak.phaunaitsi.net^
 ||ak8888xx.com^
@@ -761,7 +760,6 @@
 ||anime-game-osts.com^
 ||anime-planet.com^
 ||anime4up.lol^
-||animehentaitube.com^
 ||animehzone.com^
 ||animeshentai.fan^
 ||anonboot.com^
@@ -1387,7 +1385,6 @@
 ||bet.co.za^
 ||bet.co^
 ||bet.com.br^
-||bet.com^
 ||bet.ec^
 ||bet.mx^
 ||bet.pe^
@@ -2659,7 +2656,6 @@
 ||caliente.com.co^
 ||caliente.com^
 ||caliente.pe^
-||calientecasino.com.mx^
 ||calientecasinoa.com^
 ||calientecasinoenlinea.mx^
 ||calientecasinoresorts.com^
@@ -3972,7 +3968,6 @@
 ||casinoslotmachine.org^
 ||casinoslotmachinegames.com^
 ||casinoslotmixer.net^
-||casinoslots.cl^
 ||casinoslots.com.ar^
 ||casinoslotsbest87.com^
 ||casinoslotsdanmark.dk^
@@ -5767,7 +5762,6 @@
 ||hentai-la.com^
 ||hentai.fan^
 ||hentai.toys^
-||hentaiarea.com^
 ||hentaienjoy.com^
 ||hentaigames.app^
 ||hentaiita.com^
@@ -6757,7 +6751,6 @@
 ||manekicasino.click^
 ||manekicasino.com^
 ||manekicasino.top^
-||mangaworldadult.net^
 ||manhattanslots.com^
 ||mansion88.com^
 ||mansionbet.com^
@@ -8509,7 +8502,6 @@
 ||retabet.pe^
 ||reviewed-casinos.com^
 ||reviews-online-casino.com^
-||revistacasinoperu.com^
 ||revistafortuna.com.mx^
 ||revolutcasino-no.top^
 ||revolutcasinos-uk.top^
@@ -9460,7 +9452,6 @@
 ||thebescasino.com^
 ||thebescasinovip.com^
 ||thebestcasinos.co.uk^
-||thebetarena.com^
 ||thebettingguy.co.uk^
 ||thebosscasino.shop^
 ||thecasinoangel.shop^
@@ -10400,7 +10391,6 @@
 ||wsgargentina2022.com^
 ||wunderino.com^
 ||wunderinocasino.top^
-||wuopo.com^
 ||wwbet.bet^
 ||wwccbet.com^
 ||wwin.com^
@@ -10446,7 +10436,6 @@
 ||xtreme.cc^
 ||xxx-go.com^
 ||xxx.gratis^
-||xxxlibre.com^
 ||xyzbooter.net^
 ||y2mate.bet^
 ||y2mate.lol^
@@ -10587,7 +10576,6 @@
 ||likee.com^
 ||livejournal.com^
 ||moimir.com^
-||liveinternet.ru^
 ||xmsecu.com^
 ||yandexcloud.net^
 ||ox9k3a.vip^
@@ -10598,6 +10586,7 @@
 ||rgepodownload.mediatek.com^
 ||sgepodownload.mediatek.com^
 ||repodownload.mediatek.com^
+||payments-graph.facebook.com^
 ||0.bgeneral0.repl.co^
 ||00.pe^
 ||000.abreubueno91.repl.co^
@@ -10914,6 +10903,7 @@
 ||169cuan.co^
 ||169cuanhot.co^
 ||16aecc6d.cftvpinheiro.com.br^
+||16bb1ca4-5ded-40e1-b082-53df9e6ba6d9.id.repl.co^
 ||16bet.co^
 ||16c672d2.cftvpinheiro.com.br^
 ||170029.co^
@@ -11846,6 +11836,7 @@
 ||620779.co^
 ||625116.co^
 ||626-517-344.626-517-344.87hbnygqzd.zhddqys529.com.ve^
+||62f78fe4-da7c-4a7e-bff2-043cba0c8043.id.repl.co^
 ||63055805-fc3a-4ef9-9dda-a73e0fe23b21.id.repl.co^
 ||6306481-0.alojamiento-web.es^
 ||6337051381.mexigas.com.mx^
@@ -11856,6 +11847,7 @@
 ||645285.co^
 ||645743--235252.repl.co^
 ||645b375d-0aac-41fe-ae0a-ad823dd9afbc.id.repl.co^
+||64746bancolombiacomes.25436.repl.co^
 ||648874.co^
 ||64bits.es^
 ||64convencion.com.uy^
@@ -11887,6 +11879,7 @@
 ||668347115349425.lgc.eng.br^
 ||6686.com.co^
 ||6686vn.co^
+||66f1c7c9-2a42-42dc-a252-330ffceaae86.id.repl.co^
 ||66fun.co^
 ||67-ngec.gq^
 ||67-tytm.gq^
@@ -11902,6 +11895,7 @@
 ||678jogo.co^
 ||6799613997.impulsotv.com.ar^
 ||681531.co^
+||6817d43d-c0cf-420a-86e8-cc323f6f8237.id.repl.co^
 ||683525.co^
 ||6836068570.pymexbrokers.com.ar^
 ||68361690.jxltransporte.com.br^
@@ -11920,6 +11914,7 @@
 ||699851.co^
 ||699961.co^
 ||69zh5zpy.co^
+||6a0e6d46-b0e8-4403-a515-a2989849035f.id.repl.co^
 ||6a287878f4e2458eb2a48300079b2944-devsite.readyship.co^
 ||6a36cb3f-47c5-46d9-85d8-1d5a6a53ebfa.id.repl.co^
 ||6a8c8ebf-95ab-49d0-a880-0dfcf358cddd.id.repl.co^
@@ -11940,13 +11935,16 @@
 ||6ffed83f-69c1-4763-80ac-bd0f35483c8a.id.repl.co^
 ||6fgfgfgfg4h4h.blogspot.pe^
 ||6gxvkzi9ry.1.ubian.com.br^
+||6kvdd.gvy3v.repl.co^
 ||6ow9rhxtolls.gq^
 ||6randolphs.gq^
+||6uwk4r.noiveiuai.com.br^
 ||6xbe.gq^
 ||70016.co^
 ||704e2a6a-205f-4049-a814-48ef8f082a1b.repl.co^
 ||707805165116726.cocopasa.com.mx^
 ||708453.co^
+||709448803742657.ajitsolutions.co^
 ||70e34c58-d7de-452a-b300-8ead44955eed.id.repl.co^
 ||710414.co^
 ||711268.co^
@@ -12079,6 +12077,7 @@
 ||800707.co^
 ||801238.co^
 ||804400.co^
+||8059a925-e9c2-48eb-9c7d-32a30acf6503.id.repl.co^
 ||80b8f18c-78e6-40f1-bcd2-f39334570784.id.repl.co^
 ||8102457.co^
 ||812266.co^
@@ -12127,6 +12126,7 @@
 ||8675345eminent--98675323ths.repl.co^
 ||8675345eminent.98675323ths.repl.co^
 ||868vip.com.co^
+||86c287b3-989a-4326-8b9e-0e89aff73ff2.id.repl.co^
 ||86u750988760000--querita.repl.co^
 ||86u750988760000.querita.repl.co^
 ||871633.co^
@@ -12165,10 +12165,12 @@
 ||891824.co^
 ||894533.co^
 ||8998q.co^
+||89b82545-1c37-4361-9875-49eaf9ed6e37.id.repl.co^
 ||89d1eb61-bc9d-4d5f-a3c1-a1748207c83c.id.repl.co^
 ||89e24352-f0e1-4cc5-a8f7-6e6a26a5364d.id.repl.co^
 ||8a02b069-4fee-4c99-a553-9d371baa9000.id.repl.co^
 ||8b148a9e-abff-441a-b72c-68d13d8807e0.id.repl.co^
+||8b2512d0-aa26-403e-bcc4-552e4223f74d.id.repl.co^
 ||8bszb.barclayis.co^
 ||8c2ccaa7-9e88-49fa-85e7-a31306dffb78.id.repl.co^
 ||8c6e6087-1f75-498f-8f9b-4dee31d26ebb.id.repl.co^
@@ -12199,6 +12201,7 @@
 ||904114240046758.cocopasa.com.mx^
 ||905films.com.br^
 ||906.tynted.co^
+||906439729231257.cocopasa.com.mx^
 ||907013.co^
 ||909609.co^
 ||90ef4f0f-7961-41d3-ba33-f18cc88e3e39.id.repl.co^
@@ -12206,6 +12209,7 @@
 ||91114824.priscilasampaio.com.br^
 ||9112a700.bcdashboards.com.br^
 ||912c2317-27f3-465e-a330-77c3e20dc3da.id.repl.co^
+||91307adf-040a-44c7-bab3-6dc1ee649951.id.repl.co^
 ||918919933231328.cocopasa.com.mx^
 ||922519.co^
 ||926550.co^
@@ -12247,15 +12251,18 @@
 ||97396.globalartinteriors.co^
 ||976777.co^
 ||978094.co^
+||97857656332200.ss3243554678000.repl.co^
 ||97865--09694.repl.co^
 ||9788.jnjasd.repl.co^
 ||979391.co^
 ||97987070900--345344353455345.repl.co^
+||97987070900.345344353455345.repl.co^
 ||97d1a405.bcdashboards.com.br^
 ||98-br.co^
 ||980227bf-5f11-423a-9dfc-c4bb01ff0949.id.repl.co^
 ||980e0181-d7ba-4175-b269-2df7bdc8670c.id.repl.co^
 ||982945.co^
+||98375434.09345.repl.co^
 ||984d6644-c280-4353-8a21-95d85d624208.id.repl.co^
 ||987428.co^
 ||98768.gayico5017.repl.co^
@@ -13567,6 +13574,7 @@
 ||arquivosimpacto.com.br^
 ||arraialdosamigos.com.br^
 ||arrefrigeracao.com.br^
+||arrienda-aqui.cl^
 ||arriendomesas.cl^
 ||arrietayasociados.es^
 ||arriscanessa.com.br^
@@ -13833,7 +13841,6 @@
 ||automarca.com.ve^
 ||automatizacionempresarial.com.co^
 ||automotoescolabr.com.br^
-||automotriztecnocid.cl^
 ||autonomiadigital.com.br^
 ||autop.cl^
 ||autopartesacr.com.mx^
@@ -14236,7 +14243,6 @@
 ||beeapis.com.br^
 ||beemarket.cl^
 ||beena.co^
-||beeracrilicos.com.br^
 ||beermania.mx^
 ||beertime.com.mx^
 ||bef4c46d.bcdashboards.com.br^
@@ -14478,7 +14484,6 @@
 ||biawong.com.br^
 ||bibliadomotociclista.com.br^
 ||biblioraca.com.br^
-||bibliotecabayer.org.ar^
 ||bibliotecadigitalestadodehidalgo.mx^
 ||bicame.com.br^
 ||bichectomia.cl^
@@ -16783,7 +16788,6 @@
 ||controlexito.com.br^
 ||conttogon.gq^
 ||conty.johnsinapsis.co^
-||convence.com.br^
 ||convenio.srv.br^
 ||conveniodesaudemkt.com.br^
 ||conveniosaudebr.com.br^
@@ -18314,7 +18318,6 @@
 ||dxsky.co^
 ||dyemp.com.br^
 ||dyjcgvdfgdzgzdzzf.gq^
-||dym.com.br^
 ||dym.com.mx^
 ||dynasty4dtoto7.co^
 ||e-bemestar.net.br^
@@ -19801,7 +19804,6 @@
 ||foodneteowkcoolingcotest.blogspot.com.uy^
 ||foodprogramnetwoek.blogspot.com.br^
 ||foodprogramnetwoek.blogspot.com.uy^
-||foodsnetworkshub.000.pe^
 ||foodtopia.com.br^
 ||fooji.co^
 ||footballplanet.es^
@@ -19980,7 +19982,6 @@
 ||fuimonos.co^
 ||fullcarsauto.es^
 ||fullcoyote.cl^
-||fullcrm.com.br^
 ||fulldescargasmg.co^
 ||fullelectronica.com.ar^
 ||fullemail.com.br^
@@ -20456,6 +20457,7 @@
 ||gisellebossi.com.br^
 ||gitanose.gq^
 ||gitar69.co^
+||give-away-gadis-qs.cpya.cl^
 ||givealwyesd.blogspot.com.co^
 ||givovasport.es^
 ||gjftt.mypi.co^
@@ -20770,7 +20772,6 @@
 ||grouproma.com.br^
 ||groupxxxxx.blogspot.com.es^
 ||growthmarketingcompany.co^
-||gruasitsa.com.mx^
 ||gruetzi.es^
 ||grumaqsa.cl^
 ||grunase.com.br^
@@ -22037,7 +22038,6 @@
 ||imprentaonline365.es^
 ||impresistemas.com.co^
 ||impromed.com.mx^
-||impsa.com.mx^
 ||imtonken.co^
 ||in-post-pl-myid272xs.order-dostawa82931.co^
 ||in-post.co^
@@ -24191,6 +24191,7 @@
 ||losradales.com.ar^
 ||losroblespropiedades.cl^
 ||losrosaleselbolson.com.ar^
+||lossocios.cl^
 ||lost-icloud.co^
 ||losteros.cl^
 ||lostresantonios.cl^
@@ -24432,7 +24433,6 @@
 ||madesentupidora.com.br^
 ||madmax88.co^
 ||madridinterior.es^
-||madrugadaolanches.com.br^
 ||madrugadaonfl.com.br^
 ||mae44.co^
 ||maedosocorro.org.br^
@@ -25786,7 +25786,6 @@
 ||moveisblumenau.com.br^
 ||moveisbrasil.ind.br^
 ||moveishenkel.com.br^
-||moveislider.com.br^
 ||moveisprimus.com.br^
 ||moveldomeujeito.com.br^
 ||movi.com.ar^
@@ -26352,7 +26351,6 @@
 ||neumoconnectformacion.es^
 ||neuquenmty.com.mx^
 ||neurofuncional.mx^
-||neurolab.cl^
 ||neurologiamt.com.br^
 ||neuroortopedia.com.ar^
 ||neva.cl^
@@ -26925,7 +26923,6 @@
 ||olhosdesucesso.com.br^
 ||olifants.pe^
 ||oliia9gaa.wlv.es^
-||olimpiadasespeciales.org.ve^
 ||olivan.eng.br^
 ||olivebranc.gq^
 ||ollerosdental.com.ar^
@@ -28138,7 +28135,6 @@
 ||polnareffroblox.blogspot.com.es^
 ||polobr.com.br^
 ||polodeinovacao.ifmg.edu.br^
-||polofrancanoti.com.br^
 ||polosac.pe^
 ||polsen.com.mx^
 ||poltron.com.ar^
@@ -28250,7 +28246,6 @@
 ||postoautonorte.com.br^
 ||postopetrolina.com.br^
 ||postoscorsatto.com.br^
-||postospflug.com.br^
 ||potatomedia.co^
 ||potatopark.es^
 ||potenciaindustrial.com.pe^
@@ -28886,7 +28881,6 @@
 ||radioetvvida.com.br^
 ||radiofe.com.br^
 ||radiogospelmp.com.br^
-||radiointerativars.com.br^
 ||radioipiranga.com.br^
 ||radiojireh.cl^
 ||radiokahoza.com.ar^
@@ -30030,7 +30024,6 @@
 ||seamasteromega.co^
 ||seamoselcolegio.com.ar^
 ||seance-de-cul-gourmande.blogspot.cl^
-||seara.org.ar^
 ||searadasfraternidades.org.br^
 ||search-api.co^
 ||search-trends.co^
@@ -32393,7 +32386,6 @@
 ||tran85000.blogspot.com.uy^
 ||trango.co^
 ||trangweb.co^
-||transcovalle.com.co^
 ||transd.gq^
 ||transdiasjr.com.br^
 ||transfer-olx.gq^
@@ -33128,7 +33120,6 @@
 ||viajera.com.br^
 ||viajesbojorquez.com.mx^
 ||viajesmuher.es^
-||viamanzanares.com.ar^
 ||viamargutta.com.br^
 ||viamarmi.com.br^
 ||viasaudenaturais.com.br^
@@ -33207,6 +33198,7 @@
 ||vilrata.gq^
 ||viltur.com.br^
 ||vilumax.cl^
+||vimalert.mx^
 ||vin777.co^
 ||vinacastellon.cl^
 ||vinciguerra.com.ar^
