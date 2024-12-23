@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-23T00:34:54.887Z
+! Last modified: 2024-12-23T03:11:54.220Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -11827,15 +11827,19 @@
 ||601758.co^
 ||602--893648.repl.co^
 ||602.893648.repl.co^
+||602ba012-5c64-4ea5-a8d0-72be5c0c6031.id.repl.co^
 ||608175.co^
 ||60vlmlbbtreeaone.gq^
+||610.772.doutorpiscinaitatiba.com.br^
 ||610216.co^
 ||61287.segurcheckt312.repl.co^
+||612d8392-b7b7-4237-a617-1a2d1e7c953f.id.repl.co^
 ||613433.co^
 ||61562.co^
 ||620779.co^
 ||625116.co^
 ||626-517-344.626-517-344.87hbnygqzd.zhddqys529.com.ve^
+||62b7e84f-ca5e-41c1-b5ce-3007a4b9aebb.id.repl.co^
 ||62f78fe4-da7c-4a7e-bff2-043cba0c8043.id.repl.co^
 ||63055805-fc3a-4ef9-9dda-a73e0fe23b21.id.repl.co^
 ||6306481-0.alojamiento-web.es^
@@ -11885,6 +11889,7 @@
 ||67-tytm.gq^
 ||670161.co^
 ||67336onlynsus.insmig.repl.co^
+||67339f90-aa0e-4637-af35-8154e284d117.id.repl.co^
 ||675041.co^
 ||6754fe6c-b555-4e87-9f09-cae9342c81f5.id.repl.co^
 ||675ae2b7-a4da-4d9f-aa8f-c4578c086a7d.id.repl.co^
@@ -11922,12 +11927,14 @@
 ||6btc950n36svtywrsi7r.jun8866.co^
 ||6c2005d7-1e2c-4182-b870-dd162d3c3759.id.repl.co^
 ||6c58e008-ac98-4db5-96f6-0aa157852f14.id.repl.co^
+||6c9d4022-d611-4821-9c46-38d6979676a6.id.repl.co^
 ||6d7cd743-f8b9-4146-9ef2-6517f0b26e51.id.repl.co^
 ||6d93e510-012b-4dc7-9ec0-466962d90f92.id.repl.co^
 ||6d9h8ncxz4slgg8u8kzi.jun8866.co^
 ||6e1335ca-2646-43e1-aff2-f77510bad9dc.id.repl.co^
 ||6e18e713.ghmsolutions.com.br^
 ||6e6f13bc-141f-4773-ace3-f786698823a0.id.repl.co^
+||6eafa71c-1e50-428c-85c6-cde631d75d63.id.repl.co^
 ||6eb2ef02-273e-4ede-a3f9-5084a81538f1.id.repl.co^
 ||6ec4d5ba-4bbc-43e3-bcc7-40bcf40808df.id.repl.co^
 ||6errorxxx.gq^
@@ -11941,6 +11948,8 @@
 ||6uwk4r.noiveiuai.com.br^
 ||6xbe.gq^
 ||70016.co^
+||7003635737.mentordenegocios.com.br^
+||7020502253.mexigas.com.mx^
 ||704e2a6a-205f-4049-a814-48ef8f082a1b.repl.co^
 ||707805165116726.cocopasa.com.mx^
 ||708453.co^
@@ -11999,10 +12008,12 @@
 ||76594.co^
 ||766355.co^
 ||7690125028.haztedigital.cl^
+||769d9a27-3fce-409e-9de7-2d84ae6bcd4d.id.repl.co^
 ||77076.comvocenaweb.com.br^
 ||77448.co^
 ||774799396737177.cocopasa.com.mx^
 ||776656554654645--56546564546.repl.co^
+||776656554654645.56546564546.repl.co^
 ||777dd.co^
 ||777ee.co^
 ||777jalur.co^
@@ -12114,6 +12125,7 @@
 ||852931.co^
 ||8540215.co^
 ||854266.78552.repl.co^
+||8545510738.mexigas.com.mx^
 ||855979.co^
 ||856629644606619.cocopasa.com.mx^
 ||859c54af240366a0893e-wwwcentrum24-pl.nk1-no.es^
@@ -12136,7 +12148,9 @@
 ||87467.co^
 ||875459c6-541d-4afe-b24d-daadbab831f8.id.repl.co^
 ||875525.co^
+||87634698765.786587.repl.co^
 ||87652347.76547.repl.co^
+||876534453--gal1c1a.repl.co^
 ||878968767900--454454645.repl.co^
 ||87900033215-6677885433-7556644328-6672331998.mary221.repl.co^
 ||879769.co^
@@ -12153,6 +12167,7 @@
 ||888casino-promociones.es^
 ||888php.co^
 ||888pppoker.com.br^
+||889823930752653.cocopasa.com.mx^
 ||88baobao.co^
 ||88cuci.co^
 ||88dewabet.co^
@@ -12174,6 +12189,7 @@
 ||8bszb.barclayis.co^
 ||8c2ccaa7-9e88-49fa-85e7-a31306dffb78.id.repl.co^
 ||8c6e6087-1f75-498f-8f9b-4dee31d26ebb.id.repl.co^
+||8ca8765d-e41f-4b3e-a17f-371d143f395b.id.repl.co^
 ||8cc9eb32-3a4c-449f-8c20-63d7bd3236c2.id.repl.co^
 ||8ce0784e-5381-42b0-bd84-ea11022ba6fb.id.repl.co^
 ||8d43cbcd-f292-4d3f-bb74-32c38a832df1.id.repl.co^
@@ -12212,6 +12228,7 @@
 ||91307adf-040a-44c7-bab3-6dc1ee649951.id.repl.co^
 ||918919933231328.cocopasa.com.mx^
 ||922519.co^
+||925984395810349.cocopasa.com.mx^
 ||926550.co^
 ||927672.co^
 ||928560.co^
@@ -12234,6 +12251,7 @@
 ||950901.co^
 ||951094.co^
 ||951ert.karolgissel.repl.co^
+||952e1b1b-aa99-4280-b467-b15bf69c0659.id.repl.co^
 ||953903.co^
 ||953b97cf-7bf5-4113-aca0-fa61b7919c44.id.repl.co^
 ||955281250213474.cocopasa.com.mx^
@@ -13677,6 +13695,7 @@
 ||asicpool.co^
 ||asics-colombia.com.co^
 ||asicsencolombia.com.co^
+||asicss.com.es^
 ||asicsshoescolombia.com.co^
 ||asikqq12.co^
 ||asikqq13.co^
@@ -14189,6 +14208,7 @@
 ||bcgfh.co^
 ||bcnex.co^
 ||bcoterceirizacao.com.br^
+||bcp.blueberry.com.bo^
 ||bctdhkl.co^
 ||bctenlinea-com.webnode.es^
 ||bcvpro.yao.cl^
@@ -15162,7 +15182,6 @@
 ||bunnys.pe^
 ||bunyolimallorca.es^
 ||buoiuouhoyweoiuoiywfeoifysdsd.blogspot.com.co^
-||buper.com.br^
 ||burberry-handbagsoutlet.com.co^
 ||burgosonline.es^
 ||buritialegre.go.gov.br^
@@ -15442,6 +15461,7 @@
 ||capacitare.ctec.com.ar^
 ||capanet.cl^
 ||capaste.org.py^
+||capcutmodapk.com.co^
 ||capelaniaevangelicarj.com.br^
 ||capeme.org.pe^
 ||capezio.com.br^
@@ -16777,7 +16797,6 @@
 ||content.co^
 ||contentisblock.gq^
 ||contentisblocked.gq^
-||contests.000.pe^
 ||conteudodaweb.com.br^
 ||continuation.co^
 ||contocontigobrasil.com.br^
@@ -17847,7 +17866,6 @@
 ||dicadoano.com.br^
 ||dicadois.com.br^
 ||dicadourada.com.br^
-||dicallidesign.com.br^
 ||dicas-ofertas.com.br^
 ||dicasleadpix.com.br^
 ||dicassemanais.com.br^
@@ -24272,7 +24290,6 @@
 ||lucia88.co^
 ||luciacangussu.bio.br^
 ||luciano.mx^
-||lucianoalesandro.cl^
 ||lucianosubira.com.br^
 ||lucilavilarins.com.br^
 ||lucinformaticaesolucoes.com.br^
@@ -24424,7 +24441,6 @@
 ||madeartemdf.com.br^
 ||madecomosorio.com.br^
 ||madeiradopara.com.br^
-||madepan.com.br^
 ||maderasmanchica.es^
 ||maderasperuanas.com.pe^
 ||maderkids.es^
@@ -25224,6 +25240,7 @@
 ||mercatiendas.co^
 ||mercattoenergia.com.br^
 ||mercereales.com.mx^
+||merchantuploads.es^
 ||merchpedangwin.co^
 ||mercoimport.com.br^
 ||mercosat.com.br^
@@ -25495,8 +25512,6 @@
 ||minolite.co^
 ||minr.es^
 ||minsodar.gq^
-||mint1.anrg.matrixshopping.com.br^
-||mint2.anrg.matrixshopping.com.br^
 ||mintme.gq^
 ||minutoinovar.com.br^
 ||miop.es^
@@ -25639,7 +25654,6 @@
 ||mobilityaction.co^
 ||mobisampa.com.br^
 ||mobisearch.co^
-||mobpiscinas.com.br^
 ||mobydesign.cl^
 ||mocbai.co^
 ||mochastudio.cl^
@@ -27865,6 +27879,7 @@
 ||piccolimanutencao.com.br^
 ||picodegallo.com.mx^
 ||picolittos.com.br^
+||picsartmodapk.com.co^
 ||picturesque.co^
 ||pidati.gq^
 ||piedranegra.com.uy^
@@ -31815,7 +31830,6 @@
 ||teepor.co^
 ||teethkijangwin.co^
 ||tegerencio.com.br^
-||teiegrom.co^
 ||teixeiraemotta.com.br^
 ||teixeiraonline.com.br^
 ||tekatbulat.co^
@@ -32922,6 +32936,7 @@
 ||uu.ynqmsm.co^
 ||uvmovil.cl^
 ||uwin33myr.co^
+||uxinnovation.com.br^
 ||uznsc.com.br^
 ||v-kontakte.co^
 ||v-sod.es^
@@ -33186,6 +33201,7 @@
 ||vigrx.com.br^
 ||vihted-pl.sprawa32879.co^
 ||vihted-pl.sprawau93059.co^
+||vikata.radiofantastika.cl^
 ||vikingstore.co^
 ||vilax.gq^
 ||vilbarcpil.gq^
@@ -34052,7 +34068,6 @@
 ||xtremeprotein.es^
 ||xunilzita.es^
 ||xxdates.co^
-||xyfe.demo.ezra-ai.co^
 ||xyz388.co^
 ||y-shabir.co^
 ||y0utube.com.mx^
