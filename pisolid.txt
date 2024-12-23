@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-23T07:11:49.865Z
+! Last modified: 2024-12-23T11:11:50.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1640,7 +1640,6 @@
 ||betcostarica.ag^
 ||betcris.co^
 ||betcris.com.mx^
-||betcris.com^
 ||betcris.do^
 ||betcris.mx^
 ||betcris.pa^
@@ -3866,7 +3865,6 @@
 ||casinos-online.cl^
 ||casinos-online.es^
 ||casinos-online.id^
-||casinos-online.mx^
 ||casinos-online.pe^
 ||casinos-pinup.com^
 ||casinos-pinup.net^
@@ -3918,7 +3916,6 @@
 ||casinoscripting.com^
 ||casinosdecostarica.com^
 ||casinosdellitoral.bet.ar^
-||casinosduquebec.com^
 ||casinosecret.com^
 ||casinosenlaweb.com^
 ||casinosenligne.net^
@@ -4280,7 +4277,6 @@
 ||charlotteaupoker.com^
 ||chasebonus.com^
 ||chatea.chat^
-||chateagratis.net^
 ||chatsfriends.com^
 ||chc777.com.br^
 ||chc777.com^
@@ -4773,7 +4769,6 @@
 ||dreams.com^
 ||dreamscasino.top^
 ||dreamscasinoio.top^
-||dreamstime.com^
 ||dreamvegascasino.top^
 ||driftcasino.com^
 ||driftcasino.top^
@@ -4805,7 +4800,6 @@
 ||dundercasino.top^
 ||duobet.com^
 ||dupage88.net^
-||dusktilldawnpoker.com^
 ||duxcasino.click^
 ||duxcasino.com^
 ||duxcasino.top^
@@ -6228,7 +6222,6 @@
 ||joo-casino.space^
 ||joo-casino.top^
 ||joocasino.world^
-||joueraucasino.com^
 ||joueraupoker.pro^
 ||jouercasino.eu^
 ||jouerpokergratuit.com^
@@ -9359,7 +9352,6 @@
 ||suabet.net^
 ||suasorte.bet^
 ||suertecasinos.com^
-||sugarbook.com^
 ||sugarcasino.click^
 ||sugarcasino.top^
 ||sugarhousecasino.com^
@@ -9416,7 +9408,6 @@
 ||supermatch.com^
 ||supernopeacasino.top^
 ||supernovacasino.top^
-||superpackpormega.com^
 ||superslots.ag^
 ||superslots.com^
 ||supersortebet.net^
@@ -9892,7 +9883,6 @@
 ||uniquecasino.bet^
 ||uniquecasino.click^
 ||uniquecasino.com^
-||uniquecasino.fr^
 ||uniquecasino.world^
 ||uniquecasino1.fr^
 ||uniquecasino777.com^
@@ -10080,7 +10070,6 @@
 ||videopokerclassic.com^
 ||videopokerlux.com^
 ||videopokersaloon.com^
-||videosdetravestis.net^
 ||videosgratisxxx.com^
 ||videoslots.com^
 ||videoslotscasino.top^
@@ -10580,7 +10569,6 @@
 ||yoyocasino4.com^
 ||ysb88.com^
 ||yswin.com^
-||yt1save.com^
 ||yt2save.com^
 ||ytbet.com^
 ||yukongold.casino^
@@ -12024,12 +12012,15 @@
 ||6kvdd.gvy3v.repl.co^
 ||6ow9rhxtolls.gq^
 ||6randolphs.gq^
+||6sfyhps.barclayis.co^
+||6sniwq1id.barclayis.co^
 ||6uwk4r.noiveiuai.com.br^
 ||6xbe.gq^
 ||70016.co^
 ||7003635737.mentordenegocios.com.br^
 ||7020502253.mexigas.com.mx^
 ||704e2a6a-205f-4049-a814-48ef8f082a1b.repl.co^
+||704qczr9rsu2jtgjcxynjw4hut4ey.barclayis.co^
 ||707805165116726.cocopasa.com.mx^
 ||708453.co^
 ||709448803742657.ajitsolutions.co^
@@ -12047,6 +12038,7 @@
 ||721353673952161.fysabogados.cl^
 ||7215648.co^
 ||722642.co^
+||722b6c08-7fc4-415c-8c8d-ae12f0caeef4.id.repl.co^
 ||7267031148.mexigas.com.mx^
 ||728118.co^
 ||732099.co^
@@ -12083,6 +12075,7 @@
 ||7584-bcmidgtetrademarketing.gq^
 ||759368051024308.cocopasa.com.mx^
 ||7640f647-4506-4b6e-893e-90321f9837f7.id.repl.co^
+||764374787476.875948.repl.co^
 ||76594.co^
 ||766355.co^
 ||7690125028.haztedigital.cl^
@@ -12092,6 +12085,7 @@
 ||774799396737177.cocopasa.com.mx^
 ||776656554654645--56546564546.repl.co^
 ||776656554654645.56546564546.repl.co^
+||776cb969-2621-4f2e-821b-a3b6f95c7b87.id.repl.co^
 ||777dd.co^
 ||777ee.co^
 ||777jalur.co^
@@ -12197,6 +12191,7 @@
 ||847930.co^
 ||84897d55-95b6-44ab-8859-04262a840a4a.id.repl.co^
 ||85-srv14.grupouds.com.br^
+||85116395.fastbiz.com.br^
 ||8516162504.mexigas.com.mx^
 ||8521833452.likabiobrasil.com.br^
 ||852931.co^
@@ -12231,7 +12226,9 @@
 ||87763454.35465.repl.co^
 ||878968767900--454454645.repl.co^
 ||87900033215-6677885433-7556644328-6672331998.mary221.repl.co^
+||8792ce67-fa21-49db-9498-88655d74276b.id.repl.co^
 ||8794188a-0327-428a-926c-c6b089b6d9a6.id.repl.co^
+||87942ec6-3309-4d08-bc3d-7622dc7a3858.id.repl.co^
 ||879769.co^
 ||880757c5-d4d9-4773-809a-060f3a682818.id.repl.co^
 ||8831.pages.net.br^
@@ -12283,10 +12280,12 @@
 ||8errorxxxx.gq^
 ||8f23ed01-baa4-42e7-adf4-5fb1dd50ceb5.id.repl.co^
 ||8f3260ae-0189-426b-9619-bcb612f00b5a.id.repl.co^
+||8f638411-81db-4010-a47d-2844c45bd741.id.repl.co^
 ||8f91ab4d-5365-4b7f-89d2-1511ea8106b9.id.repl.co^
 ||8fc.co^
 ||8fqm6obwq.barclayis.co^
 ||8g87-b78h887g-78jv86f-y8g7.acs8g98.repl.co^
+||8i2.8nu.transagua.cl^
 ||8nplay.co^
 ||8sai-asncio-ascihisaciobowi-ascwh.sbc9as.repl.co^
 ||8vs.co^
@@ -12399,6 +12398,7 @@
 ||9f0909cb-ddd4-4a86-8238-4c3d7ceb9005.id.repl.co^
 ||9f2b675c-f233-422b-83e7-6efb29f5afbe.id.repl.co^
 ||9f4p7agn6odahg.barclayis.co^
+||9f7795dd-b4a6-4c7a-a60d-b8cd756e18fc.id.repl.co^
 ||9f798fa3-b881-46a3-92e3-e9fed4078c55.id.repl.co^
 ||9f9e87d7-6ae5-4ea5-9e7f-5b2e70324ee8.id.repl.co^
 ||9faces.es^
@@ -12922,7 +12922,6 @@
 ||ajmaanie.co^
 ||ajudantefinanceiro.com.br^
 ||ajufemg.org.br^
-||ajuntamentodastribos.com.br^
 ||ak47max.co^
 ||ak8888.co^
 ||aka1112.co^
@@ -14008,6 +14007,7 @@
 ||baixaki.com.br^
 ||bajicmoped.gq^
 ||bakerss.gq^
+||bakkt.co^
 ||bakofamerika.c2e57g6re8sqeqz6g84et3f8z4gqerh4q6g4r6e8h4qg6et.culturama.es^
 ||bakuba.com.co^
 ||bakustw.es^
@@ -14071,7 +14071,6 @@
 ||bandeirantesdragagem.com.br^
 ||bandengenharia.com.br^
 ||banditjt.co^
-||bandleader.com.br^
 ||banerj.b.br^
 ||banescredito.es^
 ||banestado.b.br^
@@ -14828,6 +14827,7 @@
 ||book-pdfs.gq^
 ||bookbrasillira.com.br^
 ||booking-com.co^
+||booking-hk.co^
 ||bookkeeping-files.gq^
 ||bookmabe.gq^
 ||bookmyflight.co^
@@ -14994,7 +14994,6 @@
 ||brilhanteconservacao.com.br^
 ||brinderp.com.br^
 ||brindesaoseualcance.com.br^
-||brindideias.com.br^
 ||bringmore.co^
 ||briocom.cl^
 ||briokerabat.co^
@@ -16984,7 +16983,6 @@
 ||cuanticaservice.com.ar^
 ||cubakub.co^
 ||cubaworts.gq^
-||cubiertasbarcelona.es^
 ||cuc.ac.cr^
 ||cucksessions.co^
 ||cudillerocultura.es^
@@ -22474,7 +22472,6 @@
 ||juancrismar.edu.co^
 ||juangaravaglia.com.ar^
 ||juanpablo.co^
-||juanpabloii.edu.mx^
 ||juaraq.co^
 ||jud923847823t4geskjbkuyeuisf.andrequintao.com.br^
 ||jude.mx^
@@ -23085,7 +23082,6 @@
 ||larepos.es^
 ||larinconada.com.bo^
 ||larioja.mx^
-||larissaprudencio.com.br^
 ||larnia.co^
 ||larquiropraxia.com.br^
 ||larrua.com.mx^
@@ -25520,7 +25516,6 @@
 ||naturagourmet.com.br^
 ||natural.cnt.br^
 ||naturaleeco.com.br^
-||naturalialavando.es^
 ||naturallymga.com.br^
 ||naturalseguro.com.br^
 ||naturalser.es^
@@ -26392,6 +26387,7 @@
 ||orientacaodetcc.com.br^
 ||originalbeef.com.br^
 ||originalife.com.br^
+||orion-app.co^
 ||orion.pe^
 ||oriundibrasil.com.br^
 ||orlaconstrutora.com.br^
@@ -28317,6 +28313,7 @@
 ||refriarrioverde.com.br^
 ||refstecnologiaservices.com.br^
 ||refund-hmrc.uk-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675730208274.softom.com.br^
+||reg-adnoc.co^
 ||regalanavidad.es^
 ||regergerwgfwe.blogspot.com.es^
 ||regidorpuebla.org.mx^
@@ -29069,7 +29066,6 @@
 ||sauconymx.com.mx^
 ||saude10segundos.com.br^
 ||saudebrcotar.com.br^
-||saudebucalwallau.com.br^
 ||saudecomcultura.com.br^
 ||saudecorretores.com.br^
 ||saudeeconsorcio.com.br^
@@ -30957,7 +30953,6 @@
 ||tentenslotvip.co^
 ||teocarsa.gq^
 ||teodoroconsultoriaton.com.br^
-||teologianaweb.com.br^
 ||teoremapitagoras.com.br^
 ||teoriasdelaprendizaje.com.ar^
 ||teoriasocial.udp.cl^
@@ -31464,7 +31459,6 @@
 ||trapstarshooters.es^
 ||tratamentoparapele.com.br^
 ||tratedagota.com.br^
-||tratortecpa.com.br^
 ||travelbible.co^
 ||travelers.co^
 ||travelkathmandu.es^
@@ -31657,7 +31651,13 @@
 ||tw18.joom.mx^
 ||tw1988.co^
 ||tw2.ic-prime.co^
+||tw21.joom.mx^
+||tw31.joom.mx^
+||tw43.joom.mx^
 ||tw88vip.co^
+||twa1.joom.mx^
+||twa13.joom.mx^
+||twa4.joom.mx^
 ||twiitter.com.mx^
 ||twin188.co^
 ||twinsspecialperu.com.pe^
@@ -31667,6 +31667,8 @@
 ||twixoutweb.gq^
 ||twoco.com.br^
 ||twomarketing.com.co^
+||twshop1.joom.mx^
+||twshop28.joom.mx^
 ||twshop40.joom.mx^
 ||twshop6.joom.mx^
 ||twskita.co^
