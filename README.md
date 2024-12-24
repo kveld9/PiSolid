@@ -26,13 +26,14 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 
 ## "PiSolid-Ultra" fuentes
 - [OISD-Big](https://big.oisd.nl/)
-- [HaGeZi-Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt)
-- [HaGeZi-TIF-Mini](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.mini.txt)
+- [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)
+- [HaGeZi-TIF](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt)
 - [AdGuardDNS-optimized](https://raw.githubusercontent.com/cbuijs/adguarddns/refs/heads/main/Main/domains.adblock)
+- [Jarelllama's Scam Blocklist](https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/refs/heads/main/lists/adblock/scams.txt)
 
 ## "PiSolid-NSFW" fuentes
 - [OISD](https://nsfw.oisd.nl)
-- [Jarellama](https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt)
+- [Jarelllama's NSFW Blocklist](https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt)
 - [StevenBlack](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts)
 
 ## Agradecimientos
