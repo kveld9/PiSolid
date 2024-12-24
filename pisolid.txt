@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-24T14:21:00.590Z
+! Last modified: 2024-12-24T15:21:54.042Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -639,6 +639,7 @@
 ||adobet.co^
 ||adobet.com^
 ||ae-casino.top^
+||afdgeebd.btg6rbfcb.com^
 ||afehc-historia-centroamericana.org^
 ||afribet.ng^
 ||africacasinos.co.za^
@@ -855,6 +856,7 @@
 ||applepaycasino.nz^
 ||applepaycasinos.ca^
 ||aprcasino.com^
+||aprovabancarios.com^
 ||aptoide.com^
 ||apuesta-deportiva.com^
 ||apuesta-deportiva.mx^
@@ -1074,6 +1076,7 @@
 ||artemisbet200.net^
 ||articuloscorazones.com^
 ||arzemjukazino.casino^
+||asawins.com^
 ||asciendemas.com^
 ||ascotbet.com^
 ||asesorfiscales.com^
@@ -1212,6 +1215,7 @@
 ||banalotto.fr^
 ||bananalotto.com^
 ||bananalotto.fr^
+||bancadasapostilas.com.br^
 ||bancapremiada.com^
 ||bancaynegocios.com^
 ||bancoloto.com^
@@ -1567,6 +1571,7 @@
 ||betbyrne.com^
 ||betcanadian.com^
 ||betcapri.com^
+||betcarolina.com^
 ||betcart.com^
 ||betcascade.com^
 ||betcash.biz^
@@ -1754,6 +1759,7 @@
 ||betjogo.com^
 ||betjuego.co^
 ||betjupiterclub.com^
+||betkentucky.com^
 ||betking.bo^
 ||betking.cl^
 ||betking.co^
@@ -1930,6 +1936,7 @@
 ||betqs.com^
 ||betquest.com^
 ||betquick.com^
+||betr.app^
 ||betraiser.com^
 ||betrally.com^
 ||betrally.icu^
@@ -2077,6 +2084,7 @@
 ||bettable.it^
 ||bettap.com^
 ||bettbet.com^
+||bettennessee.com^
 ||better-betting.com^
 ||better.it^
 ||betterbet.com^
@@ -2631,6 +2639,7 @@
 ||bycasinogir.com^
 ||bycasinoguncelgiris.com^
 ||bycasinoslot.com^
+||byewhy.nyckggjc.com^
 ||bzb777.com.br^
 ||bzb777.com^
 ||c-bet.cl^
@@ -2683,7 +2692,6 @@
 ||canadasbookie.com^
 ||canadiancasinoonline.org^
 ||canal13sanjuan.com^
-||canalchat.org^
 ||canaltech.com.br^
 ||canariobet.com^
 ||canbet.com^
@@ -3025,6 +3033,7 @@
 ||casino.fr^
 ||casino.guide^
 ||casino.guru^
+||casino.hardrock.com^
 ||casino.help^
 ||casino.info^
 ||casino.mx^
@@ -3843,6 +3852,7 @@
 ||casinos-seguros.com^
 ||casinos-vergleich.de^
 ||casinos.at^
+||casinos.ballys.com^
 ||casinos.cl^
 ||casinos.co.za^
 ||casinos.co^
@@ -3985,7 +3995,6 @@
 ||casinosonlineargentina.com^
 ||casinosonlineaus.com^
 ||casinosonlinecasinos.org^
-||casinosonlineencolombia.co^
 ||casinosonlinelegalesenchile.com^
 ||casinosonlinereal.money^
 ||casinosonlineusaplay.com^
@@ -4229,6 +4238,7 @@
 ||ceu777.com^
 ||cf-poker.com^
 ||cfkargentina.com^
+||cfxtrq.cdbdfcdcb.com^
 ||chalkwins.com^
 ||challengecasino.com^
 ||champagnebingo.com^
@@ -4445,6 +4455,7 @@
 ||cosmolotcasino.top^
 ||costabingo.com^
 ||coushattacasinoresort.com^
+||covers.com^
 ||cowboycasino.net^
 ||coxinhas777.com^
 ||cpc777.com.br^
@@ -4506,6 +4517,7 @@
 ||csgopot.win^
 ||csgostakes.com^
 ||csj777.com^
+||ctlottery.org^
 ||cuentastelelatino.com^
 ||cuevana-oficial.com^
 ||cuevana.biz^
@@ -4975,6 +4987,7 @@
 ||evolvecasino.top^
 ||evoly.life^
 ||ewinner.pl^
+||ewinracing.com^
 ||eworldcasino.com^
 ||exbet.com^
 ||exbeteu.com^
@@ -5465,10 +5478,12 @@
 ||giris-glorycasino.com^
 ||giropaycasino-de.top^
 ||glimmercasino.com^
+||glitchtip.jgeek00.com^
 ||glo777.com^
 ||glo777.vip^
 ||globalcasinobrand.com^
 ||globallivecasino.com^
+||globalwindsafety.org^
 ||globusbet.com^
 ||gloria.bet^
 ||glorificar777pg.com^
@@ -5745,7 +5760,6 @@
 ||hentaila-tv.com^
 ||hentainocensurado.com^
 ||hentaipantsu.com^
-||hentaiparaiso.com^
 ||hentaisd.com^
 ||hepym.com^
 ||heracasinosite.com^
@@ -5803,6 +5817,7 @@
 ||hot777.com^
 ||hotbet.com^
 ||hotbetcasino.top^
+||hotel.hardrock.com^
 ||hoteles.com^
 ||hotelleroyal.com^
 ||hotels.com^
@@ -6071,6 +6086,7 @@
 ||jackpotmobilecasino.co.uk^
 ||jackpotparty.com^
 ||jackpotpiraten.de^
+||jackpotpizzas.com^
 ||jackpotplus.com^
 ||jackpotroyalcasino.shop^
 ||jackpotscasino.top^
@@ -6444,6 +6460,7 @@
 ||levelupcasino10.com^
 ||levelupcasino2.com^
 ||levelupcasino3.com^
+||lfcvvt.usgq7jayw.com^
 ||lgaiwmc1d.com^
 ||lgcasino.org^
 ||librabet.com^
@@ -6504,6 +6521,7 @@
 ||lococasino.top^
 ||locowin-casino.top^
 ||locowincasino.top^
+||lodge88.org^
 ||logincasino.com^
 ||lokicasino.com^
 ||lokicasino.top^
@@ -6523,6 +6541,7 @@
 ||lotoquebec.com^
 ||lotoscasino.com^
 ||lottery.ie^
+||lottery.ok.gov^
 ||lottery24.net^
 ||lotterycasinos.shop^
 ||lotteryus.com^
@@ -7082,6 +7101,7 @@
 ||mozzartcasino.top^
 ||mp3.in^
 ||mpcasino.com^
+||mpdn.pccgscd.com^
 ||mpesacasinokenya.com^
 ||mpvsc.com^
 ||mr-bit-casino.top^
@@ -7284,6 +7304,8 @@
 ||neuecasinos24.com^
 ||neueonline-casinos.com^
 ||neugrunaercasino.top^
+||newbettingoffers.co.uk^
+||newbettingsites.uk^
 ||newcasinos-au.com^
 ||newcasinos-ca.com^
 ||newcasinos.com^
@@ -7401,7 +7423,6 @@
 ||npsportsbet.com^
 ||nrg-casino.pl^
 ||nstress.com^
-||nudeslegion.com^
 ||nuevatribuna.es^
 ||nuevosmediosmusica.com^
 ||nuggetcasinoresort.com^
@@ -7917,6 +7938,7 @@
 ||pelisplushd.to^
 ||penlandtreefarm.com^
 ||pennplaycasino.com^
+||pennstakes.com^
 ||penny-slot-machines.com^
 ||pentagol.pe^
 ||peoplesbet.fr^
@@ -8026,6 +8048,7 @@
 ||pixdasortebet.com^
 ||pixelcasino.top^
 ||pizazzbingo.com^
+||pkrub.nhy74bgv.com^
 ||placarbets.com^
 ||placarbets99.com^
 ||placardcasino.top^
@@ -8033,6 +8056,7 @@
 ||placemybet.com^
 ||placemybet.net^
 ||plainridgeparkcasino.com^
+||planalto.gov.br^
 ||planaltobets.com^
 ||planet7casino.com^
 ||planet7casino.top^
@@ -8316,6 +8340,7 @@
 ||purevegascasino.com^
 ||purewin.com^
 ||puzzlercasino.shop^
+||pwel.sdxpkgyaq.com^
 ||qaiscasino.com^
 ||qbet.com^
 ||qbetcasino.top^
@@ -8384,6 +8409,7 @@
 ||rawlayer.com^
 ||rb88.com^
 ||rbc188.com^
+||rbcroyalbank.com^
 ||rbets.net^
 ||rcahub.com^
 ||reactcasino.com^
@@ -8587,9 +8613,11 @@
 ||roxcasino.world^
 ||royaalcasino.com^
 ||royal-flamingo-casino.com^
+||royal-isd.net^
 ||royal-panda-casino.top^
 ||royal.bet^
 ||royal.com^
+||royal.io^
 ||royalacecasino.com^
 ||royalacecasino.online^
 ||royalapollo.com^
@@ -8604,10 +8632,12 @@
 ||royalcasinomasters.com^
 ||royalcasinoplace.net^
 ||royalcitycasino.com^
+||royalcoffee.com^
 ||royalcopenhagen.com^
 ||royaleaglecasino.top^
 ||royalfair.org^
 ||royalflushcasinos.com^
+||royalhawaiiancenter.com^
 ||royallifecasino.shop^
 ||royalpanda.com.br^
 ||royalpanda.com^
@@ -8620,7 +8650,9 @@
 ||royalreels5.com^
 ||royalreels6.com^
 ||royalreelscasinoau.com^
+||royalrestaurantva.com^
 ||royalslots.com^
+||royalsociety.org^
 ||royalvegas.co.uk^
 ||royalvegas.com^
 ||royalvegas.eu^
@@ -8704,6 +8736,7 @@
 ||scratchmania-casino.com^
 ||scratchmaniacasino.be^
 ||scrumpoker-online.org^
+||sds.bihaljdfa.com^
 ||se7ebet.us^
 ||seabet.com^
 ||searchbet.com^
@@ -8759,6 +8792,7 @@
 ||sfepodownload.mediatek.com^
 ||sgcasino.com^
 ||sgepodownload.mediatek.com^
+||sgyc.bfj1k2g4v.com^
 ||sh-casino.com^
 ||shambalacasino.top^
 ||sharkstresser.com^
@@ -9135,6 +9169,7 @@
 ||sportsbook.ag^
 ||sportsbook.ca^
 ||sportsbook.com^
+||sportsbook.draftkings.com^
 ||sportsbookbetting.com^
 ||sportsbookreview.com^
 ||sportsbooks.com^
@@ -9223,6 +9258,7 @@
 ||staycasino.live^
 ||staycasino.top^
 ||staycasino7.com^
+||stcroix-casinos.com^
 ||steampowered.com^
 ||stelariocasino.top^
 ||stellarecasino.top^
@@ -9705,6 +9741,7 @@
 ||two-upcasino.top^
 ||twoupcasino.com^
 ||twoupwin.com^
+||tyey.grvfpkmbt.com^
 ||u-lover.com^
 ||u777.bet^
 ||uai.com.br^
@@ -9749,6 +9786,7 @@
 ||umbet3.com^
 ||umdoisesportes.com.br^
 ||unctadcompal.org^
+||undercanvas.com^
 ||undiscoaldia.com^
 ||unesp777.com^
 ||uniaobet.com^
@@ -9977,6 +10015,7 @@
 ||viggoslotscasino.fr^
 ||viggoslotscasino.top^
 ||vigiswisscasino.com^
+||vigophotonics.com^
 ||vikingbet.com^
 ||vikingslots.com^
 ||vikscasino-uz.com^
@@ -10057,6 +10096,7 @@
 ||vozzog.com^
 ||vpnmentor.com^
 ||vpnpro.com^
+||vrbrnq.chkgdfcdh.com^
 ||vsetopcasino.com^
 ||vsetopcasino4.com^
 ||vtoxicity.net^
@@ -10122,6 +10162,7 @@
 ||walkerpoker.com^
 ||walkersbluffcasinoresort.com^
 ||wallacebet.com^
+||walottery.com^
 ||wam-poker.com^
 ||wantedwin7.com^
 ||warriorcasino.com^
@@ -10265,6 +10306,7 @@
 ||winnerbets.com^
 ||winnercasino.world^
 ||winnercasino777.com^
+||winneronlinecasino.com^
 ||winnersbet.com^
 ||winnerzcasino.top^
 ||winningbaccaratsystem.com^
@@ -10521,6 +10563,7 @@
 ||zinkracasino.top^
 ||zipangcasino.com^
 ||zipdrop.cfd^
+||zmupg.hu73gddvd.com^
 ||zobet.com^
 ||zodiac-casino.click^
 ||zodiac.casino^
@@ -10539,53 +10582,6 @@
 ||zulacasino.com^
 ||zvbet.com^
 ||zyngapoker.com^
-||tyey.grvfpkmbt.com^
-||sds.bihaljdfa.com^
-||vrbrnq.chkgdfcdh.com^
-||pwel.sdxpkgyaq.com^
-||sgyc.bfj1k2g4v.com^
-||mpdn.pccgscd.com^
-||lfcvvt.usgq7jayw.com^
-||pkrub.nhy74bgv.com^
-||byewhy.nyckggjc.com^
-||cfxtrq.cdbdfcdcb.com^
-||glitchtip.jgeek00.com^
-||zmupg.hu73gddvd.com^
-||aprovabancarios.com^
-||asawins.com^
-||bancadasapostilas.com.br^
-||betcarolina.com^
-||betkentucky.com^
-||betr.app^
-||bettennessee.com^
-||casino.hardrock.com^
-||casinos.ballys.com^
-||covers.com^
-||ctlottery.org^
-||ewinracing.com^
-||globalwindsafety.org^
-||hotel.hardrock.com^
-||jackpotpizzas.com^
-||lodge88.org^
-||lottery.ok.gov^
-||newbettingoffers.co.uk^
-||newbettingsites.uk^
-||pennstakes.com^
-||planalto.gov.br^
-||rbcroyalbank.com^
-||royal-isd.net^
-||royal.io^
-||royalcoffee.com^
-||royalhawaiiancenter.com^
-||royalrestaurantva.com^
-||royalsociety.org^
-||sportsbook.draftkings.com^
-||stcroix-casinos.com^
-||undercanvas.com^
-||vigophotonics.com^
-||walottery.com^
-||winneronlinecasino.com^
-||afdgeebd.btg6rbfcb.com^
 ||000111.pages.net.br^
 ||0003.pages.net.br^
 ||000webfirst.co^
@@ -15813,6 +15809,7 @@
 ||cpanell01.sinoscorp.com.br^
 ||cpbconstrutora.eng.br^
 ||cpcac.pe^
+||cpcecba.org.ar^
 ||cpcef.org.ar^
 ||cpf777.co^
 ||cpmgmoa.com.br^
@@ -18099,7 +18096,6 @@
 ||flitterbox.gq^
 ||flokitoto.co^
 ||flokitotomacau.co^
-||flomar.do^
 ||floorimot.gq^
 ||floortek.com.ar^
 ||floortext.co^
@@ -21483,7 +21479,6 @@
 ||kar98e.gq^
 ||kari4dvip.co^
 ||kariciassexshop.com.br^
-||karikari.com.br^
 ||karinaediether.com.br^
 ||karinarohde.com.br^
 ||karismadistribuidora.com.br^
@@ -21820,7 +21815,6 @@
 ||kvme.cl^
 ||kyboe.es^
 ||kyfaomzer.gq^
-||kyoto.com.br^
 ||l-gold.com.br^
 ||l2sdev.com.br^
 ||laacademia-sarriguren.es^
@@ -22244,7 +22238,6 @@
 ||litoralportpilots.com.ar^
 ||litoralrs.com.br^
 ||litosupply.co^
-||littlechampionskids.edu.co^
 ||littlekids.cl^
 ||liuta.com.br^
 ||liutity.co^
@@ -25433,6 +25426,7 @@
 ||parrila.com.br^
 ||parrillaespetoechopp.com.br^
 ||parrillalosviejos.com.ar^
+||particulares.acceso-secure.es^
 ||particularly.gq^
 ||partime.cl^
 ||partner-more.co^
