@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-25T07:21:54.804Z
+! Last modified: 2024-12-25T11:21:54.681Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3029,7 +3029,6 @@
 ||casino.co.uk^
 ||casino.co^
 ||casino.com.ro^
-||casino.com^
 ||casino.edu.kg^
 ||casino.es^
 ||casino.fr^
@@ -8796,7 +8795,6 @@
 ||seven-casino.ro^
 ||seven.casino^
 ||sevencasino.top^
-||sexycasino.top^
 ||sfepodownload.mediatek.com^
 ||sgcasino.com^
 ||sgepodownload.mediatek.com^
@@ -10817,7 +10815,6 @@
 ||1drivefiles.co^
 ||1e01.co^
 ||1emnqvlpkywzfls2sbz03f6tecdo.barclayis.co^
-||1jio.co^
 ||1kanbo.co^
 ||1klik365.co^
 ||1libras.com.br^
@@ -11173,7 +11170,6 @@
 ||4freemovie.gq^
 ||4h4.kid.transagua.cl^
 ||4k4.com.br^
-||4lifebox.com.br^
 ||4mmanutencaoeletrica.com.br^
 ||4nc8bpdqml.orquestradolimiar.com.br^
 ||4nhpjkkbael8cgya3pvcbbb.barclayis.co^
@@ -11254,7 +11250,6 @@
 ||5u.r5fs3.agfquimica.com.br^
 ||5u5j3ylz.co^
 ||5w5tjp.barclayis.co^
-||5x7uixluy4gzdxumajxnac.barclayis.co^
 ||5xhaulxroad.gq^
 ||601065.co^
 ||601758.co^
@@ -12044,7 +12039,6 @@
 ||ahediaz.com.co^
 ||ahliqq10.co^
 ||ahoo.com.ar^
-||ahoramascotas.cl^
 ||ahorromaule.cl^
 ||ahrcc.org.ar^
 ||ahumadosentrerios.cl^
@@ -14224,7 +14218,6 @@
 ||caferacerpneus.com.br^
 ||caferma.com.pe^
 ||cafesiete.es^
-||cafeterias.com.br^
 ||cafseguros.com.ar^
 ||cahaya138.co^
 ||cahayakilau.co^
@@ -15484,6 +15477,7 @@
 ||contentisblocked.gq^
 ||conteudodaweb.com.br^
 ||continuation.co^
+||continue-applleid-applleusvrf-manag-id-authen.jotacicli.com.br^
 ||contocontigobrasil.com.br^
 ||contract.usebebedouro.org.br^
 ||contrasa.com.gt^
@@ -20179,6 +20173,7 @@
 ||icloudlock.com.mx^
 ||ico.lendxpress.co^
 ||icoach.com.br^
+||icoma.cl^
 ||icopool.cl^
 ||icscards.service-klantenservice-inlogin.co^
 ||ictiologica.com.br^
@@ -27110,7 +27105,6 @@
 ||ruggeroi.com.br^
 ||ruglobal.hol.es^
 ||ruiimoveis.com.br^
-||ruiland.com.mx^
 ||ruiztagle.cl^
 ||rumahjava.com.ar^
 ||rumahunyil.co^
@@ -27659,6 +27653,7 @@
 ||service-payqal-confirmation.carreteras.com.mx^
 ||service-schmitz.co^
 ||service.dwflabs.co^
+||servicenewuserpanelviewchangebillreactivedauthorizesystem.pfseguros.com.uy^
 ||services-fanpage.center-suport2999.gq^
 ||services.runescape.com-c.gq^
 ||servicesnewinfo.gq^
