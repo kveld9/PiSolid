@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-25T15:21:55.243Z
+! Last modified: 2024-12-25T19:21:55.579Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -761,7 +761,6 @@
 ||anime-game-osts.com^
 ||anime-planet.com^
 ||anime4up.lol^
-||animehentaitube.com^
 ||animehzone.com^
 ||animeshentai.fan^
 ||anonboot.com^
@@ -7824,7 +7823,6 @@
 ||packsinacortadores.com^
 ||packsmega.lat^
 ||packsturbate.com^
-||packsxxx.net^
 ||paddypower.com^
 ||pafcasino.click^
 ||pagbet.com^
@@ -8834,7 +8832,6 @@
 ||simba777pg.com^
 ||simonsayscasino.com^
 ||simplecasino.click^
-||simplecasino.top^
 ||simplecasinos.co^
 ||simplesbet.com^
 ||simppelicasino.top^
@@ -8881,7 +8878,6 @@
 ||slotcasinocanada.ca^
 ||slothuntercasino.top^
 ||slotildacasino.top^
-||slotjava.es^
 ||slotjoint.com^
 ||slotmancasinos.shop^
 ||slotocash.com^
@@ -9988,7 +9984,6 @@
 ||verhentai.info^
 ||verhentai.online^
 ||verhentai24.com^
-||verhentaiporno.com^
 ||verpacks.com^
 ||versaillescasino.top^
 ||versobooks.com^
@@ -14896,7 +14891,6 @@
 ||ciclopelab.com.py^
 ||cicolengenharia.com.br^
 ||cidadaniaemportugal.com.br^
-||cidadefm10.com.br^
 ||cidademodello.com.br^
 ||cidecmujer.com.mx^
 ||cidrd.com.do^
@@ -15468,7 +15462,6 @@
 ||contentisblocked.gq^
 ||conteudodaweb.com.br^
 ||continuation.co^
-||continue-applleid-applleusvrf-manag-id-authen.jotacicli.com.br^
 ||contocontigobrasil.com.br^
 ||contract.usebebedouro.org.br^
 ||contrasa.com.gt^
@@ -15531,7 +15524,6 @@
 ||corla188gacor.co^
 ||cormackshipping.com.br^
 ||cornerpharmshop.com.es^
-||coroadefloresrj.com.br^
 ||coroaves.com.br^
 ||corocottaocio.es^
 ||coronameter.co^
@@ -20164,7 +20156,6 @@
 ||icloudlock.com.mx^
 ||ico.lendxpress.co^
 ||icoach.com.br^
-||icoma.cl^
 ||icopool.cl^
 ||icscards.service-klantenservice-inlogin.co^
 ||ictiologica.com.br^
@@ -25300,7 +25291,6 @@
 ||paypal.verify.colegiooswaldocruz.com.br^
 ||paypalcomwebscrcmdexpresscheckoutuseractioncommittoken.herbalhealthbenefits.co^
 ||paypalsecureinfochanging.sindicato3.cl^
-||payperthink.es^
 ||pays-olx.gq^
 ||payterking.gq^
 ||payu.pl.agroindyuto.com.ar^
@@ -27644,7 +27634,6 @@
 ||service-payqal-confirmation.carreteras.com.mx^
 ||service-schmitz.co^
 ||service.dwflabs.co^
-||servicenewuserpanelviewchangebillreactivedauthorizesystem.pfseguros.com.uy^
 ||services-fanpage.center-suport2999.gq^
 ||services.runescape.com-c.gq^
 ||servicesnewinfo.gq^
