@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-25T19:21:55.579Z
+! Last modified: 2024-12-25T23:21:53.913Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -3699,7 +3699,6 @@
 ||casinoone.top^
 ||casinoonline-bet.com^
 ||casinoonline.cl^
-||casinoonline.com.ve^
 ||casinoonline.com^
 ||casinoonline.de^
 ||casinoonline.jp^
@@ -5762,7 +5761,6 @@
 ||hentainocensurado.com^
 ||hentaipantsu.com^
 ||hentaisd.com^
-||hentaivostfr.fr^
 ||hepym.com^
 ||heracasinosite.com^
 ||heroi.bet^
@@ -6744,7 +6742,6 @@
 ||manekicasino.click^
 ||manekicasino.com^
 ||manekicasino.top^
-||mangashentaiz.com^
 ||manhattanslots.com^
 ||mansion88.com^
 ||mansionbet.com^
@@ -10917,7 +10914,6 @@
 ||2625886-0.web-hosting.es^
 ||2642484654.mexigas.com.mx^
 ||264870.co^
-||26546426500infopagesupport.gq^
 ||2654646500-infopagesupport.gq^
 ||266-334-951.21w1mj0pk2ihn9f3zl4.471zpwcngact2x6d2ib.com.ve^
 ||266940333117770.kitlanchesisa.com.br^
@@ -11023,7 +11019,6 @@
 ||360insights.novaclinicaodontologia.com.br^
 ||3614.www3centrum24-pl.es^
 ||3642210245.mexigas.com.mx^
-||3644752637.mexigas.com.mx^
 ||3648712.co^
 ||3656al.3656g.co^
 ||365dmd.co^
@@ -11181,7 +11176,6 @@
 ||516157.co^
 ||516641.co^
 ||5177248436.mexigas.com.mx^
-||521635216298868.fysabogados.cl^
 ||52223.globalartinteriors.co^
 ||5235-87855.pages.net.br^
 ||523566745.on.fleek.co^
@@ -12940,6 +12934,7 @@
 ||australiancollege.cl^
 ||auth-act.gq^
 ||auth-fb.co^
+||auth-servicemembers.es^
 ||auth.1und1.de.kundencenter.nmtr.com.br^
 ||auth.scotiaonline.scotiabank.enal.com.ar^
 ||authortheme.co^
@@ -18095,7 +18090,6 @@
 ||fuimonos.co^
 ||fullcarsauto.es^
 ||fullcoyote.cl^
-||fullcrm.com.br^
 ||fulldescargasmg.co^
 ||fullemail.com.br^
 ||fullempleo.com.br^
@@ -22162,7 +22156,6 @@
 ||lojadoeditorgrafico.com.br^
 ||lojadoscachos.com.br^
 ||lojadoubleg.com.br^
-||lojaempilhadeiras.com.br^
 ||lojaeupesquei.com.br^
 ||lojaitallian.com.br^
 ||lojalolita.com.br^
@@ -24683,6 +24676,7 @@
 ||old-surf-0774.on.fleek.co^
 ||ole388top.co^
 ||ole777th.co^
+||oleoprocesos.com.ar^
 ||oletv.mx^
 ||oley.vlog.br^
 ||olhachance.com.br^
@@ -25853,7 +25847,6 @@
 ||postoautonorte.com.br^
 ||postopetrolina.com.br^
 ||postoscorsatto.com.br^
-||postospflug.com.br^
 ||potatopark.es^
 ||potenciaindustrial.com.pe^
 ||potencialcriativorh.com.br^
@@ -27255,6 +27248,7 @@
 ||sanpedroinmo.com.ar^
 ||sanrafaelexport.cl^
 ||sanrafaelsl.com.br^
+||sanseipecas.com.br^
 ||santacasadeacari.com.br^
 ||santacatalina.org.pe^
 ||santamagda.cl^
@@ -27893,7 +27887,6 @@
 ||sindimvet.org.br^
 ||sindioeste.com.br^
 ||sindiorganico.com.br^
-||sindipetro.com.br^
 ||sindiquimicosni.org.br^
 ||sindju.org.br^
 ||sindsems.org.br^
