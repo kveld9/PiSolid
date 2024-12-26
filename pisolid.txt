@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-25T23:21:53.913Z
+! Last modified: 2024-12-26T03:21:53.811Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -6208,7 +6208,6 @@
 ||juegosdeazar.cl^
 ||juegosdecasino.us^
 ||juegosdiarios.com^
-||juegosjuegos.com^
 ||juegostragamonedas-gratis.com^
 ||juegosxo.casino^
 ||juegosynegocios.com^
@@ -6779,7 +6778,6 @@
 ||marylandlivecasino.com^
 ||mason-slots-casino.nl^
 ||masterbets365.com^
-||mastercard-casino.top^
 ||mastercardcasino.ca^
 ||mastercardcasino.in^
 ||mastercardcasino.nz^
@@ -7915,7 +7913,6 @@
 ||payidcasinos-australia.top^
 ||paylevocasino-se.top^
 ||payments-graph.facebook.com^
-||paypal-casino-nz.top^
 ||paypalcasinos.nz^
 ||paysafecard-casino-ca.top^
 ||paysafecard-casino-nl.top^
@@ -10584,7 +10581,6 @@
 ||0100238504.mexigas.com.mx^
 ||013bet.co^
 ||015122625154301.kitlanchesisa.com.br^
-||016461527143871.kitlanchesisa.com.br^
 ||0171500061.mexigas.com.mx^
 ||017bet.co^
 ||021034662015959.kitlanchesisa.com.br^
@@ -10594,19 +10590,14 @@
 ||035199254017054.kitlanchesisa.com.br^
 ||035508045747058.kitlanchesisa.com.br^
 ||0359.pages.net.br^
-||0371510621.lgc.eng.br^
 ||03777.co^
 ||041769.co^
-||0422007145.mexigas.com.mx^
 ||045484177746124264.mediawebs.co^
 ||05-1uno01.co^
-||0511.tglobales.cl^
 ||0532816450.mexigas.com.mx^
-||05365297195578824660734.informaticasa.com.ar^
 ||05777.co^
 ||059173747934594.cocopasa.com.mx^
 ||060419515522261.kitlanchesisa.com.br^
-||060869428415401.cocopasa.com.mx^
 ||0614.pages.net.br^
 ||0620102106.mexigas.com.mx^
 ||062315525.x10.mx^
@@ -10623,7 +10614,6 @@
 ||077735585696108479.mediawebs.co^
 ||077963415308385.kitlanchesisa.com.br^
 ||078674619666396.cocopasa.com.mx^
-||079767330910632.cocopasa.com.mx^
 ||084422.co^
 ||0858542310.mexigas.com.mx^
 ||0865112646.pymexbrokers.com.ar^
@@ -10632,13 +10622,11 @@
 ||097286236736034.rodrigueslunardi.com.br^
 ||097711175779410.cocopasa.com.mx^
 ||09777.co^
-||0auth.secure-icloud.appleid.mentoring.pe^
 ||0c3zy.bsamorim.adv.br^
 ||0c7r4za1.co^
 ||0d804e52.alvoradaconsultoria.com.br^
 ||0ffice-resolving-l0gin-365.trilhadojerico.com.br^
 ||0hj.com.br^
-||0iar9pphcdffv7xzocoxn7tbbi.barclayis.co^
 ||0lxtauzslvtvqa3tz2sqvfpg9nxw.barclayis.co^
 ||0nenqmwnl6wnqgeagorj2l.barclayis.co^
 ||0oojeicy2oqygha.barclayis.co^
@@ -10726,7 +10714,6 @@
 ||143190162612205.cocopasa.com.mx^
 ||1453-547661354-7983-06.gq^
 ||145770384581678.cocopasa.com.mx^
-||1470467451.mexigas.com.mx^
 ||1478523.co^
 ||1478526.co^
 ||149471.co^
@@ -10786,7 +10773,6 @@
 ||18bet1.co^
 ||18gdkvcronde.gq^
 ||18plusgrub.whatsaapfre-x2021.gq^
-||1950.com.ar^
 ||1951092312312.co^
 ||1954752.co^
 ||196.tynted.co^
@@ -11081,7 +11067,6 @@
 ||404promotion.co^
 ||412394.co^
 ||413.barriolafarfana.cl^
-||41750632328194505474388.informaticasa.com.ar^
 ||4199647859.pymexbrokers.com.ar^
 ||4224881127.mexigas.com.mx^
 ||423051676144465.kitlanchesisa.com.br^
@@ -14852,7 +14837,6 @@
 ||chromebuild.gq^
 ||chromeheartsoutlet.com.co^
 ||chrommatexturas.com.br^
-||chronopostfr.co^
 ||chrysler.cl^
 ||chuchoperez.com.ve^
 ||chunan-cn.co^
@@ -21819,7 +21803,6 @@
 ||leoasdaserra.com.br^
 ||leoindependiente.co^
 ||leonardograbow.com.ar^
-||leonardometropolo.com.br^
 ||leoniacosmeticos.com.br^
 ||leorezende.com.br^
 ||leorochabrasil.com.br^
@@ -28765,7 +28748,6 @@
 ||swiss-watches.co^
 ||swissclean.cl^
 ||swissloveme.com.es^
-||swisspass-oevlogin-pwle.radiant.cl^
 ||swissposte.gq^
 ||swisspostes.gq^
 ||swisswatchestop.co^
@@ -29537,7 +29519,6 @@
 ||ttr.n-verif.gq^
 ||ttt88.co^
 ||tu-credito.es^
-||tu123.co^
 ||tuanpoltar.com.co^
 ||tuarquitectura.com.pe^
 ||tuaszya.co^
