@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-27T03:21:56.420Z
+! Last modified: 2024-12-27T07:21:55.388Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10611,7 +10611,6 @@
 ||073bet.co^
 ||076182973023611.cocopasa.com.mx^
 ||077735585696108479.mediawebs.co^
-||078674619666396.cocopasa.com.mx^
 ||084422.co^
 ||0858542310.mexigas.com.mx^
 ||0865112646.pymexbrokers.com.ar^
@@ -10627,7 +10626,6 @@
 ||0hj.com.br^
 ||0lxtauzslvtvqa3tz2sqvfpg9nxw.barclayis.co^
 ||0nenqmwnl6wnqgeagorj2l.barclayis.co^
-||0oojeicy2oqygha.barclayis.co^
 ||0pa.my8.transagua.cl^
 ||0q.ympxh.yogreen.co^
 ||0x01c13792cc3a0d30627456329285a63ac5bcd.co^
@@ -12191,7 +12189,6 @@
 ||alli.co^
 ||allianceconsulting.com.br^
 ||allianz.com.pe^
-||allidearpoczt.carrd.co^
 ||allirea.gq^
 ||alljackpots.co^
 ||alljazeera.co^
@@ -15423,6 +15420,7 @@
 ||contatowhats2.com.br^
 ||contatowhats4.com.br^
 ||contavivo.co^
+||contenidosymedia.com.ar^
 ||contentisblock.gq^
 ||contentisblocked.gq^
 ||conteudodaweb.com.br^
@@ -18335,7 +18333,6 @@
 ||generasitogeel.co^
 ||generasitoggel.co^
 ||generasittogel.co^
-||generatorfreeaccounts.blogspot.com.es^
 ||generic-tenormin.gq^
 ||genericviagra.jubiiblog.com.es^
 ||genevawatches.co^
@@ -20776,7 +20773,6 @@
 ||jacksonxxms.gq^
 ||jaconectados.com.br^
 ||jacquelineortega.com.br^
-||jade-associates.com.br^
 ||jadergeneroso.com.br^
 ||jadu.cl^
 ||jaedescartaveis.com.br^
@@ -22216,7 +22212,6 @@
 ||loucuraperder.com.br^
 ||louis-vuitton.co^
 ||loungebatel.com.br^
-||louvera.com.br^
 ||lovecallyou.com.es^
 ||lovecupons.com.br^
 ||lovedis.com.br^
@@ -24716,7 +24711,6 @@
 ||onedrivemessage.gq^
 ||onepagesconfirms.gq^
 ||onepalce.co^
-||onetlify.carrd.co^
 ||onetouchbusiness.cl^
 ||onetransportes.com.br^
 ||ong918.co^
@@ -24760,7 +24754,6 @@
 ||onlybordados.com.br^
 ||onlyformen.com.br^
 ||onsuchas.co^
-||ontty.carrd.co^
 ||onwin.com.br^
 ||ooof.gq^
 ||oosapat.gob.mx^
@@ -30488,7 +30481,6 @@
 ||webjoe.com.br^
 ||webloginseguro.co^
 ||webluxo.com.br^
-||webm1l.carrd.co^
 ||webmail-bb.adestramentoseguro.com.br^
 ||webmail.3dproducts.com.ec^
 ||webmail.adminserver.repl.co^
