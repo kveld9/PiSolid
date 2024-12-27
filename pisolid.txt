@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-26T23:21:57.069Z
+! Last modified: 2024-12-27T03:21:56.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10889,7 +10889,6 @@
 ||253615.co^
 ||25487495.co^
 ||257883.co^
-||25849684page-recovery-identity2022.gq^
 ||25express.com.br^
 ||2610714268.mexigas.com.mx^
 ||2625886-0.web-hosting.es^
@@ -12820,7 +12819,6 @@
 ||asserc.com.br^
 ||asserf.org.br^
 ||assess-home-energy.gq^
-||assessoriacastelobranco-com-br-apnc.gen3.srv.br^
 ||assimila.cptec.inpe.br^
 ||assimvaleapena.com.br^
 ||assineclaroempresas.com.br^
@@ -12910,7 +12908,6 @@
 ||auth-act.gq^
 ||auth-fb.co^
 ||auth.1und1.de.kundencenter.nmtr.com.br^
-||auth.scotiaonline.scotiabank.enal.com.ar^
 ||authortheme.co^
 ||authpolan.pages.net.br^
 ||autiacerye.gq^
@@ -25649,7 +25646,6 @@
 ||plenavia.cl^
 ||plenituderecupera.com.br^
 ||plentech.com.br^
-||pley.es^
 ||plglobal.co^
 ||plhollan.gq^
 ||pligial.co^
@@ -29511,6 +29507,7 @@
 ||ttr.n-verif.gq^
 ||ttt88.co^
 ||tu-credito.es^
+||tu123.co^
 ||tuanpoltar.com.co^
 ||tuarquitectura.com.pe^
 ||tuaszya.co^
