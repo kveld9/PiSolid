@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-28T11:21:51.931Z
+! Last modified: 2024-12-28T15:21:52.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -4770,6 +4770,7 @@
 ||dundercasino.top^
 ||duobet.com^
 ||dupage88.net^
+||dusktilldawnpoker.com^
 ||duxcasino.click^
 ||duxcasino.com^
 ||duxcasino.top^
@@ -6505,6 +6506,7 @@
 ||livecasinosgreek.com^
 ||livecasinotips.dk^
 ||livecasinoz.co^
+||liveinternet.ru^
 ||livejournal.com^
 ||livescore.bet^
 ||livescore.co^
@@ -6625,6 +6627,7 @@
 ||luckywinscasinos.com^
 ||luckywinslots.com^
 ||lukki77.com^
+||lumendatabase.org^
 ||lumicasino.com^
 ||luva.bet^
 ||luxo777.com^
@@ -9451,6 +9454,7 @@
 ||thebescasino.com^
 ||thebescasinovip.com^
 ||thebestcasinos.co.uk^
+||thebetarena.com^
 ||thebettingguy.co.uk^
 ||thebosscasino.shop^
 ||thecasinoangel.shop^
@@ -10635,7 +10639,6 @@
 ||102154460ie.hol.es^
 ||105416546pagenotification2022.co^
 ||107298241558747.gq^
-||108060997791300.gq^
 ||109761126210152.kitlanchesisa.com.br^
 ||109995305821806.lgc.eng.br^
 ||10brasil.net.br^
@@ -10743,7 +10746,6 @@
 ||18.vzlomschik.co^
 ||18001818.co^
 ||1842057.co^
-||1845145032.mexigas.com.mx^
 ||185128.co^
 ||1874488408.mexigas.com.mx^
 ||188betth.co^
@@ -10853,7 +10855,6 @@
 ||23423-423423.pages.net.br^
 ||234cb82f.divafashion.com.br^
 ||23678994.jxltransporte.com.br^
-||2372563205.mexigas.com.mx^
 ||23or53523--servi2023co2352.repl.co^
 ||240404.co^
 ||240563.co^
@@ -11066,7 +11067,6 @@
 ||447748673.ateliedaseletricas.com.br^
 ||44lepak.co^
 ||450167.co^
-||450696624089249.ajitsolutions.co^
 ||4512896.co^
 ||452305936938987.kitlanchesisa.com.br^
 ||4556332642.mexigas.com.mx^
@@ -14341,6 +14341,7 @@
 ||carriercool.co^
 ||carrinhodeprodutos.com.br^
 ||carrocomdescontoagora.com.br^
+||carroeditorial.com.mx^
 ||cartacerta2015.com.br^
 ||cartadeouro.com.br^
 ||cartafast.com.br^
@@ -16341,6 +16342,7 @@
 ||distribuidoramomm.com.br^
 ||distribuidorasanluis.com.ec^
 ||distribuidormicrosoft.com.br^
+||distrilamadrid.com.ar^
 ||distrisopecas.com.br^
 ||distritalfm.com.br^
 ||distrivent.es^
@@ -20767,6 +20769,7 @@
 ||jagoan89.co^
 ||jagobet99g.co^
 ||jagolampung4d.co^
+||jaguariaiva.pr.gov.br^
 ||jahetoto88.co^
 ||jaixpalcsinghzrajvi.blogspot.com.br^
 ||jakseltotoku.co^
@@ -22110,6 +22113,7 @@
 ||lojadoeditorgrafico.com.br^
 ||lojadoscachos.com.br^
 ||lojadoubleg.com.br^
+||lojaempilhadeiras.com.br^
 ||lojaeupesquei.com.br^
 ||lojaitallian.com.br^
 ||lojalolita.com.br^
@@ -22661,6 +22665,7 @@
 ||marciobrigatto.com.br^
 ||marciogerhardtsouza.com.br^
 ||marcoah.com.ve^
+||marcocosta.eng.br^
 ||marcoevangelista.blog.br^
 ||marcomundarain.com.ve^
 ||marcosdejesus.com.br^
@@ -27731,6 +27736,7 @@
 ||shoplove.com.br^
 ||shoplovers.co^
 ||shopping-ct.gq^
+||shoppingcirnecenter.com.br^
 ||shoppingnovidades.com.br^
 ||shoppmega.com.br^
 ||shopromos.com.br^
@@ -27841,6 +27847,7 @@
 ||sindimvet.org.br^
 ||sindioeste.com.br^
 ||sindiorganico.com.br^
+||sindipetro.com.br^
 ||sindiquimicosni.org.br^
 ||sindju.org.br^
 ||sindsems.org.br^
@@ -30010,6 +30017,7 @@
 ||viajera.com.br^
 ||viajesbojorquez.com.mx^
 ||viajesmuher.es^
+||viamanzanares.com.ar^
 ||viamargutta.com.br^
 ||viamarmi.com.br^
 ||viasaudenaturais.com.br^
