@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-27T23:21:53.359Z
+! Last modified: 2024-12-28T03:21:54.226Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -10579,7 +10579,6 @@
 ||0100238504.mexigas.com.mx^
 ||013bet.co^
 ||017bet.co^
-||021034662015959.kitlanchesisa.com.br^
 ||02213.pages.net.br^
 ||0310.pages.net.br^
 ||031abcca-0d7d-4467-a6de-97a79f56b2c6.id.repl.co^
@@ -10619,7 +10618,6 @@
 ||0lxtauzslvtvqa3tz2sqvfpg9nxw.barclayis.co^
 ||0nenqmwnl6wnqgeagorj2l.barclayis.co^
 ||0pa.my8.transagua.cl^
-||0q.ympxh.yogreen.co^
 ||0x01c13792cc3a0d30627456329285a63ac5bcd.co^
 ||0xbitconnect.co^
 ||0xc1eba38aa2f1d117ae357a462a88d35b209cd.co^
@@ -10784,7 +10782,6 @@
 ||1nbakvbdnvsfhvfsnv.gq^
 ||1pileofcrap.co^
 ||1ponto5.net.br^
-||1ra01jnx5ht8hetkgvdewcxvyil3.barclayis.co^
 ||1sevquroeas.com.br^
 ||1slot.co^
 ||1sly.co^
@@ -11225,7 +11222,6 @@
 ||6401257.co^
 ||645285.co^
 ||64654.pages.net.br^
-||648085375648975.cocopasa.com.mx^
 ||648874.co^
 ||64bits.es^
 ||64convencion.com.uy^
@@ -11335,7 +11331,6 @@
 ||75aa7f0e.bcdashboards.com.br^
 ||7628433847.mexigas.com.mx^
 ||766355.co^
-||7684601076.mexigas.com.mx^
 ||770264898274497.kitlanchesisa.com.br^
 ||77448.co^
 ||774799396737177.cocopasa.com.mx^
@@ -11422,7 +11417,6 @@
 ||828434.co^
 ||83506.co^
 ||839699.co^
-||83hhk.cardosoeletronica.com.br^
 ||84003038.mapbase.repl.co^
 ||840832.co^
 ||841237.co^
@@ -11516,7 +11510,6 @@
 ||93130585.priscilasampaio.com.br^
 ||931639901891073.kitlanchesisa.com.br^
 ||93553191.priscilasampaio.com.br^
-||935688577988083.kitlanchesisa.com.br^
 ||938545.co^
 ||938914806-726446047-500772682966-55866971-35206.josh551.repl.co^
 ||93bc7b11.bcdashboards.com.br^
@@ -11526,7 +11519,6 @@
 ||946409185205240.cocopasa.com.mx^
 ||946790.co^
 ||947228.co^
-||949342532747710.kitlanchesisa.com.br^
 ||94izxggcqsiglksaymokuwa2j.barclayis.co^
 ||95035481.co^
 ||950901.co^
@@ -13445,6 +13437,7 @@
 ||betzone.co^
 ||bewhoyouare.gq^
 ||beyondnextventures.co^
+||beze.co^
 ||bf0d6f44.divafashion.com.br^
 ||bf5.es^
 ||bf87.co^
@@ -14285,6 +14278,7 @@
 ||capeme.org.pe^
 ||capezio.com.br^
 ||capisa.com.mx^
+||capital-partnersgroup.co^
 ||capitalbet.co^
 ||capitalis.com.py^
 ||capitalmaterial.com.br^
@@ -25753,7 +25747,6 @@
 ||porpg.co^
 ||port.cs-logs.gq^
 ||portadeenrolar.ind.br^
-||portal-walletconnect.co^
 ||portal.infiniteconsulting.com.br^
 ||portal77.co^
 ||portalatualize.com.br^
@@ -25963,6 +25956,7 @@
 ||presidenslotwd.co^
 ||presidenslotxl.co^
 ||press.go.co^
+||pressl.co^
 ||prestamospersonales.nom.es^
 ||prestige.com.py^
 ||prestigeapartments.co^
@@ -30419,7 +30413,6 @@
 ||waterfisio.com.br^
 ||wavegluster.asgbcaef.gq^
 ||waverentacar.com.ar^
-||wayofwade.cl^
 ||wayra.co^
 ||wazaif.co^
 ||wazifa.co^
