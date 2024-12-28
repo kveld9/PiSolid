@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamérica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://github.com/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2024-12-28T15:21:52.909Z
+! Last modified: 2024-12-28T19:21:56.273Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -851,7 +851,6 @@
 ||app-casino-mostbet.ru^
 ||app-most-bet-casino.ru^
 ||app-mostbet-casino.ru^
-||app-vavada-casino.com^
 ||applepaycasino-uk.top^
 ||applepaycasino.nz^
 ||applepaycasinos.ca^
@@ -2414,7 +2413,6 @@
 ||bokkie.bet^
 ||bokucasino-uk.top^
 ||bokucasinos.ca^
-||bola10.bet^
 ||bola88.com^
 ||bolabets.net^
 ||bolacasino.id^
@@ -2546,7 +2544,6 @@
 ||brango-casino.top^
 ||brangocasino.top^
 ||brangocasino.world^
-||brasil10.bet^
 ||brasilbets365.net^
 ||brasilplay.com^
 ||brasilsportbet.com^
@@ -4746,7 +4743,6 @@
 ||drip.casino^
 ||drip8.casino^
 ||drivecasino.site^
-||drivethelife.com^
 ||druckgluckcasino.top^
 ||drxbet.com^
 ||dtbets.com^
@@ -4770,7 +4766,6 @@
 ||dundercasino.top^
 ||duobet.com^
 ||dupage88.net^
-||dusktilldawnpoker.com^
 ||duxcasino.click^
 ||duxcasino.com^
 ||duxcasino.top^
@@ -6506,7 +6501,6 @@
 ||livecasinosgreek.com^
 ||livecasinotips.dk^
 ||livecasinoz.co^
-||liveinternet.ru^
 ||livejournal.com^
 ||livescore.bet^
 ||livescore.co^
@@ -6627,7 +6621,6 @@
 ||luckywinscasinos.com^
 ||luckywinslots.com^
 ||lukki77.com^
-||lumendatabase.org^
 ||lumicasino.com^
 ||luva.bet^
 ||luxo777.com^
@@ -9454,7 +9447,6 @@
 ||thebescasino.com^
 ||thebescasinovip.com^
 ||thebestcasinos.co.uk^
-||thebetarena.com^
 ||thebettingguy.co.uk^
 ||thebosscasino.shop^
 ||thecasinoangel.shop^
@@ -10594,7 +10586,6 @@
 ||0614.pages.net.br^
 ||0620102106.mexigas.com.mx^
 ||0641-06501541.pages.net.br^
-||0654206365.mexigas.com.mx^
 ||066.500.bolsadetrabajoenlacelaboral.mx^
 ||066017.co^
 ||06777.co^
@@ -10603,9 +10594,7 @@
 ||071439966658130.kitlanchesisa.com.br^
 ||073bet.co^
 ||076182973023611.cocopasa.com.mx^
-||077735585696108479.mediawebs.co^
 ||084422.co^
-||0858542310.mexigas.com.mx^
 ||0865112646.pymexbrokers.com.ar^
 ||08931.pages.net.br^
 ||093rusrpvwaiu239azjksfh3o.gq^
@@ -10615,20 +10604,15 @@
 ||0c3zy.bsamorim.adv.br^
 ||0c7r4za1.co^
 ||0d804e52.alvoradaconsultoria.com.br^
-||0ffice-resolving-l0gin-365.trilhadojerico.com.br^
 ||0hj.com.br^
-||0lxtauzslvtvqa3tz2sqvfpg9nxw.barclayis.co^
 ||0nenqmwnl6wnqgeagorj2l.barclayis.co^
 ||0pa.my8.transagua.cl^
 ||0x01c13792cc3a0d30627456329285a63ac5bcd.co^
 ||0xbitconnect.co^
-||0xc1eba38aa2f1d117ae357a462a88d35b209cd.co^
-||1-1-23.asdsad213123.repl.co^
 ||1.mexigas.com.mx^
 ||1000embalagens.com.br^
 ||1001swim.co^
 ||1001tips.co^
-||10045684604567.gq^
 ||100468545785.gq^
 ||100567965780.gq^
 ||1007057657951.gq^
@@ -10639,7 +10623,6 @@
 ||102154460ie.hol.es^
 ||105416546pagenotification2022.co^
 ||107298241558747.gq^
-||109761126210152.kitlanchesisa.com.br^
 ||109995305821806.lgc.eng.br^
 ||10brasil.net.br^
 ||10errorxxx.gq^
@@ -10648,7 +10631,6 @@
 ||110677037259144.lgc.eng.br^
 ||1111186484186453515.gq^
 ||1123123-12312312312.pages.net.br^
-||1123409.bancoafirma.repl.co^
 ||113314.co^
 ||113675.co^
 ||114084.co^
@@ -10668,7 +10650,6 @@
 ||123winvn.co^
 ||1245879.co^
 ||1248752.co^
-||124955476566679.cocopasa.com.mx^
 ||1254785.co^
 ||1258743.co^
 ||125ervquroais.com.br^
@@ -10696,7 +10677,6 @@
 ||141365.co^
 ||142406831056066.kitlanchesisa.com.br^
 ||1425874.co^
-||1427057372.mexigas.com.mx^
 ||143190162612205.cocopasa.com.mx^
 ||1453-547661354-7983-06.gq^
 ||145770384581678.cocopasa.com.mx^
@@ -10756,8 +10736,7 @@
 ||18bet.co^
 ||18bet1.co^
 ||18gdkvcronde.gq^
-||18plusgrub.whatsaapfre-x2021.gq^
-||1951092312312.co^
+||18minutes9.cloudns.cl^
 ||1954752.co^
 ||196.tynted.co^
 ||1988snapchat.accounts.com.es^
@@ -10833,7 +10812,6 @@
 ||21grandcasino.co^
 ||21grandcasinos.co^
 ||21winbd.co^
-||22.24399.repl.co^
 ||220305.co^
 ||220v.net.br^
 ||221cb221cb.r5gameresports.com.br^
@@ -10851,7 +10829,6 @@
 ||22errorxxx.gq^
 ||22niceph.co^
 ||22winphp.co^
-||233667184533237.rodrigueslunardi.com.br^
 ||23423-423423.pages.net.br^
 ||234cb82f.divafashion.com.br^
 ||23678994.jxltransporte.com.br^
@@ -10888,7 +10865,6 @@
 ||26aceph.co^
 ||276053.co^
 ||2778735544.mexigas.com.mx^
-||279644420358226.kitlanchesisa.com.br^
 ||28836822.bcdashboards.com.br^
 ||289354565867367.kitlanchesisa.com.br^
 ||28aceph.co^
@@ -10957,7 +10933,6 @@
 ||33300000999.99900000333.repl.co^
 ||3331535354.mexigas.com.mx^
 ||3333.pages.net.br^
-||336655v.co^
 ||3370azz24c87.h25.cl^
 ||337686.co^
 ||339652083152899.cocopasa.com.mx^
@@ -10969,7 +10944,6 @@
 ||345182.co^
 ||34560987.89663.repl.co^
 ||346jnw4s46s35h2wty.gq^
-||348299567.becoffee.co^
 ||34companysprt.gq^
 ||354183.co^
 ||355590967640799.kitlanchesisa.com.br^
@@ -11198,7 +11172,6 @@
 ||5xhaulxroad.gq^
 ||601065.co^
 ||601758.co^
-||602.893648.repl.co^
 ||608175.co^
 ||60vlmlbbtreeaone.gq^
 ||610.772.doutorpiscinaitatiba.com.br^
@@ -11306,7 +11279,6 @@
 ||722642.co^
 ||7267031148.mexigas.com.mx^
 ||728118.co^
-||7308433632.mexigas.com.mx^
 ||732099.co^
 ||733247.co^
 ||733829.co^
@@ -11668,7 +11640,6 @@
 ||accenti.mx^
 ||acceptcar.com.br^
 ||accesa.com.sv^
-||accesoriosdecaravaning.es^
 ||access.adm.br^
 ||access.expertdashboard.es^
 ||access.webpeypalserver.gq^
@@ -11848,7 +11819,6 @@
 ||aeropuertos.co^
 ||aerospaceuc3m.es^
 ||aerosuite.es^
-||aerotransfer.cl^
 ||aerotravel.servicioshost.com.ve^
 ||aerp.org.br^
 ||aescricenter.com.br^
@@ -11965,9 +11935,7 @@
 ||aguamineralsantacruz.com.br^
 ||aguapeconsultoria.com.br^
 ||aguapuracampobom.com.br^
-||aguasagrada.cl^
 ||aguavivamergulho.com.br^
-||aguazull.cl^
 ||aguilasdeguadalajara.pe^
 ||agustinsierrafishing.es^
 ||agvita.com.br^
@@ -12012,7 +11980,6 @@
 ||airjordanshoes.com.co^
 ||airlgne.gq^
 ||airlinesreservation.co^
-||airlinesreservations.co^
 ||airmatrixmed.com.es^
 ||airmedfaq.com.es^
 ||airmedflight.com.es^
@@ -12132,7 +12099,6 @@
 ||alguaciles.cl^
 ||aliabrasil.com.br^
 ||aliancamudancass.com.br^
-||alicante.cl^
 ||alice432.co^
 ||alicecamilo.com.br^
 ||alicellimports.com.br^
@@ -12311,6 +12277,7 @@
 ||americabr.com.br^
 ||americacopa.com.br^
 ||americadejulho.com.br^
+||american.airlinesreservations.co^
 ||americanbrasil.com.br^
 ||americancorner.udp.cl^
 ||americanelectric.com.br^
@@ -12808,7 +12775,6 @@
 ||assurecentral.com.br^
 ||asteroidelogistica.com.br^
 ||astextintores.cl^
-||astrahoki.co^
 ||astrotranspersonal.com.ar^
 ||asudeplastik.co^
 ||asug.org.ar^
@@ -14341,7 +14307,6 @@
 ||carriercool.co^
 ||carrinhodeprodutos.com.br^
 ||carrocomdescontoagora.com.br^
-||carroeditorial.com.mx^
 ||cartacerta2015.com.br^
 ||cartadeouro.com.br^
 ||cartafast.com.br^
@@ -15835,7 +15800,6 @@
 ||dap-udea.co^
 ||darkbay.co^
 ||darksinga.co^
-||darlanoliveira.adv.br^
 ||dasdas.gq^
 ||dassdas.gq^
 ||data-hk.co^
@@ -16342,7 +16306,6 @@
 ||distribuidoramomm.com.br^
 ||distribuidorasanluis.com.ec^
 ||distribuidormicrosoft.com.br^
-||distrilamadrid.com.ar^
 ||distrisopecas.com.br^
 ||distritalfm.com.br^
 ||distrivent.es^
@@ -17420,7 +17383,6 @@
 ||explonun.cl^
 ||explore.org.br^
 ||explore138.co^
-||exploretoday.co^
 ||explosedcelebration.com.br^
 ||expoagroguaxupe.com.br^
 ||expofranchisingabf.rio.br^
@@ -20769,7 +20731,6 @@
 ||jagoan89.co^
 ||jagobet99g.co^
 ||jagolampung4d.co^
-||jaguariaiva.pr.gov.br^
 ||jahetoto88.co^
 ||jaixpalcsinghzrajvi.blogspot.com.br^
 ||jakseltotoku.co^
@@ -22113,7 +22074,6 @@
 ||lojadoeditorgrafico.com.br^
 ||lojadoscachos.com.br^
 ||lojadoubleg.com.br^
-||lojaempilhadeiras.com.br^
 ||lojaeupesquei.com.br^
 ||lojaitallian.com.br^
 ||lojalolita.com.br^
@@ -22327,6 +22287,7 @@
 ||m.bigonexc.co^
 ||m.bitpandaex.co^
 ||m.boonmelotto.co^
+||m.cloudns.cl^
 ||m.gexcoin.co^
 ||m.ise589.co^
 ||m.maxtpex.co^
@@ -22665,7 +22626,6 @@
 ||marciobrigatto.com.br^
 ||marciogerhardtsouza.com.br^
 ||marcoah.com.ve^
-||marcocosta.eng.br^
 ||marcoevangelista.blog.br^
 ||marcomundarain.com.ve^
 ||marcosdejesus.com.br^
@@ -27736,7 +27696,6 @@
 ||shoplove.com.br^
 ||shoplovers.co^
 ||shopping-ct.gq^
-||shoppingcirnecenter.com.br^
 ||shoppingnovidades.com.br^
 ||shoppmega.com.br^
 ||shopromos.com.br^
@@ -27847,7 +27806,6 @@
 ||sindimvet.org.br^
 ||sindioeste.com.br^
 ||sindiorganico.com.br^
-||sindipetro.com.br^
 ||sindiquimicosni.org.br^
 ||sindju.org.br^
 ||sindsems.org.br^
@@ -30017,7 +29975,6 @@
 ||viajera.com.br^
 ||viajesbojorquez.com.mx^
 ||viajesmuher.es^
-||viamanzanares.com.ar^
 ||viamargutta.com.br^
 ||viamarmi.com.br^
 ||viasaudenaturais.com.br^
