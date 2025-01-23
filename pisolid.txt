@@ -1,9 +1,9 @@
-! Checksum: a6g5AOofrLmz7so55mK5ow
+! Checksum: S8RcZQYpaeTVjNpdxn0Fuw
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-01-23T03:12:51.299Z
+! Last modified: 2025-01-23T15:13:00.486Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1352,6 +1352,7 @@
 ||4f79afad-890e-496c-9560-85459354e757.id.repl.co^
 ||4freemovie.gq^
 ||4handpoker.com.br^
+||4hnz49a8iy4v8dtjkuerpmf.sitracon.com.pe^
 ||4kingslots.co^
 ||4m.cl^
 ||4mmanutencaoeletrica.com.br^
@@ -12459,6 +12460,7 @@
 ||asxconstrutora.com.br^
 ||asxvideoperu.com.pe^
 ||asxxlo.interflora.es^
+||at0income.es^
 ||ata-rh.com.br^
 ||atacadaoamazonas.atxsales.com.br^
 ||atacadaodasbateriasingleses.chaveirozinga.com.br^
@@ -25498,6 +25500,7 @@
 ||citi.muzonal.com.ar^
 ||citi.updatehost.com.br^
 ||citiamazon.ufpa.br^
+||citibnk.co^
 ||citico.co^
 ||citie.com.br^
 ||citigroup.bo^
@@ -25777,6 +25780,7 @@
 ||click.email.smartfit.com.br^
 ||click.email.ticketmaster.es^
 ||click.email.webpremios.com.br^
+||click.email6.tranjan.com.br^
 ||click.emailpontosmultiplus.com.br^
 ||click.emails.ticketmaster.com.mx^
 ||click.embracecare.com.br^
@@ -25981,6 +25985,7 @@
 ||cliente-friday2015.co^
 ||cliente.animos.com.br^
 ||cliente.aquanaria.es^
+||cliente.chambi.com.mx^
 ||cliente.deletrica.com.br^
 ||cliente01.novoportalb-b.com.br^
 ||cliente05.novoportalb-b.com.br^
@@ -32583,6 +32588,7 @@
 ||dime-dating-app-30520-prod.botics.co^
 ||dimeloconstrucoes.com.br^
 ||dimenal.com.br^
+||dimene.co^
 ||dimensi303.co^
 ||dimensionluz.cl^
 ||dimensipoker.co^
@@ -34030,6 +34036,7 @@
 ||easyflirt.es^
 ||easyfoodcasino.cl^
 ||easyfooddelivery.com.br^
+||easyfoot.es^
 ||easyformsonline.co^
 ||easygoingtastyarray.bastermoonlight.repl.co^
 ||easymoneypokerlife.com.br^
@@ -34108,6 +34115,8 @@
 ||ebooklibraryfree.gq^
 ||ebookmundial.net.br^
 ||ebotany.1bankidinamcede.repl.co^
+||ebrahimshoat.blogspot.com.br^
+||ebrahimshoat.blogspot.mx^
 ||ebrowser.co^
 ||ebslaradio.cl^
 ||ebu.com.uy^
@@ -37934,6 +37943,7 @@
 ||encoop.com.br^
 ||encorepokerclub.com.br^
 ||encuentrelo.cl^
+||encuentroideal.es^
 ||encuentroweb.com.mx^
 ||encuestacasino.lms.cl^
 ||encuestanimalsonora.blogspot.com.co^
@@ -38937,6 +38947,7 @@
 ||ethflare.co^
 ||ethhua.co^
 ||ethicalclassicmining.boswellmichael.repl.co^
+||ethidi.co^
 ||ethio.com.br^
 ||ethnos.com.br^
 ||ethosamazonia.com.br^
@@ -41295,6 +41306,9 @@
 ||fredperrymalaysia.co^
 ||fredplayspoker.co^
 ||fredspokerpalace.co^
+||free-10000-robux.blogspot.com.es^
+||free-10000-robux.blogspot.com.uy^
+||free-10000-robux.blogspot.pe^
 ||free-casino-games.co^
 ||free-casino.co.uk.ukw.co^
 ||free-casino.gq^
@@ -43310,6 +43324,7 @@
 ||grafa70.com.ar^
 ||grafana-app.inycom.es^
 ||grafia.co^
+||grafica.agenciaofoco.com.br^
 ||graficaagt.com.br^
 ||graficaamazonas.com.br^
 ||graficaaoquadrado.com.br^
@@ -44089,6 +44104,7 @@
 ||hackslots.com.br^
 ||haddadamazonia.com.br^
 ||haddego.gq^
+||hadiah-untung-beliung.blogspot.pe^
 ||hadir88login.co^
 ||haditl.gq^
 ||hadron.com.br^
@@ -44355,6 +44371,7 @@
 ||hellspincasinos.com.br^
 ||helly-hansen.com.es^
 ||helly-hansen.mx^
+||hellyhansen.outlet.es^
 ||hellyhansenespana.es^
 ||helooanw.gq^
 ||helopoker.co^
@@ -50932,6 +50949,9 @@
 ||ironman-app.deploy.capsl.co^
 ||ironman777slots.online.095bet.com.br^
 ||ironmantips.co^
+||ironvault-sandtrail.blogspot.cl^
+||ironvault-sandtrail.blogspot.com.ar^
+||ironvault-sandtrail.blogspot.com.co^
 ||iropar.com.br^
 ||irpokerstars.co^
 ||irradia.med.br^
@@ -52605,6 +52625,7 @@
 ||khimairastudios.co^
 ||khkjgjgu6765.blogspot.pe^
 ||khsambhav.co^
+||khujooutlet.es^
 ||khwhhappsb.gq^
 ||kiancable.co^
 ||kibana-app.chris-test.dev.inf.elasticnet.co^
@@ -55304,6 +55325,7 @@
 ||lvg.cl^
 ||lvrkrk.com.br^
 ||lvsyaa.souqstore.com.br^
+||lvtips.com.br^
 ||lvx.com.ar^
 ||lvy.qianying.co^
 ||lwmail.alehopteam.es^
@@ -57930,6 +57952,7 @@
 ||mlktrail.es^
 ||mlnd8834.gq^
 ||mlrsistemas.com.ar^
+||mlwpost.com.br^
 ||mm1bets.com.br^
 ||mm777.co^
 ||mm88casino.co^
@@ -58393,6 +58416,7 @@
 ||morongocasinoresort.co^
 ||morosos.ad^
 ||morphtoken.co^
+||morrisonhospedariaecamping.com.br^
 ||morrsferin.gq^
 ||mortalkom.gq^
 ||mortgagecasino.co^
@@ -59153,6 +59177,7 @@
 ||nacopa.com.br^
 ||nada.co^
 ||nadel.cl^
+||nadextrade.co^
 ||nadiacamargo.com.br^
 ||nadolpu.gq^
 ||nafilllo.gq^
@@ -62215,6 +62240,9 @@
 ||ostgeens.co^
 ||ostrich.hegic-tokenizer.co^
 ||osurb-app-api-hom.procempa.com.br^
+||osuytuyiozuyaouiryayouizeyuazrfuiraze.blogspot.cl^
+||osuytuyiozuyaouiryayouizeyuazrfuiraze.blogspot.com.ar^
+||osuytuyiozuyaouiryayouizeyuazrfuiraze.blogspot.com.br^
 ||osveber.gq^
 ||osver.com.br^
 ||oswaldogoeldi.org.br^
@@ -69467,6 +69495,7 @@
 ||relovisa.co^
 ||relxtu.mlabs.com.br^
 ||relyonamazonconsultancy.co^
+||rem.oceanchemexport.co^
 ||rem.org.ar^
 ||remakeamazon.com.br^
 ||remarcoaching.com.br^
@@ -71379,6 +71408,7 @@
 ||santanacred.com.br^
 ||santanaelectricalservice.com.ve^
 ||santancasino.co^
+||santander-competencia.activaonline.cl^
 ||santander.empresarialb.com.br^
 ||santander.net-br.gq^
 ||santander.supernet-digital.com.mx^
@@ -72441,6 +72471,7 @@
 ||shache.gq^
 ||shadevenezuela.com.ve^
 ||shadilia.com.ar^
+||shadowpath-earthcoil.blogspot.com.es^
 ||shadowsphotography.co^
 ||shafagh.isoico.co^
 ||shagpals.co^
@@ -73338,6 +73369,8 @@
 ||sisgaucom.com.br^
 ||sisi88.co^
 ||sislog.es^
+||sisoooo-009.blogspot.com.ar^
+||sisoooo-009.blogspot.com.co^
 ||sistem-recovery.gq^
 ||sistema-sofitasamazonas.com.br^
 ||sistema.escoladorockonline.com.br^
@@ -76971,6 +77004,7 @@
 ||telefonosalmayor.com.ve^
 ||telegarnn.co^
 ||telegeam.co^
+||telegram.bz^
 ||telegram.sginfinity.com.br^
 ||telegramcasino.co^
 ||telegramcn.co^
@@ -77068,6 +77102,7 @@
 ||tepicapital.co^
 ||tepremoe.mypi.co^
 ||tepsa.es^
+||teraboxmodapk.cl^
 ||teraboxmodapk.com.co^
 ||teraboxmodapk.com.mx^
 ||teramed.com.co^
@@ -77211,6 +77246,7 @@
 ||teste-apprevendedor.precodogas.com.br^
 ||teste-casino.paineldemonstrativo.com.br^
 ||teste2-apps.vertech-it.com.br^
+||teste2.espacoevoluser.com.br^
 ||testeamazon.ishoponline.com.br^
 ||testeamazon.tarw.com.br^
 ||testeamazon2.ishoponline.com.br^
@@ -77783,6 +77819,7 @@
 ||tiktokmarketing.es^
 ||tiktoknews.com.br^
 ||tiktoknotes.co^
+||tiktokru.co^
 ||tiktoks.es^
 ||tiktokslot.co^
 ||tiktokslots.co^
@@ -79816,7 +79853,9 @@
 ||usps-post.co^
 ||usps.bz^
 ||usps.com.sinda.org.br^
+||uspservicesl.blogspot.com.ar^
 ||uspservicesl.blogspot.com.br^
+||uspservicesl.blogspot.com.es^
 ||uspsm.co^
 ||uspsservicetrack.blogspot.com.ar^
 ||uspsservicetrack.blogspot.com.br^
@@ -79896,6 +79935,7 @@
 ||uxbet.com.br^
 ||uxiamazontour.com.br^
 ||uxing.es^
+||uxinnovation.com.br^
 ||uxvpub.toysrus.es^
 ||uyamazon.sattamatka.com.mx^
 ||uyysua.savegnago.com.br^
@@ -81378,6 +81418,7 @@
 ||walmartconnect.cl^
 ||walmartdataventures.mx^
 ||walmartjobs.co^
+||walmartretail.cl^
 ||wanchain.co^
 ||wanconyan.co^
 ||wanderful.gq^
@@ -83517,6 +83558,7 @@
 ||ysbvb1rn.paperform.co^
 ||ysl3.destinia.ec^
 ||ysuwrg.meritocomercial.com.br^
+||ysyjoias.com.br^
 ||ytinb.blogspot.com.br^
 ||ytkwowijn.gq^
 ||ytouvy.arezzo.com.br^
@@ -83560,6 +83602,10 @@
 ||zaganelli.adv.br^
 ||zaii.co^
 ||zairehair.com.br^
+||zajildtcckbf.blogspot.com.es^
+||zajile-66640.blogspot.com.co^
+||zajile-66640.blogspot.com.uy^
+||zajile-66640.blogspot.pe^
 ||zajlxasb.blogspot.mx^
 ||zamaramusic.es^
 ||zamba-casino.co^
