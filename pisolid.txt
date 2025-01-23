@@ -1,9 +1,9 @@
-! Checksum: uvYONgrrgfwJW48BHCgg1g
+! Checksum: a6g5AOofrLmz7so55mK5ow
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-01-23T02:50:30.839Z
+! Last modified: 2025-01-23T03:12:51.299Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -23844,6 +23844,7 @@
 ||centroprofissionalrs.com.br^
 ||centropsicologiadelaconciencia.cl^
 ||centroquirurgicoh.digitalin.com.mx^
+||centroreferencial.com.br^
 ||centrosconacyt.mx^
 ||centroseguro.pe^
 ||centrosluz.com.mx^
@@ -70032,6 +70033,7 @@
 ||roaldtransport.pe^
 ||roastdating.co^
 ||robbi888.co^
+||robentes.es^
 ||robergwo.gq^
 ||robert-m-may.pages.net.br^
 ||roberta777slots.com.br^
