@@ -1,9 +1,9 @@
-! Checksum: OjOPaEo12ljEL6c6fhCObg
+! Checksum: K/XitqTfRnL2i4MfJZWrOw
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-01-23T17:43:27.280Z
+! Last modified: 2025-01-24T03:13:03.493Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -23963,6 +23963,7 @@
 ||centrototalsalud.cl^
 ||centrourologicodoflamengo.com.br^
 ||centroverdevida.com.br^
+||centrovital.com.ar^
 ||centrowagen.cl^
 ||centrum24-pl.es^
 ||centrum24-web-pl.es^
@@ -58526,7 +58527,6 @@
 ||morongocasinoresort.co^
 ||morosos.ad^
 ||morphtoken.co^
-||morrisonhospedariaecamping.com.br^
 ||morrsferin.gq^
 ||mortalkom.gq^
 ||mortgagecasino.co^
@@ -79962,9 +79962,7 @@
 ||usps-post.co^
 ||usps.bz^
 ||usps.com.sinda.org.br^
-||uspservicesl.blogspot.com.ar^
 ||uspservicesl.blogspot.com.br^
-||uspservicesl.blogspot.com.es^
 ||uspsm.co^
 ||uspsservicetrack.blogspot.com.ar^
 ||uspsservicetrack.blogspot.com.br^
