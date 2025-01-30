@@ -1,9 +1,9 @@
-! Checksum: 1D4UKZCotOy5O/jLDRs7PA
+! Checksum: IUD+qBw2N/s5fyWwrQcbDQ
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-01-30T03:12:57.770Z
+! Last modified: 2025-01-30T15:13:05.649Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -776,6 +776,7 @@
 ||1portal.co^
 ||1pt.co^
 ||1sevquroeas.com.br^
+||1sh.co^
 ||1slot.co^
 ||1slots.co^
 ||1slots.mx^
@@ -2794,7 +2795,6 @@
 ||account-adser.pages.net.br^
 ||account-apple.co^
 ||account-apple.com.es^
-||account-cfe.mx^
 ||account-confirm-v026.gq^
 ||account-disabled-1134.ride.com.ec^
 ||account-iapple.com.es^
@@ -3923,7 +3923,6 @@
 ||agamepokerclub2.com.br^
 ||agapecoberturas.com.br^
 ||agapevida.flecksys.com.br^
-||agardner.ultramedicinadiagnostica.com.br^
 ||agase.es^
 ||agbet.co^
 ||agcasino.co^
@@ -13498,7 +13497,6 @@
 ||balnearbrasil.com.br^
 ||balnearioamazonas.com.br^
 ||balneariovarese.com.ar^
-||balogun.com.br^
 ||balon99.co^
 ||balraujacheta.gq^
 ||baltazzar.cl^
@@ -23456,7 +23454,6 @@
 ||cayman168.co^
 ||caza-app.co^
 ||cazafugasespana.es^
-||cazeno.gq^
 ||cazeus-casino.es^
 ||cazeuscasino.es^
 ||cazimbo-casino.es^
@@ -24902,7 +24899,6 @@
 ||chatwhattsapp.co^
 ||chatwithpdf-openai-embedding-chatmodel.aim-kserve-stage.aimarketplace.co^
 ||chatwoot-bot-bridge-app-connect.chatbot.net.br^
-||chatyoungsonline.gq^
 ||chautfhe.gq^
 ||chavantesnoticia.com.br^
 ||chaveiroaclimacao.com.br^
@@ -25091,7 +25087,6 @@
 ||chicagofamilyhealth.com.es^
 ||chicasgolden.cl^
 ||chicessentials.co^
-||chichbonghoa1.gq^
 ||chichpokerronephi.gq^
 ||chicisabella.mx^
 ||chickenranchcasino.co^
@@ -27945,7 +27940,6 @@
 ||cougardatingsites.co^
 ||councilchatgpt.co^
 ||count.mail.163.com.apasian.org.br^
-||count.mail.163.com.preview.nandostore.com.br^
 ||count.mail.163.com.statistic.py.serviciosymandatos.com.py^
 ||countdomaailpartdata.gq^
 ||counter.snackly.co^
@@ -30320,6 +30314,7 @@
 ||dartand.co^
 ||darvivrenda.portaloflcial.repl.co^
 ||darwizargali1--galicianoarg.repl.co^
+||dasdad.titanx.cl^
 ||dasdas.gq^
 ||dasdas3123dsadsa.blogspot.com.uy^
 ||dasdjasddas.blogspot.com.br^
@@ -32421,7 +32416,6 @@
 ||discord.hypesquadteamus.repl.co^
 ||discord.hypessquadevent.repl.co^
 ||discord.invite-moderator-tests.repl.co^
-||discord.join-hypesquad.repl.co^
 ||discord.kaiograbber.repl.co^
 ||discord.moderationn.repl.co^
 ||discord.moderator--academy.repl.co^
@@ -34674,6 +34668,7 @@
 ||emporioraices.cl^
 ||emporioshop.com.br^
 ||emporiosibaritas.cl^
+||emporioveganobrasil.com.br^
 ||emporiovidaleve.com.br^
 ||emporiumacrilicos.com.br^
 ||empreendaesportes.com.br^
@@ -36362,7 +36357,6 @@
 ||facebook-ewww.pages.net.br^
 ||facebook-faq904.pages.net.br^
 ||facebook-fr0.gq^
-||facebook-ft2.gq^
 ||facebook-g53.gq^
 ||facebook-gf2.gq^
 ||facebook-guid21.gq^
@@ -37347,6 +37341,7 @@
 ||finemineraldealers.co^
 ||finepropertiesguide.com.es^
 ||fineslotsbet.com.br^
+||fingb.co^
 ||fingroup.cl^
 ||fininhow.com.br^
 ||finized.co^
@@ -46050,6 +46045,7 @@
 ||id-pokerclub88.co^
 ||id-pokerrepublik.co^
 ||id.com.py^
+||id.ionos.sanshara.es^
 ||id.sv^
 ||idaconstrucciones.com.ar^
 ||idapple.co^
@@ -51914,12 +51910,12 @@
 ||mail.anekkesmexico.com.mx^
 ||mail.arleimedeiros.com.br^
 ||mail.asambleanacional.gob.ec^
-||mail.automatica.mx^
 ||mail.betaprocesos.com.mx^
 ||mail.bonacicadministraciones.cl^
 ||mail.cartelplast.com.py^
 ||mail.cgest.com.br^
 ||mail.codacss.com.br^
+||mail.colegiocortex.com.br^
 ||mail.converse-bogota.com.co^
 ||mail.copergas.com.br^
 ||mail.davidsilvah.mx^
@@ -63330,6 +63326,7 @@
 ||portalprimepoker.com.br^
 ||portalprimepoker.gigagrupo.com.br^
 ||portalrealm.co^
+||portalremo.com.br^
 ||portalsegurosbr.com.br^
 ||portalsinceridadeamazonas.com.br^
 ||portalsingles.es^
@@ -65047,7 +65044,6 @@
 ||rave777slots.com.br^
 ||raven.cl^
 ||ravenmine.co^
-||raw.automatica.mx^
 ||rawcoinvestment.co^
 ||raxogu.es^
 ||rayapoker8.nontoncinema.co^
