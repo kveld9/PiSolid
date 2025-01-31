@@ -1,9 +1,9 @@
-! Checksum: VxXtgvaYyVTH/6CIdQmrBA
+! Checksum: W2KKhJY+aivpIBX1FHZpSw
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-01-31T03:12:37.828Z
+! Last modified: 2025-01-31T15:12:39.651Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -461,7 +461,6 @@
 ||0cyjq8isz5gqhaxxbbgu9wtkinzo.pamanespools.mx^
 ||0d804e52.alvoradaconsultoria.com.br^
 ||0ebemkthynly.munty.co^
-||0gomovies.bz^
 ||0hj.com.br^
 ||0ltkinv7.robertaocana.com.br^
 ||0nenqmwnl6wnqgeagorj2l.barclayis.co^
@@ -2683,6 +2682,7 @@
 ||account-adser.pages.net.br^
 ||account-apple.co^
 ||account-apple.com.es^
+||account-cfe.mx^
 ||account-confirm-v026.gq^
 ||account-disabled-1134.ride.com.ec^
 ||account-iapple.com.es^
@@ -8603,6 +8603,7 @@
 ||american-blackjack.highvaluemakers.com.ar^
 ||american-eagle.com.mx^
 ||american.c.u.beautyschooldropout.co^
+||american.edu.co^
 ||americanas--a.gq^
 ||americanas-ofertass-novembro.gq^
 ||americanas.black-friday-dezembro-01.gq^
@@ -28952,6 +28953,7 @@
 ||dc-14aa6cc6.ibertecnica.es^
 ||dc-shoes-colombia.com.co^
 ||dc-shoes-mexico.com.mx^
+||dc-shoes.com.co^
 ||dc-shoesmexico.com.mx^
 ||dc-shoesmx.com.mx^
 ||dc4yourhost.gq^
@@ -31877,6 +31879,7 @@
 ||eks-prd-apps.zooz.co^
 ||eksengenharia.com.br^
 ||ekton.mx^
+||ekxv.coachginoanconetani.cl^
 ||ekzotischsinaloa.com.mx^
 ||el-blackjack.es^
 ||el-manantial.mx^
@@ -36069,7 +36072,6 @@
 ||gedaiamazonia.com.br^
 ||geekdating.co^
 ||geeklemail.com.br^
-||geekom.es^
 ||geeneerasitogel.co^
 ||geenerasipoker.co^
 ||geenerrasitogel.co^
@@ -37577,6 +37579,7 @@
 ||hanter.co^
 ||hantuslots88.com.minion88.co^
 ||hantuslots88.com.slot3000.co^
+||hanz.asociacioncies.org.pe^
 ||hao123.com.br^
 ||hapcaebetsi.gq^
 ||happle.co^
@@ -47671,7 +47674,6 @@
 ||mail.cartelplast.com.py^
 ||mail.colegiocortex.com.br^
 ||mail.converse-bogota.com.co^
-||mail.dc-shoes.com.co^
 ||mail.dcshoecolombia.com.co^
 ||mail.dcshoes-mexico.com.mx^
 ||mail.djiladehesa.cl^
@@ -49178,6 +49180,7 @@
 ||microsoftonedrive.pagy.co^
 ||microsoftpowerquery.es^
 ||microvip88.co^
+||microxisto.com.br^
 ||micuerpo.co^
 ||mida-app.es^
 ||mida12.com.br^
@@ -59261,6 +59264,7 @@
 ||ranchoboscardin.com.br^
 ||randicasinos.gq^
 ||random.coachginoanconetani.cl^
+||random.mou.cl^
 ||randombets.michelradtke.com.br^
 ||rankingdodia.com.br^
 ||ranklivepoker.com.br^
@@ -60918,6 +60922,7 @@
 ||rtuuehs22100123.thermovita.com.br^
 ||rtv-app.techfields.mx^
 ||rtvieiratransportes.com.br^
+||rty.es^
 ||ru-joycasino.co^
 ||ruangguru.co^
 ||ruansa.com.ve^
@@ -70626,7 +70631,6 @@
 ||xiaomioficial.com.pe^
 ||xiaomioficial.pe^
 ||xiaomispain.es^
-||xiaomistore.com.gt^
 ||xiaomistore.com.hn^
 ||xiazailou.co^
 ||ximenesimobiliaria.com.br^
@@ -71343,6 +71347,7 @@
 ||zamba-casino.co^
 ||zamba.co^
 ||zambacasino.co^
+||zanelatoengenharia.com.br^
 ||zapallarnorte.cl^
 ||zapatosclarkscolombia.com.co^
 ||zapatosrockportmexico.com.mx^
