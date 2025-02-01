@@ -1,9 +1,9 @@
-! Checksum: sP+5JSoDlu0n7ugemgy8Ug
+! Checksum: IdsRN5/WGyWRbgW0OH27HA
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-01T17:57:53.530Z
+! Last modified: 2025-02-01T18:04:46.455Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -24,7 +24,6 @@
 ||alicloudccp.com^
 ||alidayu.com^
 ||alidns.com^
-||aliexpress.com^
 ||alifanyi.com^
 ||aliimg.com^
 ||alikmd.com^
@@ -53,14 +52,16 @@
 ||aliyunnew.com^
 ||alizhaopin.com^
 ||alushtadom.com^
+||baidu.*^
+||glitchtip.jgeek00.com^
 ||nearbysharing-pa.googleapis.com^
 ||qcloud.com^
 ||qq.*^
 ||qqmail.com^
 ||qqzaixian.com^
-||snapchat.com^
+||snapchat.*^
 ||taobao.*^
-||tencent.com^
+||tencent.*^
 ||tencentmusic.com^
 ||tenpay.com^
 ||umeng.*^
