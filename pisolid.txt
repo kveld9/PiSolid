@@ -1,9 +1,9 @@
-! Checksum: F2njhWLwHrgGSGaqV0I9gw
+! Checksum: 0ImnsoIK3O2FhrXh8Z3o6g
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-01T03:12:57.761Z
+! Last modified: 2025-02-01T15:12:57.206Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1935,6 +1935,7 @@
 ||786605.co^
 ||787094597633762.fysabogados.cl^
 ||78755667.pedritos.repl.co^
+||787bet.co^
 ||789bet1.co^
 ||789bet3.co^
 ||789bet6686.co^
@@ -2803,7 +2804,6 @@
 ||account-adser.pages.net.br^
 ||account-apple.co^
 ||account-apple.com.es^
-||account-cfe.mx^
 ||account-confirm-v026.gq^
 ||account-disabled-1134.ride.com.ec^
 ||account-iapple.com.es^
@@ -4410,7 +4410,6 @@
 ||ajaakerer.co^
 ||ajabets.com.br^
 ||ajadvogadosassociados.com.br^
-||ajaib88selaludihati.lpages.co^
 ||ajaibslots88.co^
 ||ajaportasdeaco.com.br^
 ||ajardeardeskscan.josealbertoal21.repl.co^
@@ -14009,7 +14008,6 @@
 ||bandarpoker.co^
 ||bandarpokeronline.co^
 ||bandarqpoker.com.zoho.co^
-||bandarqq.easy.co^
 ||bandasomelouvor.com.br^
 ||bandeirantesdragagem.com.br^
 ||bandeirantesindustrial.com.br^
@@ -18340,7 +18338,6 @@
 ||btwwinindia.co^
 ||btxlyzx.co^
 ||bu5dvb.hunterdouglasgroup.co^
-||buahtogel.vegasgrup.co^
 ||buahtoto.co^
 ||bualadesign.es^
 ||buaya69.co^
@@ -32113,6 +32110,7 @@
 ||diagmais.net.br^
 ||diagnopat.cl^
 ||diagnostica.co^
+||diagnostika.com.ar^
 ||diagraph.com.mx^
 ||dialog-app.co^
 ||dialoguebrasil.com.br^
@@ -32950,7 +32948,6 @@
 ||dokterpoker.co^
 ||doktorpoker.co^
 ||dokupoker.co^
-||dolantogel.easy.co^
 ||dolarbest.co^
 ||dolaslots.com.br^
 ||dolcegabbanamexico.com.mx^
@@ -37353,6 +37350,7 @@
 ||fidelity-appraisals.co^
 ||fidelity.com-secure.maravill.cl^
 ||fidelityresources.co^
+||fidltlyaccntlvericationesidentitlyouonesec.changeip.co^
 ||fiduciariobajio.com.mx^
 ||fiera-global.gq^
 ||fieryslots.co^
@@ -40916,7 +40914,6 @@
 ||haiipoker.co^
 ||hairace.co^
 ||hairchalk.co^
-||hairtechbrasil.com.br^
 ||haixcolombia.com.co^
 ||hakamazonia.com.br^
 ||hakan.gq^
@@ -46891,7 +46888,6 @@
 ||indospin77.co^
 ||indowinpoker.000.pe^
 ||indowinpoker99.co^
-||indowla.vegasgrup.co^
 ||indowla4d.co^
 ||indoxl.bz^
 ||indoxl.co^
@@ -47054,7 +47050,6 @@
 ||initiafdn.co^
 ||initoto5d.co^
 ||inja-app.guadcore.ar^
-||ink.sahabat4d.co^
 ||inkabet.pe^
 ||inkabets.pe^
 ||inkabetsson.pe^
@@ -48345,6 +48340,7 @@
 ||jfpoker.com.br^
 ||jginspecao.com.br^
 ||jgsoft.com.br^
+||jgyfgroup.co^
 ||jhbets.com.br^
 ||jhl.com.pe^
 ||jhonbet77.co^
@@ -48384,7 +48380,6 @@
 ||jir777casino.co^
 ||jitabets.co^
 ||jitu128.co^
-||jituangka.vegasgrup.co^
 ||jitucasino.co^
 ||jitudoa.co^
 ||jitupasukan.co^
@@ -51182,7 +51177,6 @@
 ||log-app.astrnt.co^
 ||log-in-naz-wa-pl-pane-lo.asesorescantabria.es^
 ||log-yoahao.co^
-||log01.regalbetx.co^
 ||log05.gap8a.co^
 ||loganslots.com.br^
 ||logconnectingweblogin6cpsess799238928236rdpartyehnsxw6.accountconnecting.repl.co^
@@ -51496,7 +51490,6 @@
 ||loteria.com.ec^
 ||loteria777slots.co^
 ||loteria777slots.com.br^
-||loteriasdehoy.co^
 ||loteriasyapuestas.es^
 ||lotespassarosdaamazonia.com.br^
 ||lotestimulo.com.br^
@@ -52299,8 +52292,6 @@
 ||main-casino.develop.pontotel.com.br^
 ||main.autoridad-dela-cooperativa-de-credito.mx^
 ||main.slow.co^
-||main002.garasi189.co^
-||main01.garasi189.co^
 ||main1gpoker.co^
 ||mainaku.co^
 ||mainawalslot.co^
@@ -53151,17 +53142,10 @@
 ||mdqpool.ar^
 ||mdrconstruction.gq^
 ||mdsystems.com.br^
-||me10.sanca77.co^
-||me11.sanca77.co^
-||me13.sanca77.co^
-||me16.sanca77.co^
 ||me168vip.co^
 ||me2.do^
-||me4.sanca77.co^
-||me6.sanca77.co^
 ||me88casino.co^
 ||me88pokies.co^
-||me9.sanca77.co^
 ||meadowviewof.gq^
 ||meazy.co^
 ||mebelilinda.co^
@@ -54063,6 +54047,7 @@
 ||microsoft-connect-excel.on.fleek.co^
 ||microsoft-microsoft-microsoft-microsoft.medima.com.br^
 ||microsoft.com.gt^
+||microsoft.portail-connexion.co^
 ||microsoft0x80240059us.gq^
 ||microsoft0x8024f047aus.gq^
 ||microsoft0x8024f048aus.gq^
@@ -63486,7 +63471,6 @@
 ||polandgp.pages.net.br^
 ||polandpost.co^
 ||polaresoficial.com.br^
-||polaris88slot.easy.co^
 ||polarizepoker.com.br^
 ||polarizepoker.es^
 ||polarwear.co^
@@ -65273,7 +65257,6 @@
 ||rajacasino88.kinkcraft.co^
 ||rajacasino888.co^
 ||rajacasino889.co^
-||rajacuan.easy.co^
 ||rajadafatoto.com.co^
 ||rajagacor.co^
 ||rajagacorid.co^
@@ -67209,8 +67192,6 @@
 ||rtgcasinos.co^
 ||rtgslots.co^
 ||rtimer.com.br^
-||rtp-a5.polapasar123.co^
-||rtp-a6.polapasar123.co^
 ||rtp-dewapoker.co^
 ||rtp-jktpoker.co^
 ||rtp-joko4dgacor.co^
@@ -67223,10 +67204,7 @@
 ||rtp1.polawakanda123.co^
 ||rtp100gacorr.co^
 ||rtp100persen.co^
-||rtp6.polapasar123.co^
-||rtp7.polapasar123.co^
 ||rtp8.polasakti123.co^
-||rtp9.polapasar123.co^
 ||rtp9.polasakti123.co^
 ||rtp99prsen.co^
 ||rtpafa88bet.co^
@@ -68606,6 +68584,7 @@
 ||service-apple.co^
 ||service-apple.decoramos.com.uy^
 ||service-confirmation-paypal.mectelecom.com.br^
+||service-dhl.asmmexico.mx^
 ||service-payement.docesdaserramineira.com.br^
 ||service-paypal-account.spymaster.com.br^
 ||service-paypal.newsit.es^
@@ -69802,7 +69781,6 @@
 ||situsidnpoker.com.co^
 ||situsidnpoker88.com.co^
 ||situsidnpokernet.joker388slot.co^
-||situsjos55.easy.co^
 ||situsjudicasino.co^
 ||situsjudipoker.gq^
 ||situskilau4d.co^
@@ -69948,7 +69926,6 @@
 ||slot-casino777.uroinfo.es^
 ||slot-casino777.vexjf.com.br^
 ||slot-casino777.zeroumti.com.br^
-||slot-deposit-1000.dan.unb.br^
 ||slot-palace-casino.es^
 ||slot1234.co^
 ||slot16.easy.co^
@@ -71389,6 +71366,7 @@
 ||sportinggoodmedicine.com.es^
 ||sportium-casino.es^
 ||sportium.es^
+||sportiumbet.mx^
 ||sportiumcasinos.es^
 ||sportiumslots.mx^
 ||sportmindpoker.com.br^
@@ -77132,19 +77110,12 @@
 ||w-app.co^
 ||w.ar^
 ||w.kinogo.ec^
-||w1.sahabat4d.co^
-||w10.sahabat4d.co^
-||w11.sahabat4d.co^
 ||w11poker88.co^
 ||w11pokeri.co^
-||w12.sahabat4d.co^
-||w14.sahabat4d.co^
 ||w1volcanicpg.com.br^
-||w2.sahabat4d.co^
 ||w2.sultan78.co^
 ||w24casino.club.do^
 ||w299.co^
-||w3.sahabat4d.co^
 ||w3.sia-inv.co^
 ||w388casino.co^
 ||w3bcasino.co^
@@ -77152,16 +77123,11 @@
 ||w3click.com.br^
 ||w3coworking.com.br^
 ||w3poker.co^
-||w5.sahabat4d.co^
-||w6.sahabat4d.co^
 ||w69casino.co^
-||w7.sahabat4d.co^
-||w8.sahabat4d.co^
 ||w80slots.co^
 ||w88.com.bz^
 ||w88casino.co^
 ||w8bets.co^
-||w9.sahabat4d.co^
 ||wa-app.es^
 ||wa-producoes.com.br^
 ||wa.pe^
@@ -77195,7 +77161,6 @@
 ||wakanda123slot.co^
 ||wake-app.co^
 ||wakpoker.co^
-||waktogel.easy.co^
 ||waktumaincasino.co^
 ||waletpoker.co^
 ||waletpoker.co.along77.co^
@@ -78283,7 +78248,6 @@
 ||ww.yau.com.mx^
 ||ww1.elitetrading.co^
 ||ww5.co^
-||ww5.pencarihoki.co^
 ||ww88.com.co^
 ||ww88casino.co^
 ||ww88casinoauto.co^
