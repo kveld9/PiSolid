@@ -1,12 +1,14 @@
-! Checksum: IdsRN5/WGyWRbgW0OH27HA
+! Checksum: PqYLFBz3l2oPcChwMp8v7g
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-01T18:04:46.455Z
+! Last modified: 2025-02-01T18:22:48.145Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
+||afdgeebd.*.com^
+||akcyxru.*.xyz^
 ||aliapp.org^
 ||alibaba-inc.com^
 ||alibaba.com^
@@ -53,19 +55,40 @@
 ||alizhaopin.com^
 ||alushtadom.com^
 ||baidu.*^
+||baksb.*.com^
+||bjac.*.com^
+||cukuyx.*.xyz^
+||cyphxmag.*.com^
+||cyxlivemobothslb.*.xyz^
+||etse.*.com^
+||eyto.*.com^
+||gdae.*.com^
 ||glitchtip.jgeek00.com^
+||lfcvvt.*.com^
+||lmvdgloall01.*.com^
+||mad.*.com^
+||mbee.*.com^
+||mno.*.com^
+||mpdn.*.com^
 ||nearbysharing-pa.googleapis.com^
+||pwel.*.com^
 ||qcloud.com^
 ||qq.*^
 ||qqmail.com^
 ||qqzaixian.com^
+||ruvooidbk.*.com^
+||sad.*.com^
+||sbee.*.com^
+||sgyc.*.com^
 ||snapchat.*^
+||sno.*.com^
 ||taobao.*^
 ||tencent.*^
 ||tencentmusic.com^
 ||tenpay.com^
 ||umeng.*^
 ||umengcloud.*^
+||vddgcoud02.*.xyz^
 ||vk-apps.com^
 ||vk-cdn.net^
 ||vk-portal.net^
@@ -82,6 +105,7 @@
 ||we.chat^
 ||wechat.*^
 ||wechatapp.*^
+||xmagph.*.com^
 ||yandex.*^
 ||yandexcloud.*^
 ||0-app.cttc.es^
