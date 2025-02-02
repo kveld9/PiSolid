@@ -1,113 +1,12 @@
-! Checksum: xVklwk4eVaYpByl4tr0F8A
+! Checksum: UnaX9XzkTrbr/7WSk5cLww
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-02T03:12:49.666Z
+! Last modified: 2025-02-02T15:08:15.580Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
-||afdgeebd.*.com^
-||akcyxru.*.xyz^
-||aliapp.org^
-||alibaba-inc.com^
-||alibaba.com^
-||alibaba.info^
-||alibabacloud.com^
-||alibabacorp.com^
-||alibabadns.com^
-||alibabadoctor.com^
-||alibabafuturehotel.com^
-||alibabagroup.com^
-||alibabaplanet.com^
-||alibabaued.com^
-||alibabausercontent.com^
-||alicdn.com^
-||alicloudccp.com^
-||alidayu.com^
-||alidns.com^
-||alifanyi.com^
-||aliimg.com^
-||alikmd.com^
-||alikunlun.com^
-||alimama.com^
-||alimebot.com^
-||alipay.*^
-||alipaydev.*^
-||alipaylog.com^
-||alipayobjects.com^
-||aliplus.com^
-||aliresearch.com^
-||alisoft.com^
-||alisports.com^
-||alitianji.com^
-||alitrip.com^
-||aliunicorn.com^
-||aliway.com^
-||aliwork.com^
-||alixiaomi.com^
-||aliyun-inc.com^
-||aliyun.com^
-||aliyuncdn.com^
-||aliyuncs.com^
-||aliyundrive.com^
-||aliyunnew.com^
-||alizhaopin.com^
-||alushtadom.com^
-||baidu.*^
-||baksb.*.com^
-||bjac.*.com^
-||cukuyx.*.xyz^
-||cyphxmag.*.com^
-||cyxlivemobothslb.*.xyz^
-||etse.*.com^
-||eyto.*.com^
-||gdae.*.com^
-||glitchtip.jgeek00.com^
-||lfcvvt.*.com^
-||lmvdgloall01.*.com^
-||mad.*.com^
-||mbee.*.com^
-||mno.*.com^
-||mpdn.*.com^
-||nearbysharing-pa.googleapis.com^
-||pwel.*.com^
-||qcloud.com^
-||qq.*^
-||qqmail.com^
-||qqzaixian.com^
-||ruvooidbk.*.com^
-||sad.*.com^
-||sbee.*.com^
-||sgyc.*.com^
-||snapchat.*^
-||sno.*.com^
-||taobao.*^
-||tencent.*^
-||tencentmusic.com^
-||tenpay.com^
-||umeng.*^
-||umengcloud.*^
-||vddgcoud02.*.xyz^
-||vk-apps.com^
-||vk-cdn.net^
-||vk-portal.net^
-||vk.*^
-||vkontakte.com^
-||vkpay.*^
-||vkuser.net^
-||vkuseraudio.com^
-||vkuseraudio.net^
-||vkuserlive.com^
-||vkuserlive.net^
-||vkuservideo.com^
-||vkuservideo.net^
-||we.chat^
-||wechat.*^
-||wechatapp.*^
-||xmagph.*.com^
-||yandex.*^
-||yandexcloud.*^
 ||0-app.cttc.es^
 ||00.pe^
 ||00000000000000000000000.fielty.mx^
@@ -405,6 +304,7 @@
 ||18tiktokriffa.mypi.co^
 ||19.cl^
 ||1900988-0080911-fice-ban-55-1.223236.repl.co^
+||1910tv.com.br^
 ||19178092794600684328629.jamb2022.co^
 ||1930b4bb.ghmsolutions.com.br^
 ||19327588.repl.co^
@@ -7236,6 +7136,7 @@
 ||antumulen.cl^
 ||anunciadasofert.com.br^
 ||anuncie.wmartins.com.br^
+||anuncieemmassawhatsappcom.com.br^
 ||anuncievendas.com.br^
 ||anunciobux.com.ve^
 ||anunciocampinas.com.br^
@@ -9942,6 +9843,7 @@
 ||atfgroup.cl^
 ||athaydelopes.com.br^
 ||athena.com.pe^
+||athenaavo.co^
 ||athfood.co^
 ||athis-mons-pouffiasse.blogspot.pe^
 ||athyllaborborema.com.br^
@@ -11736,6 +11638,7 @@
 ||betterluckcasino.com.es^
 ||betterlucknext.com.es^
 ||betterstarchycircle.ricardofuente14.repl.co^
+||bettertbuy.co^
 ||betteryawningcybernetics.corproteams.repl.co^
 ||bettyebennett.gq^
 ||betvisa-vn.co^
@@ -13866,6 +13769,7 @@
 ||capprino.com.br^
 ||capreosur.com.ve^
 ||capricche-app-hml.softmakers.com.br^
+||capsdelivery.com.br^
 ||capsondelivery.com.br^
 ||capsule-app.co^
 ||captacao-de-clientes-1.com.br^
@@ -14157,6 +14061,9 @@
 ||caseroom.gq^
 ||cash-app.idesoft.co^
 ||cashaa.co^
+||cashappguid.blogspot.cl^
+||cashappguid.blogspot.com.ar^
+||cashappguid.blogspot.com.br^
 ||cashback.junitex.com.br^
 ||cashbackcoop.co^
 ||cashcryptotrade.esy.es^
@@ -14265,6 +14172,7 @@
 ||cayca.cl^
 ||caza-app.co^
 ||cazzado.com.br^
+||cb-024.org.br^
 ||cb-titan.co^
 ||cb28bf5e-3f14-4072-8ffb-626a4919252e.id.repl.co^
 ||cb7676b7-7823-4416-bab2-7e960421a8d1.id.repl.co^
@@ -18395,6 +18303,7 @@
 ||crypto-event.co^
 ||crypto-exchange.co^
 ||crypto-experts.co^
+||crypto-fi.co^
 ||crypto-finance.co^
 ||crypto-genius.co^
 ||crypto-guard.co^
@@ -20676,7 +20585,6 @@
 ||destypad.gq^
 ||desvendandoochatgpt.com.br.curcucalmvitality.com.br^
 ||desvendandoochatgpt.com.br^
-||detail-booking.com.br^
 ||detail-for--fb-restication.repl.co^
 ||detail-of--fb-restication.repl.co^
 ||details.co^
@@ -21345,6 +21253,7 @@
 ||discountonlyhere.com.br^
 ||discounttagwatches.co^
 ||discover.ipauditores.cl^
+||discoverthebest.co^
 ||discoveryartesgraficas.com.br^
 ||discoverybar.com.ve^
 ||discusamazonas.com.ar^
@@ -22109,6 +22018,7 @@
 ||dvlataxable-rebate.co^
 ||dvlavehichletaxrefund.co^
 ||dvlavehiclepayment.co^
+||dvscolombia.com.co^
 ||dvsistemas.com.mx^
 ||dvsmall.com.br^
 ||dvtaterra.com.br^
@@ -23952,6 +23862,7 @@
 ||etoro-mining.co^
 ||etoro.com.es^
 ||etosp.com.br^
+||etransfer-deposits.co^
 ||etransfer-interacs-ca.gq^
 ||etransferca.co^
 ||etransfers-interac-ca.gq^
@@ -24021,7 +23932,6 @@
 ||evangelinestore.com.br^
 ||evatex.com.br^
 ||evconnect.interiormente.com.ar^
-||eveezueigohehla.co^
 ||evegotanapple.co^
 ||evelin.alvarez.ultramedicinadiagnostica.com.br^
 ||evelynbeautyplusllc.co^
@@ -24841,6 +24751,7 @@
 ||faronoticias.com.ar^
 ||faropais.ar^
 ||farzona.co^
+||fas-solutions.com.br^
 ||fasanarocontabil.com.br^
 ||fasebaok.co^
 ||fasebcak.co^
@@ -25117,6 +25028,7 @@
 ||fiduciariobajio.com.mx^
 ||fiera-global.gq^
 ||fiestafortunes.mx^
+||fiestasss.es^
 ||fifacoinvip.co^
 ||fifacopadomundo2014.com.br^
 ||fifautcoinmall.x10.mx^
@@ -25365,6 +25277,7 @@
 ||fmff.com.mx^
 ||fmi-apple-login.co^
 ||fmi-apple.co^
+||fml360.com.br^
 ||fmmudancas.com.br^
 ||fmp.com.uy^
 ||fmposgrado.unam.mx^
@@ -25478,6 +25391,8 @@
 ||fortelar.com.br^
 ||fortiinformatica.com.br^
 ||fortnite2024fr.blogspot.cl^
+||fortnitehorizon.blogspot.com.es^
+||fortnitehorizon.blogspot.mx^
 ||fortunaefortunapet.com.br^
 ||fortyseven.com.ar^
 ||forum.pe^
@@ -25942,6 +25857,7 @@
 ||gdindustria.ind.br^
 ||gdlin.com.ar^
 ||gdmapp.com.br^
+||gdmdelivery.com.br^
 ||gdn-app.co^
 ||gdp-organizations-credal-mx-workflows-loan-app-workflow-10.dev.credal.mx^
 ||gdp-organizations-credal-mx-workflows-loan-app-workflow-11.dev.credal.mx^
@@ -26012,7 +25928,6 @@
 ||geoamazonia.com.co^
 ||geoambientechile.cl^
 ||geocad.com.mx^
-||geocs.mx^
 ||geodrilling.cl^
 ||geoglifosdaamazonia.com.br^
 ||geoma.com.br^
@@ -26027,6 +25942,7 @@
 ||geqahgbqadh.blogspot.com.es^
 ||geracaoapple.com.br^
 ||geracaoraizes.com.br^
+||geradordelinkdewhatsapp.com.br^
 ||geramazonas.com.br^
 ||geramazonia.com.br^
 ||gerardomeiromendoza.es^
@@ -26418,6 +26334,7 @@
 ||googlefestas.agropecuariacaxambu.com.br^
 ||googleflights.com.br^
 ||googlejerseys.co^
+||googlenafaixa.com.br^
 ||googlerecipe.co^
 ||googlesearch.com.br^
 ||googleseo.es^
@@ -27436,6 +27353,7 @@
 ||hostamazon.com.br^
 ||hostamazonas.com.br^
 ||hostelkeoken.cl^
+||hostenatura.es^
 ||hosterfalr.gq^
 ||hosteriapascana.com.ar^
 ||hostfeboe.n4t.co^
@@ -30844,7 +30762,6 @@
 ||hotelstax.co^
 ||hotelterraviva.com.br^
 ||hoteltonelli.com.br^
-||hoteltoscanaplaza.com.co^
 ||hoteltropicalrefuge.com.ve^
 ||hotelvientosdelsur.cl^
 ||hotelwindsor.cl^
@@ -32744,6 +32661,7 @@
 ||jogandorobloxpela1vez.blogspot.com.ar^
 ||jogarrobloxsimulatordinossauro.blogspot.com.es^
 ||jogoderobloxsdecorrida.blogspot.com.br^
+||jogoderobloxsdecorrida.blogspot.com.uy^
 ||jogoderobloxsdohomemaranha7.blogspot.cl^
 ||jogoderobloxsdublado.blogspot.com.ar^
 ||jogodohomemaranhadoroblox.blogspot.mx^
@@ -33102,6 +33020,7 @@
 ||kiplingchile.co^
 ||kiplingcolombia.co^
 ||kiplingoutletcolombia.com.co^
+||kirame.co^
 ||kirio.com.br^
 ||kirovets.gq^
 ||kishanpatel.esy.es^
@@ -33860,6 +33779,7 @@
 ||local-v2-app-test.plataformacera.com.br^
 ||localapple.co^
 ||localcerto.imb.br^
+||localiser-apple.co^
 ||localiser-eu.co^
 ||localizopessoas.com.br^
 ||localroots.com.br^
@@ -33868,6 +33788,7 @@
 ||locarnew.com.br^
 ||locasiga.com.br^
 ||locaspace.com.br^
+||locates-apple.co^
 ||location-apple.co^
 ||location-applemaps.co^
 ||locations-apple.co^
@@ -33916,6 +33837,7 @@
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
 ||loginmicrosoftonline.neetukabra.qrprevencion.cl^
+||loginmicrosoftonline.room.reservations.qrprevencion.cl^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
 ||loginx-robinhoodx.blogspot.mx^
@@ -34119,6 +34041,7 @@
 ||loveyou-somuch.blogspot.com.co^
 ||loveyourimage.es^
 ||lovingacresroad.gq^
+||lowaespana.es^
 ||loydsonline.co^
 ||lp-app.petlove.com.br^
 ||lp-commercial.co^
@@ -34217,6 +34140,7 @@
 ||luisvelazquez.mx^
 ||luizamazon.com.br^
 ||luizcorreaacordeonista.com.br^
+||luizcosmo.com.br^
 ||luizflex.com.br^
 ||luizzanoni.com.br^
 ||lukaku4.gq^
@@ -34558,6 +34482,7 @@
 ||maltex.com.br^
 ||malucomail.com.br^
 ||malukamakea.es^
+||maluuuuuuuuuu.com.br^
 ||malwares-unibh.blogspot.com.br^
 ||mamaeebebemais.com.br^
 ||mamakunarest.cl^
@@ -35013,6 +34938,7 @@
 ||medinaembreagens.com.br^
 ||medisvenca.com.ve^
 ||mediterraneoproperties.es^
+||mediterraneopropiedades.cl^
 ||meditip.com.mx^
 ||mediumline.co^
 ||medlafire.co^
@@ -35535,6 +35461,7 @@
 ||mipequenoangel.com.mx^
 ||miplastic.com.mx^
 ||mips.cl^
+||miradordeberchules.es^
 ||miradorvolcanes.cl^
 ||mirante-app.alphax.jclan.com.br^
 ||miranteamazonas.com.br^
@@ -35817,6 +35744,7 @@
 ||monicanieto.com.ve^
 ||monielefraga.com.br^
 ||monitoracao-app-receita-federal.estaleiro.serpro.gov.br^
+||monitorbitcoin.com.br^
 ||monitorei.com.br^
 ||monitoring-payment-paypal.voompcreators.com.br^
 ||monitoring-payment-paypal.voompcreators.dev.br^
@@ -36101,6 +36029,7 @@
 ||museudadiversidade.com.br^
 ||museudasamazonias.com.br^
 ||museupalaciorionegro.museus.gov.br^
+||musharraf.ali.qrprevencion.cl^
 ||musicaarte.com.br^
 ||musicaentreamigos.es^
 ||musicalintegracao.com.br^
@@ -36166,6 +36095,7 @@
 ||myapplesolutions.com.br^
 ||myapplevalidation-lockaccount.anchietabatidos.com.br^
 ||myareaa-farig.co^
+||myatorefundverification.es^
 ||myay0da.lpages.co^
 ||mybar-app.com.br^
 ||mybrightidea.co^
@@ -36242,6 +36172,7 @@
 ||mypremiumsupport.co^
 ||mypresszone.com.mx^
 ||mypromos.com.br^
+||mysamsung.com.mx^
 ||mysdentalstudio.cl^
 ||mysearchengine.co^
 ||myship711.joom.mx^
@@ -37670,6 +37601,7 @@
 ||opcoesweb.com.br^
 ||opcof-app.stpsantiago.cl^
 ||opctec.com.br^
+||opdaterbrobizz.co^
 ||opech.cl^
 ||opel.melhuish.cl^
 ||open-ai-gpt.co^
@@ -40740,6 +40672,7 @@
 ||prueba-app.peritosjudiciales.com.ar^
 ||pruebas-app.acorl.org.co^
 ||pruebas.formaciondeporteyempleo.es^
+||prymecoin.co^
 ||ps-acesso-app.dev.publicservice.com.br^
 ||ps-acesso-app.prod.publicservice.com.br^
 ||ps-assinatura-app.dev.publicservice.com.br^
@@ -41487,6 +41420,10 @@
 ||remarknde.co^
 ||remetenteonline.com.br^
 ||remgelind.gq^
+||reminajilman.blogspot.cl^
+||reminajilman.blogspot.com.ar^
+||reminajilman.blogspot.com.es^
+||reminajilman.blogspot.com.uy^
 ||remisde.gq^
 ||remitdocx.gq^
 ||remix-ceide.co^
@@ -41812,6 +41749,7 @@
 ||robloxalonehowtogetafreenokilling.blogspot.com.ar^
 ||robloxbrasil.com.br^
 ||robloxcentral.co^
+||robloxdecalstheos.blogspot.mx^
 ||robloxdemonslayer.blogspot.com.br^
 ||robloxdemonslayer.blogspot.com.uy^
 ||robloxeasterhack.blogspot.com.ar^
@@ -42514,6 +42452,7 @@
 ||samanthazanco.com.br^
 ||samarialarabuffet.com.br^
 ||samark.es^
+||samatvam.co^
 ||samba100anosfilme.com.br^
 ||sambadomariazelia.com.br^
 ||sambasi.com.br^
@@ -42692,7 +42631,6 @@
 ||sbdqnx.blogspot.com.ar^
 ||sbdszx.blogspot.mx^
 ||sbefxs.blogspot.com.co^
-||sbelegi.com.br^
 ||sbelta-plus.es^
 ||sbf.com.mx^
 ||sbfm.co^
@@ -43663,7 +43601,6 @@
 ||skyfloor.com.mx^
 ||skylineprodutora.com.br^
 ||skymail.gq^
-||skynetx.com.br^
 ||skynext.com.ec^
 ||skypool.co^
 ||skytech.gq^
@@ -44995,6 +44932,7 @@
 ||tecnologiadamazonia.agenciaprogride.com.br^
 ||tecnologiaparaempresas.com.br^
 ||tecnologiarw.com.br^
+||tecnologiaxiaomi.com.br^
 ||tecnologicoamazonasygs.edu.pe^
 ||tecnomatic.net.br^
 ||tecnomeds.cl^
@@ -45048,6 +44986,7 @@
 ||telegeam.co^
 ||telegram.sginfinity.com.br^
 ||telegramcn.co^
+||telegramporn.co^
 ||telegramputaria.blog.br^
 ||telegramx.com.br^
 ||telemenu.com.br^
@@ -45887,6 +45826,7 @@
 ||tresamazon.running.com.mx^
 ||tresbarras.portalnas.com.br^
 ||trescantosqueretaro.com.mx^
+||treschicosdelivery.com.br^
 ||tretrete.gq^
 ||trevomaster.com.br^
 ||trezor-io.co^
@@ -46495,6 +46435,11 @@
 ||uxing.es^
 ||uyagsd678tg973y29yd98yashd98aasdee.blogspot.mx^
 ||uyamazon.sattamatka.com.mx^
+||uyfydyde5.blogspot.com.ar^
+||uyfydyde5.blogspot.com.br^
+||uyfydyde5.blogspot.com.co^
+||uyfydyde5.blogspot.com.es^
+||uyfydyde5.blogspot.com.uy^
 ||uznsc.com.br^
 ||v-kontakte.co^
 ||v-sod.es^
@@ -47292,6 +47237,7 @@
 ||web-apps.seremisalud15.cl^
 ||web-booking.co^
 ||web-centrum24-pl.es^
+||web-ch-auth.es^
 ||web-check.co^
 ||web-hoster.co^
 ||web-page.co^
@@ -47698,6 +47644,7 @@
 ||wwwamazonave-notes-inner-circle.palapa.co^
 ||wwwamazonawsve-notes-inner-circle.palapa.co^
 ||wwwamazoncom.co^
+||wwwanunciosemmassawhatsapp.com.br^
 ||wwwapple-app-site-association.zapvenda.com.br^
 ||wwwappleheadhookahtblog.magento2.sito.julya.co^
 ||wwwapplevision.co^
@@ -48143,6 +48090,7 @@
 ||xz.00273.co^
 ||xz.00363.co^
 ||xz.00423.co^
+||xz.00445.co^
 ||xz.00494.co^
 ||xz.00513.co^
 ||xz.00523.co^
@@ -48473,6 +48421,7 @@
 ||zveingenieria.com.pe^
 ||zweryfikuj.gq^
 ||zwqqrynpvqetydhgbd9w.mafe.edu.co^
+||zwz777.com.br^
 ||zxcvbnmqwerty.carrd.co^
 ||zxgawmec.test3.shoppaas.co^
 ||zxl.stsait.co^
