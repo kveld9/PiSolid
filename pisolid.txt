@@ -1,9 +1,9 @@
-! Checksum: fncj/rN6eU7ZJnIT9v+cog
+! Checksum: x52hCdDrralLcXem9Njxcw
 ! Title: PiSolid
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-03T03:08:11.693Z
+! Last modified: 2025-02-03T15:08:12.381Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.33
 !
@@ -1014,7 +1014,6 @@
 ||7u3mep7s.co^
 ||7ubuwg1w.arimix.cl^
 ||7usbmnokk1muhk1xzdd.barclayis.co^
-||7wtb2qly.pedronoguera.com.br^
 ||7xckdivgy7opjkj1kicm.we9ixzz.co^
 ||7xkqrp2iet6s07mcsnh.we9ixzz.co^
 ||7xparkavenue.gq^
@@ -1473,6 +1472,7 @@
 ||account-adser.pages.net.br^
 ||account-apple.co^
 ||account-apple.com.es^
+||account-cfe.mx^
 ||account-confirm-v026.gq^
 ||account-disabled-1134.ride.com.ec^
 ||account-iapple.com.es^
@@ -13223,6 +13223,7 @@
 ||buyviagraonlinez.jubiiblog.com.es^
 ||buyviagraq.jubiiblog.com.es^
 ||buywine.com.br^
+||bv.pe^
 ||bv0zc.we9ixzz.co^
 ||bv2qoyftwx8tqdphgb8.we9ixzz.co^
 ||bvcnmasd35.gq^
@@ -16620,7 +16621,6 @@
 ||coinfisio.com.br^
 ||coingate.es^
 ||coingroup.bo^
-||coinibank.co^
 ||coiniist.co^
 ||coininfifa.co^
 ||coinkongtrader.co^
@@ -20203,7 +20203,6 @@
 ||defiantstormybooleanvalue.wwwseguriti.repl.co^
 ||deficientsillyproperties.omarbaez.repl.co^
 ||defieo.co^
-||defindopro.co^
 ||defined-resources.co^
 ||defiomega.co^
 ||defion.co^
@@ -20602,7 +20601,6 @@
 ||detodoproducciones.com.ve^
 ||detranrapido.co^
 ||detroitamazonia.pe^
-||detty.co^
 ||deuterespana.es^
 ||deutermexico.com.mx^
 ||deutsch-appartement.com.es^
@@ -22098,6 +22096,7 @@
 ||e-mid.com.br^
 ||e-mobly.com.br^
 ||e-namidiaonline.com.br^
+||e-numeriquesfrcom.es^
 ||e-onay.co^
 ||e-orange.co^
 ||e-outlook.co^
@@ -23861,7 +23860,6 @@
 ||etoro-mining.co^
 ||etoro.com.es^
 ||etosp.com.br^
-||etransfer-deposits.co^
 ||etransfer-interacs-ca.gq^
 ||etransferca.co^
 ||etransfers-interac-ca.gq^
@@ -24933,6 +24931,7 @@
 ||fepacor.cl^
 ||ferasdocerrado.com.br^
 ||feresheten.blogspot.com.ar^
+||feriainternacionaldeembajadas.pe^
 ||ferias2018.com.br^
 ||ferienhauspartner.co^
 ||fermagran.com.br^
@@ -31953,6 +31952,7 @@
 ||instapro2.com.co^
 ||instapro2.net.co^
 ||instegram.co^
+||institucional.estudenoipa.com.br^
 ||institucional.uflo.edu.ar^
 ||institute2025awareness.es^
 ||instituto-online.com.mx^
@@ -33620,6 +33620,7 @@
 ||linguisticaforense.ufsc.br^
 ||linhaamazony.com.br^
 ||link-infect.esy.es^
+||link.consultasaibaja.com.br^
 ||link.sv^
 ||link1mkt.com.br^
 ||linkbio.co^
@@ -34135,7 +34136,6 @@
 ||luisvelazquez.mx^
 ||luizamazon.com.br^
 ||luizcorreaacordeonista.com.br^
-||luizcosmo.com.br^
 ||luizflex.com.br^
 ||luizzanoni.com.br^
 ||lukaku4.gq^
@@ -39256,6 +39256,7 @@
 ||pedroaugustops.com.br^
 ||pedrobahon.es^
 ||pedrobittencourt.com.br^
+||pedronoguera.com.br^
 ||pedronunesapple.com.br^
 ||peer.eosmatrix.co^
 ||pegaessamoleza.com.br^
@@ -41809,7 +41810,6 @@
 ||rogal.cl^
 ||rogatech.gq^
 ||rogaza.com.br^
-||rogemar.es^
 ||rogerdistribuidora.com.br^
 ||rogerioallves.com.br^
 ||rogerioamendonca.com.br^
@@ -46453,6 +46453,7 @@
 ||valesimdemais.com.br^
 ||valeverja.com.br^
 ||valid-app.modeveloper.dev.br^
+||validacion-v2.hacetegalicia.com.ar^
 ||validation-amazon.wootraining.certificacion.cl^
 ||validation.wootraining.certificacion.cl^
 ||vallada.adv.br^
