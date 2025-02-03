@@ -1,11 +1,11 @@
-! Checksum: +j3WevVUBN2jj2cLNGbHTg
+!
 ! Title: PiSolid-Globals
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-03T15:09:14.530Z
+! Last modified: 2025-02-03T16:49:12.648Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.33
+! Compiled by @adguard/hostlist-compiler v1.0.34
 !
 ||207.net^$important
 ||2o7.net^$important
