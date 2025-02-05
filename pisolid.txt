@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-05T03:08:16.403Z
+! Last modified: 2025-02-05T15:08:13.245Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -13721,6 +13721,7 @@
 ||canileclinicaamazonhouse.com.br.chow.com.br^
 ||canileclinicaamazonhouse.com.br^
 ||canillaikas.com.br^
+||canillorents.com.br^
 ||canilmascaranegra.com.br^
 ||canilpequinmalter.com.br^
 ||caninevelvetyglueware.agrico0las.repl.co^
@@ -18398,6 +18399,7 @@
 ||cssjs.co^
 ||cssnf-a.gq^
 ||cssozopuruhtlms-nku.alineweege.repl.co^
+||cstr.constructoramelgarejo.cl^
 ||csupport.cl^
 ||ct2mengenharia.com.br^
 ||ct50exrx.robertaocana.com.br^
@@ -21691,6 +21693,7 @@
 ||dosismedia.com.mx^
 ||doso-99.gq^
 ||dosq.es^
+||dossieredfremboursement.holainmo.es^
 ||dosug.bz^
 ||dotcomtecnologia.com.br^
 ||dotecnia.cl^
@@ -26669,6 +26672,7 @@
 ||grupoposgar.es^
 ||grupoprevil.com.br^
 ||grupoquanta.com.br^
+||grupored.com.mx^
 ||gruporeidooleo.com.br^
 ||gruporenner.pe^
 ||gruposaitemarketing.com.br^
@@ -33571,6 +33575,7 @@
 ||licaoparavida.com.br^
 ||licenciamentotraumaclinic.com.br^
 ||liceobilinguejuvenil.edu.co^
+||liceolibanes.edu.ec^
 ||liceoloscondores.cl^
 ||liceomediagm.cl^
 ||liceorigobertoiglesias.cl^
@@ -39860,6 +39865,7 @@
 ||platform-copper.co^
 ||platform-ui-apps.stg.wunderkind.co^
 ||platform-ui-apps.wunderkind.co^
+||platform.enigmaboost.es^
 ||platinum-assets.co^
 ||play.cine-flix.co^
 ||play.dsd.everydayporn.co^
@@ -42540,6 +42546,7 @@
 ||sandronazireu.com.br^
 ||sandwise.co^
 ||saneplan.com.br^
+||sanfasis.com.ar^
 ||sanfercom.com.br^
 ||sanfranciscotours.co^
 ||sangarmaquinasweb.com.br^
@@ -42801,6 +42808,7 @@
 ||searchcopilot.co^
 ||searchtask.es^
 ||seattleschools.co^
+||seb.ytonihon.com.br^
 ||sebago.es^
 ||sebas-app.aconpy.com.ar^
 ||sebas-app.legajox.com.ar^
@@ -43313,7 +43321,6 @@
 ||shoecolatt.mx^
 ||shoeoutlets.co^
 ||shoesformalamazon2019.flashscores.co^
-||shoeson.co^
 ||shokante.com.br^
 ||sholegourmet.com.br^
 ||shoosd.blogspot.cl^
