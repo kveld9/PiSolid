@@ -46,10 +46,10 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 ## Fuentes
 ### **PiSolid-Ultra**
 - [30-day Phishing Domain List](https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/30-day_phishing/adblock/nrd-phishing-30day_adblock.txt)
-- [AdGuardDNS-cbuijs](https://raw.githubusercontent.com/cbuijs/adguarddns/refs/heads/main/Main/domains.top-n.adblock)  
+- [Dandelion Sprout's Anti Push Notifications](https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt)  
 - [HaGeZi's Threat Intelligence Feeds DNS Blocklist - medium version](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.medium.txt)  
 - [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)  
-- [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.top-n.adblock)  
+- [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.adblock)  
 
 ### **PiSolid-NSFW**
 - [Accomplist-AdultThemed-cbuijs](https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/adult-themed/optimized.black.top-n.domain.list)  
