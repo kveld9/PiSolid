@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-07T03:08:13.038Z
+! Last modified: 2025-02-07T15:08:13.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -2738,6 +2738,7 @@
 ||alleagro.tecnoshot.cl^
 ||alleagro.yacolor.cl^
 ||alleegro.palcar.cl^
+||allegro.offernest.co^
 ||allegro.oscarcalderon.cl^
 ||allegro.pl-login.form-art29401.usr20198.gq^
 ||allegro.pl-login.form-art29401.usr2365.gq^
@@ -17507,6 +17508,7 @@
 ||contabilidadegl.com.br^
 ||contabilidaderabello.com.br^
 ||contabilidadeshalom.com.br^
+||contabilizandoempresas.com.br^
 ||contabilprimazia.com.br^
 ||contacontrole-app.prd-cloud.tuliobmachado.com.br^
 ||contact-admin2.gq^
@@ -26439,6 +26441,7 @@
 ||googlefestas.agropecuariacaxambu.com.br^
 ||googleflights.com.br^
 ||googlejerseys.co^
+||googlemybusiness.es^
 ||googlenafaixa.com.br^
 ||googlerecipe.co^
 ||googlesearch.com.br^
@@ -32041,6 +32044,7 @@
 ||instafan.hol.es^
 ||instafollowers.co^
 ||instagram.com.ec^
+||instagram.kanash.com.br^
 ||instagram.pe^
 ||instagram.seba.cl^
 ||instagram506306.blogspot.com.br^
@@ -34008,6 +34012,7 @@
 ||login.mypaymentvault.com.mx^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
+||loginmicrosoftonlinesettingsaiga.fasttic.cl^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
 ||loginx-robinhoodx.blogspot.mx^
@@ -35754,7 +35759,6 @@
 ||mlktrail.es^
 ||mlnd8834.gq^
 ||mlrsistemas.com.ar^
-||mlwpost.com.br^
 ||mmamazonicalaconvencion.gob.pe^
 ||mmasboy.gq^
 ||mmdecormarcenaria.com.br^
@@ -39504,7 +39508,6 @@
 ||pereiraartefatosdecimento.com.br^
 ||perere.gq^
 ||perezfernandez.cl^
-||perfecnmnoeyn.co^
 ||perfect-money.rgmchile.cl^
 ||perfect-wedding.co^
 ||perfectmoney.becktrop.com.mx^
@@ -46658,7 +46661,6 @@
 ||uvmovil.cl^
 ||uxiamazontour.com.br^
 ||uxing.es^
-||uxinnovation.com.br^
 ||uyagsd678tg973y29yd98yashd98aasdee.blogspot.mx^
 ||uyamazon.sattamatka.com.mx^
 ||uyfydyde5.blogspot.com.ar^
@@ -47032,6 +47034,7 @@
 ||vigrx.com.br^
 ||vihted-pl.sprawa32879.co^
 ||vihted-pl.sprawau93059.co^
+||vikata.radiofantastika.cl^
 ||vikingstore.co^
 ||vilaapple.com.br^
 ||vilanovamazon.com.br^
@@ -48054,6 +48057,7 @@
 ||xn--dedinhodemoa-udb.com.br^
 ||xn--delosnios-r6a.es^
 ||xn--depositodofub-geb.com.br^
+||xn--desfume-j-81a.com.br^
 ||xn--dieudonn-i1a.co^
 ||xn--diseadorwebexperto-q0b.es^
 ||xn--diseoyredes-4db.com.ar^
@@ -48254,7 +48258,6 @@
 ||xn--transfomaototal-skb1e.com.br^
 ||xn--transformaoem21dias-4vb7f.com.br^
 ||xn--trintnio-o1a.com.br^
-||xn--tsesolues-w3a8m.com.br^
 ||xn--tu-1z8c70gux5a.co^
 ||xn--tualbailenrosario-kxb.com.ar^
 ||xn--tudo5a50-tza.com.br^
@@ -48438,7 +48441,6 @@
 ||youtuber.com.es^
 ||youtubergpt.co^
 ||youtubesupport.co^
-||youtubetrends.com.br^
 ||youtubewatch.co^
 ||youtubnow.co^
 ||youtubve.co^
