@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-06T15:08:10.337Z
+! Last modified: 2025-02-07T03:08:13.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -1175,6 +1175,7 @@
 ||980227bf-5f11-423a-9dfc-c4bb01ff0949.id.repl.co^
 ||98375434.09345.repl.co^
 ||984023602010733.kitlanchesisa.com.br^
+||984b.co^
 ||9874.pages.net.br^
 ||988a3cf0-88de-435e-90fe-ef14229bee3b.random.ralphlaurens.com.mx^
 ||988e56a4-cf63-4106-8eba-f2a750c4e836.id.repl.co^
@@ -1561,6 +1562,7 @@
 ||accounts.google-app.co^
 ||accounts.meta.com-helpcenter.co^
 ||accounts.mx^
+||accounts.retaillabregistration.com.mx^
 ||accountsamsung.co^
 ||accountscenter.meta.com-helpcenter.co^
 ||accountt-adser.pages.net.br^
@@ -1855,6 +1857,7 @@
 ||adidascampus.com.mx^
 ||adidascol-apps.co^
 ||adidasjornada.com.br^
+||adidassamba.com.mx^
 ||adiem.mx^
 ||adih.org.co^
 ||adiit.com.mx^
@@ -9872,6 +9875,7 @@
 ||atalaya-invest.es^
 ||atargs.com.br^
 ||atbct783tuyba45pegxrewhjf.barclayis.co^
+||atclaimgv.es^
 ||atdlinkedinus.zz.com.ve^
 ||ateb.es^
 ||atecion-al-cliente.atencionalclien.repl.co^
@@ -13048,6 +13052,7 @@
 ||bscompany.es^
 ||bsconsultora.com.py^
 ||bscsa.pe^
+||bscverify.co^
 ||bsdnxw.blogspot.com.co^
 ||bsingenieria.com.py^
 ||bslsaude.com.br^
@@ -13088,6 +13093,7 @@
 ||btc1qeh.blogspot.com.ar^
 ||btc1scb.blogspot.com.uy^
 ||btc1scb.blogspot.pe^
+||btc1tvx.blogspot.mx^
 ||btc1uff.blogspot.com.co^
 ||btc1uid.blogspot.pe^
 ||btc1uut.blogspot.com.ar^
@@ -13345,6 +13351,7 @@
 ||bytemasters.com.br^
 ||bytrade.com.br^
 ||bz-bz.bz^
+||bz8088.com.br^
 ||bzaitew.gq^
 ||bzex.co^
 ||bzzki0novvcug.we9ixzz.co^
@@ -15953,6 +15960,7 @@
 ||ciiact6.co^
 ||ciktgedbve.gq^
 ||cilindromagico.pe^
+||cillbooksa.es^
 ||cilptia.actualizenn.repl.co^
 ||cimaa.com.mx^
 ||cimacrg.mx^
@@ -16429,6 +16437,7 @@
 ||cloudpabxips.com.br^
 ||cloudplovar.gq^
 ||cloudpsa.co^
+||cloudrunning.com.mx^
 ||cloudsendmail.com.br^
 ||cloudsites.com.br^
 ||cloudssd.com.br^
@@ -18383,6 +18392,7 @@
 ||crypto-finance.co^
 ||crypto-genius.co^
 ||crypto-guard.co^
+||crypto-irs-compliant-tax.es^
 ||crypto-payer.co^
 ||crypto-tact.co^
 ||crypto-tranfer.co^
@@ -21174,6 +21184,7 @@
 ||dinastiaacessorios.com.br^
 ||dinero-rapido.com.mx^
 ||dinfed.co^
+||dinheirocomdiscord.com.br^
 ||dinheirocomimportados.com.br^
 ||dinhoalugueldeveiculos.com.br^
 ||dinnatar.gq^
@@ -21987,6 +21998,9 @@
 ||dsafdsafbn.easy.co^
 ||dsajd8321323.blogspot.com.ar^
 ||dsajd8321323.blogspot.pe^
+||dsasdz.blogspot.cl^
+||dsasdz.blogspot.com.ar^
+||dsasdz.blogspot.com.co^
 ||dsc-drop.gq^
 ||dsc-gifts.gq^
 ||dsconsultores.es^
@@ -23919,6 +23933,7 @@
 ||ethereumpool.co^
 ||etherevent.co^
 ||ethevents.co^
+||ethevremi.co^
 ||ethflare.co^
 ||ethhua.co^
 ||ethicalclassicmining.boswellmichael.repl.co^
@@ -25572,6 +25587,8 @@
 ||freedom-apparel.co^
 ||freeeeee1.gq^
 ||freeepubebooks.gq^
+||freefirecod2.blogspot.com.br^
+||freefirecod2.blogspot.com.co^
 ||freegems.co^
 ||freegemsofclashroyale.blogspot.com.br^
 ||freelancerepico.com.br^
@@ -26408,6 +26425,7 @@
 ||google-app.casadelser.es^
 ||google-apps.aicad.es^
 ||google-drive.com.dismay.com.ar^
+||google.ku9vip2.co^
 ||google.rio.br^
 ||google1.es^
 ||googlead.co^
@@ -27175,6 +27193,10 @@
 ||hex-appeal.co^
 ||heyhi.com.br^
 ||heylandlord.co^
+||hfcbvx.blogspot.com.ar^
+||hfcbvx.blogspot.com.co^
+||hfcbvx.blogspot.com.uy^
+||hfcbvx.blogspot.pe^
 ||hfghjhdfgjhudfgjhudfgjhdfgjhdfgjh.blogspot.cl^
 ||hftcfe.blogspot.mx^
 ||hg2025.com.br^
@@ -27182,6 +27204,9 @@
 ||hgfdghr.gq^
 ||hgfdshgdfdfg.esy.es^
 ||hgg-fgh.pages.net.br^
+||hgkkgjgj.blogspot.cl^
+||hgkkgjgj.blogspot.com.ar^
+||hgkkgjgj.blogspot.mx^
 ||hgocontabilidade.com.br^
 ||hgoogle.es^
 ||hhbbpg.com.br^
@@ -27326,7 +27351,6 @@
 ||hojepromos.com.br^
 ||hojerebaixas.com.br^
 ||hoka-mx.com.mx^
-||hoka-spain.es^
 ||hokamexicotienda.com.mx^
 ||hokaoneone.com.es^
 ||hokaoutletmexico.com.mx^
@@ -31521,6 +31545,7 @@
 ||icould.co^
 ||icpingenieria.cl^
 ||icscards.service-klantenservice-inlogin.co^
+||ictconsult.com.br^
 ||ictesychgd.brastars.com.br^
 ||ictiologica.com.br^
 ||ictios.cl^
@@ -32722,6 +32747,9 @@
 ||jinkangpu.co^
 ||jintaiassets.co^
 ||jivgtr.blogspot.com.co^
+||jiwjilkomaa.blogspot.com.br^
+||jiwjilkomaa.blogspot.mx^
+||jiwjilkomaa.blogspot.pe^
 ||jjgghhjghgh.blogspot.mx^
 ||jjjuber.es^
 ||jjs.adv.br^
@@ -33192,8 +33220,37 @@
 ||koutburgvil.gq^
 ||kpi-ltd.co^
 ||kpjauctions.co^
+||kra11.cl^
+||kra19.ec^
+||kra21.co^
+||kra25.co^
 ||kra25.ec^
+||kra26.co^
 ||kra26.ec^
+||kra27.co^
+||kra28.co^
+||kra29.co^
+||kra30.co^
+||kra31.co^
+||kra32.co^
+||kra33.co^
+||kra34.co^
+||kra35.co^
+||kra36.co^
+||kra37.co^
+||kra38.co^
+||kra39.co^
+||kra40.co^
+||kra41.co^
+||kra42.co^
+||kra43.co^
+||kra44.co^
+||kra45.co^
+||kra46.co^
+||kra47.co^
+||kra48.co^
+||kra49.co^
+||kra50.co^
 ||kraft.eng.br^
 ||krafthaus.com.br^
 ||kralken.co^
@@ -33348,6 +33405,7 @@
 ||lanco-app.kiwicapital.co^
 ||land.a23.co^
 ||landerland.com.br^
+||landmarkauthorizee.es^
 ||landmarks.com.mx^
 ||landsandvetrighdi.gq^
 ||langtownvsroad.gq^
@@ -33679,6 +33737,11 @@
 ||lightminer.co^
 ||lightnovel.co^
 ||lightsave.com.br^
+||lightspire-stoneflare.blogspot.com.co^
+||lightspire-stoneflare.blogspot.com.es^
+||lightspire-stoneflare.blogspot.com.uy^
+||lightspire-stoneflare.blogspot.mx^
+||lightspire-stoneflare.blogspot.pe^
 ||lightweightsolutions.co^
 ||ligueamazonpneus.com.br.aprovajogga.com.br^
 ||liitokala.gq^
@@ -35638,6 +35701,7 @@
 ||mizunoperu.com.pe^
 ||mjconsultorias.com.br^
 ||mjgyfe.blogspot.com.es^
+||mjhcgwtn0grurzfh9nfgbyrpkvkslznmeakyl.vp.com.pe^
 ||mjlezg.co^
 ||mjmgarage.com.br^
 ||mjshopuae.co^
@@ -37587,6 +37651,7 @@
 ||omelhordaamazonia.com.br^
 ||omelhordoamazonas.com.br^
 ||omelhorplanoeviver.com.br^
+||omenai.co^
 ||omeuhost.com.br^
 ||omfadvogados.com.br^
 ||omg-omise.co^
@@ -37685,6 +37750,7 @@
 ||onlybordados.com.br^
 ||onlyfans-accounts.co^
 ||onlyfans-search.co^
+||onlyfans-th.co^
 ||onlyfans24.co^
 ||onlyfansagency.co^
 ||onlyfansdownloader.co^
@@ -40575,6 +40641,7 @@
 ||procarsrl.com.ar^
 ||procepar.com.br^
 ||proces3.heractivatieplatform.com.es^
+||proces4.heractivatieplatform.com.es^
 ||procetec.com.br^
 ||prochatgpt.com.br^
 ||prochatgpt.meucorpoperfeito.com.br^
@@ -41139,6 +41206,7 @@
 ||radionacionalamazonia-stream.ebc.com.br^
 ||radioneta.com.mx^
 ||radionetcarangola.com.br^
+||radiooasis.com.pe^
 ||radioparamazonas.site.radio.br^
 ||radiopatriotadaamazonia.com.br^
 ||radiopc.com.br^
@@ -41571,6 +41639,7 @@
 ||reneg.negociebra.com.br^
 ||renew.gria.com.br^
 ||renewcsnst.blogspot.com.br^
+||renewmymembership.es^
 ||reno.ind.br^
 ||renodrives.com.br^
 ||renovaremedlab.com.br^
@@ -41841,6 +41910,10 @@
 ||rkrklvlv.com.br^
 ||rlmadvogados.com.br^
 ||rmbs.es^
+||rnbenb2145.blogspot.cl^
+||rnbenb2145.blogspot.com.co^
+||rnbenb2145.blogspot.com.es^
+||rnbenb2145.blogspot.pe^
 ||rnconsultoriaeprojetos.com.br^
 ||rnetpool.com.br^
 ||rnght.blogspot.cl^
@@ -42927,6 +43000,8 @@
 ||sedepases.com.br^
 ||sedexvip.com.br^
 ||sedum.com.br^
+||sedzd.blogspot.cl^
+||sedzd.blogspot.com.br^
 ||seedsbuysell.com.es^
 ||seedsupermart.com.es^
 ||seem-a01.gq^
@@ -44985,6 +45060,7 @@
 ||tdkdigital2.com.br^
 ||tdm.com.co^
 ||teachmechatgpt.co^
+||teajh.kcill.co^
 ||team-appy.mrant.com.mx^
 ||team-spacex.co^
 ||teamamazon.co^
@@ -45473,6 +45549,7 @@
 ||theroyalpineapple.co^
 ||thesalesbot.co^
 ||thesciongroup.gq^
+||thescrib.es^
 ||theseus-app.hustlefree.co^
 ||thesignpro.co^
 ||thesinhnhatconbeboncogizuikhongvayta.blogspot.mx^
@@ -45809,6 +45886,7 @@
 ||toycopum.gq^
 ||toylandjoys.co^
 ||toyoparts.cl^
+||toyscenter.cl^
 ||tpa-cotemig.com.br^
 ||tpbpiratbay.cl^
 ||tpi-portal-app.apps.ocpdes.t-systems.es^
@@ -46274,6 +46352,7 @@
 ||ucem.edu.mx^
 ||ucoincash.co^
 ||uconcordia.co.pe^
+||ucryptocapital.co^
 ||udapt-amazonia.evamakeup.es^
 ||udis.com.br^
 ||udisys.com.br^
@@ -47077,6 +47156,7 @@
 ||vision-apple.online.hololens-brasil.com.br^
 ||vision-apple.store.hololens-brasil.com.br^
 ||visionamazonconsultancy.co^
+||visiondental.mx^
 ||visionis-amazon.test.sidoo.es^
 ||visionlustres.com.br^
 ||visitamazonas.com.br^
@@ -47263,6 +47343,7 @@
 ||vzeskyrpog.es^
 ||w-app.co^
 ||w.kinogo.ec^
+||w0wxggjhivmafdbzjzys.graficosdm.com.uy^
 ||w1ox.constructoramelgarejo.cl^
 ||w3.sia-inv.co^
 ||w3click.com.br^
@@ -48105,7 +48186,6 @@
 ||xn--notariaremuanyamigo-53b.es^
 ||xn--nuestraseoradelmilagro-sec.com.ar^
 ||xn--nvesting-b2a.co^
-||xn--on3b15m2lco2u.co^
 ||xn--oratriaprtica-ceb8x.com.br^
 ||xn--ovapromooes-t9a.com.br^
 ||xn--oziespaodevida-mjb.com.br^
@@ -48304,6 +48384,7 @@
 ||yesluxo.com.br^
 ||yesyespromo.com.br^
 ||yeticolombia.com.co^
+||yeticupjapan.co^
 ||yeyu.gq^
 ||yfqkwvzkl.gq^
 ||ygonzalez.es^
@@ -48335,6 +48416,7 @@
 ||youfitamazon.co^
 ||young1acanada.co^
 ||youngla-colombia.com.co^
+||youngla.com.pe^
 ||your-account-paypal-has-been-locked.adarve.com.br^
 ||youramazonconsultancy.co^
 ||yourapple.co^
@@ -48476,6 +48558,7 @@
 ||zinniaelegans.es^
 ||zioneng.com.br^
 ||zionestudio.com.br^
+||zipgrafica.com.br^
 ||zipmex.co^
 ||ziraatbanksi.gq^
 ||ziro.com.ec^
