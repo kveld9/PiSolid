@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-08T03:08:12.806Z
+! Last modified: 2025-02-08T15:08:07.526Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -34014,7 +34014,6 @@
 ||login.mypaymentvault.com.mx^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
-||loginmicrosoftonlinesettings.directpharma.fasttic.cl^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
 ||loginx-robinhoodx.blogspot.mx^
@@ -34559,6 +34558,7 @@
 ||mailing11.srv.br^
 ||mailingmarketing.com.br^
 ||mailingsbrasil.com.br^
+||mailmagnet.co^
 ||mailmail.com.br^
 ||mailmidia.com.br^
 ||mailos.gq^
@@ -35341,6 +35341,7 @@
 ||metalurgicavatec.com.ar^
 ||metalurgicazapata.com.ar^
 ||metalxaximmetalurgica.com.br^
+||metamas.com.mx^
 ||metamask-rewards.crd.co^
 ||metamask-wallett.blogspot.cl^
 ||metamask-wallett.blogspot.com.ar^
@@ -36501,6 +36502,7 @@
 ||navisa.com.mx^
 ||navisa.cr^
 ||navy-mil.co^
+||navyfederal-credit-union-verification-secure-account-data.cobrajet.com.br^
 ||nawebbr.com.br^
 ||nayaritas.mx^
 ||naytour.com.br^
