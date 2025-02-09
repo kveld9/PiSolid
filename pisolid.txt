@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-08T15:08:07.526Z
+! Last modified: 2025-02-09T03:08:15.286Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -2946,6 +2946,7 @@
 ||alykaximagcatlog.esy.es^
 ||alzugarayhogar.com.ar^
 ||am130.1.com.ar^
+||am40.1.com.ar^
 ||am98.1.com.ar^
 ||ama-check.5co1.co^
 ||ama-check.inrep2.co^
@@ -19803,6 +19804,8 @@
 ||d50b7b5f-6b9f-4132-b1e2-9ce54d890108.id.repl.co^
 ||d5433080-fd9d-42a6-82cb-5307da88a6d4.id.repl.co^
 ||d576227e-d37a-43cf-965f-2abec08b9a0a.id.repl.co^
+||d5aw65daw65d.blogspot.com.co^
+||d5aw65daw65d.blogspot.com.uy^
 ||d5b59b76-ed3e-43fa-954b-5db2fc9b0182.id.repl.co^
 ||d5b9bcc7-3621-4762-9f80-f46b48870e6f.id.repl.co^
 ||d5dea6cf-4e48-4ea9-b62a-7c8ba577e5bf.id.repl.co^
@@ -19853,6 +19856,11 @@
 ||dailyclipupdating.blogspot.com.es^
 ||dailyclipupdating.blogspot.mx^
 ||dailyhotcliphot.blogspot.cl^
+||dailymodelclips.blogspot.cl^
+||dailymodelclips.blogspot.com.br^
+||dailymodelclips.blogspot.com.co^
+||dailystarcliponline.blogspot.cl^
+||dailystarcliponline.blogspot.com.co^
 ||dailythriveglow.co^
 ||dailytube.esy.es^
 ||dainfoupf.com.br^
@@ -21799,6 +21807,9 @@
 ||dpd-polska623dellvres.dostawaspaingets5.es^
 ||dpedroimoveis.com.br^
 ||dpercormoi.gq^
+||dpfgodfgjikdfg.blogspot.cl^
+||dpfgodfgjikdfg.blogspot.com.ar^
+||dpfgodfgjikdfg.blogspot.com.es^
 ||dpibotucatu.com.br^
 ||dportales.cl^
 ||dpp663ughcd9kmyqv1ms.we9ixzz.co^
@@ -25152,6 +25163,7 @@
 ||filecrypt.co^
 ||filedrops.co^
 ||filepass.co^
+||files.umso.co^
 ||filezilla.es^
 ||filhasdomeldaamazonia.com.br^
 ||filhosdaamazonia.com.br^
@@ -26146,6 +26158,8 @@
 ||ghaiaamazonia.com.br^
 ||ghbeqahgbeqa.blogspot.com.co^
 ||ghdeal.es^
+||ghfghfghfghhjhj.blogspot.com.es^
+||ghfghfghfghhjhj.blogspot.com.uy^
 ||ghiacar.com.br^
 ||ghmghmgh112.blogspot.pe^
 ||ghnbnnb.desarrollolaboralchile.cl^
@@ -26889,6 +26903,7 @@
 ||gycltda.cl^
 ||gylmaquinarias.pe^
 ||gym-shark.com.co^
+||gym-shark.com.es^
 ||gym-sharkmexico.com.mx^
 ||gymcraft.es^
 ||gymshark-mexico.mx^
@@ -27337,6 +27352,7 @@
 ||hml-appmissoes.cni.com.br^
 ||hml-paypallplus.bubbe.com.br^
 ||hmo-search-app.000.pe^
+||hmypphjamtjyp0iuvzfj.graficosdm.com.uy^
 ||hn-app.co^
 ||hnc-vs.co^
 ||hndglobal.co^
@@ -32053,6 +32069,8 @@
 ||instagram506306.blogspot.com.co^
 ||instagram506306.blogspot.com.uy^
 ||instagram506306.blogspot.mx^
+||instagram50676.blogspot.com.co^
+||instagram50676.blogspot.pe^
 ||instagram5807.blogspot.cl^
 ||instagram5807.blogspot.com.ar^
 ||instagram5807.blogspot.com.br^
@@ -32752,6 +32770,7 @@
 ||jin-tai.co^
 ||jinkangpu.co^
 ||jintaiassets.co^
+||jisonss111.blogspot.com.co^
 ||jivgtr.blogspot.com.co^
 ||jiwjilkomaa.blogspot.com.br^
 ||jiwjilkomaa.blogspot.mx^
@@ -34014,6 +34033,12 @@
 ||login.mypaymentvault.com.mx^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
+||loginmicrosoftonlinesettings.hdfcbank.fasttic.cl^
+||loginmicrosoftonlinesettings.herzogglass.fasttic.cl^
+||loginmicrosoftonlinesettings.seaboardmarine.fasttic.cl^
+||loginmicrosoftonlinesettingsaed-partners.fasttic.cl^
+||loginmicrosoftonlinesettingsagmdgroup.fasttic.cl^
+||loginmicrosoftonlinesettingssinergycargo.fasttic.cl^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
 ||loginx-robinhoodx.blogspot.mx^
@@ -34521,6 +34546,7 @@
 ||mail.davidsilvah.mx^
 ||mail.dcshoecolombia.com.co^
 ||mail.dcshoes-mexico.com.mx^
+||mail.dopenederland.co^
 ||mail.estudiosolver.com.ar^
 ||mail.favaloropropiedades.com.ar^
 ||mail.ghd-colombia.com.co^
@@ -35043,6 +35069,7 @@
 ||mcdinformatica.com.br^
 ||mcintyr.gq^
 ||mcmae.com.br^
+||mcpperformance.com.br^
 ||mcrae.co^
 ||mcrental.com.ar^
 ||mcsamazon.escolats.com.br^
@@ -36026,6 +36053,7 @@
 ||moveislider.com.br^
 ||moveisprimus.com.br^
 ||moveldomeujeito.com.br^
+||movew.mx^
 ||movi.com.ar^
 ||movies342.gq^
 ||moviespedia.co^
@@ -36502,7 +36530,6 @@
 ||navisa.com.mx^
 ||navisa.cr^
 ||navy-mil.co^
-||navyfederal-credit-union-verification-secure-account-data.cobrajet.com.br^
 ||nawebbr.com.br^
 ||nayaritas.mx^
 ||naytour.com.br^
@@ -37474,6 +37501,7 @@
 ||octavioflores.cl^
 ||oculoscoyote.com.br^
 ||odbll-srv-app.sorreasy.com.br^
+||odfgidfghdfjh.blogspot.com.br^
 ||odiamelhor.com.br^
 ||odocy.co^
 ||odontoamazon.com.br^
@@ -38228,6 +38256,9 @@
 ||outlookmail.co^
 ||outloook.com.br^
 ||outluk.co^
+||outsartana.blogspot.cl^
+||outsartana.blogspot.com.br^
+||outsartana.blogspot.mx^
 ||ouylook.es^
 ||ovcommendsa.gq^
 ||ovejes.gq^
@@ -41279,7 +41310,6 @@
 ||ramonschnayder.com.br^
 ||ramosprocuradores.es^
 ||ramsey.gq^
-||ranchoboscardin.com.br^
 ||ranchoper.com.br^
 ||ranchovilamaria.com.br^
 ||randazzoalbergaria.com.br^
@@ -41349,6 +41379,8 @@
 ||rbx.co^
 ||rbx2gen.blogspot.com.br^
 ||rbx2gen.blogspot.com.co^
+||rbx60kfoosl.blogspot.com.br^
+||rbx60kfoosl.blogspot.pe^
 ||rbx60kvvu.blogspot.com.es^
 ||rbx60kvvu.blogspot.com.uy^
 ||rbx60kvvu.blogspot.pe^
@@ -41549,6 +41581,8 @@
 ||refund-hmrc.uk-6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675730208274.softom.com.br^
 ||reg-adnoc.co^
 ||regalanavidad.es^
+||regdrf.blogspot.cl^
+||regdrf.blogspot.com.ar^
 ||regentalliance.co^
 ||regergerwgfwe.blogspot.com.es^
 ||regidorpuebla.org.mx^
@@ -41784,6 +41818,7 @@
 ||retrofiteng.com.br^
 ||retroriginal.es^
 ||retyh.gq^
+||rev-app-info.es^
 ||revchatgpt.co^
 ||revconsult.com.br^
 ||revear-apps.com.ar^
@@ -41845,6 +41880,8 @@
 ||rgegdffv.blogspot.com.ar^
 ||rgegdffv.blogspot.pe^
 ||rgrg.mypi.co^
+||rgyfhfghfghfgh.blogspot.cl^
+||rgyfhfghfghfgh.blogspot.com.es^
 ||rhoster.com.br^
 ||rhriss.com.br^
 ||rhrossi.com.br^
@@ -41922,6 +41959,8 @@
 ||rnbenb2145.blogspot.com.es^
 ||rnbenb2145.blogspot.pe^
 ||rnconsultoriaeprojetos.com.br^
+||rnebre564.blogspot.cl^
+||rnebre564.blogspot.com.ar^
 ||rnetpool.com.br^
 ||rnght.blogspot.cl^
 ||rnra.co^
@@ -42474,6 +42513,7 @@
 ||rtchatgpt.repl.co^
 ||rtegdgdj.esy.es^
 ||rtimer.com.br^
+||rtrfgfdgdfg.blogspot.cl^
 ||rtrtechnicalservices.co^
 ||rts-amazonas.com.br^
 ||rtskkm.co^
@@ -42910,6 +42950,7 @@
 ||sdfsgjshfjdsgfhjdsghfjgdshfjd.blogspot.com.ar^
 ||sdfsgjshfjdsgfhjdsghfjgdshfjd.blogspot.com.es^
 ||sdfsgjshfjdsgfhjdsghfjgdshfjd.blogspot.mx^
+||sdfssfe.blogspot.pe^
 ||sdgyhdfjhfgjfgjyjfjfgj.blogspot.com.br^
 ||sdireqta.gq^
 ||sdkasjdh821323.blogspot.com.br^
@@ -44039,7 +44080,6 @@
 ||sondomax.co^
 ||songforamazonia.com.br^
 ||songslyricaz.gq^
-||soniafernandes.my3cx.com.br^
 ||sonicslabs.co^
 ||sonlclabs.co^
 ||sonm.facetour.com.br^
@@ -46378,6 +46418,10 @@
 ||uggbootsclearance.net.co^
 ||uggoutletsale.net.co^
 ||uggshoes.co^
+||ugscceugvifb.blogspot.cl^
+||ugscceugvifb.blogspot.com.co^
+||ugscceugvifb.blogspot.com.es^
+||ugscceugvifb.blogspot.com.uy^
 ||ui.com.mx^
 ||uiaraamazon.com.br^
 ||uiaraamazonresort.cd.economysoftware.com.br^
@@ -47290,6 +47334,7 @@
 ||vomadig.gq^
 ||vonmenzel.cl^
 ||vormor.co^
+||vosaccmonsecur.es^
 ||voskcoins.co^
 ||vote-pengu.co^
 ||votesomeoneelse.com.es^
@@ -47605,6 +47650,11 @@
 ||weissconsorcios.com.br^
 ||weizen.com.br^
 ||welcome.do^
+||welcomeanjo.blogspot.com.ar^
+||welcomeanjo.blogspot.com.br^
+||welcomeanjo.blogspot.com.uy^
+||welcomeanjo.blogspot.mx^
+||welcomeanjo.blogspot.pe^
 ||weliko.mi-scooter.co^
 ||wellcomepueeftf.blogspot.com.uy^
 ||welldo01.co^
@@ -48466,6 +48516,7 @@
 ||yuntong-batt.co^
 ||yuotube.co^
 ||yupiquelegal.com.br^
+||yuxmiwbmgaysxfbfvpy0.graficosdm.com.uy^
 ||ywseu2.com.br^
 ||yz2jo2invj0jodyujbez.mafe.edu.co^
 ||yzpcoygst.gq^
@@ -48618,6 +48669,8 @@
 ||zurtel.gq^
 ||zus-wyplata.gq^
 ||zuzama.es^
+||zvdxxv.blogspot.cl^
+||zvdxxv.blogspot.com.co^
 ||zveingenieria.com.pe^
 ||zweryfikuj.gq^
 ||zwqqrynpvqetydhgbd9w.mafe.edu.co^
