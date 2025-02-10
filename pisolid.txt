@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-09T15:08:04.209Z
+! Last modified: 2025-02-10T03:08:10.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -2738,7 +2738,6 @@
 ||alleagro.tecnoshot.cl^
 ||alleagro.yacolor.cl^
 ||alleegro.palcar.cl^
-||allegro.offernest.co^
 ||allegro.oscarcalderon.cl^
 ||allegro.pl-login.form-art29401.usr20198.gq^
 ||allegro.pl-login.form-art29401.usr2365.gq^
@@ -6825,6 +6824,7 @@
 ||americametais.com.br^
 ||american-eagle.com.mx^
 ||american.c.u.beautyschooldropout.co^
+||american.edu.co^
 ||americanas--a.gq^
 ||americanas-ofertass-novembro.gq^
 ||americanas.black-friday-dezembro-01.gq^
@@ -9613,7 +9613,6 @@
 ||asamazonas.com.br^
 ||asamazonasmr.com.br^
 ||asamazonaspodcast.com.br^
-||asapvisa.co^
 ||asapvisa.mx^
 ||asas.felipesag.repl.co^
 ||asasdaamazonia.com.br^
@@ -11341,7 +11340,6 @@
 ||bcolombia--revertirabono54.repl.co^
 ||bcolombiapp.com.co^
 ||bcoterceirizacao.com.br^
-||bcp.blueberry.com.bo^
 ||bcp.com.bo^
 ||bcpayudsd.htmailhelpm2.repl.co^
 ||bcpservicio.bcsegurid.repl.co^
@@ -12013,7 +12011,6 @@
 ||biomecarbonsnewsbench.gq^
 ||biometra.com.br^
 ||bionegocios.cr^
-||bioparainstagram.com.br^
 ||biopescadosdaamazonia.com.br^
 ||bioq9c1.fmedic.unam.mx^
 ||biorefinaria.com.br^
@@ -12800,7 +12797,6 @@
 ||bradescard-amazon.rcbserv.com.br^
 ||bradesco.atualizarchat.com.br^
 ||bradesco.com.br^
-||bradesco.mv7digital.com.br^
 ||bradescob2bcompras.com.br^
 ||bradescoplanodesaude.com.br^
 ||bradescosaude.blog.br^
@@ -13067,7 +13063,6 @@
 ||bsdnxw.blogspot.com.co^
 ||bsingenieria.com.py^
 ||bslsaude.com.br^
-||bslzeecontainer.co^
 ||bsm.bsm.vsmed.com.br^
 ||bsmarcas.com.br^
 ||bsnacionbank.cbnacion.repl.co^
@@ -14762,7 +14757,6 @@
 ||cfs-orbital-api-uat-app.globaldyne.com.br^
 ||cftvbrasil.com.br^
 ||cfu.com.uy^
-||cfxlegacy.co^
 ||cfz.co.cr^
 ||cganet.interiormente.com.ar^
 ||cgarq.cl^
@@ -14842,6 +14836,7 @@
 ||chasdaamazoniaeervas.com.br^
 ||chase-jp.vivelumen.cl^
 ||chase-login.vivelumen.cl^
+||chase-secure-customer-account-information-online-login-services.cobrajet.com.br^
 ||chase-verification.trskl.com.br^
 ||chase.com.aeroportojeri.com.br^
 ||chase.connects.gq^
@@ -16274,7 +16269,6 @@
 ||client.collart.co^
 ||clientcare.co^
 ||cliente.animos.com.br^
-||cliente.chambi.com.mx^
 ||cliente.deletrica.com.br^
 ||cliente1.brotherdosite.com.br^
 ||clientegary.dobtl.com.do^
@@ -17531,7 +17525,6 @@
 ||contadorestemuco.cl^
 ||contadoriaporto.com.br^
 ||contaembanco.com.br^
-||containerdelivery.com.br^
 ||contalent.cl^
 ||contalento.cl^
 ||contamazonas.com.br^
@@ -25759,7 +25752,6 @@
 ||fundoamazonia.gov.br^
 ||fundoamazoniaoriental.org.br^
 ||fundojbspelaamazonia.com.br^
-||fundolosguindos.cl^
 ||funeralesgrossman.com.mx^
 ||funerariaiparraguirre.es^
 ||funerariasanmiguel.cl^
@@ -26546,7 +26538,6 @@
 ||grafa70.com.ar^
 ||grafana-app.inycom.es^
 ||grafia.co^
-||grafica.agenciaofoco.com.br^
 ||graficaagt.com.br^
 ||graficaamazonas.com.br^
 ||graficaaoquadrado.com.br^
@@ -26727,6 +26718,7 @@
 ||grupochaodeareia.com.br^
 ||grupocimenteiraferreirao.com.br^
 ||grupocnet.com.co^
+||grupocoletamais.com.br^
 ||grupocompucard.com.mx^
 ||grupoconcretoecia.com.br^
 ||grupocontabilalmeida.com.br^
@@ -27239,7 +27231,6 @@
 ||hfcbvx.blogspot.pe^
 ||hfghjhdfgjhudfgjhudfgjhdfgjhdfgjh.blogspot.cl^
 ||hftcfe.blogspot.mx^
-||hg2025.com.br^
 ||hg2025.net.br^
 ||hgfdghr.gq^
 ||hgfdshgdfdfg.esy.es^
@@ -32083,7 +32074,6 @@
 ||instafan.hol.es^
 ||instafollowers.co^
 ||instagram.com.ec^
-||instagram.kanash.com.br^
 ||instagram.pe^
 ||instagram.seba.cl^
 ||instagram506306.blogspot.com.br^
@@ -32249,6 +32239,7 @@
 ||intimisima.es^
 ||intl-paypal.com-limitedaccount.resolve.cpiseguridad.com.mx^
 ||intlaccmangespaymentsverifyngwebappsecurenew.transisaac.cl^
+||intlrecoveryaccessoabekrebewoanelauth.lcservice.com.br^
 ||intolerancias-alimentarias-umebir.es^
 ||intra-apps.mehio.co^
 ||intracomer.com.mx^
@@ -33266,21 +33257,14 @@
 ||kpjauctions.co^
 ||kra11.cl^
 ||kra19.ec^
-||kra21.co^
-||kra25.co^
 ||kra25.ec^
-||kra26.co^
 ||kra26.ec^
 ||kra27.co^
 ||kra27.ec^
 ||kra28.co^
 ||kra29.co^
-||kra30.co^
-||kra31.co^
-||kra32.co^
 ||kra33.co^
 ||kra34.co^
-||kra35.co^
 ||kra36.co^
 ||kra37.co^
 ||kra38.co^
@@ -33658,6 +33642,7 @@
 ||leoniacosmeticos.com.br^
 ||leorezende.com.br^
 ||leorochabrasil.com.br^
+||leovitorio.com.br^
 ||lep-tiox.co^
 ||lepusmoda.es^
 ||ler-u.co^
@@ -33762,6 +33747,7 @@
 ||lidranziabo.gq^
 ||liecoma.co^
 ||lieluturismo.com.br^
+||lifecommunity.com.mx^
 ||lifeconferenceamazon.com.br^
 ||lifeforcesite.com.es^
 ||lifenews.co^
@@ -36222,6 +36208,7 @@
 ||mundoclouditsolutions.com.br^
 ||mundocurvas.cl^
 ||mundodainfo.com.br^
+||mundodapesca.com.br^
 ||mundodastelas.com.br^
 ||mundodosbrinquedos.app.br^
 ||mundodosdjs.com.br^
@@ -36297,6 +36284,7 @@
 ||mxin.com.br^
 ||mxshopping.com.br^
 ||mxwebstudio.com.br^
+||mxx-101.com.mx^
 ||my-app.mx^
 ||my-apple.emprestimoparapensionista.com.br^
 ||my-first-prod-app-43452.botics.co^
@@ -36378,7 +36366,6 @@
 ||myetherwallets.co^
 ||myfifa.co^
 ||myg0vaccess.es^
-||mygovau.soe.mx^
 ||mygrammarly.co^
 ||myguyjeremy.x10.mx^
 ||myhomedecoracion.com.uy^
@@ -39573,6 +39560,7 @@
 ||pereiraartefatosdecimento.com.br^
 ||perere.gq^
 ||perezfernandez.cl^
+||perfecnmnoeyn.co^
 ||perfect-money.rgmchile.cl^
 ||perfect-wedding.co^
 ||perfectmoney.becktrop.com.mx^
@@ -41185,7 +41173,6 @@
 ||quimicakubo.com.ar^
 ||quinncontainersaussie.co^
 ||quintaoappvistorias.com.br^
-||quintinoadv.com.br^
 ||quios.co^
 ||quip-amazon.co^
 ||quip-apple.co^
@@ -41956,6 +41943,7 @@
 ||revistaportaldaamazonia.com.br^
 ||revistasantiago.cl^
 ||revistasobrerodas.com.br^
+||revistaturismo.com.ar^
 ||revisurweb.com.ar^
 ||revivesynergy.cl^
 ||revneuropsi.com.ar^
@@ -43011,7 +42999,6 @@
 ||scnet-tech.com.br^
 ||scolos.co^
 ||scootermania.com.br^
-||scopebitcoin.com.br^
 ||scopusrevista.es^
 ||scottlee.co^
 ||scout1.co^
@@ -43965,6 +43952,7 @@
 ||slimamazonas.com.br.perfectbio.com.br^
 ||slimapple.com.br^
 ||slimfile.gq^
+||slimgotaoficial.com.br^
 ||slimu.es^
 ||slinverlilisfau.gq^
 ||slmandicararas.edu.br^
@@ -44722,7 +44710,6 @@
 ||stumbleguysking.blogspot.com.uy^
 ||sturm.gq^
 ||stussy-espana.com.es^
-||stussy.com.co^
 ||stussycolombia.com.co^
 ||stussyfrance.co^
 ||stussyonlineespana.es^
@@ -45410,7 +45397,6 @@
 ||tepicapital.co^
 ||tepremoe.mypi.co^
 ||tepsa.es^
-||teraboxmodapk.cl^
 ||teraboxmodapk.com.co^
 ||teraboxmodapk.com.mx^
 ||teramed.com.co^
@@ -45742,7 +45728,6 @@
 ||tiabami.gq^
 ||tiagodevweb.meirelesimobiliaria.com.br^
 ||tiagosantiago.com.br^
-||tiangunnon.co^
 ||tibagimotos.com.br^
 ||tibet.com.br^
 ||tibiawiki.com.br^
@@ -45923,7 +45908,6 @@
 ||toldosamazonas.es^
 ||toldoskairos.com.br^
 ||toledoagenda.com.br^
-||tolo-clgelr.agenciadgm.cl^
 ||toltentour.cl^
 ||tomaas.co^
 ||tomacoco.com.mx^
@@ -46992,7 +46976,6 @@
 ||ventajaempresarial.com.mx^
 ||ventanillaunica.armeniaamable.gov.co^
 ||ventas-app.dimac.cl^
-||ventas.valoramas.com.mx^
 ||ventasdelocura.com.ve^
 ||ventasenruta.mx^
 ||ventasmisotrolstgo.cl^
@@ -47740,7 +47723,6 @@
 ||webvoice.com.br^
 ||webxempowering.gq^
 ||webxfilteringissues191-online.gq^
-||wechat.com.bz^
 ||wechat.com.ec^
 ||wechat.com.mx^
 ||wechatbot.com.br^
@@ -48152,6 +48134,7 @@
 ||xn--adegatubaro-i8a.com.br^
 ||xn--advocaciakniagarcia-4zb.com.br^
 ||xn--ag3investigao-7eb3d.com.br^
+||xn--agnciamagnix-peb.com.br^
 ||xn--alcntaraemdestaque-ksb.com.br^
 ||xn--aldeadesueos-jhb.com.ar^
 ||xn--anarosaexcurses-4sb.com.br^
@@ -48224,7 +48207,6 @@
 ||xn--dedinhodemoa-udb.com.br^
 ||xn--delosnios-r6a.es^
 ||xn--depositodofub-geb.com.br^
-||xn--desfume-j-81a.com.br^
 ||xn--dieudonn-i1a.co^
 ||xn--diseadorwebexperto-q0b.es^
 ||xn--diseoyredes-4db.com.ar^
@@ -48609,7 +48591,6 @@
 ||youtuber.com.es^
 ||youtubergpt.co^
 ||youtubesupport.co^
-||youtubetest.co^
 ||youtubewatch.co^
 ||youtubnow.co^
 ||youtubve.co^
