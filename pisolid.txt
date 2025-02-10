@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-10T03:08:10.589Z
+! Last modified: 2025-02-10T15:08:08.310Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11110,6 +11110,7 @@
 ||bankofamerica.com.login.linea6eme.es^
 ||bankofamerica.com.login.update.alttamar.es^
 ||bankofamerica.plw.com.br^
+||bankofamerica.primarydevice.es^
 ||bankofamerica.secure.online.viacaoariranha.com.br^
 ||bankofamerica2023.colpatriainf22.repl.co^
 ||bankofamericaverify.loginsecure2022.repl.co^
@@ -14192,6 +14193,7 @@
 ||castromunicipio.cl^
 ||casttinicaruaru.com.br^
 ||casvertino.mx^
+||caswbv0w.es^
 ||catab.com.mx^
 ||cataldobombasinjetoras.com.br^
 ||catalinabarros.cl^
@@ -20313,6 +20315,7 @@
 ||defion.co^
 ||defiportal.translavandero.cl^
 ||defragingdata193-net.gq^
+||defyage.co^
 ||degavu.esy.es^
 ||degetnow-kagura.gq^
 ||degoogled.es^
@@ -26971,6 +26974,7 @@
 ||hagamosalgo.co^
 ||haggar-mexico.com.mx^
 ||hahola123.blogspot.cl^
+||hairoff.co^
 ||haixcolombia.com.co^
 ||hakamazonia.com.br^
 ||hakan.gq^
@@ -31391,6 +31395,7 @@
 ||ht5.net.br^
 ||htchk.co^
 ||htcourse.es^
+||htfx.co^
 ||htltreinamentos.com.br^
 ||htmlsuport.62763.repl.co^
 ||http-login.pages.net.br^
@@ -31398,8 +31403,6 @@
 ||https.heathenexchanger.cpsess8088816441.frontend.paper.lantern.subdomain.index.html.rajafitness.com.br^
 ||htttp-login.pages.net.br^
 ||hu-glshu.on.fleek.co^
-||hu.defyage.co^
-||hu.hairoff.co^
 ||hu2b.com.br^
 ||huabvreyuzaoigarenbza.blogspot.com.co^
 ||huamicme.gq^
@@ -31819,6 +31822,7 @@
 ||imperiodemariamulambo.com.br^
 ||impermax.com.br^
 ||impetu.com.ve^
+||implantesdentalesjmartinezr.com.ar^
 ||implarededeensino.com.br^
 ||implementosagricolas.com.mx^
 ||impm.upel.edu.ve^
@@ -35260,6 +35264,7 @@
 ||melhornahora.com.br^
 ||melhornasuavida.com.br^
 ||melhorverlogo.com.br^
+||melihpj17mzbnyg.medtraining.com.br^
 ||meliponicultoresandinoamazonicos.com.co^
 ||melissamexico.com.mx^
 ||meliurbis.es^
@@ -37497,6 +37502,7 @@
 ||oceaniapescaderia.com.ar^
 ||oceanica.ufrj.br^
 ||oceanodecupons.com.br^
+||oceanproelearning.cl^
 ||oceanstrades.co^
 ||oceautoelevadores.com.ar^
 ||oci.cl^
@@ -43113,7 +43119,6 @@
 ||secure.53387f4053f4e5ce160e3173039a2bb2.gq^
 ||secure.account.bankofamerica.on-line.osbirigui.com.br^
 ||secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token.parceirospaf.com.br^
-||secure.bankofamerica.primarydevice.es^
 ||secure.yourpage.gq^
 ||secure540.hostgator.com.br^
 ||secureapple.co^
@@ -46751,7 +46756,6 @@
 ||user-chatgpt.bilibili.com.co^
 ||user-socialshare2-fb.x10.mx^
 ||user.alyforex.co^
-||user.htfx.co^
 ||user.ownspy.es^
 ||useradmincloud.gq^
 ||userauth03d.es^
