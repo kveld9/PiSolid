@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-12T03:08:09.532Z
+! Last modified: 2025-02-12T15:08:07.154Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -11370,6 +11370,7 @@
 ||bbvacx.repl.co^
 ||bbvacxx.repl.co^
 ||bbvanetcash.mx9k291l.com.mx^
+||bbvanetcash.mx^
 ||bbvasite.com.co^
 ||bbvsh.blogspot.cl^
 ||bbxotc.co^
@@ -14251,7 +14252,6 @@
 ||castromunicipio.cl^
 ||casttinicaruaru.com.br^
 ||casvertino.mx^
-||caswbv0w.es^
 ||catab.com.mx^
 ||cataldobombasinjetoras.com.br^
 ||catalinabarros.cl^
@@ -17333,6 +17333,7 @@
 ||confirmaci0n-0utlook.secuzs.repl.co^
 ||confirmacion--datospersonaleserror404.repl.co^
 ||confirmacion-dinamicc.geily1987.repl.co^
+||confirmacion.distribuidoraejb.net.br^
 ||confirmacion457.degbhjm.repl.co^
 ||confirmacionss.galiciasoporte1.repl.co^
 ||confirmacontabil.com.br^
@@ -34135,6 +34136,7 @@
 ||login.mypaymentvault.com.mx^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
+||login.servicedetails.com.es^
 ||loginmicrosoftonlinesettings.hdfcbank.fasttic.cl^
 ||loginmicrosoftonlinesettings.herzogglass.fasttic.cl^
 ||loginmicrosoftonlinesettings.seaboardmarine.fasttic.cl^
@@ -34844,6 +34846,7 @@
 ||manualdochatgpt.com.br^
 ||manualdochatgpt.investecomigo.com.br^
 ||manualesdemecanica.com.ar^
+||manualsaf8.setape.com.br^
 ||manualsexplorer.co^
 ||manualslibrary.co^
 ||manuelbaquedano.cl^
@@ -35216,6 +35219,7 @@
 ||media-amazon.com.pen.sabes.mx^
 ||media-solutions.com.ar^
 ||media.expertdashboard.es^
+||media.uplinepro.es^
 ||mediacomm.pe^
 ||mediadesignservsz.blogspot.com.ar^
 ||mediadesignservsz.blogspot.com.br^
@@ -35777,6 +35781,7 @@
 ||miradorvolcanes.cl^
 ||mirante-app.alphax.jclan.com.br^
 ||miranteamazonas.com.br^
+||miravia.es^
 ||mirenart.cl^
 ||mirider.gq^
 ||mirrage.com.br^
