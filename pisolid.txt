@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-13T03:08:08.332Z
+! Last modified: 2025-02-13T15:08:04.071Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6992,7 +6992,6 @@
 ||an-nguy-en-com.pages.net.br^
 ||ana-gomez.com.mx^
 ||ana.kompu.es^
-||ana.llagardecolloto.es^
 ||anaabbas.com.br^
 ||anabolicos.pe^
 ||anabolizantesquefuncionam.com.br^
@@ -7083,6 +7082,7 @@
 ||andreafarah.com.br^
 ||andreamazonas.com.br^
 ||andredalcarobo.com.br^
+||andreefelipe.com.br^
 ||andreempreendimentos.com.br^
 ||andreflores.com.br^
 ||andreiacalcada.com.br^
@@ -17508,7 +17508,6 @@
 ||construtoracampos.com.br^
 ||construtoraeas.com.br^
 ||construtoragama.com.br^
-||construtorajechaves.com.br^
 ||construtorakappler.com.br^
 ||construtoral.com.mx^
 ||construtorasempre.com.br^
@@ -17750,7 +17749,6 @@
 ||continentalgytonline.continentalgyto.repl.co^
 ||continuar-aqui1.x10.mx^
 ||continuation.co^
-||continue-applleid-applleusvrf-manag-id-authen.jotacicli.com.br^
 ||continuesaftyconfrimss98745651.gq^
 ||contmind.com.br^
 ||contocontigobrasil.com.br^
@@ -21564,6 +21562,7 @@
 ||dix.inf.br^
 ||diyitals.pe^
 ||diyvertesuceahand.gq^
+||dj0o.clinicamedicaalmirantepastene.cl^
 ||djajsusilatahyade5.gq^
 ||djalmadias.com.br^
 ||djalmatoledo.com.br^
@@ -25141,7 +25140,6 @@
 ||fepacor.cl^
 ||ferasdocerrado.com.br^
 ||feresheten.blogspot.com.ar^
-||feriainternacionaldeembajadas.pe^
 ||ferias2018.com.br^
 ||ferienhauspartner.co^
 ||fermagran.com.br^
@@ -25257,7 +25255,6 @@
 ||filecrypt.co^
 ||filedrops.co^
 ||filepass.co^
-||files.umso.co^
 ||filezilla.es^
 ||filhasdomeldaamazonia.com.br^
 ||filhosdaamazonia.com.br^
@@ -26760,7 +26757,6 @@
 ||grosvenor.com.br^
 ||group-amazon.com.itrav.com.co^
 ||group-hungary-gls.on.fleek.co^
-||group-private-gay-fun.geve.cl^
 ||groupe-nasional.blogspot.co^
 ||groupergrapple.co^
 ||groupoches.gq^
@@ -27095,7 +27091,6 @@
 ||hanosik.gq^
 ||hanxloxm03x.pagedemo.co^
 ||hany.com.br^
-||hanz.asociacioncies.org.pe^
 ||hapart.cl^
 ||happle.co^
 ||happlearning.com.br^
@@ -27373,7 +27368,6 @@
 ||hillviewp.gq^
 ||hilwellchev.gq^
 ||himaaoue.co^
-||himage-captcha.es^
 ||himnosisraelitas.com.ar^
 ||hinchas-app.softec.com.py^
 ||hineniestetica.com.br^
@@ -31465,7 +31459,6 @@
 ||hppartes.cl^
 ||hpsupports.co^
 ||hptech.com.br^
-||hqvb.constructoramelgarejo.cl^
 ||hr-app-dev.opal.com.br^
 ||hr-app.opal.com.br^
 ||hr-apply.co^
@@ -32879,6 +32872,7 @@
 ||jinkangpu.co^
 ||jintaiassets.co^
 ||jisonss111.blogspot.com.co^
+||jitteryfajarwati.co^
 ||jivgtr.blogspot.com.co^
 ||jiwjilkomaa.blogspot.com.br^
 ||jiwjilkomaa.blogspot.mx^
@@ -36169,7 +36163,6 @@
 ||moveislider.com.br^
 ||moveisprimus.com.br^
 ||moveldomeujeito.com.br^
-||movew.mx^
 ||movi.com.ar^
 ||movies342.gq^
 ||moviespedia.co^
@@ -39536,7 +39529,6 @@
 ||pcaoselakcmsdtuahckasmeamse.blogspot.com.uy^
 ||pcaoselakcmsdtuahckasmeamse.blogspot.mx^
 ||pcaoselakcmsdtuahckasmeamse.blogspot.pe^
-||pcbrowser.co^
 ||pcgeek.cl^
 ||pcgroups.co^
 ||pchelpdesk.co^
@@ -41439,7 +41431,6 @@
 ||ranchovilamaria.com.br^
 ||randazzoalbergaria.com.br^
 ||random.coachginoanconetani.cl^
-||random.mou.cl^
 ||rankingdodia.com.br^
 ||rapamazonia.gov.co^
 ||rapesdaamazonia.com.br^
@@ -41892,7 +41883,6 @@
 ||rentitout.co^
 ||rentmarbella.es^
 ||rentownhomes2024.carrd.co^
-||reosoa.co^
 ||reparacionapple.es^
 ||reparaciondeapplemac.reparaciondecomputadorascsi.com.mx^
 ||reparandovalencia.es^
@@ -42687,7 +42677,6 @@
 ||rozamazonica.com.br^
 ||rozpoznaj-go.gq^
 ||rozzos.es^
-||rpcresolve.co^
 ||rpinhoapple.com.br^
 ||rpj.silversan.gq^
 ||rplzdpaypal-experience.style.pr^
@@ -45805,7 +45794,6 @@
 ||theroyalpineapple.co^
 ||thesalesbot.co^
 ||thesciongroup.gq^
-||thescrib.es^
 ||theseus-app.hustlefree.co^
 ||thesignpro.co^
 ||thesinhnhatconbeboncogizuikhongvayta.blogspot.mx^
@@ -47549,6 +47537,7 @@
 ||vollmers.es^
 ||vomadig.gq^
 ||vonmenzel.cl^
+||vorempreendimentos.com.br^
 ||vormor.co^
 ||vosaccmonsecur.es^
 ||voskcoins.co^
@@ -48572,7 +48561,6 @@
 ||xoslotzs.co^
 ||xpinapple.repl.co^
 ||xplayn.com.br^
-||xpolanco.cl^
 ||xprepresentacoes.com.br^
 ||xptoplus.com.br^
 ||xr-trading.co^
