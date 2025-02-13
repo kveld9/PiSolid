@@ -3,9 +3,9 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-12T15:08:07.154Z
+! Last modified: 2025-02-13T03:08:08.332Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||0-app.cttc.es^
 ||00.pe^
@@ -1212,6 +1212,7 @@
 ||97857656332200.ss3243554678000.repl.co^
 ||9788--jnjasd.repl.co^
 ||9788.jnjasd.repl.co^
+||9796623323.yellowenergiasustentavel.com.br^
 ||979a8100-5fe4-40cf-bbb2-9eab3e0351ea.id.repl.co^
 ||97d1a405.bcdashboards.com.br^
 ||980227bf-5f11-423a-9dfc-c4bb01ff0949.id.repl.co^
@@ -1733,6 +1734,7 @@
 ||acosecia.com.br^
 ||acost.com.br^
 ||acostainmobiliaria.com.ar^
+||acotton.com.br^
 ||acougueamazonas.com.br^
 ||acouguedobairro.com.br^
 ||acouguedopedrao.com.br^
@@ -11370,7 +11372,6 @@
 ||bbvacx.repl.co^
 ||bbvacxx.repl.co^
 ||bbvanetcash.mx9k291l.com.mx^
-||bbvanetcash.mx^
 ||bbvasite.com.co^
 ||bbvsh.blogspot.cl^
 ||bbxotc.co^
@@ -19931,6 +19932,7 @@
 ||dailymodelclips.blogspot.mx^
 ||dailystarcliponline.blogspot.cl^
 ||dailystarcliponline.blogspot.com.co^
+||dailyteenvid.blogspot.cl^
 ||dailythriveglow.co^
 ||dailytube.esy.es^
 ||dainfoupf.com.br^
@@ -20148,7 +20150,6 @@
 ||david.hall.expofranchise.com.br^
 ||davidaniceto.com.br^
 ||davidenda.davipuntos.repl.co^
-||davidfacon.es^
 ||davidimoveis.com.br^
 ||daviivienda.personasles.repl.co^
 ||daviiviendo.daviviiendaa.repl.co^
@@ -21997,7 +21998,6 @@
 ||driveamazonconsultancy.co^
 ||drivedrop.co^
 ||driveforlife.com.br^
-||drivegoogle.com.co^
 ||drivensnogara.com.br^
 ||driveonlinegoogle.gq^
 ||driveterms457-online.gq^
@@ -26847,6 +26847,7 @@
 ||grupoliderse.com.br^
 ||grupolimcasa.es^
 ||grupolimpio.es^
+||grupolumbrera.com.ar^
 ||grupolz.com.br^
 ||grupomaissc.com.br^
 ||grupomarfex.com.br^
@@ -31718,6 +31719,7 @@
 ||idercem.co^
 ||iderim.co^
 ||idermy.co^
+||ideruem.co^
 ||idesa.cl^
 ||idetel.com.ve^
 ||idethnos.com.br^
@@ -33037,6 +33039,7 @@
 ||jtamazoncargo.pe^
 ||jtas.co^
 ||jtattoo.com.br^
+||jtynyy.mypi.co^
 ||juanadearco.com.uy^
 ||juancarlosmartinez.consultoresweb.es^
 ||juancrismar.edu.co^
@@ -35901,6 +35904,7 @@
 ||mlktrail.es^
 ||mlnd8834.gq^
 ||mlrsistemas.com.ar^
+||mlwpost.com.br^
 ||mmamazonicalaconvencion.gob.pe^
 ||mmasboy.gq^
 ||mmdecormarcenaria.com.br^
@@ -37215,6 +37219,7 @@
 ||ngsqxd.blogspot.mx^
 ||nguoicodon-em.pages.net.br^
 ||nguyenhotelz.gq^
+||nhhkl.blogspot.com.br^
 ||nhnh55hdc3.uqg.es^
 ||niaamazonia.com.br^
 ||nibiokomguk.blogspot.cl^
@@ -37526,7 +37531,6 @@
 ||numismaticainternacional.mx^
 ||nuneseduarte.com.br^
 ||nupleta.com.br^
-||nuri777login.co^
 ||nuriacarnsiaus.es^
 ||nutracenter.pe^
 ||nutres.es^
@@ -37812,6 +37816,7 @@
 ||omkt.com.br^
 ||omnibeees.ddns.com.br^
 ||omybestdo.gq^
+||on-cloud-mx.com.mx^
 ||on-running-mexico.com.mx^
 ||onamazon.com.br^
 ||onastrollshujc.blogspot.cl^
@@ -39668,7 +39673,6 @@
 ||perfect-money.rgmchile.cl^
 ||perfect-wedding.co^
 ||perfectmoney.becktrop.com.mx^
-||perfectmoneylogin.co^
 ||perfectvbuks.blogspot.com.br^
 ||perfilamazonida.com.br^
 ||performance-app.teamculture.com.br^
@@ -41066,7 +41070,6 @@
 ||publiweb.com.ec^
 ||puceamazonas.edu.ec^
 ||pucuk123login.co^
-||pucuk168login.co^
 ||pucuk77login.co^
 ||pucuk888login.co^
 ||pucuk99login.co^
@@ -41117,7 +41120,6 @@
 ||purplebitcoin.co^
 ||purplepineapple.co^
 ||purrrp.fun.agenciareflexa.com.br^
-||pusaka77login.co^
 ||pusdm.co^
 ||push-360.com.ar^
 ||pushonline-accessss-go.es^
@@ -42964,6 +42966,7 @@
 ||santamagda.cl^
 ||santamuerteoficial.co^
 ||santanaelectricalservice.com.ve^
+||santander-competencia.activaonline.cl^
 ||santander.empresarialb.com.br^
 ||santander.supernet-digital.com.mx^
 ||santanderhelps.redemaisaude.com.br^
@@ -44829,6 +44832,7 @@
 ||stumbleguysking.blogspot.com.uy^
 ||sturm.gq^
 ||stussy-espana.com.es^
+||stussy.com.co^
 ||stussyfrance.co^
 ||stussyonlineespana.es^
 ||stxfilms.co^
@@ -44886,7 +44890,6 @@
 ||suhugatel.gq^
 ||suinobom.com.br^
 ||suitesamazonas.com.mx^
-||suivis-colis.co^
 ||suk-alibaba.co^
 ||sulamazonaspesquisas.com.br^
 ||sulamericaconveniomedico.net.br^
@@ -47256,6 +47259,8 @@
 ||video11matanjkjfndf.blogspot.com.ar^
 ||video11matanjkjfndf.blogspot.pe^
 ||video121312.blogspot.com.es^
+||video83452768345782345666.blogspot.com.co^
+||video87345623874568723745666.blogspot.com.ar^
 ||video873465387456337788345888.blogspot.cl^
 ||video8758834863846837483656.blogspot.com.br^
 ||video8758834863846837483656.blogspot.mx^
@@ -48281,7 +48286,6 @@
 ||xn--avelarclat-g7a.com.br^
 ||xn--ba-bja.co^
 ||xn--baosquimicoscordoba-w3b.com.ar^
-||xn--barcelonadiseoweb-rxb.com.es^
 ||xn--baritechinformtica-csb.com.br^
 ||xn--beautshop-f4a.com.br^
 ||xn--benaiaacessrios-5rb.com.br^
@@ -48529,7 +48533,6 @@
 ||xn--todoenlnea-q8a.co^
 ||xn--todofcil-dza.co^
 ||xn--traaurbana-q6a.com.br^
-||xn--transfomaototal-skb1e.com.br^
 ||xn--transformaoem21dias-4vb7f.com.br^
 ||xn--trintnio-o1a.com.br^
 ||xn--tu-1z8c70gux5a.co^
@@ -48732,7 +48735,6 @@
 ||yuijgssagdf66asu79aiio78asdojis79.blogspot.cl^
 ||yuki188login.co^
 ||yuki4dlogin.co^
-||yuki99login.co^
 ||yumate.co^
 ||yummyluli.es^
 ||yuntong-batt.co^
