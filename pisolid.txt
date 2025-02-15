@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-15T03:08:05.251Z
+! Last modified: 2025-02-15T15:08:07.934Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -39625,6 +39625,7 @@
 ||pcaoselakcmsdtuahckasmeamse.blogspot.com.uy^
 ||pcaoselakcmsdtuahckasmeamse.blogspot.mx^
 ||pcaoselakcmsdtuahckasmeamse.blogspot.pe^
+||pcbrowse.co^
 ||pcgeek.cl^
 ||pcgroups.co^
 ||pchelpdesk.co^
@@ -47779,6 +47780,7 @@
 ||wapplerbrasil.com.br^
 ||waptek.com.br^
 ||wapworlddirectory.com.es^
+||warayana.com.pe^
 ||warblespe.gq^
 ||wardia.com.pe^
 ||wardohx.co^
@@ -47979,6 +47981,7 @@
 ||wechats.co^
 ||wecut.com.br^
 ||weddingdresseslove.co^
+||wedoit.com.ar^
 ||weebull.co^
 ||weeksale.com.br^
 ||weesu-amazon.devapi.com.br^
