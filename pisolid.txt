@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-15T15:08:07.934Z
+! Last modified: 2025-02-16T03:08:05.473Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -362,6 +362,7 @@
 ||194applet.lingchuang.co^
 ||196.tynted.co^
 ||196700504589198.graficaaoquadrado.com.br^
+||1985pg.net.br^
 ||19861681523710950469302.jamb2022.co^
 ||19f4d24b-d06f-4ed0-b79b-58de6a432eff.id.repl.co^
 ||19khgsgklgkgklhg.gq^
@@ -777,6 +778,7 @@
 ||4eea98a5-801e-4ec6-8622-f42e82e4351e.id.repl.co^
 ||4errorxxx.gq^
 ||4eyt.p7yh.repl.co^
+||4f3blz84z38n.umso.co^
 ||4f79afad-890e-496c-9560-85459354e757.id.repl.co^
 ||4freemovie.gq^
 ||4funnyvideos.pagedemo.co^
@@ -1498,6 +1500,7 @@
 ||academy.4eperformancedigital.com.br^
 ||academy.btcbox.com.br^
 ||academy.mdbrasil.com.br^
+||academy.moneygenom.es^
 ||acadtransportes.com.br^
 ||acaiacaiteria.com.br^
 ||acaiamazonas.com.br^
@@ -6940,6 +6943,7 @@
 ||amiworld.co^
 ||amkcafe.com.br^
 ||aml-app.es^
+||aml-bots.co^
 ||amma.org.ar^
 ||ammcare-app-mruk.ammcare-production.ccdns.co^
 ||ammcare-app-rire.ammcare-acc.ccdns.co^
@@ -10649,6 +10653,8 @@
 ||balancasdf.com.br^
 ||balancasecomplementos.com.br^
 ||balanconoticias.com.br^
+||balanhaha.blogspot.com.co^
+||balanhaha.blogspot.com.uy^
 ||balasdecocoribeirao.com.br^
 ||balaustaaccionescenica.es^
 ||balaw.ec^
@@ -11409,6 +11415,7 @@
 ||bcolombia--revertirabono54.repl.co^
 ||bcolombiapp.com.co^
 ||bcoterceirizacao.com.br^
+||bcp.blueberry.com.bo^
 ||bcp.com.bo^
 ||bcpayudsd.htmailhelpm2.repl.co^
 ||bcpservicio.bcsegurid.repl.co^
@@ -11418,6 +11425,9 @@
 ||bcrengenharia.com.br^
 ||bctdhkl.co^
 ||bctenlinea-com.webnode.es^
+||bcvmna.blogspot.cl^
+||bcvmna.blogspot.com.co^
+||bcvmna.blogspot.com.es^
 ||bcvpro.yao.cl^
 ||bd-apps.co^
 ||bd-demo-app.data-komunidad.co^
@@ -13382,6 +13392,10 @@
 ||bvcnmasd35.gq^
 ||bvgfyghj.gq^
 ||bvmkufe.mypi.co^
+||bvnmcrt.blogspot.cl^
+||bvnmcrt.blogspot.com.co^
+||bvnmcrt.blogspot.com.es^
+||bvnmcrt.blogspot.com.uy^
 ||bvollrath.expofranchise.com.br^
 ||bvp.mx^
 ||bvsconsultoria.com.br^
@@ -13638,6 +13652,7 @@
 ||cakepress.es^
 ||cakesmatteoscottzczoecr.blogspot.com.es^
 ||cakra4dlogin.co^
+||cakra888.co^
 ||cal.gnsn.com.br^
 ||calaminascondor.com.bo^
 ||calamo.org.mx^
@@ -16349,6 +16364,7 @@
 ||client.collart.co^
 ||clientcare.co^
 ||cliente.animos.com.br^
+||cliente.chambi.com.mx^
 ||cliente.deletrica.com.br^
 ||cliente1.brotherdosite.com.br^
 ||clientegary.dobtl.com.do^
@@ -18730,6 +18746,7 @@
 ||cursosonlinefacil.com.br^
 ||cursosposfaveni.com.br^
 ||cursosrogerioantunes.com.br^
+||cursostelegram.com.br^
 ||cursostop.com.br^
 ||cursosunipro.com.br^
 ||cursotecnicoapple.com.br^
@@ -24068,6 +24085,7 @@
 ||eth.hn^
 ||ethcremi.co^
 ||ethdefi.bz^
+||ethdelivery.co^
 ||ethdrop.co^
 ||ethenalabs.co^
 ||etherconnect.co^
@@ -25728,6 +25746,7 @@
 ||frayvictormariaflores.edu.mx^
 ||frecuenciaurbana.es^
 ||fred-perry-mexico.com.mx^
+||fred-perry.es^
 ||freddy.cl^
 ||frederiet.gq^
 ||fredperrymalaysia.co^
@@ -32467,6 +32486,7 @@
 ||iodsamazonia.store.paulomoraes.adv.br^
 ||ioj.med.br^
 ||ionlinepharmacy.com.es^
+||ionos-soporte.es^
 ||ios-app.siamois.co^
 ||ios56g.gq^
 ||iosappleproducts.com.br^
@@ -33231,6 +33251,7 @@
 ||karatex.com.ar^
 ||kariciassexshop.com.br^
 ||karikari.com.br^
+||karimjuegaroblox.blogspot.com.es^
 ||karinaediether.com.br^
 ||karinarohde.com.br^
 ||karinedocesesalgados.com.br^
@@ -34536,7 +34557,6 @@
 ||lululemon-athletica.com.mx^
 ||lululemon-mexico-outlet.com.mx^
 ||lululemon-mexico.com.mx^
-||lululemon-mexicomx.com.mx^
 ||lululemonbogotacolombia.com.co^
 ||lululemonmexicooutlet.com.mx^
 ||lululemonmexicoshop.com.mx^
@@ -34752,7 +34772,6 @@
 ||mail.teikit.es^
 ||mail.tysan2.com.ar^
 ||mail.vanadiumlab.com.br^
-||mail.worldpharmacy.com.mx^
 ||mail.wr.odo.br^
 ||mail.ziggo.nl-appsuite.gq^
 ||mail10.com.br^
@@ -34901,6 +34920,7 @@
 ||managerfx.com.br^
 ||managersistemas.com.br^
 ||manages.com.br^
+||managth-log-authentication.jotacicli.com.br^
 ||manantialdevida.com.ve^
 ||manausamazonas.sitewebradio.com.br^
 ||manausfc.com.br^
@@ -34938,6 +34958,7 @@
 ||manvim.co^
 ||manychatgpt.ysix.com.br^
 ||manycoin.co^
+||manzocasadecarnes.com.br^
 ||maosamazonia.com.br^
 ||maphotel.com.br^
 ||maplebeargoiania.com.br^
@@ -35986,6 +36007,7 @@
 ||mlktrail.es^
 ||mlnd8834.gq^
 ||mlrsistemas.com.ar^
+||mlwpost.com.br^
 ||mmamazonicalaconvencion.gob.pe^
 ||mmasboy.gq^
 ||mmdecormarcenaria.com.br^
@@ -37272,6 +37294,10 @@
 ||newsserver.com.br^
 ||newssonlines.com.br^
 ||newstalaswindning.gq^
+||newstarvid.blogspot.cl^
+||newstarvid.blogspot.com.ar^
+||newstarvid.blogspot.com.co^
+||newstarvid.blogspot.mx^
 ||newstatement-youraccoount24.gq^
 ||newstop.com.br^
 ||newsworldsports.co^
@@ -37424,6 +37450,7 @@
 ||nortefrut.cl^
 ||norters.com.br^
 ||north-face.com.mx^
+||north-face.es^
 ||northamazontravel.co^
 ||northe.co^
 ||northernleasing.bz^
@@ -38432,6 +38459,7 @@
 ||otimadistribuidora.com.br^
 ||otimizacaodesitestop20.com.br^
 ||otimizacaotop20.com.br^
+||otimizagoogle.com.br^
 ||otimoproduto.com.br^
 ||otolaser.com.co^
 ||otolaser.es^
@@ -38446,6 +38474,11 @@
 ||otwatches.co^
 ||oudu.es^
 ||ouletronicaweb.com.ar^
+||oumaibb.blogspot.cl^
+||oumaibb.blogspot.com.br^
+||oumaibb.blogspot.com.co^
+||oumaibb.blogspot.com.es^
+||oumaibb.blogspot.com.uy^
 ||oupaypal1.test.shoppaas.co^
 ||oupaypal1.test2.shoppaas.co^
 ||oupaypal1.test3.shoppaas.co^
@@ -38494,6 +38527,7 @@
 ||ovvino.com.br^
 ||ow-app.idener.es^
 ||owala-mexico.com.mx^
+||owalamexico-mx.com.mx^
 ||owatch.co^
 ||ownfqb3qqhcpapfbe5ia.alfacomercial.com.br^
 ||oxigas.com.br^
@@ -41818,6 +41852,7 @@
 ||reddithqsend.co^
 ||reddithqtoday.co^
 ||redditnetworkemails.co^
+||redditnetworkgo.co^
 ||redditnetworksends.co^
 ||redditplatformsfinding.co^
 ||redditservicesfinding.co^
@@ -43026,6 +43061,7 @@
 ||samsungservicio.com.co^
 ||samsungtoto.co^
 ||samuelelena.co^
+||samuraicryptotrader.com.br^
 ||samuraistudio.com.mx^
 ||sana-app.co^
 ||sanacionreconexion.cl^
@@ -43080,6 +43116,7 @@
 ||santanderhelps.redemaisaude.com.br^
 ||santandermobiller.gq^
 ||santanderweb.clientes.ananke.com.br^
+||santapolpa.com.br^
 ||santavita.com.br^
 ||sante.cl^
 ||santepharma.com.br^
@@ -43685,6 +43722,7 @@
 ||servico24horas.com.br^
 ||servicosamazonas.com.br^
 ||servicosdenatran.co^
+||servicsantander.blogspot.com.ar^
 ||servidorexclusivo.com.br^
 ||servidorimperial.com.br^
 ||servidormatriz2.com.br^
@@ -43768,6 +43806,7 @@
 ||sfssegurancadotrabalho.com.br^
 ||sftu2zp1.paperform.co^
 ||sg-massage-sharing.colloky.cl^
+||sg2025.com.br^
 ||sgbaixio.com.br^
 ||sgfx.co^
 ||sggh-gfshgg.pages.net.br^
@@ -44081,11 +44120,13 @@
 ||sistemacentral.xpg.com.br^
 ||sistemacplus.com.br^
 ||sistemadeenvio.com.br^
+||sistemaeditoracapro.com.br^
 ||sistemaids.com.br^
 ||sistemamega.com.br^
 ||sistemaparasuaempresa.com.br^
 ||sistemaquantum.com.br^
 ||sistemas.miranda.gob.ve^
+||sistemasinaionline.com.br^
 ||sistemaultra.com.br^
 ||sistemaverde.cl^
 ||sistemavirtualemarketing.com.br^
@@ -44214,6 +44255,7 @@
 ||smartinform.com.br^
 ||smartintienda.es^
 ||smartlead.com.br^
+||smartmantra.co^
 ||smartmaxxapple.smartmaxx.com.br^
 ||smartmoveis.fourtuna.com.br^
 ||smartnote.co^
@@ -44604,6 +44646,7 @@
 ||spotify.com.sv^
 ||spotify.es^
 ||spotify.uy^
+||spotifyapk.com.mx^
 ||spotifymodapk.com.co^
 ||spotifypremium.co^
 ||spotifypremium.com.co^
@@ -46956,6 +46999,7 @@
 ||us.dlink.gq^
 ||us.lightningly.co^
 ||us40794usde.us06fb47o7.co^
+||us40849ubrrx.vnrpjfqzlk.co^
 ||us43158stv.usp4i311.co^
 ||us44022mcpcvjf.us04kx86o5.co^
 ||us44481irzmlcc.us10ih67y9.co^
@@ -47219,6 +47263,7 @@
 ||ventajaempresarial.com.mx^
 ||ventanillaunica.armeniaamable.gov.co^
 ||ventas-app.dimac.cl^
+||ventas.valoramas.com.mx^
 ||ventasdelocura.com.ve^
 ||ventasenruta.mx^
 ||ventasmisotrolstgo.cl^
@@ -47230,7 +47275,6 @@
 ||venturaparts.com.br^
 ||ventureriders.co^
 ||venur.com.uy^
-||venusprotocol.ec^
 ||venusselection.es^
 ||ver.suzukigolfo.com.mx^
 ||verac.com.mx^
@@ -47417,7 +47461,6 @@
 ||vigrx.com.br^
 ||vihted-pl.sprawa32879.co^
 ||vihted-pl.sprawau93059.co^
-||vikata.radiofantastika.cl^
 ||vikingstore.co^
 ||vilaapple.com.br^
 ||vilanovamazon.com.br^
@@ -47650,7 +47693,6 @@
 ||vn1.net.br^
 ||vn6.co^
 ||vnamazon.co^
-||vnrpjfqzlk.co^
 ||voandosempre.com.br^
 ||vocaciondefuturo.cl^
 ||voceconfia.com.br^
@@ -48105,6 +48147,7 @@
 ||wholesale-app-es7.wholesale-rod05.comulogimastuntmaster.www.i-do-it.dec520ad86243d-login.sert.s.eensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||wholesale-app-es7.wholesale-rod05.comulogimastuntmaster.www.i-do-it.dec520ad86243d-login.sertgimastuntmaster.www.i-do-it.dec52upport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||wholesale-app-es7.wholesale-rod05.comulogimastuntmasts.cursosbelezaestetica.com.br^
+||wholesale.leaks.co^
 ||wholesale360.co^
 ||whxzqkbbtzvdyxdeseoiyujzs.co^
 ||whydovideosnotworkonamazon.co^
@@ -48209,6 +48252,7 @@
 ||worldlav.com.br^
 ||worldmart.com.br^
 ||worldnewsnetwork.co^
+||worldpharmacy.com.mx^
 ||worldservices.com.br^
 ||worldtechnology.com.br^
 ||worlduniformes.cl^
@@ -48221,6 +48265,7 @@
 ||wp-app.waldia.co^
 ||wp.l4e.es^
 ||wp5.com.br^
+||wpk7088555.co^
 ||wpoptimizeinnodbtables.gq^
 ||wrap-app.co^
 ||writemypaper.co^
@@ -48352,6 +48397,7 @@
 ||xiaomioficial.pe^
 ||xiaomispain.es^
 ||xiaomistore.com.hn^
+||xiaomistoretandil.com.ar^
 ||ximenesimobiliaria.com.br^
 ||xinchao13.gq^
 ||xinet.com.br^
@@ -48510,6 +48556,7 @@
 ||xn--glck-1ra.es^
 ||xn--googe-n7a.co^
 ||xn--gruposcservios-rjb.com.br^
+||xn--gruposueos-09a.com.ar^
 ||xn--guedesannciosonline-78b.com.br^
 ||xn--guiadacelebrao-2hb7d.com.br^
 ||xn--h3dimpresses-0ib.com.br^
@@ -48628,6 +48675,7 @@
 ||xn--resumolivrosfilmessries-tcc.com.br^
 ||xn--rochacalados-rdb.com.br^
 ||xn--rssy43n.co^
+||xn--rticoengenharia-mjb.com.br^
 ||xn--sadebio-71a.com.br^
 ||xn--sadelongevidade-3ub.com.br^
 ||xn--sadenota10-odb.com.br^
@@ -48731,6 +48779,7 @@
 ||xz.08812.co^
 ||xz.08815.co^
 ||xz.08819.co^
+||xz.08822.co^
 ||xz.08829.co^
 ||xz.13188.co^
 ||xz.18488.co^
@@ -48863,6 +48912,7 @@
 ||yupiquelegal.com.br^
 ||yuxmiwbmgaysxfbfvpy0.graficosdm.com.uy^
 ||ywseu2.com.br^
+||yyyy1998.com.br^
 ||yz2jo2invj0jodyujbez.mafe.edu.co^
 ||yzpcoygst.gq^
 ||z-app.co^
