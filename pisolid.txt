@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-16T03:08:05.473Z
+! Last modified: 2025-02-16T15:08:04.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2028,6 +2028,7 @@
 ||adrianobedore.com.br^
 ||adrianosouza.com.br^
 ||adricab-next-app.idesoft.co^
+||adright.co^
 ||adrimar.com.br^
 ||adrobotics.com.mx^
 ||ads-fb.co^
@@ -11265,6 +11266,7 @@
 ||barbourcoats.co^
 ||barbouroutletespana.es^
 ||barcala.com.ar^
+||barcelona-backlinks.es^
 ||barcelonaneoville.com.br^
 ||barcia-boniffatti.edu.pe^
 ||barclays.co.uk.personalbanking.p1242557947640.p1242557947640.p1242557947640.093030023030230230002300239.cabe110.com.ar^
@@ -35341,6 +35343,7 @@
 ||mediaserviceb.blogspot.com.uy^
 ||mediatechonline.gq^
 ||mediaunion.co^
+||mediaxchange.co^
 ||medical-app-api-dev.zabud.com.co^
 ||medical-app-silly-core-dev.zabud.com.co^
 ||medical-billing-services.co^
@@ -35960,6 +35963,7 @@
 ||mjshopuae.co^
 ||mk-app.officecom.com.br^
 ||mk-black-amazon.x10.mx^
+||mk.babyisis.com.br^
 ||mk1.net.br^
 ||mkechatgpt.es^
 ||mkm.es^
@@ -38717,6 +38721,7 @@
 ||panoramasat.com.br^
 ||panoramavisual.com.br^
 ||panqvoline.es^
+||pantekkalisakitkepalaku.blogspot.com.ar^
 ||pantekkalisakitkepalaku.blogspot.com.es^
 ||pantherattic.co^
 ||panthermail.com.br^
@@ -42140,6 +42145,8 @@
 ||restore-myaccount.paypal.com.bongkys.gq^
 ||restore-myapple-access.es^
 ||restoretheamazon.com.br^
+||resugovex-1.co^
+||resugovex-2.co^
 ||result-php.co^
 ||resultadoeficaz.com.br^
 ||resultadoimediato.com.br^
@@ -47822,7 +47829,6 @@
 ||wapplerbrasil.com.br^
 ||waptek.com.br^
 ||wapworlddirectory.com.es^
-||warayana.com.pe^
 ||warblespe.gq^
 ||wardia.com.pe^
 ||wardohx.co^
