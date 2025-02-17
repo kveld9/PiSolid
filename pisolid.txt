@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-16T15:08:04.268Z
+! Last modified: 2025-02-17T03:08:08.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -158,6 +158,7 @@
 ||087632335185483.graficaaoquadrado.com.br^
 ||08801.co^
 ||08811.co^
+||08822.co^
 ||08838.co^
 ||08841.co^
 ||08931.pages.net.br^
@@ -586,7 +587,6 @@
 ||2no.co^
 ||2repuvegobmx.com.mx^
 ||2rmetalurgica.com.br^
-||2studio.co^
 ||2syexwjvalym.munty.co^
 ||2tor.com.mx^
 ||3-alpine-slim-rappler-ph.iprice.mx^
@@ -1291,6 +1291,10 @@
 ||a123dd.namdsad.repl.co^
 ||a1acb25a-9478-497a-9dcb-dc38ca455f16.id.repl.co^
 ||a1b11c13-607a-4ed8-aab5-285d07e7ff95.id.repl.co^
+||a1birincibelirle.blogspot.com.br^
+||a1birincibelirle.blogspot.com.es^
+||a1birincibelirle.blogspot.com.uy^
+||a1birincibelirle.blogspot.pe^
 ||a1especialistaapple.com.br^
 ||a2212.jsdsd.repl.co^
 ||a23sa.nadsad.repl.co^
@@ -1746,7 +1750,6 @@
 ||acosecia.com.br^
 ||acost.com.br^
 ||acostainmobiliaria.com.ar^
-||acotton.com.br^
 ||acougueamazonas.com.br^
 ||acouguedobairro.com.br^
 ||acouguedopedrao.com.br^
@@ -2311,7 +2314,6 @@
 ||agoraamazonas.com.br^
 ||agoracompra.com.br^
 ||agoradescontos.com.br^
-||agoramilhas.co^
 ||agoramkt.com.br^
 ||agoraoftalmologia.com.br^
 ||agoratop.com.br^
@@ -2523,6 +2525,7 @@
 ||airsoftamericana.com.br^
 ||airspeednet.com.br^
 ||airticketfree.co^
+||airupmexicomx.com.mx^
 ||airwayfastclaim.es^
 ||airwaystickets.co^
 ||ais-sigue.co^
@@ -9584,6 +9587,8 @@
 ||arstra.com.br^
 ||art-appraisal.co^
 ||art-media.com.mx^
+||art2dec.co^
+||art2live.es^
 ||art2u.com.br^
 ||artamazonia.com.br^
 ||artarq.com.br^
@@ -9849,7 +9854,6 @@
 ||assertiva.agr.br^
 ||assess-home-energy.gq^
 ||assessoria.edirsales.com.br^
-||assessoriacastelobranco-com-br-apnc.gen3.srv.br^
 ||assessorialegalnm.com.br^
 ||assessorianacional.com.br^
 ||assessoriatop.it.seriec.com.br^
@@ -10584,7 +10588,6 @@
 ||back-amazonas.fairvoting.cl^
 ||back-app.mepsi.co^
 ||back-dev.hook.app.br^
-||back.da3em.co^
 ||backdata.es^
 ||backend-app-conecta.naitus.cl^
 ||backend-app.ctcoop.com.co^
@@ -10664,6 +10667,7 @@
 ||balcarce-app.gob.ar^
 ||balcas.com.br^
 ||baldinialimentos.com.br^
+||balenciagatenis.com.mx^
 ||balenciagazapatos.es^
 ||balensiefer.net.br^
 ||balftrend.gq^
@@ -12499,6 +12503,7 @@
 ||blumelife.co^
 ||blumenauiv.com.br^
 ||blumoveis.com.br^
+||blundstonespanaoutlets.es^
 ||bluplanet.com.br^
 ||blur.app-web3.com.co^
 ||bluraynews.com.br^
@@ -13188,6 +13193,7 @@
 ||btc1wfg.blogspot.cl^
 ||btc1wgd.blogspot.mx^
 ||btc1wqv.blogspot.com.uy^
+||btcap.co^
 ||btcfinance.co^
 ||btcprivatepool.cl^
 ||btcstar.co^
@@ -14934,7 +14940,6 @@
 ||chasdaamazoniaeervas.com.br^
 ||chase-jp.vivelumen.cl^
 ||chase-login.vivelumen.cl^
-||chase-secure-customer-account-information-online-login-services.cobrajet.com.br^
 ||chase-verification.trskl.com.br^
 ||chase.com.aeroportojeri.com.br^
 ||chase.connects.gq^
@@ -16210,6 +16215,7 @@
 ||claim-ff-berhadiah2022.mypi.co^
 ||claim-freeskin.mypi.co^
 ||claim-mlbb157.gq^
+||claim-pudgy.blogspot.mx^
 ||claim-renzoprotocol.co^
 ||claim.free-eventk20juni.gq^
 ||claim.justclaimgift.gq^
@@ -16806,7 +16812,7 @@
 ||coinbase.verification.guerramkt.com.br^
 ||coinbaselogin.blogspot.com.uy^
 ||coinbaserv-alpha.havenflowers.co^
-||coinbasewalletsupport.es^
+||coinbaseus.co^
 ||coinchecker.com.br^
 ||coineurocapital.co^
 ||coinevents2021info.depenax769.repl.co^
@@ -18570,7 +18576,6 @@
 ||cssjs.co^
 ||cssnf-a.gq^
 ||cssozopuruhtlms-nku.alineweege.repl.co^
-||cstr.constructoramelgarejo.cl^
 ||csupport.cl^
 ||ct2mengenharia.com.br^
 ||ct50exrx.robertaocana.com.br^
@@ -20255,7 +20260,6 @@
 ||dbfa508a-b868-4dfc-90e1-7b9511861842.id.repl.co^
 ||dbfgh.blogspot.cl^
 ||dblcto.co^
-||dbnutricaoanimal.com.br^
 ||dbs-ibanking.gq^
 ||dbs-safeguard.co^
 ||dbug-apps.cl^
@@ -20431,6 +20435,7 @@
 ||defiantstormybooleanvalue.wwwseguriti.repl.co^
 ||deficientsillyproperties.omarbaez.repl.co^
 ||defieo.co^
+||defindopro.co^
 ||defined-resources.co^
 ||defiomega.co^
 ||defion.co^
@@ -20538,6 +20543,7 @@
 ||deluxeamazon.co^
 ||delvin.com.br^
 ||demaispromo.com.br^
+||demandanoinstagram.com.br^
 ||demandventure.co^
 ||demarcvial.cl^
 ||deme-group.reibombas.com.br^
@@ -21072,6 +21078,7 @@
 ||dgfjrfgdytijf.blogspot.cl^
 ||dghfghdfhdgfhdhfeywbrtv235.tyjndtyjnklas65.repl.co^
 ||dgkdrone.cl^
+||dgkmexico.com.mx^
 ||dgmimoveis.com.br^
 ||dgn-app.erickcerqueira.com.br^
 ||dgps-govpk.co^
@@ -22270,6 +22277,7 @@
 ||dvscolombia.com.co^
 ||dvsistemas.com.mx^
 ||dvsmall.com.br^
+||dvsshoescolombia.com.co^
 ||dvtaterra.com.br^
 ||dvtaxrefund.co^
 ||dvwfoco.net.br^
@@ -22994,6 +23002,7 @@
 ||eliteamazon.com.br^
 ||eliteamazonconsultancy.co^
 ||eliteaviation.com.br^
+||elitecoberturalegal.com.ar^
 ||elitefiltroeoleo.com.br^
 ||eliteimportadosoficial.com.br^
 ||elitemail.com.br^
@@ -23284,7 +23293,6 @@
 ||empresarial.appsistema.gq^
 ||empresarialhotel.com.br^
 ||empresas-app.pottencial.com.br^
-||empresas.agnusabrasivos.com.br^
 ||empresasajato.com.br^
 ||empresasamazonas.com.br^
 ||emprestimosmyrian.com.br^
@@ -23811,6 +23819,7 @@
 ||escritoriowillar.net.br^
 ||escrituraacademica.co^
 ||escuadrondelpanico.es^
+||escudodeprotecao.com.br^
 ||escuela-inclusiva.com.ar^
 ||escuela-numerologia.com.ar^
 ||escuela411.cl^
@@ -24184,6 +24193,7 @@
 ||eusoqueroeserfeliz.net.br^
 ||eusouamazonense.com.br^
 ||eusoujoia.com.br^
+||eusouogoogle.com.br^
 ||euvotodistrital.org.br^
 ||euvsnaval.gq^
 ||eux8zcgrq0s6zgxtc8pns72gjstg.we9ixzz.co^
@@ -26825,7 +26835,6 @@
 ||grenetina.mx^
 ||gresceramica.com.co^
 ||greyapple.com.br^
-||greyseafood.co^
 ||grhh.co^
 ||gridcoin.co^
 ||gridsa.es^
@@ -27133,6 +27142,7 @@
 ||hackdash.co^
 ||hackerdoonlyfans.com.br^
 ||hackerhatroblox.blogspot.mx^
+||hackers-saja.blogspot.com.es^
 ||hackersallin.esy.es^
 ||hackett.com.mx^
 ||hackggroblox.blogspot.com.br^
@@ -27283,6 +27293,7 @@
 ||hellosm.pe^
 ||hellstarshirt.com.co^
 ||helly-hansen.com.es^
+||helly-hansen.com.mx^
 ||helly-hansen.mx^
 ||hellyhansen-espana.es^
 ||hellyhansenespana.es^
@@ -27453,6 +27464,7 @@
 ||hillerclubgroup.com.es^
 ||hillierclubgroup.com.es^
 ||hillswear.co^
+||hilltop-enterprises.co^
 ||hillviewp.gq^
 ||hilwellchev.gq^
 ||himaaoue.co^
@@ -31571,6 +31583,7 @@
 ||ht5.net.br^
 ||htchk.co^
 ||htcourse.es^
+||htechprojetos.com.br^
 ||htfx.co^
 ||htltreinamentos.com.br^
 ||htmlsuport.62763.repl.co^
@@ -31766,7 +31779,6 @@
 ||id-amazon.co^
 ||id-appleid.co^
 ||id.com.py^
-||id.ionos.sanshara.es^
 ||id.sv^
 ||id200654log.hol.es^
 ||idaconstrucciones.com.ar^
@@ -32261,9 +32273,9 @@
 ||instafan.hol.es^
 ||instafollowers.co^
 ||instagram.agenciadetreinamentos.com.br^
+||instagram.cajuinaweb.com.br^
 ||instagram.com-login-mobile.ciberconsulta.es^
 ||instagram.com.ec^
-||instagram.kanash.com.br^
 ||instagram.pe^
 ||instagram.seba.cl^
 ||instagram506306.blogspot.com.br^
@@ -32430,7 +32442,6 @@
 ||intimisima.es^
 ||intl-paypal.com-limitedaccount.resolve.cpiseguridad.com.mx^
 ||intlaccmangespaymentsverifyngwebappsecurenew.transisaac.cl^
-||intlrecoveryaccessoabekrebewoanelauth.lcservice.com.br^
 ||intolerancias-alimentarias-umebir.es^
 ||intra-apps.mehio.co^
 ||intracomer.com.mx^
@@ -32457,7 +32468,6 @@
 ||invessa.co^
 ||invest-hour.gq^
 ||invest.autumnmarket.co^
-||invest.com.mx^
 ||invest.hugecninv.co^
 ||invest.nexioval.co^
 ||investadia.es^
@@ -32860,7 +32870,6 @@
 ||jandradesigns.co^
 ||janesapplehome.com.br^
 ||jangadeirose.com.br^
-||janrvnuagnt.co^
 ||janus.com.ve^
 ||japonesdaagua.com.br^
 ||japronto.com.br^
@@ -33018,6 +33027,7 @@
 ||joeasdz.gq^
 ||joesantibanez.cl^
 ||jogandorobloxpela1vez.blogspot.com.ar^
+||jogarrobloxsimulatordinossauro.blogspot.com.co^
 ||jogarrobloxsimulatordinossauro.blogspot.com.es^
 ||jogoderobloxsdecorrida.blogspot.com.br^
 ||jogoderobloxsdecorrida.blogspot.com.uy^
@@ -33338,6 +33348,7 @@
 ||ketsode.gq^
 ||keycloak-apps.projuris.com.br^
 ||keygroup.com.mx^
+||keylinkcorp.co^
 ||kgmawiza.cl^
 ||kh1vfoh5.easy.co^
 ||khenos.cl^
@@ -33353,6 +33364,7 @@
 ||kibana-app.whitesector-qa.inf.elasticnet.co^
 ||kibo-app.repl.co^
 ||kickerdobrasil.com.br^
+||kickersespana.es^
 ||kickico.co^
 ||kidahora.com.br^
 ||kidjfgsdjihfgsdjkfhskjdfhdsf.blogspot.cl^
@@ -34357,7 +34369,6 @@
 ||lollipoppi.com.br^
 ||loncochetransparente.cl^
 ||london-amazon.volnanews.co^
-||londrifotocabine.com.br^
 ||lonecesario.es^
 ||long-champ-mexico.com.mx^
 ||long-champmexico.com.mx^
@@ -35786,7 +35797,6 @@
 ||miehejus.gq^
 ||mielemotos.com.ar^
 ||miercolesb.cl^
-||miespacio.dinero-bcp.com.almeriapaes.com.br^
 ||migordico.es^
 ||migratetoamazon.co^
 ||migueltorrespro.cl^
@@ -36578,7 +36588,6 @@
 ||myetherwallets.co^
 ||myfifa.co^
 ||myg0vaccess.es^
-||mygovau.soe.mx^
 ||mygrammarly.co^
 ||myguyjeremy.x10.mx^
 ||myhomedecoracion.com.uy^
@@ -36708,6 +36717,7 @@
 ||nativaagro.com.br^
 ||nativacouro.com.br^
 ||nativetongue.edu.co^
+||natorganico.agr.br^
 ||natprevi.rj.gov.br^
 ||nattecnica.com.br^
 ||natuamazon.com.br^
@@ -37362,6 +37372,7 @@
 ||nikashopp.com.br^
 ||nikebelgie.co^
 ||nikecolombiabogota.co^
+||nikedunk.com.mx^
 ||nikepegasus.es^
 ||niki-app.cl^
 ||nikimineradora.com.br^
@@ -40694,6 +40705,7 @@
 ||pre-app.softmedic.co^
 ||pre-appcruev7.uca.es^
 ||pre-appmovil.sgae.es^
+||pre.abafast.cl^
 ||precatorioamazonas.com.br^
 ||precatoriosamazonas.com.br^
 ||precatoriosdoamazonas.com.br^
@@ -41631,6 +41643,7 @@
 ||rbcborealis.co^
 ||rbcroyalbankbmoscotiabankmetamaskcoinbasebinanceledger.bajopar.mx^
 ||rbgarciaseguros.com.br^
+||rbixsfaton.blogspot.com.co^
 ||rblxclaimgift.blogspot.com.uy^
 ||rblxclaimgift.blogspot.mx^
 ||rblxxv2.blogspot.com.co^
@@ -41668,6 +41681,7 @@
 ||rc-apps.mx^
 ||rc01.net.br^
 ||rca-auditores.cl^
+||rcadelivery.com.br^
 ||rcfuneral.com.br^
 ||rcj.cl^
 ||rclntmrsztrwebservnea.webservers.repl.co^
@@ -42852,6 +42866,7 @@
 ||rrhh-app.devdpma.gdeba.gba.gob.ar^
 ||rrilnanan.gq^
 ||rrosaamazonica.com.br^
+||rrproperties.iamtech.mx^
 ||rs-app.karmo.co^
 ||rs1.lumebbmemoria.com.br^
 ||rsapple.mx^
@@ -43022,6 +43037,7 @@
 ||salfa-app.cl^
 ||salju168login.co^
 ||salomonireland.co^
+||salomonoutlet.es^
 ||salomonusa.co^
 ||salonapple.co^
 ||salope-en-webcam.blogspot.pe^
@@ -44190,6 +44206,7 @@
 ||skillapple567.repl.co^
 ||skincareamazonia.com.br^
 ||skincaremayoreo.mx^
+||skinport.com.es^
 ||skinrosaamazonica.com.br^
 ||skinsjari.gq^
 ||skintec.com.py^
@@ -45011,6 +45028,8 @@
 ||sub-app.karmo.co^
 ||sub.sertechno.com.br^
 ||subaru.com.gt^
+||subatayindirimleriniz.blogspot.com.br^
+||subatayindirimleriniz.blogspot.mx^
 ||suberte.gq^
 ||subiri.gq^
 ||sublicolores.es^
@@ -46074,6 +46093,7 @@
 ||tiktokjobs.co^
 ||tiktokmais18.com.br^
 ||tiktokmarketing.es^
+||tiktokmoneyebook.com.br^
 ||tiktoknews.com.br^
 ||tiktoknotes.co^
 ||tiktokshop88.co^
@@ -46555,6 +46575,7 @@
 ||trustorigin.co^
 ||trustsolucoes.com.br^
 ||trustvest.co^
+||trustwallet.com.gt^
 ||trustwallet.com.secure.login.blackdiamond.pe^
 ||try.articblast.co^
 ||try.olavita.co^
@@ -46869,6 +46890,7 @@
 ||uniast11.co^
 ||unicatr.com.br^
 ||uniceba.edu.mx^
+||unicismadrid.es^
 ||unicomiberica.es^
 ||unidadedereferencia.com.br^
 ||unidasfarma.com.br^
@@ -47090,7 +47112,6 @@
 ||uvmovil.cl^
 ||uxiamazontour.com.br^
 ||uxing.es^
-||uxinnovation.com.br^
 ||uyagsd678tg973y29yd98yashd98aasdee.blogspot.mx^
 ||uyamazon.sattamatka.com.mx^
 ||uyfydyde5.blogspot.com.ar^
@@ -47282,6 +47303,7 @@
 ||venturaparts.com.br^
 ||ventureriders.co^
 ||venur.com.uy^
+||venusprotocol.ec^
 ||venusselection.es^
 ||ver.suzukigolfo.com.mx^
 ||verac.com.mx^
@@ -47442,6 +47464,7 @@
 ||videoheat2024.blogspot.com.co^
 ||videoheat2024.blogspot.com.uy^
 ||videohothot2021xxcommm.blogspot.com.uy^
+||videohottodaylive.blogspot.pe^
 ||videonewgg79.blogspot.cl^
 ||videonewgg79.blogspot.pe^
 ||videosdownload.co^
@@ -47771,6 +47794,7 @@
 ||vulsadmunasd.gq^
 ||vulsiket.gq^
 ||vuotlenchinhminh-homepages.pages.net.br^
+||vv777.net.br^
 ||vvczxoqe.xpe.bz^
 ||vveb-app-outiook.mayoristaenonce.com.ar^
 ||vvfdecoracoes.com.br^
@@ -47808,7 +47832,6 @@
 ||wallbed.co^
 ||wallet-app.co^
 ||wallet-dappsvalidationb.on.fleek.co^
-||wallet.nexo.geth.org.br^
 ||walletconnects.co^
 ||walletsconnects.on.fleek.co^
 ||walletvalidation.co^
@@ -47912,7 +47935,6 @@
 ||web-apps.seremisalud15.cl^
 ||web-booking.co^
 ||web-centrum24-pl.es^
-||web-ch-auth.es^
 ||web-check.co^
 ||web-hoster.co^
 ||web-page.co^
@@ -48446,7 +48468,6 @@
 ||xn--aldeadesueos-jhb.com.ar^
 ||xn--anarosaexcurses-4sb.com.br^
 ||xn--andryimobiliria-yjb.com.br^
-||xn--aprendendosobrefinanas-j7b.com.br^
 ||xn--apymaazpilagaa-2nb.es^
 ||xn--armao-dra1a.mus.br^
 ||xn--artedeao-y0a.com.br^
@@ -48785,7 +48806,6 @@
 ||xz.08812.co^
 ||xz.08815.co^
 ||xz.08819.co^
-||xz.08822.co^
 ||xz.08829.co^
 ||xz.13188.co^
 ||xz.18488.co^
@@ -48806,6 +48826,7 @@
 ||yaksushi.com.br^
 ||yameamazonia.com.br^
 ||yanaaker.co^
+||yandexgames.co^
 ||yandexjapanapk.co^
 ||yankeewarehouse.co^
 ||yanxi.gq^
