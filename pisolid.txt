@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-17T03:08:08.186Z
+! Last modified: 2025-02-17T15:08:04.716Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7534,6 +7534,7 @@
 ||app.smartyou.es^
 ||app.supershoes.mx^
 ||app.tapid.es^
+||app.whirr.co^
 ||app.zerion.com.co^
 ||app1.00515.co^
 ||app33076.hol.es^
@@ -17017,6 +17018,7 @@
 ||comapple.combine.co^
 ||comapple.comsales.co^
 ||comasaindustrial.cl^
+||combate.tec.br^
 ||combatediesel.com.br^
 ||combodirectoryusa.gq^
 ||combustivel-app.smartia.com.br^
@@ -18627,6 +18629,7 @@
 ||cuentasempresariales.com.co^
 ||cuentasenlinea.com.mx^
 ||cuerosecoi.cl^
+||cuestaserena.pe^
 ||cuevadenerja.es^
 ||cuidadosbb.com.br^
 ||cuidadosrosaamazonica.com.br^
@@ -38503,6 +38506,7 @@
 ||ourogessorp.com.br^
 ||ouroverdegoias.go.gov.br^
 ||ourupad.gq^
+||ourwebmail.es^
 ||out.aipad.co^
 ||outiook-vveb-app.mayoristaenonce.com.ar^
 ||outlet-burberry.net.co^
@@ -41620,6 +41624,7 @@
 ||rastreiawhatsapp.com.br^
 ||rastrekamazonas.com.br^
 ||rastrobel.com.br^
+||rasttemp.com.br^
 ||ratelgame.co^
 ||ratnnyhfs.gq^
 ||ratondepraga.es^
@@ -42063,6 +42068,7 @@
 ||repartilho.com.br^
 ||repeatedof.co^
 ||repelautopecas.com.br^
+||repertorioenem.com.br^
 ||repex.es^
 ||repivo.com.br^
 ||replaceegypt.oo3.co^
@@ -46474,6 +46480,7 @@
 ||trendyinia.esy.es^
 ||trendyoutlet.co^
 ||trendysale.co^
+||trenewbjh13.com.es^
 ||trengo-app.businessmine.co^
 ||trentino.edu.pe^
 ||trenzinhocomecome.com.br^
@@ -46903,6 +46910,7 @@
 ||unijovem.com.br^
 ||unikojapanesehouse.co^
 ||unilabor-app.mx^
+||unilatina.edu.co^
 ||unimedodontosp.com.br^
 ||unimedplanonacional.net.br^
 ||unimolofe.blogspot.com.ar^
