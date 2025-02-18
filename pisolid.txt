@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-18T03:08:04.884Z
+! Last modified: 2025-02-18T15:08:05.509Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -548,6 +548,7 @@
 ||295930422033823.graficaaoquadrado.com.br^
 ||29888.co^
 ||29951a9c-7f34-4888-8c7f-3497492d044f.id.repl.co^
+||29blywm8icf716hq.umso.co^
 ||2a5sd6as6dff-2.easy.co^
 ||2a766d93-6119-40cc-aadd-dac05dd3569b.id.repl.co^
 ||2a767dff-2b98-4592-8625-89f6c4111afc.id.repl.co^
@@ -2610,6 +2611,7 @@
 ||alaskaaase.mypi.co^
 ||alaspasteleria.com.mx^
 ||alaxan.gq^
+||albapietra.com.br^
 ||albecspaypalpdn.bancadigital.com.co^
 ||albercasresidenciales.com.mx^
 ||alberteinstein.edu.pe^
@@ -11302,6 +11304,7 @@
 ||barriolashuertas.com.ar^
 ||barriourbano.cl^
 ||barrocutina.com.mx^
+||barros.com.ve^
 ||barrysalmon.gq^
 ||barsaji.com.mx^
 ||bartolinicontabilidade.com.br^
@@ -17024,7 +17027,6 @@
 ||comapple.combine.co^
 ||comapple.comsales.co^
 ||comasaindustrial.cl^
-||combate.tec.br^
 ||combatediesel.com.br^
 ||combodirectoryusa.gq^
 ||combustivel-app.smartia.com.br^
@@ -40592,6 +40594,7 @@
 ||portatrekos.com.br^
 ||portecerto.com.br^
 ||portelas.es^
+||portfolio-metamask.fmvida.es^
 ||portfolioagenciasmall.com.br^
 ||portgamesonline.com.es^
 ||portnersports.com.br^
@@ -41647,7 +41650,6 @@
 ||rastreiawhatsapp.com.br^
 ||rastrekamazonas.com.br^
 ||rastrobel.com.br^
-||rasttemp.com.br^
 ||ratelgame.co^
 ||ratnnyhfs.gq^
 ||ratondepraga.es^
@@ -46800,6 +46802,7 @@
 ||u-trade-fx.co^
 ||u1x.co^
 ||u3l.co^
+||u8nf.oikosimpresos.cl^
 ||ua.kinogo.ec^
 ||uae-app.phishguard.co^
 ||uaildafeao.gq^
@@ -48904,6 +48907,7 @@
 ||yhoo.co^
 ||yhoo.com.ar^
 ||yhrehyrdkyrtktrlkr6yy6lk5.blogspot.cl^
+||yila.prommraoua.cl^
 ||yjk.co^
 ||yk188apple.co^
 ||yk988apple.co^
