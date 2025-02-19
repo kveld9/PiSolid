@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-19T03:08:05.961Z
+! Last modified: 2025-02-19T15:08:06.780Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11313,6 +11313,7 @@
 ||barriolashuertas.com.ar^
 ||barriourbano.cl^
 ||barrocutina.com.mx^
+||barros.com.ve^
 ||barrysalmon.gq^
 ||barsaji.com.mx^
 ||bartolinicontabilidade.com.br^
@@ -16148,6 +16149,7 @@
 ||circuloxero.cl^
 ||circusdesign.com.br^
 ||cirdigital.com.br^
+||ciree.com.br^
 ||cirepsac.pe^
 ||cirugiainfantil.cl^
 ||cirugiamenor.cl^
@@ -27139,6 +27141,7 @@
 ||gustavoserver1.com.br^
 ||gutxksrgcoamazon-de.beta.imdb.com.ar^
 ||gvamerica.co^
+||gvartstudio.com.mx^
 ||gvztim.gq^
 ||gwbcardans.com.br^
 ||gwrepresentacoes.com.br^
@@ -41432,6 +41435,7 @@
 ||qualityprimed.co^
 ||qualividabtu.com.br^
 ||qualligraff.com.br^
+||quantacapital.co^
 ||quanticaservicos.com.br^
 ||quantigain.co^
 ||quantstamp.com.co^
@@ -46360,6 +46364,7 @@
 ||topscriptpmta.net.br^
 ||topsd.com.br^
 ||topsenior.com.br^
+||toptiercapital.co^
 ||toptopmail.gq^
 ||topuogodo.gq^
 ||topwebclubvip.com.es^
