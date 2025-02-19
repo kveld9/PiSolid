@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-18T15:09:14.088Z
+! Last modified: 2025-02-19T15:09:15.168Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3208,9 +3208,6 @@ google-analytics.$important
 ||agence-adwords.com^
 ||agenceadwords.org^
 ||agence-rencontres-dijon.net^
-||ai.google^
-||ai.google.com^
-||ai.google.dev^
 ||aiplatform.googleapis.com^
 ||alloydb.googleapis.com^
 ||ampcid.google.ac^
@@ -3745,7 +3742,6 @@ google-analytics.$important
 ||autodiscover.googleapis.com^
 ||automl.googleapis.com^
 ||badad.googleplex.com^
-||bard.google.com^
 ||baseremoteconfig.googleapis.com^
 ||benchmark.1e100cdn.net^
 ||beryllium-pa.googleapis.com^
@@ -3829,8 +3825,6 @@ google-analytics.$important
 ||contributor.google.com^
 ||cookiechoices.org^
 ||copresence.googleapis.com^
-||coral.ai^
-||coral.withgoogle.com^
 ||crashlytics2.l.google.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -3858,8 +3852,6 @@ google-analytics.$important
 ||datasaver.googleapis.com^
 ||datastream.googleapis.com^
 ||datastudio.googleapis.com^
-||deepmind.com^
-||deepmind.google^
 ||deliver-peak-performance.co.uk^
 ||deliverpeakperformance.co.uk^
 ||device-provisioning.googleapis.com^
@@ -3947,7 +3939,6 @@ google-analytics.$important
 ||gameswhitelisted.googleapis.com^
 ||gapromomanager-pa.googleapis.com^
 ||geller-pa.googleapis.com^
-||gemini.google.com^
 ||generativelanguage.googleapis.com^
 ||geomobileservices-pa.googleapis.com^
 ||get-installed-apps.glitch.me^
@@ -4501,7 +4492,6 @@ google-analytics.$important
 ||id.google.vu^
 ||id.google.ws^
 ||id.l.google.com^
-||idx.dev^
 ||il-advil.waze.com^
 ||imasdk.googleapis.com^
 ||imgpop.googlecode.com^
@@ -5405,7 +5395,6 @@ watcab*.blob.core.windows.net
 ||consentdeliveryfd.azurefd.net^
 ||copilot.cloud.microsoft^
 ||copilot-copilot-msft-com.trafficmanager.net^
-||copilot.microsoft.com^
 ||copilot.microsoft.com.edgekey.net^
 ||copilotpromptlibrary-ccm-prod-b5bxarg0bca5hngp.z01.azurefd.net^
 ||corp.sts.microsoft.com^
@@ -5487,6 +5476,7 @@ watcab*.blob.core.windows.net
 ||livetileedge.xbetservices.akadns.net^
 ||ln-ring.msedge.net^
 ||location.live.net^
+||m365copilot.com^
 ||manage.devcenter.microsoft.com^
 ||maps-win-com-cdn.afd.azureedge.net^
 ||maps-win-com-cdn.azureedge.net^
