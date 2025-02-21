@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-20T15:09:13.902Z
+! Last modified: 2025-02-21T15:09:23.819Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -84,6 +84,8 @@
 ||metrics1.citi.com^
 ||metrics.aa.com^
 ||metrics.adobe.com^
+||metrics.att.com^
+||metrics.att.com.edgekey.net^
 ||metrics.carfax.com^
 ||metrics.chipotle.com^
 ||metrics.cnn.com^
@@ -131,6 +133,8 @@
 ||senseicore.adobe.io^
 ||senseicore-ue1.adobe.io^
 ||smetrics.aa.com^
+||smetrics.att.com^
+||smetrics.att.com.edgekey.net^
 ||smetrics.carfax.com^
 ||smetrics.cnn.com^
 ||smetrics.delta.com^
@@ -1073,6 +1077,7 @@ voiceid*.amazonaws.
 ||api-adservices.apple.com^
 ||api-smoot.apple.com^
 ||applemediaservices.com^
+||apple.netscape.com^
 ||appleseed.apple.com^
 ||appleseedcdn.apple.com^
 ||appleseed.v.aaplimg.com^
@@ -1167,6 +1172,7 @@ voiceid*.amazonaws.
 ||lcdn-locator-usuqo.apple.com.akadns.net^
 ||lcdn-registration.apple.com^
 ||lcdn-registration.apple.com.akadns.net^
+||livepage.apple.com^
 ||marketing.services.apple^
 ||me.apple-dns.net^
 ||metrics.apple.com^
@@ -4959,6 +4965,7 @@ google-analytics.$important
 ||mybusinesslodging.googleapis.com^
 ||mybusinessnotifications.googleapis.com^
 ||mycloudaudit.com^
+||myphonenumbers-pa.googleapis.com^
 ||myscoop-tracking.googlecode.com^
 ||mysearchhistorygoogle.com^
 ||near.by^
@@ -5392,7 +5399,10 @@ watcab*.blob.core.windows.net
 ||confiant.msn.com^
 ||confiant.msn.com.edgekey.net^
 ||config-edge-skype.l-0007.l-msedge.net^
+||consent.config.office.akadns.net^
+||consent.config.office.com^
 ||consentdeliveryfd.azurefd.net^
+||consentservice.microsoft.com^
 ||copilot.cloud.microsoft^
 ||copilot-copilot-msft-com.trafficmanager.net^
 ||copilot.microsoft.com.edgekey.net^
@@ -5406,6 +5416,7 @@ watcab*.blob.core.windows.net
 ||customervoice-prod.forms.office.com.akadns.net^
 ||data.microsoft.com^
 ||data.microsoft.com.akadns.net^
+||data.microsoft.us^
 ||data.msn.com^
 ||data.trafficmanager.net^
 ||dc.services.visualstudio.com^
@@ -5427,8 +5438,11 @@ watcab*.blob.core.windows.net
 ||edgewelcomecdn.microsoft.com^
 ||edgewelcome.trafficmanager.net^
 ||edgewelcome-west3.azurewebsites.net^
+||engagement.office.com^
 ||ensighten.com^
 ||errors.client.optimizely.com^
+||events.endpoint.security.microsoft.com^
+||events.endpoint.security.microsoft.us^
 ||events.msn.com^
 ||evoke-windowsservices-tas.msedge.net^
 ||evoke-windowsservices-tas-msedge-net.e-0009.e-msedge.net^
@@ -5535,6 +5549,7 @@ watcab*.blob.core.windows.net
 ||privacy.microsoft.com.edgekey.net^
 ||prod-azurecdn-akamai-iris.azureedge.net^
 ||prod-azurecdn-akamai-iris.ec.azureedge.net^
+||prod-campaignaggregator.omexexternallfb.office.net.akadns.net^
 ||px4-ads-linkedin-com.ipv4.l-0005.l-msedge.net^
 ||query.prod.cms.rt.microsoft.com^
 ||query.prod.cms.rt.microsoft.com.edgekey.net^
