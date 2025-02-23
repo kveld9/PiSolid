@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-21T15:09:23.819Z
+! Last modified: 2025-02-23T03:09:14.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5424,9 +5424,17 @@ watcab*.blob.core.windows.net
 ||diagnostics.office.com^
 ||diagnostics.support.microsoft.akadns.net^
 ||diagnostics.support.microsoft.com^
+||dual-s-0005-office.config.skype.com^
 ||dual-s-ring.msedge.net^
 ||eaus2watcab01.blob.core.windows.net^
 ||eaus2watcab02.blob.core.windows.net^
+||ecs-afd-atm-dod.usgovtrafficmanager.net^
+||ecs-afd-atm-gcch.usgovtrafficmanager.net^
+||ecs.dod.teams.microsoft.us^
+||ecs.gov.teams.microsoft.us^
+||ecs.office.com^
+||ecs-office.s-0005.dual-s-msedge.net^
+||ecs.office.trafficmanager.net^
 ||edgeassetservice.afd.azureedge.net^
 ||edgeassetservice.azureedge.net^
 ||edgeoffer.microsoft.com^
@@ -5575,6 +5583,7 @@ watcab*.blob.core.windows.net
 ||snap.licdn.com^
 ||social.microsoft.com^
 ||social.microsoft.com.nsatc.net^
+||spclient.wg.spotify.com^
 ||sqm.microsoft.com^
 ||s-ring.msedge.net^
 ||srtb.msn.com^
@@ -5620,12 +5629,18 @@ watcab*.blob.core.windows.net
 ||watson.live.com^
 ||watson.microsoft.com^
 ||wcpstatic.microsoft.com^
+||wdcpalt.microsoft.com^
+||wdcp.microsoft.com^
+||wd-prod-cp.trafficmanager.net^
+||wd-prod-cp-us-east-2-fe.eastus.cloudapp.azure.com^
+||wd-prod-cp-us-west-1-fe.westus.cloudapp.azure.com^
 ||weathermapdata.blob.core.windows.net^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||widgetcdn.afd.azureedge.net^
 ||widgetcdn.azureedge.net^
 ||widgetservice.azurefd.net^
+||windows.msn.cn^
 ||windows.msn.com^
 ||win-global-asimov-leafs-events-data.trafficmanager.net^
 ||wpc.9be8f.omegacdn.net^
