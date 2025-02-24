@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-24T03:08:09.445Z
+! Last modified: 2025-02-24T15:08:08.828Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1728,6 +1728,7 @@
 ||actuadistinto.org.mx^
 ||actualbrasil.com.br^
 ||actualidadesmexico.mx^
+||actualizar-aqui016.rosacamila2781.repl.co^
 ||actualizar-dinamica-1.bancodigital.repl.co^
 ||actualizar-dinamica1.bancodigital.repl.co^
 ||actualizarbanca--bisabanco.repl.co^
@@ -1799,7 +1800,6 @@
 ||adfee.com.mx^
 ||adfmissoes.com.br^
 ||adguinchos.com.br^
-||adib-eg.co^
 ||adic-app-profesionales.stag.idbl.es^
 ||adicii.com.br^
 ||adict.com.br^
@@ -10617,7 +10617,6 @@
 ||bancolombi2222.bancolombi2222.repl.co^
 ||bancolombi25.repl.co^
 ||bancolombia--360home.repl.co^
-||bancolombia--360personal.repl.co^
 ||bancolombia--andresgutierr48.repl.co^
 ||bancolombia--com-an.repl.co^
 ||bancolombia--com-app.repl.co^
@@ -12639,7 +12638,6 @@
 ||brazzershd.co^
 ||brazzicatering.com.ar^
 ||brazzos.com.br^
-||brc-62541950.xyad.com.mx^
 ||brc-93697811.xyad.com.mx^
 ||brclima.net.br^
 ||brclimatizacao.net.br^
@@ -12910,7 +12908,6 @@
 ||budoutdoors.gq^
 ||buemerssa.gq^
 ||buenasalud.com.ar^
-||buenastrico--davidpla.repl.co^
 ||buenchico.mx^
 ||bueno.adv.br^
 ||buenomenegatti.adv.br^
@@ -13605,7 +13602,6 @@
 ||capsondelivery.com.br^
 ||capsule-app.co^
 ||captacao-de-clientes-1.com.br^
-||captacaoalmeidaneder.com.br^
 ||captadores.wwf.cl^
 ||captaincosta.es^
 ||captasaude.com.br^
@@ -13642,7 +13638,6 @@
 ||cardiologiapalermo.com.ar^
 ||cardiologistaamazonas.com.br^
 ||cardiomarin.com.br^
-||carditau.com.br^
 ||cardubansse.gq^
 ||cardv2.prexonline.repl.co^
 ||care-app.co^
@@ -21622,7 +21617,6 @@
 ||dripsociety.co^
 ||drivas.cl^
 ||drive-googlc-com--tlil.repl.co^
-||drive-googlc-com.silif.repl.co^
 ||driveamazonconsultancy.co^
 ||drivedrop.co^
 ||driveforlife.com.br^
@@ -36938,6 +36932,7 @@
 ||next-app.paylosecure.phpmyadmin.cloutemaps.cursosbelezaestetica.com.br^
 ||nextamazonconsultancy.co^
 ||nextapple.co^
+||nextgenstudio.com.mx^
 ||nextjob.com.sv^
 ||nextlevelamazonconsultancy.co^
 ||nexttop.co^
