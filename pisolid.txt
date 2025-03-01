@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-01T03:08:08.363Z
+! Last modified: 2025-03-01T15:08:14.215Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -572,7 +572,6 @@
 ||32express.com.br^
 ||331801cc-b431-41e2-8cad-5e1eeff3e859.id.repl.co^
 ||3333.pages.net.br^
-||333359347543857333333--345435345345345.repl.co^
 ||333907479255748.graficaaoquadrado.com.br^
 ||33453705628973648654235.jamb2022.co^
 ||339652083152899.cocopasa.com.mx^
@@ -958,7 +957,6 @@
 ||779890.co^
 ||77uu.co^
 ||7852-bcmidgetrademarketing.gq^
-||787094597633762.fysabogados.cl^
 ||78755667.pedritos.repl.co^
 ||78ex.co^
 ||791804551256359.graficaaoquadrado.com.br^
@@ -1376,7 +1374,6 @@
 ||accards.com.br^
 ||accctivar-dinamica435656.nehim36338.repl.co^
 ||accdata.co^
-||accederseguro.actualizanbofa.repl.co^
 ||accedi-alla-tua-banca-online-intesa-sanpaolo.creacionfm.cl^
 ||accefyn.org.co^
 ||accelerateamazonconsultancy.co^
@@ -1614,7 +1611,6 @@
 ||activeamazony.online.revitanew.com.br^
 ||activeaveragecategory.josealbertoal21.repl.co^
 ||activecosmetic.com.ar^
-||activecox-supp.gq^
 ||activeinmobiliaria.mx^
 ||activelinks.com.br^
 ||actividadgaliciiii87675.wordespecies.repl.co^
@@ -1789,7 +1785,6 @@
 ||adnaaake.co^
 ||adntechnology.co^
 ||adob383fhpesdhm478nmddab.mattsenior1.repl.co^
-||adobe.com.adobedocumentcloud.gq^
 ||adobe.com.invcs.gq^
 ||adobe.com.metalc.com.br^
 ||adobe.rn47gaming.repl.co^
@@ -10062,6 +10057,7 @@
 ||auth-sso-biglobe-sso-mail-63e97b97996df.esup.edu.br^
 ||auth-sso-biglobe-sso-mail-63f3484c718cd.esup.edu.br^
 ||auth.1und1.de.kundencenter.nmtr.com.br^
+||auth.cantustore.com.br^
 ||auth.emailserv.repl.co^
 ||auth.lacebook.gq^
 ||auth.mutantx.co^
@@ -10392,7 +10388,6 @@
 ||b6kzu5nvythmeb.we9ixzz.co^
 ||b7748d44-9844-4660-80f3-6b307bed02d7.id.repl.co^
 ||b7bdlgs0.we9ixzz.co^
-||b7nj8j5ttoez.haztedigital.cl^
 ||b7vga.we9ixzz.co^
 ||b8198f96-bc8f-4f5c-8a34-01b7451a5b67.id.repl.co^
 ||b84079ed-d679-4f11-8b7e-441bcdf0a910.id.repl.co^
@@ -10804,7 +10799,6 @@
 ||bancolombiaco.tu360.repl.co^
 ||bancolombiacom.validaciondedatos.repl.co^
 ||bancolombiacreditos.1com0302.repl.co^
-||bancolombiacreditos.1com5392.repl.co^
 ||bancolombiacreditos.1com90578.repl.co^
 ||bancolombiaenlinea--1com7118.repl.co^
 ||bancolombial.com-xlq.repl.co^
@@ -11819,7 +11813,6 @@
 ||bipamerica.co^
 ||bipigas.com.mx^
 ||bipremiumstore.com.br^
-||biptokencompras.gaoz10.repl.co^
 ||biptokenvirtualpersonasbncoprovincia--expresoolimpico.repl.co^
 ||birbo.cl^
 ||birkephilippines.co^
@@ -11850,7 +11843,6 @@
 ||bitband.co^
 ||bitboga.gq^
 ||bitbuymu.gq^
-||bitc0in.gq^
 ||bitcell.com.mx^
 ||bitclog.co^
 ||bitclub.bz^
@@ -15912,7 +15904,6 @@
 ||clave-uhoijpko--miguelito2540.repl.co^
 ||clave-uhoijpko.miguelito2540.repl.co^
 ||clavebancariasecundariacolombia.zz.com.ve^
-||clavebancolombia.co^
 ||clavedanimica.zz.com.ve^
 ||clavedinamica.verificarbanca.repl.co^
 ||clavedinamicabancolombia.colmenaresss.repl.co^
@@ -16821,7 +16812,6 @@
 ||comprodigios.com.co^
 ||compruebpyitaupy.userspybnc22.repl.co^
 ||compt.cleancarenh.com.br^
-||compto.cleancarenh.com.br^
 ||comptonteam.es^
 ||compuamerica.com.ve^
 ||compudomicilios.cl^
@@ -17268,7 +17258,6 @@
 ||content-55ajis43bp.contextura.co^
 ||content-59135335.latuka.com.bo^
 ||content-5qu4u3gtar.contextura.co^
-||content-5y8jjnlj.contextura.co^
 ||content-61xj1otkz.contextura.co^
 ||content-66127752.latuka.com.bo^
 ||content-6pyy18qzu.contextura.co^
