@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-02-27T15:09:21.659Z
+! Last modified: 2025-03-01T03:09:17.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1078,9 +1078,6 @@ voiceid*.amazonaws.
 ||api-smoot.apple.com^
 ||applemediaservices.com^
 ||apple.netscape.com^
-||appleseed.apple.com^
-||appleseedcdn.apple.com^
-||appleseed.v.aaplimg.com^
 ||bag-smoot.apple.com^
 ||bag-smoot.v.aaplimg.com^
 ||beacon.shazam.com^
@@ -1089,13 +1086,9 @@ voiceid*.amazonaws.
 ||books-analytics-events.apple.com^
 ||bpapi.apple.com^
 ||bpapi.v.aaplimg.com^
-||bugreport.apple.com^
-||bugreport.v.aaplimg.com^
 ||camfx-analytics-events.apple.com^
 ||cdn-xp-ingest-ab.v.aaplimg.com^
 ||cdn-xp-ingest.edge.apple^
-||cssubmissions.apple.com^
-||cssubmissions.apple.com.akadns.net^
 ||cstat.apple.com^
 ||cstat.apple.com.edgesuite.net^
 ||cstat.cdn-apple.com^
@@ -1114,8 +1107,6 @@ voiceid*.amazonaws.
 ||experiments.apple.com.edgekey.net^
 ||fba.apple.com^
 ||fba.v.aaplimg.com^
-||feedbackassistant.apple.com^
-||feedbackassistant.apple.com.v.aaplimg.com^
 ||feedbackws.fe2.apple-dns.net^
 ||feedbackws.fe.apple-dns.cn^
 ||feedbackws.fe.apple-dns.net^
@@ -3786,6 +3777,11 @@ google-analytics.$important
 ||businessmessages.google.com^
 ||businessprofileperformance.googleapis.com^
 ||buygoogle.biz^
+||c.android.clients.google.com^
+||c.bigcache.googleapis.com^
+||c.doc-0-0-sj.sj.googleusercontent.com^
+||c.docs.google.com^
+||c.drive.google.com^
 ||cert-test.sandbox.google.com^
 ||checkoutgoogle.cl^
 ||checks.googleapis.com^
@@ -3793,6 +3789,7 @@ google-analytics.$important
 ||chromecastexperiments.com^
 ||chromeexperiments.com^
 ||chromefeedcontentsuggestions-pa.googleapis.com^
+||chromekanonymityauth-pa.googleapis.com^
 ||chromeosquirksserver-pa.googleapis.com^
 ||chromereviews.googleplex.com^
 ||chromeuxreport.googleapis.com^
@@ -3831,6 +3828,8 @@ google-analytics.$important
 ||contributor.google.com^
 ||cookiechoices.org^
 ||copresence.googleapis.com^
+||c.pack.google.com^
+||c.play.google.com^
 ||crashlytics2.l.google.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -3840,6 +3839,7 @@ google-analytics.$important
 ||csi.l.google.com^
 ||csp-evaluator.withgoogle.com^
 ||csp.withgoogle.com^
+||c.youtube.com^
 ||dai.google.com^
 ||dartmotif.com^
 ||dartsearch-cn.net^
@@ -4688,6 +4688,7 @@ google-analytics.$important
 ||labs.google.ws^
 ||language.googleapis.com^
 ||learndigital.withgoogle.com^
+||lensfrontend-pa.googleapis.com^
 ||limelightaffiliates.com^
 ||listnr.corp.google.com^
 ||listnrcrash.corp.google.com^
@@ -4946,6 +4947,7 @@ google-analytics.$important
 ||marketingplatform.google.vn^
 ||marketingplatform.google.vu^
 ||marketingplatform.google.ws^
+||memex-pa.googleapis.com^
 ||merchantapi.googleapis.com^
 ||merchants.google.com^
 ||meshtelemetry.googleapis.com^
@@ -5142,6 +5144,7 @@ google-analytics.$important
 ||www-googletagmanager.l.google.com^
 ||xgapromomanager-pa.googleapis.com^
 ||youtubeanalytics.googleapis.com^
+||youtubemediaconnect.googleapis.com^
 ||youtubereporting.googleapis.com^
 ||adx-*.hicloud.com^
 ||ads.cloud.huawei.com^
@@ -5188,6 +5191,7 @@ google-analytics.$important
 ||wiseconfig.lgtvcommon.com^
 ||matomo.$important
 ||matomo*.$important
+||matomo.js^
 ||analytics.cdn.live^
 ||analytics-evisit.vsee.com^
 ||anon-stats.eff.org^
@@ -5743,6 +5747,8 @@ watcab*.blob.core.windows.net
 ||spocs.getpocket.com^
 ||spocs.getpocket.dev^
 ||spocs.mozilla.net^
+||start-stage.thunderbird.net^
+||start.thunderbird.net^
 ||survey.mozilla.com^
 ||symbolication.services.mozilla.com^
 ||symbols.mozilla.org^
@@ -5755,6 +5761,8 @@ watcab*.blob.core.windows.net
 ||telemetry-incoming.r53-2.services.mozilla.com^
 ||telemetry.mozilla.org^
 ||telemetry-prod-1054754349.us-east-1.elb.amazonaws.com^
+||updates-stage.thunderbird.net^
+||updates.thunderbird.net^
 ||events.gfe.nvidia.com^
 ||events.nvidia.com^
 ||metrics.nvidia.com^
