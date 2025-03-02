@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-02T03:08:11.121Z
+! Last modified: 2025-03-02T15:08:12.413Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -175,7 +175,6 @@
 ||0x0-eligibility.co^
 ||0xbitconnect.co^
 ||0xhpalid.arimix.cl^
-||0xjpeycqxrwt3exzclvpja.we9ixzz.co^
 ||100078988010725.pages.adv.br^
 ||1000embalagens.com.br^
 ||1000i.co^
@@ -725,7 +724,6 @@
 ||4kspyoz8x.we9ixzz.co^
 ||4m.cl^
 ||4mmanutencaoeletrica.com.br^
-||4nvf0mlh4pd3j8.barclayis.co^
 ||4poop0n3.secure-signin.co^
 ||4pxq55.difarmafarmaceutica.com.br^
 ||4r1knnywj.we9ixzz.co^
@@ -766,7 +764,6 @@
 ||57fgfxgfg.blogspot.com.uy^
 ||57oxzddygndwc3fzj.we9ixzz.co^
 ||589fdc29.ghmsolutions.com.br^
-||591592314536179.graficaaoquadrado.com.br^
 ||592397172413797.graficaaoquadrado.com.br^
 ||59349535066036567641716.jamb2022.co^
 ||5937.www3centrum24-pl.es^
@@ -966,7 +963,6 @@
 ||7f4e3d27.cftvpinheiro.com.br^
 ||7f8cxbedwj.3846.genzai.com.co^
 ||7igp9ptxotqubm.we9ixzz.co^
-||7klew.auleengenharia.com.br^
 ||7lov27.difarmafarmaceutica.com.br^
 ||7ncfagb5cakpudf00ls7.mafe.edu.co^
 ||7pvq23z.com.es^
@@ -1138,6 +1134,7 @@
 ||a1001birfirsatlarin.blogspot.com.uy^
 ||a1001birfirsatlarin.blogspot.pe^
 ||a1034556620.hol.es^
+||a123dd.namdsad.repl.co^
 ||a1acb25a-9478-497a-9dcb-dc38ca455f16.id.repl.co^
 ||a1b11c13-607a-4ed8-aab5-285d07e7ff95.id.repl.co^
 ||a1birincibelirle.blogspot.com.br^
@@ -1361,14 +1358,12 @@
 ||acc-infoservice-contact.gq^
 ||acc.ds-logs.gq^
 ||acc.eligibility.perlointer.gq^
-||acc.inkneldi.co^
 ||acc.nndilkei.co^
 ||acc.steambullde.es^
 ||acc09099-ca1a-47e7-9121-141a027ea691.id.repl.co^
 ||accards.com.br^
 ||accctivar-dinamica435656.nehim36338.repl.co^
 ||accdata.co^
-||accedi-alla-tua-banca-online-intesa-sanpaolo.creacionfm.cl^
 ||accefyn.org.co^
 ||accelerateamazonconsultancy.co^
 ||accenti.mx^
@@ -1410,7 +1405,6 @@
 ||account-confirm-v026.gq^
 ||account-disabled-1134.ride.com.ec^
 ||account-iapple.com.es^
-||account-khjw.center-amazon.co^
 ||account-paypal.clinicaeuropa.cl^
 ||account-service-v040.gq^
 ||account-service-v073.gq^
@@ -1658,7 +1652,6 @@
 ||adameyasociados.com.mx^
 ||adamsapple.outracoisa.com.br^
 ||adamsapplestore.co^
-||adani.ho27.co^
 ||adapta-chatgpt.com.br^
 ||adarquitectos.es^
 ||adatecnologia.com.br^
@@ -2765,7 +2758,6 @@
 ||am130.1.com.ar^
 ||am40.1.com.ar^
 ||am98.1.com.ar^
-||ama-check.5co1.co^
 ||ama-check.inrep2.co^
 ||ama-co-jp.5zoo.co^
 ||amaamazon.esn.es^
@@ -2814,7 +2806,6 @@
 ||amaz0nsupper.gq^
 ||amazamo.co.jp.mastercardnortniahnewestphalialauasi01.gq^
 ||amazamo.co.jp.mastercardnortniahnewestphalialauasi03.gq^
-||amazcojp.co^
 ||amazdon.co^
 ||amazemdodesconto.com.br^
 ||amazingamazon.com.br^
@@ -2894,7 +2885,6 @@
 ||amazon-inc.pulsarit.co^
 ||amazon-jo.co^
 ||amazon-jp.co^
-||amazon-jp.fris2o.co^
 ||amazon-jp.fris3o.co^
 ||amazon-leap.co^
 ||amazon-live.status.app.vista.co^
@@ -4144,7 +4134,6 @@
 ||amazonconnect.co^
 ||amazonconnection.com.br^
 ||amazonconsig.com.br^
-||amazonconsole.co^
 ||amazonconsultancy.co^
 ||amazonconsultancyahead.co^
 ||amazonconsultancyexperts.co^
@@ -5192,7 +5181,6 @@
 ||amazoniasour.com.br^
 ||amazoniaspa.co^
 ||amazoniaspace.com.br^
-||amazoniassanmm.gq^
 ||amazoniastock.com.br^
 ||amazoniastore.co^
 ||amazoniastore.com.br^
@@ -5787,7 +5775,6 @@
 ||amazonpad.com.br^
 ||amazonpad.ecomstore.com.br^
 ||amazonpaddleclub.com.br^
-||amazonpage-html.updog.co^
 ||amazonpalace.com.br^
 ||amazonpalm.com.br^
 ||amazonpalms.com.br^
@@ -7316,7 +7303,6 @@
 ||app-origin-app-gcp.cartwire.co^
 ||app-paypal-mobileverification-mobileappupdate-system-update.brook.es^
 ||app-settings.hol.es^
-||app-support-pages-society-depart-2020.co^
 ||app-sushi-swap.com.mx^
 ||app-uniswap.co^
 ||app-validd-usuar.ronaldgeo-85.repl.co^
@@ -9400,7 +9386,6 @@
 ||aricaonline.cl^
 ||aridosolis.cl^
 ||arielartes.cl^
-||arielimota.com.br^
 ||arielog.easy.co^
 ||arierom.com.br^
 ||ariez.com.br^
@@ -9763,7 +9748,6 @@
 ||asset2u.co^
 ||assets-apple.co^
 ||assets.devdesenvolvimento.com.br^
-||assetsmint.co^
 ||asshoesmexicooutlet.com.mx^
 ||assimila.cptec.inpe.br^
 ||assimvaleapena.com.br^
@@ -10261,7 +10245,6 @@
 ||awin.cl^
 ||awmedical.com.pe^
 ||aworldtoread.com.br^
-||awp36ad5.co^
 ||awprofta.gq^
 ||awrcgrc.gq^
 ||awrcgrh.gq^
@@ -10283,7 +10266,6 @@
 ||awterisplvnda.co^
 ||ax0flmtylakserpxdax1q0kwsril.we9ixzz.co^
 ||axaecfgty.gq^
-||axbios.co^
 ||axeamazonia.com.br^
 ||axelarigato-tr.co^
 ||axelcopy.com.ar^
@@ -10422,7 +10404,6 @@
 ||babyandfamilystore.com.br^
 ||babycenterjf.com.br^
 ||babydolls2021.blogspot.com.co^
-||babyfrogcoin.co^
 ||babylonia.es^
 ||babypark.com.br^
 ||babyrkabbyzcb.blogspot.cl^
@@ -11320,7 +11301,6 @@
 ||beneficiosrappicard.cl^
 ||benelli-mosumi.ec^
 ||benesoft.es^
-||benetakocuphitzak.co^
 ||benettonmexicoonline.com.mx^
 ||benicio.es^
 ||benimar.es^
@@ -11564,7 +11544,6 @@
 ||bgdfww.blogspot.mx^
 ||bgdtywikkd.gq^
 ||bgeneral-inicio1--gzonasegura.repl.co^
-||bgeneral-online--gzonasegura.repl.co^
 ||bgeneral-online.gzonasegura.repl.co^
 ||bgeneral-onlinepa.gzonasegura.repl.co^
 ||bgeneral.bgeneral1.repl.co^
@@ -11929,12 +11908,10 @@
 ||biualedtyn.0dbdtrl4azw6l4l.jjsiles.cl^
 ||biualedtyn.0tx9ns4wonsw5lf.jjsiles.cl^
 ||biualedtyn.6ps5qrp1tt0taas.jjsiles.cl^
-||biualedtyn.6uxxvi5y0b8kz8h.jjsiles.cl^
 ||biualedtyn.7nh8p7bfx4okcp6.jjsiles.cl^
 ||biualedtyn.c9e9jgc24ps0twm.jjsiles.cl^
 ||biualedtyn.fmuh2qp29wq4mgh.jjsiles.cl^
 ||biualedtyn.hmpt8gbps0vwzg4.jjsiles.cl^
-||biualedtyn.ml0gyqcshkojwrh.jjsiles.cl^
 ||biualedtyn.mxcvmwzzrta6974.jjsiles.cl^
 ||biualedtyn.x5dgksmhiyfln62.jjsiles.cl^
 ||biualedtyn.xhh9xcy21bfjwxi.jjsiles.cl^
@@ -12022,6 +11999,7 @@
 ||blissstudio.co^
 ||blitz.coronavirus.saude.salvador.ba.gov.br^
 ||blitzamazonico.com.br^
+||blitzmania.com.br^
 ||blixter.co^
 ||bloccadispositivo.es^
 ||block-activity-page5.gq^
@@ -12212,7 +12190,6 @@
 ||bmxcxell.gq^
 ||bn3ferwxidncsxpinlcrr6hulw9jo.we9ixzz.co^
 ||bnaciion.repl.co^
-||bnacocolombia.co^
 ||bnanetworking.cbsciudad.repl.co^
 ||bnaonlineserver.bnentidades.repl.co^
 ||bnapersonas.repl.co^
@@ -12948,12 +12925,10 @@
 ||buritiaromasamazonicos.com.br^
 ||burnart.co^
 ||burncalis.gq^
-||buro44.cl^
 ||burwoodrsl-sharedocument.on.fleek.co^
 ||buscachatgpt.es^
 ||buscandoumavidamelhor.com.br^
 ||buscar-appleid.es^
-||buscar-iphone.co^
 ||buscar-maps-apple.co^
 ||buscarleads.com.br^
 ||buscartrabajos.cl^
@@ -13111,10 +13086,8 @@
 ||c5031d52-a616-47b8-a9a1-7db4bbfb62ab.id.repl.co^
 ||c550327e.cftvpinheiro.com.br^
 ||c6647d15-7330-4aad-9d85-f260e1d3e1f3.id.repl.co^
-||c6tvn9c3xm1mrnanr50z00.sindecreprj.com.br^
 ||c6vuulnzw.we9ixzz.co^
 ||c717.com.mx^
-||c735bc735b.extremalog.com.br^
 ||c740365d-2731-4955-a083-fd7dad4539fc.id.repl.co^
 ||c7753936-a497-4433-8467-ba21c4cea69e.id.repl.co^
 ||c7f6bf5b-afda-4aef-8e0e-9b593f3931c2.id.repl.co^
@@ -16139,7 +16112,6 @@
 ||cloudarg.com.ar^
 ||cloudcoins.co^
 ||cloudcorp.com.ec^
-||clouddocloskw.naruto-olsid.repl.co^
 ||cloudfast.virualperson.repl.co^
 ||cloudfinanceinv.co^
 ||cloudflare-images-app.tools.grove.co^
@@ -16802,6 +16774,7 @@
 ||comprerapidonanet.com.br^
 ||compressportmexico.com.mx^
 ||comprobante7358344.x10.mx^
+||comprobantedecuentasmb.compro2.repl.co^
 ||comprodigios.com.co^
 ||compruebpyitaupy.userspybnc22.repl.co^
 ||compt.cleancarenh.com.br^
@@ -19948,7 +19921,6 @@
 ||deels.com.ar^
 ||deepbrainchain.co^
 ||deepclients.gq^
-||deeppinkmeagermosaic869885.bienvenidojfh.repl.co^
 ||deepseek.bz^
 ||deepskyblueacceptablesystemsoftware.vinotip802.repl.co^
 ||deepskybluestaticspools.wimmetimereal.repl.co^
@@ -20055,7 +20027,6 @@
 ||delivery.slz.br^
 ||delivery.taikaizakaya.com.br^
 ||deliveryacademy.co^
-||deliveryba.com.ar^
 ||deliveryparts.cl^
 ||deliverytechnologies.com.co^
 ||delivr-app.meusitenainternet.com.br^
@@ -26167,7 +26138,6 @@
 ||google-apps.aicad.es^
 ||google-drive.com.dismay.com.ar^
 ||google.ku9vip2.co^
-||google.loginforms.co^
 ||google.rio.br^
 ||google1.es^
 ||googlead.co^
@@ -33909,6 +33879,7 @@
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
+||loginforms.co^
 ||loginmicrosoftonlinesettings.hdfcbank.fasttic.cl^
 ||loginmicrosoftonlinesettings.herzogglass.fasttic.cl^
 ||loginmicrosoftonlinesettings.seaboardmarine.fasttic.cl^
@@ -45574,7 +45545,6 @@
 ||telefonebom.com.br^
 ||telefoniabrasil.com.br^
 ||telefonos.es^
-||telegarnn.co^
 ||telegeam.co^
 ||telegram.bz^
 ||telegram.sginfinity.com.br^
@@ -48226,6 +48196,7 @@
 ||wi4u.co^
 ||wibtech.com.br^
 ||widepip.es^
+||wiehenstahl.co^
 ||wieser-appartement.com.es^
 ||wifilottrysz.co^
 ||wifisolution.com.ve^
