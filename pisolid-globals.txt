@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-01T03:09:17.643Z
+! Last modified: 2025-03-02T15:09:26.369Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1057,6 +1057,14 @@ voiceid*.amazonaws.
 ||xray.cn-northwest-1.amazonaws.com.cn^
 ||yavapai.cn-northwest-1.amazonaws.com.cn^
 -iad.apple.com
+||xp.apple.com^$important
+||xp.apple.com.edgekey.net^$important
+||xp.itunes-apple.com.akadns.net^$important
+||xp-daf.apple.com.edgekey.net^$important
+||xp-daf.itunes-apple.com.akadns.net^$important
+||xp-cdn.apple.com^$important
+||cdn-xp-ingest.edge.apple^$important
+||cdn-xp-ingest-ab.v.aaplimg.com^$important
 ||genius*.itunes.apple.com^
 ||genius*.itunes.apple.com.edgekey.net^
 ||genius*.lb-apple.com.akadns.net^
@@ -1431,6 +1439,8 @@ backtrace-forwarder*.amazonaws.com
 ||gtm.$denyallow=gtm.www.chase.com.akadns.net|gtm.secure.chase.com.akadns.net|gtm.iddg.io
 ||sgtm.
 ||sgtm.*all
+||gtag.js^
+gtm-snippet
 ||research.google.com^$denyallow=colab.research.google.com
 ||2mdn.net^$important
 ||s0.2mdn.net^$important
@@ -3837,7 +3847,6 @@ google-analytics.$important
 ||crossmediapanel.com^
 ||csi.gstatic.com^
 ||csi.l.google.com^
-||csp-evaluator.withgoogle.com^
 ||csp.withgoogle.com^
 ||c.youtube.com^
 ||dai.google.com^
