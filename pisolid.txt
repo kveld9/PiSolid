@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-03T03:08:10.231Z
+! Last modified: 2025-03-03T15:08:13.909Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -352,6 +352,7 @@
 ||19861681523710950469302.jamb2022.co^
 ||19f4d24b-d06f-4ed0-b79b-58de6a432eff.id.repl.co^
 ||19khgsgklgkgklhg.gq^
+||1a11df95-3bc5-45cc-a053-fabad8f2c5f2.id.repl.co^
 ||1ab04237-780d-49df-8096-028abe604c29.id.repl.co^
 ||1amazingvideothisyear.pagedemo.co^
 ||1amazinvideos2022.pagedemo.co^
@@ -2549,6 +2550,7 @@
 ||alleagro.tecnoshot.cl^
 ||alleagro.yacolor.cl^
 ||alleegro.palcar.cl^
+||allegro.mx^
 ||allegro.pl-login.form-art29401.usr20198.gq^
 ||allegro.pl-login.form-art29401.usr2365.gq^
 ||allegro.pl-login.form-art29401.usr73628.gq^
@@ -7226,6 +7228,7 @@
 ||api.renercom.mx^
 ||api.safe.inf.br^
 ||api.scrape.do^
+||api.stanley-mexico.com.mx^
 ||api.widenet.co^
 ||api007.foxspy.com.br^
 ||api2-app.estadao.com.br^
@@ -11669,7 +11672,6 @@
 ||billhelp-vm.co^
 ||billing-auth.lapp7.co^
 ||billing-bff-app.in.neoncorp.com.br^
-||billing-info-auth.qop77.co^
 ||billing.disneypay.do^
 ||billowing-bird-3801.on.fleek.co^
 ||billowing-bush-9975.on.fleek.co^
@@ -12623,7 +12625,6 @@
 ||bridget1ad.pages.net.br^
 ||briellabeautysupply.com.ec^
 ||brightenragedcylinder.bancolombia2612.repl.co^
-||brightfinance.co^
 ||brightoriginalruntimeenvironment--five-nine.repl.co^
 ||brilhanteconservacao.com.br^
 ||brilhantedaamazonia.com.br.byharison.com.br^
@@ -14061,7 +14062,6 @@
 ||cdmontefeminas.es^
 ||cdn.adsk2.co^
 ||cdn.cestaplus.com.br^
-||cdn.orionascension.com.br^
 ||cdoradiologia.com.br^
 ||cdqueiroz.com.br^
 ||cdreldorado.edu.co^
@@ -16655,7 +16655,6 @@
 ||commerzbank.de.connectcableservice.com.br^
 ||commerzbank.mx^
 ||commoditybazaar.co^
-||commonfewsearchservice--five-nine.repl.co^
 ||commonshamefulplanes--nicopadoss1a4.repl.co^
 ||commservices.com.ve^
 ||communicareeducacao.com.br^
@@ -17123,6 +17122,7 @@
 ||consultapordesconto.com.br^
 ||consultapromocional.com.br^
 ||consultarfatura.com.br^
+||consultaspc01.com.br^
 ||consultatusenvios-4-72.com.co^
 ||consultax.cl^
 ||consultectreinamentos.com.br^
@@ -17669,7 +17669,6 @@
 ||couple-live-cam.blogspot.pe^
 ||couples-app.co^
 ||courier-app-api-v1.delivery.develop.boxdelivery.com.br^
-||courier.vdgfr.repl.co^
 ||courmayeur.com.br^
 ||courodaterra.com.br^
 ||couroecasa.com.br^
@@ -17721,7 +17720,6 @@
 ||cpcontacts.granadoemurahara.com.br^
 ||cpcontacts.login-giffgaff.co^
 ||cpcontacts.m1.pserver.co^
-||cpcontacts.quayaustraliashop.es^
 ||cpcontacts.refund-gov-uk.co^
 ||cpdatpaypal-businesscenter.hotmail.ar^
 ||cpesusanawesley.edu.pe^
@@ -18267,6 +18265,7 @@
 ||cursos.grupohg.net.mx^
 ||cursos.ibmec.br^
 ||cursos.setcenas.com.br^
+||cursos.thalesnery.com.br^
 ||cursos.uniluisgpaez.edu.co^
 ||cursosamazon.es^
 ||cursosamazonfba.es^
@@ -19648,7 +19647,6 @@
 ||darkgrayordinarydoom.fromimportgalib.repl.co^
 ||darkgreensquaresymbol.23127jhd.repl.co^
 ||darkgreenthirstycalculator.fasminerimmer.repl.co^
-||darkkhakiappropriatefreesoftware.inetconbankng.repl.co^
 ||darkmulk.gq^
 ||darkorchidjuvenilesort--ricardoillrea.repl.co^
 ||darkpalladinnwced.blogspot.pe^
@@ -20470,7 +20468,6 @@
 ||dev.actiontravel.com.ar^
 ||dev.addshop.com.br^
 ||dev.alfamaweb.com.br^
-||dev.api.stanley-mexico.com.mx^
 ||dev.focustributos.com.br^
 ||dev.lyncott.mx^
 ||dev.moragues.pe^
@@ -22398,6 +22395,7 @@
 ||electricaindustrial.com.mx^
 ||electricar.com.ar^
 ||electricatiltil.cl^
+||electriccapital.co^
 ||electricgroups.co^
 ||electricidadlarios.es^
 ||electricireland.soimper.com.br^
@@ -23675,7 +23673,6 @@
 ||event-app-demo-44692.botics.co^
 ||event-codashops01.gq^
 ||event-freefire-a4.mypi.co^
-||event-giveawaymlbb.gq^
 ||event-pubg-event.mypi.co^
 ||event4you.co^
 ||eventactual.co^
@@ -24734,6 +24731,7 @@
 ||ffc-sentiment-app.fourthfloor.co^
 ||ffcomercio.com.br^
 ||ffinwwfpqi.gq^
+||ffntmg.casasg.com.uy^
 ||fg0z63sr.paperform.co^
 ||fgcel.com.ar^
 ||fgdfhdfhdfghdfgjhdfgjdfgjfgjfgh.blogspot.com.uy^
@@ -24795,6 +24793,8 @@
 ||file2share.co^
 ||filecrypt.co^
 ||filedrops.co^
+||filelauncher.co^
+||fileleauncher.co^
 ||filepass.co^
 ||files.umso.co^
 ||filezilla.es^
@@ -25526,6 +25526,7 @@
 ||gamebet999.co^
 ||gamebitcoin88.co^
 ||gamehack.co^
+||gamelauncher.co^
 ||gamenrex.pronal.co^
 ||gamersdaamazonia.greenpeace.org.br^
 ||games168login.co^
@@ -32981,6 +32982,7 @@
 ||kingbet808.co^
 ||kingbtc.co^
 ||kingsoluciones.pe^
+||kinogo.ec^
 ||kinokrad.co^
 ||kinopusaudiovisual.com.br^
 ||kiola.com.br^
@@ -34600,6 +34602,7 @@
 ||mansoura.co^
 ||mantacompany.gq^
 ||mantaecuador.com.ec^
+||mantlenetwork.co^
 ||manualchatgpt.com.br^
 ||manualdochatgpt.com.br^
 ||manualdochatgpt.investecomigo.com.br^
@@ -36877,7 +36880,6 @@
 ||new.codytel.es^
 ||new.ferring.com.ar^
 ||new.megustaelvino.cl^
-||new.pingi.co^
 ||new.teslsagive.repl.co^
 ||newage.art.br^
 ||newageapple.com.br^
@@ -37519,7 +37521,6 @@
 ||ofertasdaamazon.com.br^
 ||ofertasdeprodutosonline.com.br^
 ||ofertasdez.com.br^
-||ofertasdofeirao.com.br^
 ||ofertasensacional.com.br^
 ||ofertasfozdoiguacu.com.br^
 ||ofertasmaster.com.br^
@@ -38169,6 +38170,7 @@
 ||oriolbatalla.es^
 ||orion-app.co^
 ||orion.pe^
+||orionascension.com.br^
 ||orioncoin.co^
 ||orionsistem.com.br^
 ||oriundibrasil.com.br^
@@ -38648,7 +38650,6 @@
 ||pay-pal.co^
 ||pay-update.maliko.com.mx^
 ||pay.bluxprize.com.br^
-||pay.risepay.com.br^
 ||payafterdelivery.com.br^
 ||payamazon.co^
 ||payementpaypal.repl.co^
@@ -39388,6 +39389,7 @@
 ||paypalit.forward.co^
 ||paypall.co^
 ||paypallogin.commoki.mysbuxben.co^
+||paypalloginin-usa.blogspot.com.ar^
 ||paypalloginin-usa.blogspot.com.br^
 ||paypalloginin-usa.blogspot.com.es^
 ||paypalloginin-usa.blogspot.mx^
@@ -39944,6 +39946,7 @@
 ||pineapplewine.co^
 ||pineapplexpress.co^
 ||pineapplexpressdeco.cl^
+||pingi.co^
 ||pingodoce.ind.br^
 ||pingraphic.co^
 ||pinhalnawebon.com.br^
@@ -40299,7 +40302,6 @@
 ||portal-app.salez.com.br^
 ||portal.baixadaon.com.br^
 ||portal.infiniteconsulting.com.br^
-||portal.vorzafinancial.com.br^
 ||portalamazon.com.br^
 ||portalamazonas.com.br^
 ||portalamazonas24h.com.br^
@@ -41209,6 +41211,7 @@
 ||quantumtrade.co^
 ||quarterquote.es^
 ||quartzcolors.com.br^
+||quayaustraliashop.es^
 ||quechanceboa.com.br^
 ||quedi.adv.br^
 ||queenamazonia.com.br^
@@ -42161,6 +42164,7 @@
 ||rippso.com.ar^
 ||ripsalis.com.br^
 ||risayuliawan.blogspot.com.es^
+||risepay.com.br^
 ||risesocial.co^
 ||ritabolos.com.br^
 ||ritavargascontabilidade.com.br^
@@ -46112,6 +46116,7 @@
 ||tmoshop.co^
 ||tmpmail.co^
 ||tmt.net.br^
+||tn1klm.casasg.com.uy^
 ||tnappletv.flowingstreams.co^
 ||tngrypaypal-shopping.game.ar^
 ||tningedi.gq^
@@ -46669,6 +46674,7 @@
 ||tvcm.com.br^
 ||tvemail.com.br^
 ||tvibc.com.br^
+||tvlauncher.co^
 ||tvliftchile.cl^
 ||tvlux.co^
 ||tvnopc.com.br^
@@ -46729,7 +46735,6 @@
 ||u18facebook-colors.blogspot.pe^
 ||u1x.co^
 ||u3l.co^
-||ua.kinogo.ec^
 ||uae-app.phishguard.co^
 ||uaildafeao.gq^
 ||uamazon.co^
@@ -47506,6 +47511,7 @@
 ||viltur.com.br^
 ||vilumax.cl^
 ||vimalert.mx^
+||vimsa.com.br^
 ||vinacastellon.cl^
 ||vince-camuto.com.mx^
 ||vincecamutoespana.es^
@@ -47747,6 +47753,7 @@
 ||vonmenzel.cl^
 ||vorempreendimentos.com.br^
 ||vormor.co^
+||vorzafinancial.com.br^
 ||vosaccmonsecur.es^
 ||voskcoins.co^
 ||vote-pengu.co^
@@ -47812,7 +47819,6 @@
 ||vymproducciones.cl^
 ||vzeskyrpog.es^
 ||w-app.co^
-||w.kinogo.ec^
 ||w0wxggjhivmafdbzjzys.graficosdm.com.uy^
 ||w1ox.constructoramelgarejo.cl^
 ||w3.sia-inv.co^
@@ -48016,6 +48022,7 @@
 ||webmd.co^
 ||webmelhor.com.br^
 ||webmining.co^
+||webnavigator.co^
 ||webnovidades.com.br^
 ||weboptimizing49-online.gq^
 ||webpageupdate.co^
@@ -48172,8 +48179,6 @@
 ||whiterabbit.com.es^
 ||whiteworks.co^
 ||whitheacont.gq^
-||whm.allegro.mx^
-||whm.cursos.thalesnery.com.br^
 ||whoareyouapple.repl.co^
 ||whoisthetarget.com.mx^
 ||wholecityhealth.com.es^
