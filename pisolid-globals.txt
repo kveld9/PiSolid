@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-05T03:09:15.074Z
+! Last modified: 2025-03-05T15:09:32.701Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -132,6 +132,7 @@
 ||sensei.adobe.io^
 ||senseicore.adobe.io^
 ||senseicore-ue1.adobe.io^
+||sm.dell.com^
 ||smetrics.aa.com^
 ||smetrics.att.com^
 ||smetrics.att.com.edgekey.net^
@@ -1415,6 +1416,7 @@ backtrace-forwarder*.amazonaws.com
 ||river-prod-external.eadpdata.ddns.ea.com^
 ||river-prod-external-non-pin.eadpdata.ddns.ea.com^
 ||robloxlabs.com^
+||sentry-platform.pogospike.com^
 ||smetrics.nintendo.com^
 ||steam-happy.homefront-game.com^
 ||steam-telemetry.homefront-game.com^
@@ -5175,6 +5177,8 @@ google-analytics.$important
 ||metrics1-drcn.dt.dbankcloud.cn^
 ||metrics-dra.dt.dbankcloud.cn^
 ||metrics-dre.dt.dbankcloud.cn^
+||rnd-aresocean-commercial.huawei.com^
+||rnd-cbgpas01.huawei.com^
 ||uba.huaweicloud.com^
 ||aic-ngfts.lge.com^
 ||aic-ngfts.lge.com.edgekey.net^
