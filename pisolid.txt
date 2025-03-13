@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-12T08:08:07.896Z
+! Last modified: 2025-03-13T08:08:09.192Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -117,7 +117,6 @@
 ||02353.co^
 ||02402300601394318587048.jamb2022.co^
 ||02688.co^
-||02706013.secure-signin.co^
 ||0298d618.cftvpinheiro.com.br^
 ||02s.co^
 ||0310.pages.net.br^
@@ -131,7 +130,6 @@
 ||05253.co^
 ||05293.co^
 ||05323.co^
-||0538e3b3.secure-signin.co^
 ||05463.co^
 ||05523.co^
 ||05543.co^
@@ -486,6 +484,7 @@
 ||234cb82f.divafashion.com.br^
 ||23837.co^
 ||23d44134.easy.co^
+||23gg323g2g.blogspot.com.br^
 ||24--for-apply.repl.co^
 ||24-pl.es^
 ||241383.desentupidoraemjoinvillesc.com.br^
@@ -526,7 +525,6 @@
 ||2amazingvideothisyear.pagedemo.co^
 ||2b1b5e01-b5fd-4492-acb1-8bd67363506c.id.repl.co^
 ||2bchnlfovjwuzeursknnrhlj70vskp.we9ixzz.co^
-||2be6145a.secure-signin.co^
 ||2bleclickpublicidad.com.ve^
 ||2campanhaemail.com.br^
 ||2cliks.com.br^
@@ -536,7 +534,6 @@
 ||2doublecoin.co^
 ||2e2dce9d.ghmsolutions.com.br^
 ||2e7c923f.cftvpinheiro.com.br^
-||2e93c936.secure-signin.co^
 ||2ebhldy4ys.1876.pokermoney.co^
 ||2errorxxx.gq^
 ||2faamazon.argentek.co^
@@ -722,7 +719,6 @@
 ||4kspyoz8x.we9ixzz.co^
 ||4m.cl^
 ||4mmanutencaoeletrica.com.br^
-||4poop0n3.secure-signin.co^
 ||4pxq55.difarmafarmaceutica.com.br^
 ||4r1knnywj.we9ixzz.co^
 ||4rislz.com.br^
@@ -1534,7 +1530,6 @@
 ||acontsuspend-alertspaqes12.gq^
 ||acorazonabierto.cl^
 ||acordemaior.com.br^
-||acordocomofertas.com.br^
 ||acorrelan.com.br^
 ||acortalo.com.ve^
 ||acosecia.com.br^
@@ -6856,6 +6851,7 @@
 ||amproch.cl^
 ||amps.com.br^
 ||amrg.com.br^
+||amscomponentes.com.br^
 ||amsler.com.br^
 ||amsmkxpl.paperform.co^
 ||amssas.com.co^
@@ -7043,6 +7039,7 @@
 ||anjosdeplantao.com.br^
 ||anjosenvio.com.br^
 ||ankaare.co^
+||ankersmexico.com.mx^
 ||ankus.es^
 ||anli.com.mx^
 ||anlunas.com.br^
@@ -12225,6 +12222,7 @@
 ||blum.whiz.pe^
 ||blumelife.co^
 ||blumenauiv.com.br^
+||blumennorden.cl^
 ||blumoveis.com.br^
 ||blundstonespanaoutlets.es^
 ||bluplanet.com.br^
@@ -12989,6 +12987,7 @@
 ||buritiaromasamazonicos.com.br^
 ||burnart.co^
 ||burncalis.gq^
+||burnsmcd.co^
 ||burwoodrsl-sharedocument.on.fleek.co^
 ||buscachatgpt.es^
 ||buscandoumavidamelhor.com.br^
@@ -21499,6 +21498,7 @@
 ||draalexania.com.br^
 ||draanaalice.com.br^
 ||draanahissa.com.br^
+||draarianeadamantino.com.br^
 ||dracamilamazoni.com.br^
 ||dracarolinamazonmiranda.com.br^
 ||dracetronic.com.br^
@@ -22169,6 +22169,7 @@
 ||ecuaseguridad.com.ec^
 ||ecuatours.ec^
 ||ecunflec.gq^
+||ecushop.co^
 ||ecustomsareno.es^
 ||ecxon.com.br^
 ||ed.bbva1999.co^
@@ -24643,6 +24644,7 @@
 ||feincartes.com.br^
 ||feiraestudantilfunvic.org.br^
 ||feirantes-app.clickapps.com.br^
+||feirao2025.com.br^
 ||feitamaocursos.com.br^
 ||feitoincrivel.com.br^
 ||feitoperfeitopravoce.com.br^
@@ -25777,6 +25779,7 @@
 ||gerentedecontas.com.br^
 ||gerentefinanca.com.br^
 ||gerentesaudebr.com.br^
+||gerherheh44.blogspot.com.es^
 ||geriatricos-capital.com.ar^
 ||gerirsegurosaude.com.br^
 ||germanb-44.gq^
@@ -26246,6 +26249,7 @@
 ||gotoprize.gq^
 ||gotrade.com.ec^
 ||gotranslate.co^
+||gourmetcampinas.com.br^
 ||gourmetcuiaba.com.br^
 ||gouthealthy.co^
 ||gouveafoodservice.com.br^
@@ -26280,6 +26284,7 @@
 ||graficaagt.com.br^
 ||graficaamazonas.com.br^
 ||graficadmc.com.br^
+||graficaeditoraopcao.com.br^
 ||graficafolha.com.br^
 ||graficakamale.com.br^
 ||graficalobao.com.br^
@@ -31560,6 +31565,7 @@
 ||imaginarioeventos.cl^
 ||imaginativewarmtoolbox.zaddy82.repl.co^
 ||imaginedecor.com.br^
+||imagoimpresiones.pe^
 ||imap.autoridad-dela-cooperativa-de-credito.mx^
 ||imaps-apple.co^
 ||imar.es^
@@ -34784,7 +34790,6 @@
 ||marcillo.ucg.ec^
 ||marciobrigatto.com.br^
 ||marciogerhardtsouza.com.br^
-||marciomagnani.com.br^
 ||marcjacobcolombia.com.co^
 ||marcjacobsmexico.com.mx^
 ||marcjacobsmexicoo.com.mx^
@@ -35962,6 +35967,7 @@
 ||mondaymornings.co^
 ||mondiairelay.hn^
 ||mondialeacrilicos.com.br^
+||mondialrelay-contact.co^
 ||mondialrelay-support.co^
 ||mondovi-app.plesh.co^
 ||moneromine.co^
@@ -36955,6 +36961,7 @@
 ||netflixmonthfree.blogspot.mx^
 ||netflixmonthfree.blogspot.pe^
 ||netflixmovie.co^
+||netflixnow.es^
 ||netidskfksdfk.blogspot.pe^
 ||netiflix.com.br^
 ||netinformativo.com.br^
@@ -37648,7 +37655,6 @@
 ||ofertasdeprodutosonline.com.br^
 ||ofertasdez.com.br^
 ||ofertasensacional.com.br^
-||ofertasfeirao-online.com.br^
 ||ofertasfozdoiguacu.com.br^
 ||ofertasmaster.com.br^
 ||ofertasnet.net.br^
@@ -42370,6 +42376,7 @@
 ||rnebre564.blogspot.com.ar^
 ||rnetpool.com.br^
 ||rnght.blogspot.cl^
+||rnjwerass.mypi.co^
 ||rnra.co^
 ||rnth.com.br^
 ||rnw.groupsync.es^
@@ -43241,6 +43248,7 @@
 ||sapataria.gq^
 ||sapatarialoja.com.br^
 ||sapdc-app.trobo.smog.uvigo.es^
+||sapp-bbva.acceso-secure.es^
 ||sapporo.com.pe^
 ||sar-app.com.br^
 ||sar-appsmith-appsmith.sar.epagri.sc.gov.br^
@@ -43474,6 +43482,7 @@
 ||secure-paypalvldtvb3.mueblesfigueroa.cl^
 ||secure-portal.mx^
 ||secure-sgn.membersihps.p2mimport.com.br^
+||secure-signin.co^
 ||secure-sms.co^
 ||secure-withapps-apples.co^
 ||secure-your-world.pages.net.br^
@@ -44305,7 +44314,6 @@
 ||skechersphilippines.co^
 ||ski9776.com.br^
 ||skillapple567.repl.co^
-||skilledcreatives.co^
 ||skincareamazonia.com.br^
 ||skincaremayoreo.mx^
 ||skinport.com.es^
@@ -44879,6 +44887,7 @@
 ||ssbdfx.blogspot.mx^
 ||ssd-apps.durango.gob.mx^
 ||ssectur.mx^
+||sses-bbva.acceso-secure.es^
 ||ssitweb.com.br^
 ||sslambienteseguro.com.br^
 ||ssmso.cl^
@@ -46861,6 +46870,7 @@
 ||tupersiana.co.ve^
 ||tupublicidadonline.es^
 ||tupuca.co^
+||tupuntodepago.cl^
 ||tuquapple.repl.co^
 ||turacolabs.co^
 ||turbiki.gq^
