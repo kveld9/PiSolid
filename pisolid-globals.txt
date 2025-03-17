@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-15T08:09:16.402Z
+! Last modified: 2025-03-17T08:09:14.998Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1361,8 +1361,10 @@ backtrace-forwarder*.amazonaws.com
 ||ams2-128-116-21-3.roblox.com^
 ||atl1-128-116-99-3.roblox.com^
 ||backtrace-forwarder-2027840751.us-west-1.elb.amazonaws.com^
+||backtrace.rbx.com^
 ||client-telemetry.roblox.com^
 ||connect.epicgames.dev^
+||contacts.roblox.com^
 ||crashes.rbxinfra.com^
 ||crashes.roblox.com^
 ||crashreporter.avalanchestudios.com^
@@ -1396,7 +1398,9 @@ backtrace-forwarder*.amazonaws.com
 ||freeform-river.data.ea.com^
 ||game-match-138571769.us-east-1.elb.amazonaws.com^
 ||genzero-cdn.avalanchestudios.com^
-||gold.roblox.com^
+||hls-segments-ak.rbxcdn.com^
+||hls-segmentsns1.rbxcdn.com^
+||hls-segments.rbxcdn.com^
 ||idlerestaurant.com^
 ||jamcity.com^
 ||jc-gs.com^
@@ -1419,7 +1423,6 @@ backtrace-forwarder*.amazonaws.com
 ||ord2-128-116-101-3.roblox.com^
 ||pacman-cross-promo.s3.eu-central-1.amazonaws.com^
 ||pin-river.data.ea.com^
-||platinum.roblox.com^
 ||playsimple.co^
 ||playsimple.games^
 ||realtime.roblox.com^
@@ -1435,6 +1438,7 @@ backtrace-forwarder*.amazonaws.com
 ||smetrics.nintendo.com^
 ||steam-happy.homefront-game.com^
 ||steam-telemetry.homefront-game.com^
+||studio-ecsv2.roblox.com^
 ||telemetry-cii.api.playstation.com^
 ||telemetry-cii.api.playstation.com.edgekey.net^
 ||telemetry-console.api.playstation.com^
@@ -3511,6 +3515,7 @@ google-analytics.$important
 ||apigee.googleapis.com^
 ||apigeeregistry.googleapis.com^
 ||apihub.googleapis.com^
+||app-analytics-services-att.com^
 ||app-analytics-services.com^
 ||appdevelopmentexperience.googleapis.com^
 ||appenginereporting.googleapis.com^
@@ -5829,7 +5834,9 @@ watcab*.blob.core.windows.net
 ||target*.samsung.com^
 ||acr0.samsungcloudsolution.com^
 ||acradminprd.cloudapp.net^
+||acrapiprd.cloudapp.net^
 ||acrapiprdnew.trafficmanager.net^
+||acrapiprd.trafficmanager.net^
 ||acr.samsungcloudsolution.com^
 ||adgear.com^
 ||adgrx.com^
