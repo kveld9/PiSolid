@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-21T08:08:07.682Z
+! Last modified: 2025-03-22T08:08:05.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7240,6 +7240,7 @@
 ||apiapple.staging01.paroli.es^
 ||apiapplemotor.bosscar.co^
 ||apic-chile.cl^
+||apichatgpt.coronelazevedo.com.br^
 ||apichatgpt.dev.curbe.com.ec^
 ||apichatgpt.ifconnectsystem.com.br^
 ||apichatgptatendimentoksa.apiksaadv.com.br^
@@ -10797,6 +10798,7 @@
 ||bandaencantus.com.br^
 ||bandaepoca.com.br^
 ||bandamazonas.com.br^
+||bandashowbiss.com.br^
 ||bandasomelouvor.com.br^
 ||bandeirantesdragagem.com.br^
 ||bandeirantesindustrial.com.br^
@@ -14580,6 +14582,7 @@
 ||chatgpt.como.co^
 ||chatgpt.conet.com.mx^
 ||chatgpt.copycomfelipefontes.com.br^
+||chatgpt.coronelazevedo.com.br^
 ||chatgpt.cr^
 ||chatgpt.cursopravoce.com.br^
 ||chatgpt.cursosinfornet.com.br^
@@ -15415,7 +15418,6 @@
 ||chromeheartsllc.co^
 ||chromiumcarparts.co^
 ||chrommatexturas.com.br^
-||chronopost-suivi-fr.co^
 ||chrysler.cl^
 ||chsever.co^
 ||cht-whatsapp-xcy.gq^
@@ -17903,6 +17905,7 @@
 ||cs-app.briggsultracred.co^
 ||cs-mobilelegends-officiall.gq^
 ||cs-shop.com.br^
+||cs.5seo.co^
 ||cs2454c.blogspot.com.es^
 ||csagenteimobiliario.com.br^
 ||csartsemijoias.com.br^
@@ -18112,7 +18115,6 @@
 ||cursosunipro.com.br^
 ||cursotecnicoapple.com.br^
 ||cursotestamentovital.com.br^
-||curt.wiz.co^
 ||curteai.com.br^
 ||curtirasferias.com.br^
 ||curtirferias.com.br^
@@ -25083,6 +25085,7 @@
 ||funerariaiparraguirre.es^
 ||funerariasanmiguel.cl^
 ||funerariasaojudastadeu.com.br^
+||funeshoy.com.ar^
 ||funfootball.co^
 ||fungoshopdelivery.com.br^
 ||funilariaflamingo.com.br^
@@ -25360,6 +25363,7 @@
 ||gedagang.co^
 ||gedaiamazonia.com.br^
 ||geeklemail.com.br^
+||geekon.cl^
 ||geeksquadtechsupport.co^
 ||geekstechnicalsupport.co^
 ||geeksworld.co^
@@ -25532,6 +25536,7 @@
 ||ghfghfghfghhjhj.blogspot.com.es^
 ||ghfghfghfghhjhj.blogspot.com.uy^
 ||ghiacar.com.br^
+||ghjkhq.blogspot.mx^
 ||ghmghmgh112.blogspot.pe^
 ||ghnbnnb.desarrollolaboralchile.cl^
 ||ghostdigital.co^
@@ -25695,6 +25700,7 @@
 ||gmal.co^
 ||gmasil.co^
 ||gmgsecurity.com.br^
+||gmmadv.com.br^
 ||gms.gob.ec^
 ||gmt.andeavor.co^
 ||gmyasociados.cl^
@@ -26676,9 +26682,11 @@
 ||hftcfe.blogspot.mx^
 ||hg2025.net.br^
 ||hg360.com.mx^
+||hgfbdx.blogspot.com.es^
 ||hgfdghr.gq^
 ||hgfdshgdfdfg.esy.es^
 ||hgg-fgh.pages.net.br^
+||hgjyfc.blogspot.mx^
 ||hgjyrx.blogspot.com.es^
 ||hgkkgjgj.blogspot.cl^
 ||hgkkgjgj.blogspot.com.ar^
@@ -30863,6 +30871,7 @@
 ||htchk.co^
 ||htcourse.es^
 ||htechprojetos.com.br^
+||htfmug.blogspot.com.br^
 ||htfx.co^
 ||htltreinamentos.com.br^
 ||htmlsuport.62763.repl.co^
@@ -31330,6 +31339,7 @@
 ||impulseopenair.com.br^
 ||impulsioneamazonas.com.br^
 ||impulsionedelivery.com.br^
+||imtoken-app.co^
 ||imtonken.co^
 ||in-post-pl-myid272xs.order-dostawa82931.co^
 ||in-post.co^
@@ -31499,6 +31509,7 @@
 ||inkandapple.co^
 ||inkarilaiba.ipq.co^
 ||inkasgold.pe^
+||inkcc-link-ld.vanxx.co^
 ||inkedin.co^
 ||inkscape.es^
 ||inkyou.com.br^
@@ -32304,6 +32315,7 @@
 ||jhgngh.blogspot.com.es^
 ||jhgrhx.blogspot.mx^
 ||jhl.com.pe^
+||jhmhyf.blogspot.com.br^
 ||jhncjt.blogspot.mx^
 ||jhsstudio.com.br^
 ||ji6o3cz3.co^
@@ -32319,6 +32331,7 @@
 ||jintaiassets.co^
 ||jio-phone-shop.blogspot.com.br^
 ||jio-phone-shop.blogspot.mx^
+||jirxcf.blogspot.mx^
 ||jisonss111.blogspot.com.co^
 ||jitteryfajarwati.co^
 ||jivgtr.blogspot.com.co^
@@ -32570,6 +32583,7 @@
 ||jygyxd.blogspot.com.uy^
 ||jymserviciosintegrales.cl^
 ||jyrgraphics.com.ar^
+||jyytes.blogspot.com.br^
 ||jz-whats-app.co^
 ||k2lanches.com.br^
 ||k2mail-03.com.br^
@@ -32888,6 +32902,7 @@
 ||kurierownia.co^
 ||kuronekoanato.co^
 ||kuru-ko.cl^
+||kutcff.blogspot.com.br^
 ||kuvo.cl^
 ||kvitec-kr.co^
 ||kvme.cl^
@@ -36865,6 +36880,7 @@
 ||nfrypbry.santaritasjc.org.br^
 ||ngdhqw.blogspot.pe^
 ||ngfdhfm.sterlingtradingtech.co^
+||ngmhjy.blogspot.com.br^
 ||ngsqxd.blogspot.mx^
 ||nguoicodon-em.pages.net.br^
 ||nguyenhotelz.gq^
@@ -36873,6 +36889,7 @@
 ||nhgfcr.blogspot.com.es^
 ||nhgfcr.blogspot.com.uy^
 ||nhhkl.blogspot.com.br^
+||nhmjtd.blogspot.com.es^
 ||nhnh55hdc3.uqg.es^
 ||niaamazonia.com.br^
 ||nibiokomguk.blogspot.cl^
@@ -37160,6 +37177,7 @@
 ||nrgbinary.co^
 ||nrjfjgfgfdgz.blogspot.com.es^
 ||nrseg.com.br^
+||nrxtjq.blogspot.com.es^
 ||ns.micorsoft.co^
 ||ns1.onelink.com.br^
 ||ns1.ourletter.com.br^
@@ -37218,8 +37236,10 @@
 ||nxplus.com.br^
 ||nyaatker.co^
 ||nyc1-app03.fujikawa.com.br^
+||nyccyjm-paypalverification.tinderhot.co^
 ||nympropiedades.cl^
 ||nyomiet.co^
+||nyzxjq.blogspot.mx^
 ||nz.com.ar^
 ||o-rln.co^
 ||o.do.do^
@@ -37348,6 +37368,7 @@
 ||off600.gq^
 ||offficepost.co^
 ||office-notarial-doc.carrd.co^
+||office.login.microsoft.online.com.netssltls.co^
 ||office365-account-verify.gq^
 ||officeamazon.co^
 ||officecityinc.joaorodrigo.com.br^
@@ -37761,6 +37782,7 @@
 ||openai.myexpertmd.com.br^
 ||openai.nanfnet.co^
 ||openai.nellika.co^
+||openai.neuroblastos.ar^
 ||openai.nextgenarticle.co^
 ||openai.nnas.gq^
 ||openai.obrito.com.br^
@@ -38488,6 +38510,8 @@
 ||payfastsolutions.co^
 ||payforcu.gq^
 ||payingsocialmediajobs.co^
+||paym-1400-paypal-dprct.nubestaging.com.br^
+||paym-1400-paypal-dprct.nubestaging.com.mx^
 ||paymentdashboard-app.ese.et3.co^
 ||paymentmaster.gq^
 ||paymentsprocessing.gq^
@@ -38498,6 +38522,7 @@
 ||paypal-account-confirmation.muninuevaesperanza.gov.py^
 ||paypal-account-verification.francodieselperu.com.pe^
 ||paypal-account.support-center-limited.renegociardivida.com.br^
+||paypal-accountlimit.yahoodatabreachsettlement.co^
 ||paypal-accounts-verification.mcsoluciones.com.mx^
 ||paypal-australia.alipay.co^
 ||paypal-australia.bharti.co^
@@ -38548,6 +38573,7 @@
 ||paypal-businesscenter.sport.ar^
 ||paypal-businesscenter.srt.cl^
 ||paypal-businesscenter.uk.cl^
+||paypal-caseid365.tindernude.co^
 ||paypal-casinos.co^
 ||paypal-com-webapps-sign-country.tinderhot.co^
 ||paypal-communications.associates.co^
@@ -38566,6 +38592,7 @@
 ||paypal-communications.reliance.co^
 ||paypal-communications.srt.cl^
 ||paypal-communications.tvs.co^
+||paypal-community-service.twittervideodownload.co^
 ||paypal-community.box.cl^
 ||paypal-community.dabur.co^
 ||paypal-community.farmers.co^
@@ -38576,6 +38603,7 @@
 ||paypal-community.place.do^
 ||paypal-community.sport.ar^
 ||paypal-community.versicherung.bz^
+||paypal-confirm-identity.yahoodatabreachsettlement.co^
 ||paypal-confirms.co^
 ||paypal-connect-5502.rdmotacontabilidade.com.br^
 ||paypal-connector-dev.xendit.co^
@@ -38721,6 +38749,7 @@
 ||paypal-id.co^
 ||paypal-id.n4t.co^
 ||paypal-idl.garko.com.mx^
+||paypal-incsh.tindernude.co^
 ||paypal-info-verification.tindertok.co^
 ||paypal-information.alipay.co^
 ||paypal-information.auto.bz^
@@ -38927,6 +38956,9 @@
 ||paypal-promo.study.co^
 ||paypal-prueba.tenpo.cl^
 ||paypal-recovery-account.yahoogle.co^
+||paypal-recovery-limited-accounts.yahoogle.co^
+||paypal-recovery-youraccount.yahoogle.co^
+||paypal-restrictions30.yahoogle.co^
 ||paypal-retail.book.cl^
 ||paypal-retail.farmers.co^
 ||paypal-retail.forum.ar^
@@ -38958,6 +38990,7 @@
 ||paypal-shopping.properties.ar^
 ||paypal-shopping.read.co^
 ||paypal-shopping.sling.co^
+||paypal-solving.yahoodatabreachsettlement.co^
 ||paypal-sptam.alipay.co^
 ||paypal-sptam.casino.sv^
 ||paypal-sptam.farmers.co^
@@ -39009,6 +39042,7 @@
 ||paypal-updatesecurely.redditlist.co^
 ||paypal-verif.emprestimoparapensionista.com.br^
 ||paypal-verificationsaccount.com.westernunion.ar^
+||paypal-verifiiying.yahoogle.co^
 ||paypal-verify-now.phavi.com.br^
 ||paypal-webhook-dev.ooo.co^
 ||paypal-workplace.bl.ar^
@@ -39084,6 +39118,7 @@
 ||paypal.d3f4lt.com.br^
 ||paypal.dasana.mx^
 ||paypal.dgrooveacessorios.com.br^
+||paypal.dinheiroemprestado.com.br^
 ||paypal.duosiqueiralima.com.br^
 ||paypal.e-assis.com.br^
 ||paypal.enjoi.es^
@@ -39209,6 +39244,7 @@
 ||paypalcorp.show.cl^
 ||paypalcorp.versicherung.bz^
 ||paypalcr.edit.co^
+||paypalcrcdit.coinbasepay.co^
 ||paypalcredit.academy.ar^
 ||paypalcredit.careers.mx^
 ||paypalcredit.chrome.es^
@@ -39244,6 +39280,7 @@
 ||paypalinc.prya.com.br^
 ||paypalinfo.co^
 ||paypalit.forward.co^
+||paypalitedacceline.tindernude.co^
 ||paypall.co^
 ||paypallemail.twittervideodownload.co^
 ||paypallogin.commoki.mysbuxben.co^
@@ -39257,6 +39294,7 @@
 ||paypallplus.bubbe.com.br^
 ||paypalm.com.br^
 ||paypalmanager.techfront.com.br^
+||paypalmobile-secure.tindernude.co^
 ||paypalmoneyexploit.blogspot.mx^
 ||paypalmonychek.blogspot.com.co^
 ||paypalnet.uscpprohomeoh.mysbuxben.co^
@@ -39273,10 +39311,12 @@
 ||paypalobjects.show.cl^
 ||paypalobjects.srt.cl^
 ||paypalobjects.vodka.es^
+||paypalog.redditlist.co^
 ||paypalpayments.com.mx^
 ||paypalpayments.limpiandoelsur.cl^
 ||paypalpeoplepower.ca-119mm.mysbuxben.co^
 ||paypalprodtestshop.stor.co^
+||paypalpva.yahoodatabreachsettlement.co^
 ||paypalrates.aelia.co^
 ||paypalrefund.co^
 ||paypalreports.hooeditora.com.br^
@@ -39286,6 +39326,7 @@
 ||paypalsecureteam.orangeserve.co^
 ||paypalsecurity.co^
 ||paypalsolve.tindernude.co^
+||paypalsupportdpt.yahoodatabreachsettlement.co^
 ||paypaltest.nextacllc.co^
 ||paypalticket90131.netflixlife.co^
 ||paypaltransfer.us.com.ar^
@@ -39926,6 +39967,7 @@
 ||planetcolor.com.br^
 ||planetebooks.gq^
 ||planetluckguide.com.es^
+||planetsurspa.cl^
 ||planetsystems.co^
 ||planisapres.cl^
 ||plano.tmp.br^
@@ -41879,6 +41921,7 @@
 ||reservistas.org.br^
 ||reset-apple.co^
 ||resetdelivery.com.br^
+||resgatandovidasmt.com.br^
 ||resgateamazonas.com.br^
 ||resgatehoradeouro.com.br^
 ||residencialamazonasitu.com.br^
@@ -42707,6 +42750,7 @@
 ||russoarquitectura.cl^
 ||rustikusdelivery.com.br^
 ||ruthrico.com.br^
+||rutin.es^
 ||rva1.co^
 ||rvelevadores.com.br^
 ||rvinformatica.factoriadigitalpremium.es^
@@ -43238,6 +43282,7 @@
 ||seeri-app.dev.seeri.co^
 ||seeri-app.mx.dev.seeri.co^
 ||sefartuc.com.ar^
+||sefwsz.blogspot.mx^
 ||segredopousada.com.br^
 ||segredosdasfinancas.com.br^
 ||segredosdochatgpt.com.br^
@@ -43610,6 +43655,7 @@
 ||seualcance.com.br^
 ||seucarroecasa.com.br^
 ||seuchatgpt.adv.br^
+||seuchatgptperfeito.com.br^
 ||seudesempenho.com.br^
 ||seudiadecompras.com.br^
 ||seuestranho.com.br^
@@ -43855,7 +43901,6 @@
 ||simbiozeamazonica.novogreen.cl^
 ||simco-app-staging.rafam.ec.gba.gob.ar^
 ||simco-app.rafam.ec.gba.gov.ar^
-||simit-pagos.co^
 ||simnet.co^
 ||simone.com.mx^
 ||simonenogueira.com.br^
@@ -44417,6 +44462,7 @@
 ||spankwirecams.es^
 ||sparkamazonas.com.br^
 ||sparkequipamentos.com.br^
+||spartanfitness.com.ar^
 ||spartech.co^
 ||spartians.gq^
 ||spasuren.gq^
@@ -45948,6 +45994,7 @@
 ||tiendadewolly.com.mx^
 ||tiendaenamazon.com.accionate.es^
 ||tiendaguess.com.co^
+||tiendakiplingmexico.com.mx^
 ||tiendalamanzana.cl^
 ||tiendamaspet.cl^
 ||tiendamatilda.cl^
@@ -46515,6 +46562,7 @@
 ||tsiconstrutora.com.br^
 ||tsiklessla.gq^
 ||tskempreendimentos.com.br^
+||tslconsultores.es^
 ||tslimitada.cl^
 ||tsmarket.co^
 ||tsmarkets.co^
@@ -46709,7 +46757,6 @@
 ||uatsa.cl^
 ||uayma.gob.mx^
 ||ub3.gra-fin.co^
-||ubal.do^
 ||ubarce.gq^
 ||ubariacaidelivery.com.br^
 ||ubb.com.ve^
@@ -46774,6 +46821,7 @@
 ||ujzzrnkzck2vpgf.graficosdm.com.uy^
 ||ukfirstco.gq^
 ||ukhereweare.gq^
+||ukihtc.blogspot.com.es^
 ||ukslappers.co^
 ||ukvc.co^
 ||ulilight.com.br^
@@ -49028,7 +49076,6 @@
 ||zapatosclarkscolombia.com.co^
 ||zapatosrockportmexico.com.mx^
 ||zapatotienda.es^
-||zapchat.tpinformatica.com.br^
 ||zapchatgpt.capstoop.com.br^
 ||zaphub-app.castor.gdxconsulting.com.br^
 ||zaphub-app.polux.gdxconsulting.com.br^
