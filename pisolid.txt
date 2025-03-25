@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-24T08:08:07.000Z
+! Last modified: 2025-03-25T08:08:07.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -10971,6 +10971,7 @@
 ||bastosecolomba.adv.br^
 ||basungaintl.gq^
 ||basval.cl^
+||basvsv39.kleap.co^
 ||batalhaveiculos.com.br^
 ||batatariacristal.com.br^
 ||batbeneficiadora.com.br^
@@ -11843,9 +11844,11 @@
 ||bittrexx.co^
 ||bittyurl.co^
 ||bitvavo.com.nl.services.itacasd.com.br^
+||bitvavo.com.nl.services.mwftelecom.com.br^
 ||bitvavo.com.nl.services.pulsopet.com.br^
 ||bitvavo.com.nl.services.transhelis.com.br^
 ||bitvavo.com.nl.services.victorcassiano.com.br^
+||bitvavo.sagec.cl^
 ||bitvavtios.co^
 ||bitwise-pal.co^
 ||biualedtyn.0tx9ns4wonsw5lf.jjsiles.cl^
@@ -12440,6 +12443,7 @@
 ||bradescosaude.blog.br^
 ||bradescosaudeconvenios.com.br^
 ||bradescosaudenacional.com.br^
+||bradescosaudeplano.com.br^
 ||brado.alfacode.com.br^
 ||bradosystems.com.br^
 ||bragadoesnoticia.com.ar^
@@ -14602,6 +14606,7 @@
 ||chatgpt.dicasmarketingdigital.com.br^
 ||chatgpt.dmesg.gq^
 ||chatgpt.do^
+||chatgpt.docentesit.es^
 ||chatgpt.dongxin.co^
 ||chatgpt.dsinove.com.br^
 ||chatgpt.e-mat.cl^
@@ -15071,6 +15076,7 @@
 ||chatgptplus.es^
 ||chatgptportugues.co^
 ||chatgptportugues.com.br^
+||chatgptportuguesbrasil.com.br^
 ||chatgptprestadores.orizon.com.br^
 ||chatgptpro.co^
 ||chatgptpro.com.br^
@@ -17938,6 +17944,7 @@
 ||cssjs.co^
 ||cssnf-a.gq^
 ||cssozopuruhtlms-nku.alineweege.repl.co^
+||csstats.es^
 ||csupport.cl^
 ||ct2mengenharia.com.br^
 ||ct50exrx.robertaocana.com.br^
@@ -20763,6 +20770,7 @@
 ||discordmoderato.repl.co^
 ||discordpolicy.repl.co^
 ||discordpremium.gq^
+||discords.bz^
 ||discordstaff.gq^
 ||discountnativesmokes.co^
 ||discountonlyhere.com.br^
@@ -21456,6 +21464,7 @@
 ||dsyc.es^
 ||dtdev.com.ar^
 ||dtge5z.barclayis.co^
+||dtjutbth.mypi.co^
 ||dtv-ar.com.es^
 ||dtx30d.com.br^
 ||duajurai.co^
@@ -23630,7 +23639,6 @@
 ||ezpruahm.gq^
 ||ezrdfgdfvgbhv.blogspot.com.uy^
 ||f-e-j.chefbrunaavila.com.br^
-||f.neko.pe^
 ||f044867a-86fd-41c9-811b-8c0217ea0008.id.repl.co^
 ||f1420831.cardiopedbrasil.com.br^
 ||f14b5469ae627b87c00a224-goonlinebnpparibas.pl-pl.es^
@@ -24305,6 +24313,7 @@
 ||feincartes.com.br^
 ||feiraestudantilfunvic.org.br^
 ||feirantes-app.clickapps.com.br^
+||feirao2025negocia.com.br^
 ||feitamaocursos.com.br^
 ||feitoincrivel.com.br^
 ||feitoperfeitopravoce.com.br^
@@ -32202,6 +32211,7 @@
 ||jakzrobikoszulkwroblox.blogspot.pe^
 ||jalapaoturismo7.com.br^
 ||jalisaaake.co^
+||jamaes-jca.kleap.co^
 ||jamazon.es^
 ||jamazon.japps.com.br^
 ||jamescharlesrobloxid.blogspot.mx^
@@ -32318,6 +32328,7 @@
 ||jgcp2507.com.br^
 ||jginspecao.com.br^
 ||jgyfgroup.co^
+||jgytra.blogspot.cl^
 ||jhgngh.blogspot.com.br^
 ||jhgngh.blogspot.com.es^
 ||jhgrhx.blogspot.mx^
@@ -32352,6 +32363,7 @@
 ||jkb.co^
 ||jkcadeiras.com.br^
 ||jlamazonasprodutosnaturais.com.br^
+||jlavernon13-a7d.kleap.co^
 ||jlbrito.com.br^
 ||jld-app.lleego.es^
 ||jm.pe^
@@ -33659,7 +33671,6 @@
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
 ||loginforms.co^
-||loginmlcrosoftonline365.advance.com.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
@@ -36569,6 +36580,7 @@
 ||needs.ipq.co^
 ||neep-pr.com.br^
 ||nefi-eb.com.br^
+||negocia2025feirao.com.br^
 ||negociaveis.com.br^
 ||negociobleven.com.br^
 ||negociocomsucesso.com.br^
@@ -37377,7 +37389,6 @@
 ||off600.gq^
 ||offficepost.co^
 ||office-notarial-doc.carrd.co^
-||office.login.microsoft.online.com.netssltls.co^
 ||office365-account-verify.gq^
 ||officeamazon.co^
 ||officecityinc.joaorodrigo.com.br^
@@ -37822,6 +37833,7 @@
 ||openai.voupazzw.gq^
 ||openai.wedatasolution.com.br^
 ||openai.wolai.gq^
+||openai.workspace.lebs.com.br^
 ||openai.x10.bz^
 ||openai.x10.mx^
 ||openai.xeventos.es^
@@ -39078,6 +39090,7 @@
 ||paypal.cachorrosaiyajin.com.br^
 ||paypal.cadejur.com.br^
 ||paypal.cadernodecinema.com.br^
+||paypal.carabina.com.br^
 ||paypal.carbonouomo.com.br^
 ||paypal.cinemato21.com.br^
 ||paypal.cl^
@@ -39270,6 +39283,7 @@
 ||paypaleu.dasana.mx^
 ||paypalexperience.motu.com.br^
 ||paypalfaster.netgocios.cl^
+||paypalfeecalculator.co^
 ||paypalfest.com.mx^
 ||paypalgivingfund.bharti.co^
 ||paypalgivingfund.channel.ar^
@@ -39308,6 +39322,7 @@
 ||paypalnet.uscpprohomeoh.mysbuxben.co^
 ||paypalnetwork.redditlist.co^
 ||paypalnotrespondingto.co^
+||paypalobjects.auto.bz^
 ||paypalobjects.bl.ar^
 ||paypalobjects.channel.ar^
 ||paypalobjects.co^
@@ -42712,6 +42727,7 @@
 ||rtchatgpt.repl.co^
 ||rtegdgdj.esy.es^
 ||rtimer.com.br^
+||rtjytivbda.mypi.co^
 ||rtrfgfdgdfg.blogspot.cl^
 ||rtrtechnicalservices.co^
 ||rts-amazonas.com.br^
@@ -43269,6 +43285,7 @@
 ||securewebdomain87678755uytfgyt566789999987689ghjtrefgttooi.upgrade7878.repl.co^
 ||securewebs.lpages.co^
 ||securitariosribeiraopreto.org.br^
+||security-meta.pages.app.br^
 ||security-steemit.com.mx^
 ||security-support.co^
 ||securitybulb360.co^
@@ -43455,6 +43472,7 @@
 ||sergioallevato.com.br^
 ||sergiomalta.com.br^
 ||sergioromero.cl^
+||seriale.co^
 ||seriba.mx^
 ||seribas.es^
 ||serigrart.com.br^
@@ -43547,6 +43565,7 @@
 ||service-info.esy.es^
 ||service-payement.docesdaserramineira.com.br^
 ||service-paypal-account.spymaster.com.br^
+||service-paypal-co-uk.mydns.bz^
 ||service-paypal.newsit.es^
 ||service-payqal-confirmation.carreteras.com.mx^
 ||service-schmitz.co^
@@ -44660,6 +44679,7 @@
 ||sspropiedades.mx^
 ||ssses-bbva.acceso-secure.es^
 ||sssolutions.com.br^
+||sssses-bbva.acceso-secure.es^
 ||ssstiktok.com.co^
 ||sstamlyn.gq^
 ||ssylo.com.mx^
@@ -45057,6 +45077,7 @@
 ||supernovaopulence.co^
 ||superofertaonline.com.br^
 ||superondas.net.br^
+||superoutletshopslovenija.co^
 ||superperformance.com.br^
 ||superpets.es^
 ||superpinapple.es^
@@ -45399,6 +45420,7 @@
 ||tb777.net.br^
 ||tbadistribuidora.com.br^
 ||tbforte-app.pathfindsistema.com.br^
+||tbyers2-yvf.kleap.co^
 ||tc.shlok.co^
 ||tchat-gratuit-et-sans-inscription.blogspot.cl^
 ||tchemailer.com.br^
@@ -46332,6 +46354,7 @@
 ||tradeiplex.co^
 ||trademarkfinnance.co^
 ||traders-book.co^
+||tradersroom.co^
 ||tradeserax.co^
 ||tradeshow-ammcare-app-cokc.ammcare-acc.ccdns.co^
 ||tradestats.co^
@@ -47817,6 +47840,7 @@
 ||vp-diretorioweb.net.br^
 ||vp-trevisocc.com.br^
 ||vp3-diretorioweb.net.br^
+||vps-1004003.neumachile.cl^
 ||vps001.com.br^
 ||vps01.com.br^
 ||vpscloudsmailer.com.br^
@@ -48399,6 +48423,8 @@
 ||wvw.wellsfargo-online.com.verify.authentic.page.upd.user.portal.visualfarm.com.br^
 ||ww.yau.com.mx^
 ||ww1.elitetrading.co^
+||ww25.killer.netflix-com.co^
+||ww25.origin-www.netflix-com.co^
 ||ww38.file-45899.xsecure.es^
 ||ww5.co^
 ||wwapple-app-site-association.zapvenda.com.br^
@@ -48964,6 +48990,7 @@
 ||yhoo.co^
 ||yhoo.com.ar^
 ||yhrehyrdkyrtktrlkr6yy6lk5.blogspot.cl^
+||yicongesac.com.pe^
 ||yiptelecom.com.br^
 ||yjk.co^
 ||yk188apple.co^
@@ -49066,6 +49093,7 @@
 ||zajile-66640.blogspot.com.uy^
 ||zajile-66640.blogspot.pe^
 ||zajlxasb.blogspot.mx^
+||zalukaj.co^
 ||zancollor.com.br^
 ||zandt.es^
 ||zanonball.com.br^
@@ -49159,6 +49187,7 @@
 ||zl6.co^
 ||zlatan.gq^
 ||zlx.com.br^
+||zm.cplsqci.es^
 ||zmoiqgmj.rockt.es^
 ||znan7dxx.blogspot.cl^
 ||znan7dxx.blogspot.com.es^
