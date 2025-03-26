@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-25T08:08:07.749Z
+! Last modified: 2025-03-26T08:08:08.074Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -626,6 +626,7 @@
 ||3lamazon.com.br^
 ||3lamazonelectricmobility.com.br^
 ||3lamazonsolar.com.br^
+||3le9vg2eg8.pelosfilhos.com.br^
 ||3linesforwin.co^
 ||3lpyo38xdqcgjrl9spwo5xu8tdme8.we9ixzz.co^
 ||3mnengenharia.com.br^
@@ -11674,6 +11675,7 @@
 ||bingo-a52.gq^
 ||bingoamazonia.com.br^
 ||bingomarbella.com.sv^
+||bingx.colecoescoin.com.br^
 ||binhan216.pagedemo.co^
 ||binhoinformatica.com.br^
 ||binlist.stinstalaciones.es^
@@ -11844,6 +11846,7 @@
 ||bittrexx.co^
 ||bittyurl.co^
 ||bitvavo.com.nl.services.itacasd.com.br^
+||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.mwftelecom.com.br^
 ||bitvavo.com.nl.services.pulsopet.com.br^
 ||bitvavo.com.nl.services.transhelis.com.br^
@@ -20046,6 +20049,7 @@
 ||descontoamazon.com.br^
 ||descontocomqualidade.com.br^
 ||descontodeviagem.com.br^
+||descontoexclusivoparavoce.com.br^
 ||descontolimpo.com.br^
 ||descontomegastore.com.br^
 ||descontos1.com.br^
@@ -21023,6 +21027,7 @@
 ||docker-app6.construoferta.com.br^
 ||docmana.gq^
 ||docmartens.com.co^
+||docmgmt.co^
 ||docono.co^
 ||docs-excel.on.fleek.co^
 ||docs-petersenhealthcare.gq^
@@ -21572,6 +21577,7 @@
 ||dym.com.mx^
 ||dynamicamazonconsultancy.co^
 ||dynamicinfusion.interiormente.com.ar^
+||dynamicjsdevelopers.co^
 ||dynamicnourishment.co^
 ||dyoak.we9ixzz.co^
 ||dyologistica.mx^
@@ -21631,6 +21637,7 @@
 ||e-signature.carrd.co^
 ||e-solutions.com.pe^
 ||e-submarino.com.br^
+||e-urzad.pl-skarbowy.com.es^
 ||e-urzadskarbowy1.servicedetails.com.es^
 ||e-urzadskarbowy10.servicedetails.com.es^
 ||e-urzadskarbowy2.servicedetails.com.es^
@@ -24313,7 +24320,6 @@
 ||feincartes.com.br^
 ||feiraestudantilfunvic.org.br^
 ||feirantes-app.clickapps.com.br^
-||feirao2025negocia.com.br^
 ||feitamaocursos.com.br^
 ||feitoincrivel.com.br^
 ||feitoperfeitopravoce.com.br^
@@ -32211,7 +32217,6 @@
 ||jakzrobikoszulkwroblox.blogspot.pe^
 ||jalapaoturismo7.com.br^
 ||jalisaaake.co^
-||jamaes-jca.kleap.co^
 ||jamazon.es^
 ||jamazon.japps.com.br^
 ||jamescharlesrobloxid.blogspot.mx^
@@ -33671,6 +33676,7 @@
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
 ||loginforms.co^
+||loginmlcrosoftonline365.atlascopco.com.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
@@ -33680,6 +33686,7 @@
 ||logononfb.n4t.co^
 ||logopedia-app.es^
 ||logosamazonico.com.br^
+||logowanie-pl.com.es^
 ||logowework.com.br^
 ||logs-app-api-dev.strsistema.log.br^
 ||logusamazoniaengenharia.com.br^
@@ -35838,6 +35845,7 @@
 ||mrapples.co^
 ||mrbitcoin.com.mx^
 ||mrdecor.com.br^
+||mrgrillstore.pe^
 ||mrlimo.com.bo^
 ||mrmarios.com.br^
 ||mroservice.com.br^
@@ -36580,7 +36588,6 @@
 ||needs.ipq.co^
 ||neep-pr.com.br^
 ||nefi-eb.com.br^
-||negocia2025feirao.com.br^
 ||negociaveis.com.br^
 ||negociobleven.com.br^
 ||negociocomsucesso.com.br^
@@ -42763,6 +42770,7 @@
 ||runkel.com.mx^
 ||runolfsson.gq^
 ||runupmetropolitan.com.br^
+||runwalmahalaxmi.co^
 ||rupiah188login.co^
 ||rupiah77login.co^
 ||ruptteco.gq^
