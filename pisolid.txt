@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-03-29T08:08:08.768Z
+! Last modified: 2025-03-30T08:08:07.564Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1415,6 +1415,7 @@
 ||accounts.google-app.co^
 ||accounts.mx^
 ||accounts.zeropaper.com.br^
+||accountscenter-meta.com-helpcenter.co^
 ||accountscenter-meta.com-support.co^
 ||accountt-adser.pages.net.br^
 ||accounttsbrasilgoogie.gq^
@@ -14032,6 +14033,7 @@
 ||cearc.co^
 ||cebolaautomoveis.com.br^
 ||cebolasurfboards.com.br^
+||cebplloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||cebrams.com.br^
 ||cebtecagro.com.br^
 ||cecaitra.org.ar^
@@ -14124,6 +14126,7 @@
 ||cename.gt^
 ||cenb.com.br^
 ||cenedeze.com.br^
+||cenetelbrindes.com.br^
 ||cenoa.com.ar^
 ||censalud.ues.edu.sv^
 ||censatec.com.br^
@@ -16603,6 +16606,7 @@
 ||comoganharrobuxdegraanorobloxguigames.blogspot.mx^
 ||comoinvertirenforex.es^
 ||comojogarcallofdutynoroblox.blogspot.cl^
+||comojogarrobloxcomlulucagames.blogspot.com.ar^
 ||comojogarrobloxescondeescondenopc.blogspot.pe^
 ||comojogarrobloxnamesmapartidaqseuamig.blogspot.pe^
 ||comojogarrobloxnopc2021.blogspot.cl^
@@ -16641,7 +16645,6 @@
 ||compartilhada.omolavanderia.com.br^
 ||compartilhehost.com.br^
 ||compensarenlinea.co^
-||compensarloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||competitivevaguesubweb--five-nine.repl.co^
 ||competnet.com.br^
 ||complejoalcampo.com.ar^
@@ -17622,6 +17625,7 @@
 ||cpesusanawesley.edu.pe^
 ||cpetroamazonas.wilcatsystems.pe^
 ||cpf777.net.br^
+||cphkftloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||cpies4vyjjjlxo5ppq.we9ixzz.co^
 ||cpiguatemala.com.gt^
 ||cplasvegascorvera.es^
@@ -17772,6 +17776,7 @@
 ||crescer.eng.br^
 ||creschendo.com.mx^
 ||creservpinhao.com.br^
+||cresetuauto.mx^
 ||cresolamazonia.com.br^
 ||crespo.org.br^
 ||crespomaquinaria.es^
@@ -21924,7 +21929,6 @@
 ||economizenoseuseguro.com.br^
 ||economyweb.com.br^
 ||econovet.cl^
-||econseedsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||econt.mx^
 ||ecoorganic.co^
 ||ecopaineldaamazonia.com.br^
@@ -25984,6 +25988,7 @@
 ||googlediadasmaes.com.br^
 ||googledoc.talatex.com.ar^
 ||googledocs.co^
+||googledocsdocumentviewer94030.notariaunicalaunion-valle.com.co^
 ||googledominado.com.br^
 ||googleel.co^
 ||googleew.co^
@@ -31352,6 +31357,7 @@
 ||iglieve.gq^
 ||igloocwk.com.br^
 ||ignezferraz.com.br^
+||igor-shoes.es^
 ||igps.es^
 ||igrejaapascentardedeus.com.br^
 ||igrejaassembleiadeef.com.br^
@@ -33725,6 +33731,7 @@
 ||linksforactors.com.es^
 ||linkslotgacorfafa88.easy.co^
 ||linksolutions.com.pe^
+||linktree.ec^
 ||linktrk.com.br^
 ||linkupmarketing.co^
 ||linkvideos.com.br^
@@ -33925,8 +33932,8 @@
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
 ||loginforms.co^
+||loginmicrosoftonline.envalior.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.avantix.net.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.ihyphen.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365brusselsairport.be.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365elma.co.il.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
@@ -34152,7 +34159,6 @@
 ||lp-markets.co^
 ||lp.wainerfortesadvocacia.com.br^
 ||lpchatgpt.eldaalmeida.com.br^
-||lpeeloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||lplquimica.com.br^
 ||lpmiranteamazonas.vanessamoraes.com.br^
 ||lpmonteiro.com.br^
@@ -40421,7 +40427,6 @@
 ||pneusola.com.br^
 ||pnova.cl^
 ||pnw.com.br^
-||pnwintermodalloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||po-trucee.gq^
 ||pocchatgpt.docspider.com.br^
 ||pocoxxmas.gq^
@@ -40442,7 +40447,6 @@
 ||poias.co^
 ||poijormepha.gq^
 ||pointdoacaiamazonia.com.br^
-||points-crystaldash.co^
 ||pointtravel.com.br^
 ||poisonappleclothes.co^
 ||poland00.carrd.co^
@@ -40463,6 +40467,7 @@
 ||policia-gmac.blogspot.com.br^
 ||policlinicaamazonas.com.br^
 ||policlinicadaamazonia.com.br^
+||policlinicariovermelho.com.br^
 ||policomp.com.br^
 ||polideportivosangabriel.es^
 ||polifilmesdaamazonia.com.br^
@@ -40697,6 +40702,7 @@
 ||pousadaarthemis.com.br^
 ||pousadabahia10.com.br^
 ||pousadacaminhodosescravos.com.br^
+||pousadacapimmelado.com.br^
 ||pousadacavalinno.com.br^
 ||pousadacoracaodaamazonia.com.br^
 ||pousadadamica.com.br^
@@ -43300,6 +43306,7 @@
 ||sanidadvegetal.cl^
 ||sanipluslojavirtual.com.br^
 ||sanisa.com.co^
+||sanitaloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||sanjustoshopping.com.ar^
 ||sanlucaschiapas.gob.mx^
 ||sanmartin-tr.com.br^
@@ -43603,6 +43610,7 @@
 ||secure.account.bankofamerica.on-line.osbirigui.com.br^
 ||secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token.parceirospaf.com.br^
 ||secure.pivotal.co^
+||secure.tradehallglobal.co^
 ||secure.yourpage.gq^
 ||secureapple.co^
 ||secureappleid.local68.es^
@@ -43824,7 +43832,6 @@
 ||sertaoapple.com.br^
 ||sertaobruto.com.br^
 ||sertaoforteba.com.br^
-||serttec.com.mx^
 ||serum-rosa-amazonica.com.aquiesta.com.br^
 ||serum.com.br^
 ||serumamazonskin.com.br^
@@ -44434,6 +44441,7 @@
 ||skechers-mexico.com.mx^
 ||skechersaustralia.co^
 ||skechersphilippines.co^
+||skfloginmicrosoftonlineservices.ribeiroautocapas.com.br^
 ||ski9776.com.br^
 ||skillapple567.repl.co^
 ||skincareamazonia.com.br^
@@ -45021,6 +45029,7 @@
 ||ssses-bbva.acceso-secure.es^
 ||sssolutions.com.br^
 ||sssses-bbva.acceso-secure.es^
+||ssssses-bbva.acceso-secure.es^
 ||ssstiktok.com.co^
 ||sstamlyn.gq^
 ||ssylo.com.mx^
@@ -46002,6 +46011,7 @@
 ||tereveiculos.com.br^
 ||terfer.es^
 ||terkehadovi.gq^
+||termoowalamexico.com.mx^
 ||termosbaha.blogspot.com.ar^
 ||teroupadecrianca.com.br^
 ||terplastic.com.mx^
@@ -46104,6 +46114,7 @@
 ||teste-app-scanner.bne.com.br^
 ||teste-app.cachebank.com.br^
 ||teste-apprevendedor.precodogas.com.br^
+||teste.shoppingdascarretinhas.com.br^
 ||teste2-apps.vertech-it.com.br^
 ||teste2.espacoevoluser.com.br^
 ||testeamazon.ishoponline.com.br^
@@ -46327,7 +46338,6 @@
 ||thiwankaslt.gq^
 ||thomasandappleton.co^
 ||thomasnilsson.com.br^
-||thomsonloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||thornapplebrewing.co^
 ||thornappleconstruction.co^
 ||thornapplecu.co^
@@ -47942,6 +47952,7 @@
 ||vince-camuto.com.mx^
 ||vincecamutoespana.es^
 ||vinciguerra.com.ar^
+||vinfrancis.es^
 ||viniciuslead.com.br^
 ||viniciuszanoni.com.br^
 ||viniimoveis.com.br^
@@ -48218,7 +48229,6 @@
 ||vrftoshiba.com.mx^
 ||vrisoshop.co^
 ||vrossoni.com.br^
-||vrsarloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||vry.edu.pe^
 ||vseebox.co^
 ||vseeboxtv.co^
@@ -48792,6 +48802,7 @@
 ||wvw.wellsfargo-online.com.verify.authentic.page.upd.user.portal.visualfarm.com.br^
 ||ww.yau.com.mx^
 ||ww1.elitetrading.co^
+||ww25.cn.netflix-com.co^
 ||ww25.killer.netflix-com.co^
 ||ww25.origin-www.netflix-com.co^
 ||ww38.file-45899.xsecure.es^
