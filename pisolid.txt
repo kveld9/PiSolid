@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-01T08:08:06.510Z
+! Last modified: 2025-04-02T08:08:06.727Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1210,6 +1210,7 @@
 ||abdadvogados.com.br^
 ||abdala-sg-app.costazini.com.ar^
 ||abdla.gq^
+||abecom.com.br^
 ||abegs.com.br^
 ||abelardomoncayo.edu.ec^
 ||abeocpr.com.br^
@@ -1438,6 +1439,7 @@
 ||acegmt.com.br^
 ||acelera-apps.com.br^
 ||aceleraamazon.com.br^
+||acelubloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||acendedor.com.br^
 ||acepipesdeli.com.br^
 ||acepto.co^
@@ -9313,6 +9315,7 @@
 ||arah88login.co^
 ||arakmadu.com.ar^
 ||aramazonasolar.mx.sunmexsolar.mx^
+||aranet.net.br^
 ||arantesadvogadas.com.br^
 ||araucaniatv.cl^
 ||araujoeamazonas.com.br^
@@ -9933,6 +9936,7 @@
 ||atmsistemica.com.br^
 ||atodacostagalicia.es^
 ||atoearte.com.br^
+||atogov.accesoriosparamujerbogota.com.mx^
 ||atomicapple.es^
 ||atomswallet.co^
 ||atordeg.com.br^
@@ -12487,6 +12491,7 @@
 ||bradosystems.com.br^
 ||bragadoesnoticia.com.ar^
 ||brainapple.es^
+||braincare.es^
 ||brainchip.com.blazebakery.co^
 ||brainfuckerufl.blogspot.cl^
 ||brainmarketing.cl^
@@ -13322,6 +13327,7 @@
 ||caminolusco.es^
 ||caminosdemeditacion.cl^
 ||caminosupermercados.com.br^
+||camion-europeo.co^
 ||camionpar.com.py^
 ||camisariaamazonica.lojavirtualnuvem.com.br^
 ||camisariadommen.com.br^
@@ -16390,6 +16396,7 @@
 ||colegiodequiropracticos.cl^
 ||colegiodiegoportales.cl^
 ||colegioecursoreal.com.br^
+||colegioelpinar.edu.pe^
 ||colegioferrini.edu.co^
 ||colegiofundadoresdequilpue.cl^
 ||colegiogabrielamistralcoquimbo.cl^
@@ -16924,6 +16931,7 @@
 ||connect-excel.on.fleek.co^
 ||connect-secure-session321.gq^
 ||connect.clientinfo07.ipq.co^
+||connect.cloudscontroller.es^
 ||connect.codigodebarra.co^
 ||connect.secure.wellsfargo.com.auth.login.present.origin.cob.cabe110.com.ar^
 ||connect.secure.wellsfargoauthlogin.hosteltravessia.com.br^
@@ -17478,7 +17486,6 @@
 ||correosdinamicos.cl^
 ||correosfull.com.co^
 ||correosi.com.es^
-||correospanama.gob.pa^
 ||correosprepago.bnext.es^
 ||corretor-app-dev.pottencial.com.br^
 ||corretor-app-hml.pottencial.com.br^
@@ -22252,6 +22259,7 @@
 ||electricireland.soimper.com.br^
 ||electricistasasociadoscdmx.com.mx^
 ||electrocityenergy.com.ar^
+||electrohidalgo.com.ar^
 ||electroingenieria.mx^
 ||electromaschile.cl^
 ||electronic-docs-townofscotlandneck.gq^
@@ -22730,6 +22738,7 @@
 ||engenhariaforma.com.br^
 ||engenhoweb.com.br^
 ||engepiso.com.br^
+||engeplus.com.br^
 ||engepool.com.br^
 ||engerrow.gq^
 ||engetork.com.br^
@@ -24408,6 +24417,7 @@
 ||feincartes.com.br^
 ||feiraestudantilfunvic.org.br^
 ||feirantes-app.clickapps.com.br^
+||feirao2025acordo.com.br^
 ||feirao2025negocia1.com.br^
 ||feitamaocursos.com.br^
 ||feitoincrivel.com.br^
@@ -25708,6 +25718,7 @@
 ||giga303login.co^
 ||giga77login.co^
 ||gigadesorte.com.br^
+||gigaelectro.co^
 ||gigantesamazonia.com.br^
 ||gigreja.com.br^
 ||gigzi.co^
@@ -26498,6 +26509,7 @@
 ||gustavomotta.com.br^
 ||gustavoreisoficial.com.br^
 ||gustavoserver1.com.br^
+||gustyjatiprakoso.co^
 ||gutxksrgcoamazon-de.beta.imdb.com.ar^
 ||gvamerica.co^
 ||gvartstudio.com.mx^
@@ -32353,6 +32365,7 @@
 ||itservice.upsnobreaks.com.br^
 ||itsmarketingmedico.com.br^
 ||itssexualhealth.com.es^
+||itsweb.com.br^
 ||itucondominios.com.br^
 ||itunes-connect-apple.co^
 ||iudwnpaypal-prepaid.casino.do^
@@ -33278,6 +33291,7 @@
 ||lacriolipolisis.es^
 ||lacroa.com.br^
 ||lacrosse-app.itx.bz^
+||ladiesimportados.com.ar^
 ||ladivisa.com.co^
 ||ladytattoo.es^
 ||laercioapple.com.br^
@@ -33977,13 +33991,16 @@
 ||loginmlcrosoftonline365.airproducts.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.avantix.net.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.cyklad.fr.ribeiroautocapas.com.br^
+||loginmlcrosoftonline365.nne.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.sanita.it.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.sap.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.thegbfoods.com.ribeiroautocapas.com.br^
+||loginmlcrosoftonline365.wellcome.org.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365albaugh.eu.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365brusselsairport.be.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365elma.co.il.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365lbbd.gov.uk.ribeiroautocapas.com.br^
+||loginmlcrosoftonline365zynka.se.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
@@ -34373,6 +34390,7 @@
 ||luzeamor.org.br^
 ||luzemagia.com.br^
 ||luzpulsadaylaser.com.ar^
+||lv-logisticsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||lvg.cl^
 ||lvrkrk.com.br^
 ||lvy.qianying.co^
@@ -34935,6 +34953,7 @@
 ||marylanchesdelivery.com.br^
 ||masadaamazonia.com.br^
 ||masaieventos.cl^
+||masc-006.cloudscontroller.es^
 ||mascotasbyamazonia.es^
 ||mascoti.cl^
 ||mascursosweb.com.ar^
@@ -35290,6 +35309,7 @@
 ||meliurbis.es^
 ||mellinadecor.com.br^
 ||melodycolombia.com.co^
+||melyshop.es^
 ||member-web-app.phoenix.dev.wwrk.co^
 ||membrillosanlorenzo.com.membrillosanlorenzo.es^
 ||mememeklawer.blogspot.com.es^
@@ -36073,6 +36093,7 @@
 ||moov3.com.br^
 ||mopbike.com.br^
 ||mopdecorplanejados.com.br^
+||mopistudio.com.br^
 ||moradaamazona.com.br^
 ||moradadosolimobiliaria.com.br^
 ||moradasdochale.com.br^
@@ -37393,6 +37414,7 @@
 ||northfacemx.com.mx^
 ||northfines.com.co^
 ||northportspa.cl^
+||northtelecom.com.br^
 ||nortoncomsetup.co^
 ||norwaytoll.co^
 ||norwegianautopaskonto.es^
@@ -37915,6 +37937,7 @@
 ||onedrive-comm.gq^
 ||onedrive.com-sharedfolders-tectura.mostra.com.mx^
 ||onedrive.lloydrealestate.com.mx^
+||onedrive.promo-tupy.com.br^
 ||onedrivemail.gq^
 ||onedrivemessage.gq^
 ||onepagesconfirms.gq^
@@ -37923,6 +37946,7 @@
 ||oneractivemexico.com.mx^
 ||oneredapple.repl.co^
 ||onerosamazonica.com.br^
+||onetelecom.net.br^
 ||onetlify.carrd.co^
 ||onetouchbusiness.cl^
 ||onetransportes.com.br^
@@ -37981,6 +38005,7 @@
 ||onlyfans-gratis.mx^
 ||onlyfans-search.co^
 ||onlyfans-th.co^
+||onlyfans.pe^
 ||onlyfans24.co^
 ||onlyfansagency.co^
 ||onlyfansdownloader.co^
@@ -44353,6 +44378,7 @@
 ||simulacaoonlinesaude.com.br^
 ||simulacaoplanos.com.br^
 ||simulacaopropostasonline.com.br^
+||simulador.rgneuquen.com.ar^
 ||simuladorsaudebr.com.br^
 ||simulesaudebr.com.br^
 ||simuleumplano.com.br^
@@ -44787,7 +44813,6 @@
 ||sonsmasters.com.br^
 ||sonyps4customerservice.blogspot.com.ar^
 ||sonyps4customerservice.blogspot.com.es^
-||sonyps4customerservice.blogspot.mx^
 ||soped-app.mdhouse.dev.br^
 ||sopenaiassociats.es^
 ||sopenainnovations.es^
@@ -47327,6 +47352,7 @@
 ||uncachomenos.cl^
 ||unccp.co^
 ||unchatgpt.co^
+||uncsm.edu.ni^
 ||undeco.co^
 ||undertake.gq^
 ||undertheappletree.co^
@@ -47465,6 +47491,7 @@
 ||uploaddeimagens.com.br^
 ||upm.com.mx^
 ||upmailer.com.br^
+||upnetix.com.br^
 ||upperzone.com.br^
 ||upress.mx^
 ||ups-express.co^
@@ -47856,6 +47883,7 @@
 ||vertbrasil.com.br^
 ||verticaldeconstrucciones.co^
 ||vertiselevadores.com.br^
+||vertrauenscheck.es^
 ||vertystory.co^
 ||verusados.com.ar^
 ||vervie.co^
@@ -48013,6 +48041,7 @@
 ||villapple.com.br^
 ||villaroyal.com.mx^
 ||villaspresentes.com.br^
+||villefort.com.br^
 ||vilpia3d.es^
 ||vilrata.gq^
 ||viltur.com.br^
@@ -49391,6 +49420,7 @@
 ||y3k.cl^
 ||y88apple.co^
 ||ya.sv^
+||yachay.pe^
 ||yaganexpress.cl^
 ||yah00.co^
 ||yahho.com.ar^
@@ -49437,6 +49467,7 @@
 ||yeticolombia.com.co^
 ||yeticupjapan.co^
 ||yeyu.gq^
+||yf6j.wzatrge.es^
 ||yfqkwvzkl.gq^
 ||ygonzalez.es^
 ||ygsddl1.gq^
