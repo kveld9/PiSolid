@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-02T08:08:06.727Z
+! Last modified: 2025-04-03T08:08:09.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -567,6 +567,7 @@
 ||3333.pages.net.br^
 ||333907479255748.graficaaoquadrado.com.br^
 ||33453705628973648654235.jamb2022.co^
+||33831.co^
 ||33k928aumk6nyfkw.we9ixzz.co^
 ||3426nw6sb4stg5e67m.gq^
 ||34554654435324234.s32435324324.repl.co^
@@ -1439,7 +1440,6 @@
 ||acegmt.com.br^
 ||acelera-apps.com.br^
 ||aceleraamazon.com.br^
-||acelubloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||acendedor.com.br^
 ||acepipesdeli.com.br^
 ||acepto.co^
@@ -9323,7 +9323,6 @@
 ||araujosimao.com.br^
 ||arawaks.com.ve^
 ||arba.gq^
-||arbeitsplatze.co^
 ||arbell.com.mx^
 ||arbexti.com.br^
 ||arbitraging.co^
@@ -9460,6 +9459,7 @@
 ||around-theglobe.co^
 ||aroundglobe.gq^
 ||arpepropiedades.cl^
+||arpinmxs.mypi.co^
 ||arpirlfoolsroblox.blogspot.pe^
 ||arportoes.com.br^
 ||arpucelnabahi.gq^
@@ -11166,6 +11166,7 @@
 ||bebidasamazonia.pe^
 ||bebseoi-sadf0.blogspot.cl^
 ||bebseoi-sadf0.blogspot.pe^
+||becacious.co^
 ||becaro.cl^
 ||becbar.com.br^
 ||beccaridoces.com.br^
@@ -12256,6 +12257,7 @@
 ||bolivia-bcp--92837465637.repl.co^
 ||bolivian--fienetenline.repl.co^
 ||bolivian.fienetenline.repl.co^
+||bolle.com.mx^
 ||bollotas.com.br^
 ||bolognesienergia.com.br^
 ||bolsadetrabajoenlacelaboral.mx^
@@ -12461,6 +12463,7 @@
 ||bp.sistem.eng.br^
 ||bp.sixfibras.com.br^
 ||bp.t201.eliti.com.br^
+||bpa.iagiwtbsaiv.es^
 ||bpaconsulting.com.pe^
 ||bperes.com.br^
 ||bpisolutions.com.br^
@@ -13347,6 +13350,7 @@
 ||campbloco.com.br^
 ||campeaoamazonense.com.br^
 ||campercolombia.com.co^
+||campers.com.es^
 ||campinasfight.com.br^
 ||campingbichodagua.com.br^
 ||campingcuevanegra.es^
@@ -13541,6 +13545,7 @@
 ||carfaxpro.co^
 ||cargoboy.cl^
 ||carhartt.com.es^
+||carharttespana.es^
 ||carhartts.com.mx^
 ||cariacica.guiatonarede.com.br^
 ||caribbeanvillage.es^
@@ -14585,6 +14590,7 @@
 ||chatgpt-server.dev8.dmapper.co^
 ||chatgpt-server.prod5.dmapper.co^
 ||chatgpt-server.prod8.dmapper.co^
+||chatgpt-teams.owempay.com.br^
 ||chatgpt-tips.co^
 ||chatgpt.1sti.com.br^
 ||chatgpt.2maker.com.br^
@@ -19835,6 +19841,7 @@
 ||defion.co^
 ||defiportal.translavandero.cl^
 ||defragingdata193-net.gq^
+||defvgbfre.blogspot.com.br^
 ||defyage.co^
 ||degavu.esy.es^
 ||degetnow-kagura.gq^
@@ -24417,7 +24424,6 @@
 ||feincartes.com.br^
 ||feiraestudantilfunvic.org.br^
 ||feirantes-app.clickapps.com.br^
-||feirao2025acordo.com.br^
 ||feirao2025negocia1.com.br^
 ||feitamaocursos.com.br^
 ||feitoincrivel.com.br^
@@ -24694,6 +24700,7 @@
 ||fireproof.com.ar^
 ||firestein.pe^
 ||firewallfx.cl^
+||firh.wsqktyptnccr.es^
 ||firmasdigitalescitas.webnode.es^
 ||firmianoadvocacia.com.br^
 ||firsharlea.gq^
@@ -25303,6 +25310,7 @@
 ||gaccamazonas.com.br^
 ||gacetajudicial.com.do^
 ||gadamazonas.gob.ec^
+||gadents.co^
 ||gadgetstore.ec^
 ||gaeghareh.blogspot.cl^
 ||gaeghareh.blogspot.pe^
@@ -31812,6 +31820,11 @@
 ||inspireamazonia.com.br^
 ||instafan.hol.es^
 ||instafollowers.co^
+||instagram-comriyagamingytmdkdixiskkd.blogspot.com.ar^
+||instagram-comriyagamingytmdkdixiskkd.blogspot.com.br^
+||instagram-comriyagamingytmdkdixiskkd.blogspot.com.co^
+||instagram-comriyagamingytmdkdixiskkd.blogspot.mx^
+||instagram-comriyagamingytmdkdixiskkd.blogspot.pe^
 ||instagram.agenciadetreinamentos.com.br^
 ||instagram.cajuinaweb.com.br^
 ||instagram.com.ec^
@@ -31968,6 +31981,7 @@
 ||interlink.com.br^
 ||intermezzodelivery.com.br^
 ||intermidia.net.br^
+||internacionalbank.com.co^
 ||internal-apps.taketrips.co^
 ||internatoanos60.com.br^
 ||internet.an7.com.br^
@@ -33050,6 +33064,7 @@
 ||kilo-app.app.elingenierojefe.es^
 ||kilotonamazonia.com.br^
 ||kilotonamazonia.goldenit.com.br^
+||kims-ltd.co^
 ||kimshome.co^
 ||kin.kikpro.co^
 ||kindleunlimitedamazon.com.br^
@@ -33981,6 +33996,7 @@
 ||login.hypeevent.repl.co^
 ||login.microsftonline.com.office365.com.fbestruturasmetalicas.com.br^
 ||login.microsoftonline.com.auth.inflablesalan.com.mx^
+||login.myreview.com.br^
 ||login.pay.pal.sign-in.info-costumer-pp4510.jwadvogados.com.br^
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
@@ -34260,6 +34276,7 @@
 ||lucasr.com.br^
 ||luchex21juxes.blogspot.com.es^
 ||luciacangussu.bio.br^
+||lucianacaetano.com.br^
 ||lucianadelivery.com.br^
 ||luciano.mx^
 ||lucianoalesandro.cl^
@@ -34286,6 +34303,7 @@
 ||lucrandocomapple.importecomlucro.com.br^
 ||lucrandocomchatgpt.com.br.trendcursos.com.br^
 ||lucrandocomchatgpt.com.br^
+||lucrandocomchatgpt.lpmdigital.com.br^
 ||lucrandocomchatgpt.lvdigitalmkt.com.br^
 ||lucrandocomchatgpt.nektarweb.com.br^
 ||lucrandocomchatgpt.net.br^
@@ -37601,6 +37619,7 @@
 ||nuevochatgpt.es^
 ||nuevomundo.mx^
 ||nullbulge.co^
+||nuloo.co^
 ||number-appleid.en-ae.co^
 ||number-appleid.info-ar.co^
 ||numericaconsultoria.com.br^
@@ -38140,6 +38159,7 @@
 ||openai.fortunestold.co^
 ||openai.ggsite.co^
 ||openai.glms.gq^
+||openai.goalthinking.com.br^
 ||openai.googlegemini.co^
 ||openai.gq^
 ||openai.gqqg.gq^
@@ -39640,6 +39660,7 @@
 ||paypalcorp.associates.co^
 ||paypalcorp.auto.bz^
 ||paypalcorp.desi.co^
+||paypalcorp.diet.mx^
 ||paypalcorp.fujitsu.ar^
 ||paypalcorp.living.co^
 ||paypalcorp.review.ar^
@@ -39649,6 +39670,7 @@
 ||paypalcr.edit.co^
 ||paypalcrcdit.coinbasepay.co^
 ||paypalcredit.academy.ar^
+||paypalcredit.beer.mx^
 ||paypalcredit.careers.mx^
 ||paypalcredit.chrome.es^
 ||paypalcredit.esurance.co^
@@ -39880,6 +39902,7 @@
 ||pema.cl^
 ||penai.co^
 ||penation.es^
+||pendientesdeti.es^
 ||pendingdomains.co^
 ||pendokngana.gq^
 ||pendrivepromocionales.cl^
@@ -41447,6 +41470,7 @@
 ||pusdm.co^
 ||push-360.com.ar^
 ||pushtrack.co^
+||puslex-app.co^
 ||puspita.es^
 ||puta.es^
 ||putinbayvideo.com.es^
@@ -41740,6 +41764,7 @@
 ||radley.com.es^
 ||rafaelabiscuit.com.br^
 ||rafaelerondinelli.com.br^
+||rafaeli.com.py^
 ||rafaelleon.es^
 ||rafaeloticaerelojoaria.com.br^
 ||rafercars.es^
@@ -42471,6 +42496,7 @@
 ||rgegdffv.blogspot.com.ar^
 ||rgegdffv.blogspot.pe^
 ||rggn.com.br^
+||rgneuquen.com.ar^
 ||rgrg.mypi.co^
 ||rgyfhfghfghfgh.blogspot.cl^
 ||rgyfhfghfghfgh.blogspot.com.es^
@@ -43577,6 +43603,7 @@
 ||scpomerode.com.br^
 ||scrapple.co^
 ||screcibras.com.br^
+||screenacy.co^
 ||screensshots.esy.es^
 ||scriptaetveritas.com.br^
 ||scriptonlyfans.com.br^
@@ -43592,6 +43619,7 @@
 ||sdafds.kikoweb.com.br^
 ||sdfaaac.blogspot.cl^
 ||sdfaaac.blogspot.com.ar^
+||sdfgbfd.blogspot.com.es^
 ||sdfghghjbn.blogspot.com.co^
 ||sdfgsdfgsdfgsdfgsdfgsdfgsdfgsdfgdsd.blogspot.com.es^
 ||sdfgssddfasdf.blogspot.com.co^
@@ -44378,7 +44406,6 @@
 ||simulacaoonlinesaude.com.br^
 ||simulacaoplanos.com.br^
 ||simulacaopropostasonline.com.br^
-||simulador.rgneuquen.com.ar^
 ||simuladorsaudebr.com.br^
 ||simulesaudebr.com.br^
 ||simuleumplano.com.br^
@@ -45740,6 +45767,7 @@
 ||sz168-app.co^
 ||sziejpaypal-globalshops.forum.ar^
 ||t12design.com.br^
+||t2m.co^
 ||t4s.cl^
 ||t63shop.com.br^
 ||t67uyhgf.co^
@@ -46666,6 +46694,7 @@
 ||tonycastbuilt.gq^
 ||toolbility.es^
 ||toolbin.gq^
+||toolcellar.com.mx^
 ||tools-app.satsolucoes.com.br^
 ||toolsapple.co^
 ||tooslaser.co^
@@ -49413,6 +49442,7 @@
 ||xz.25988.co^
 ||xz.26788.co^
 ||xz.27788.co^
+||xz.74214.co^
 ||xzdfgz.blogspot.com.ar^
 ||xzwkt.com.br^
 ||y0utube.com.mx^
@@ -49606,6 +49636,7 @@
 ||zapzapsweb.com.br^
 ||zaramexico.com.mx^
 ||zaramidia.com.br^
+||zargleflump.x10.mx^
 ||zatossolucoes.com.br^
 ||zatu.vps.co.ve^
 ||zauberamc.com.br^
