@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-03T08:08:09.129Z
+! Last modified: 2025-04-04T08:08:08.643Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -374,6 +374,9 @@
 ||1mcm.co^
 ||1milhaodeofertas.com.br^
 ||1nbakvbdnvsfhvfsnv.gq^
+||1p5mhny.blogspot.com.co^
+||1p5mhny.blogspot.com.es^
+||1p5mhny.blogspot.com.uy^
 ||1pileofcrap.co^
 ||1ponto5.net.br^
 ||1pt.co^
@@ -548,6 +551,9 @@
 ||2rmetalurgica.com.br^
 ||2syexwjvalym.munty.co^
 ||2tor.com.mx^
+||2ydci.blogspot.com.br^
+||2ydci.blogspot.mx^
+||2ydci.blogspot.pe^
 ||3-alpine-slim-rappler-ph.iprice.mx^
 ||300mbfilms.co^
 ||301.es^
@@ -689,6 +695,7 @@
 ||47b117c9-cdf6-4030-b5d1-90a96edcd3a1.id.repl.co^
 ||484217101790090.cocopasa.com.mx^
 ||485060461459146.graficaaoquadrado.com.br^
+||488829.co^
 ||492382-deutschland-nutzung-sicherheit-benutzer.vorkehrung.gq^
 ||4971e064.bcdashboards.com.br^
 ||49925312.baltazar.eti.br^
@@ -949,6 +956,8 @@
 ||7igp9ptxotqubm.we9ixzz.co^
 ||7lov27.difarmafarmaceutica.com.br^
 ||7ncfagb5cakpudf00ls7.mafe.edu.co^
+||7nhua.blogspot.com.co^
+||7nhua.blogspot.mx^
 ||7pvq23z.com.es^
 ||7rv.es^
 ||7starhome.co^
@@ -1531,6 +1540,7 @@
 ||acontsuspend-alertspaqes12.gq^
 ||acorazonabierto.cl^
 ||acordemaior.com.br^
+||acordofeirao2025.com.br^
 ||acorrelan.com.br^
 ||acortalo.com.ve^
 ||acosecia.com.br^
@@ -2328,6 +2338,7 @@
 ||al2cv.com.br^
 ||al4server.com.br^
 ||alabordarte.cl^
+||alafaqinsuranceloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||alagoando.com.br^
 ||alahiu.pages.net.br^
 ||alamazonas.com.mx^
@@ -10533,6 +10544,7 @@
 ||balmaintenis.com.mx^
 ||balnearbrasil.com.br^
 ||balnearioamazonas.com.br^
+||baloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||balon99.co^
 ||balraujacheta.gq^
 ||baltazzar.cl^
@@ -11051,6 +11063,7 @@
 ||bbva-cbd.mx^
 ||bbva.banca-onlinee.repl.co^
 ||bbva.es-app.co^
+||bbva.es-verificacion.co^
 ||bbva.galitec.es^
 ||bbva.hbbanking.repl.co^
 ||bbva.palomita.es^
@@ -11882,6 +11895,7 @@
 ||bittyurl.co^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
+||bitvavo.com.nl.services.marcaeng.com.br^
 ||bitvavo.com.nl.services.mwftelecom.com.br^
 ||bitvavo.com.nl.services.pulsopet.com.br^
 ||bitvavo.com.nl.services.sdsvilanova.com.br^
@@ -21477,6 +21491,7 @@
 ||drrenatomonteiro.com.br^
 ||drrickmacedo.com.br^
 ||drsaude.net.br^
+||drschollscanada.co^
 ||drsidneypearce.med.br^
 ||drsilva.com.br^
 ||drsystems.com.br^
@@ -22088,6 +22103,7 @@
 ||educacioncirm.mx^
 ||educacioncolaborativa.cl^
 ||educacionsuperiorfisioterapia.es^
+||educacom.com.br^
 ||educafacso.facso.cl^
 ||educalaguna.gob.mx^
 ||educamazon.com.br^
@@ -22162,6 +22178,10 @@
 ||egewtdgwetgdsgewtge.blogspot.pe^
 ||eggsforsalenearme.co^
 ||eggstudio.com.br^
+||egkkfs.blogspot.cl^
+||egkkfs.blogspot.com.co^
+||egkkfs.blogspot.com.uy^
+||egkkfs.blogspot.mx^
 ||egnacios.co^
 ||egnpropiedades.cl^
 ||ego.com.sv^
@@ -22983,6 +23003,7 @@
 ||equityplanning.co^
 ||equiwarmpro.co^
 ||equiweb.cl^
+||eraa8xoqz4pxf4gy3rksimo7wsgxj4vyz5o9n.cartoriodenotasibirite.com.br^
 ||eraimobot-app-webviews.elife.com.br^
 ||eralranconfderpa.gq^
 ||eramirez.cl^
@@ -24539,6 +24560,14 @@
 ||ffc-sentiment-app.fourthfloor.co^
 ||ffcomercio.com.br^
 ||ffinwwfpqi.gq^
+||fflink194xyz.blogspot.com.ar^
+||fflink194xyz.blogspot.com.co^
+||fflink194xyz.blogspot.com.uy^
+||fflink194xyz.blogspot.mx^
+||fflink194xyz.blogspot.pe^
+||fflink195xyz.blogspot.cl^
+||fflink195xyz.blogspot.com.ar^
+||fflink195xyz.blogspot.com.es^
 ||ffntmg.casasg.com.uy^
 ||fg0z63sr.paperform.co^
 ||fgbbse.blogspot.mx^
@@ -24636,6 +24665,11 @@
 ||fimdomauhalito.blog.br^
 ||fimilarly.gq^
 ||finallyti.com.br^
+||finalnadafinghadi.blogspot.cl^
+||finalnadafinghadi.blogspot.com.ar^
+||finalnadafinghadi.blogspot.com.es^
+||finalnadafinghadi.blogspot.mx^
+||finalnadafinghadi.blogspot.pe^
 ||finalstagelooping.crd.co^
 ||finamor.com.br^
 ||finance-iygj-paypal.mysbuxben.co^
@@ -24746,6 +24780,7 @@
 ||fjrautorizadaapple.com.br^
 ||fjygvb.blogspot.mx^
 ||fk.fdsfdsdfdsf.co^
+||fkfjkfjfkfj.clinicamiadoselatidos.com.br^
 ||fkobofficial.co^
 ||fl.sv^
 ||flaguedeswebradio.com.br^
@@ -26723,6 +26758,9 @@
 ||hebraicofacil.com.br^
 ||hectorluengo.cl^
 ||hednetweb.com.br^
+||heebeo.blogspot.cl^
+||heebeo.blogspot.mx^
+||heebeo.blogspot.pe^
 ||hegc.gob.cl^
 ||hegqaghqadgh.blogspot.com.es^
 ||helborsp.axusmarketing.com.br^
@@ -31163,6 +31201,10 @@
 ||hybe.com.br^
 ||hydraruzxpnew4fa.co^
 ||hydrowhe.gq^
+||hyfiz.blogspot.cl^
+||hyfiz.blogspot.com.ar^
+||hyfiz.blogspot.com.co^
+||hyfiz.blogspot.com.uy^
 ||hyip-conkurs.hol.es^
 ||hyips.bz^
 ||hypelaced.co^
@@ -32481,6 +32523,11 @@
 ||javiercars.es^
 ||javiermagia.com.ar^
 ||jaxpm.co^
+||jaxwizw.blogspot.cl^
+||jaxwizw.blogspot.com.ar^
+||jaxwizw.blogspot.com.br^
+||jaxwizw.blogspot.mx^
+||jaxwizw.blogspot.pe^
 ||jayneappleyard.regainmedia.co^
 ||jbaeletrica.com.br^
 ||jbijos.com.br^
@@ -33146,6 +33193,7 @@
 ||kngs.es^
 ||knifewell.co^
 ||koc-app.mail-next.stage0.cybozu-ne.co^
+||kofloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||koicomunicacao.com.br^
 ||koiyvf.blogspot.com.co^
 ||koiyvf.blogspot.com.es^
@@ -33538,6 +33586,7 @@
 ||legalizacontabilidade.com.br^
 ||legalpropiedad.cl^
 ||legalsoluciones.cl^
+||legaz.es^
 ||legder.co^
 ||legenda4dlogin.co^
 ||legispol.com.mx^
@@ -34016,6 +34065,7 @@
 ||loginmlcrosoftonline365brusselsairport.be.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365elma.co.il.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365lbbd.gov.uk.ribeiroautocapas.com.br^
+||loginmlcrosoftonline365printcom.fi.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365zynka.se.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
 ||loginnetflixleiojfioje.blogspot.com.es^
@@ -36243,6 +36293,7 @@
 ||mtfhzx.blogspot.com.es^
 ||mtfhzx.blogspot.mx^
 ||mtgchile.cl^
+||mtjfrx.blogspot.com.br^
 ||mtl-app.staging.lolly.co^
 ||mtmelide.es^
 ||mtndaamazonia.com.br.marinhobusiness.com.br^
@@ -36607,6 +36658,7 @@
 ||naovivosem.com.br^
 ||napa.hn^
 ||napolicontabilidade.com.br^
+||napolivideo.blogspot.com.br^
 ||napples.co^
 ||napples.com.br^
 ||napplewhaite.repl.co^
@@ -41667,6 +41719,11 @@
 ||r0bux23.blogspot.cl^
 ||r1u.co^
 ||r1veiculos.com.br^
+||r2nnt.blogspot.com.ar^
+||r2nnt.blogspot.com.br^
+||r2nnt.blogspot.com.co^
+||r2nnt.blogspot.mx^
+||r2nnt.blogspot.pe^
 ||r3-app.greatapps.com.br^
 ||r3imobiliariasc.com.br^
 ||r4ewhaeruyhrjh.blogspot.com.ar^
@@ -42294,6 +42351,8 @@
 ||reno.ind.br^
 ||renodrives.com.br^
 ||renona.co^
+||renovacionautomatica.blogspot.cl^
+||renovacionautomatica.blogspot.mx^
 ||renovaremedlab.com.br^
 ||rental-app.jbsinc.co^
 ||rentalpark.com.ar^
@@ -43260,6 +43319,10 @@
 ||s4f.co^
 ||s66639.co^
 ||s6j8dpan0fusz7zh.umso.co^
+||s7znv.blogspot.cl^
+||s7znv.blogspot.com.co^
+||s7znv.blogspot.com.uy^
+||s7znv.blogspot.pe^
 ||sa.bio.br^
 ||saachi.co^
 ||saaddxczshop.es^
@@ -43495,6 +43558,7 @@
 ||satmedia.com.br^
 ||satriani.cl^
 ||satyamenterprises.co^
+||sauconymexicomx.com.mx^
 ||sauconymx.com.mx^
 ||sauconyspain.es^
 ||saude10segundos.com.br^
@@ -43583,6 +43647,9 @@
 ||schnappleeapple.repl.co^
 ||school-app.com.mx^
 ||school-app.sveltejs.co^
+||schoolgirlvideolist.blogspot.com.ar^
+||schoolgirlvideolist.blogspot.com.co^
+||schoolgirlvideolist.blogspot.pe^
 ||schultzamazonia.com.br.ecotsplace.com.br^
 ||schultzamazonia.com.br^
 ||scincenatural.co^
@@ -44650,6 +44717,7 @@
 ||smartsolutionsenergy.com.ar^
 ||smartthings.com.ar^
 ||smashcenter.com.br^
+||smasq.blogspot.com.co^
 ||smbc-c.co^
 ||smccontabil.com.br^
 ||smdpe.com.br^
@@ -44746,6 +44814,7 @@
 ||softwaredefacturacion.com.ar^
 ||softwaremarket.com.br^
 ||sogim.com.br^
+||sohbet.bz^
 ||sohoart.co^
 ||soi.com.ve^
 ||sojasaude.com.br^
@@ -45081,6 +45150,10 @@
 ||spyinvestigue.com.br^
 ||spyltdshop.com.ar^
 ||spyt.co^
+||sq1ug.blogspot.com.co^
+||sq1ug.blogspot.com.es^
+||sq1ug.blogspot.com.uy^
+||sqc.hfvzaobd.es^
 ||sql-appejea.emedia.es^
 ||sqribblefresh.co^
 ||sqrible.co^
@@ -45220,9 +45293,11 @@
 ||standimports.com.br^
 ||standoutfitinrobloxcode.blogspot.com.co^
 ||stanford.edu.ec^
+||stanley-colombia.co^
 ||stanley-peru.com.pe^
 ||stanleycupes.es^
 ||stanleycupsmexico.com.mx^
+||stanleyec.co^
 ||stanleyperu.com.pe^
 ||stanleyshop-ec.co^
 ||stapplet.co^
@@ -45374,6 +45449,7 @@
 ||strongnaval.com.br^
 ||strongnutricion.es^
 ||stsystem.com.br^
+||stude.co^
 ||student-app.allyhub.co^
 ||studio2you.com.br^
 ||studioa.com.pe^
@@ -46618,6 +46694,12 @@
 ||tlaloc.imta.mx^
 ||tleecinnue.gq^
 ||tleegram.co^
+||tlewr.blogspot.cl^
+||tlewr.blogspot.com.ar^
+||tlewr.blogspot.com.co^
+||tlewr.blogspot.com.es^
+||tlewr.blogspot.com.uy^
+||tlewr.blogspot.mx^
 ||tlycrpaypalobjects.bl.ar^
 ||tmc-applepay-local.imdeveloper.co^
 ||tmgasesoresseguros.com.ar^
@@ -47289,6 +47371,8 @@
 ||ucachamuni.com.ar^
 ||uccoin.co^
 ||ucem.edu.mx^
+||ucodc.blogspot.com.br^
+||ucodc.blogspot.pe^
 ||ucoincash.co^
 ||uconcordia.co.pe^
 ||ucryptocapital.co^
@@ -47394,6 +47478,11 @@
 ||unenex.gq^
 ||unesma.com.br^
 ||unfeinoterpa.gq^
+||unfreepalestine0rg.blogspot.com.ar^
+||unfreepalestine0rg.blogspot.com.co^
+||unfreepalestine0rg.blogspot.com.es^
+||unfreepalestine0rg.blogspot.mx^
+||unfreepalestine0rg.blogspot.pe^
 ||unhcr-app.guilddigital.co^
 ||uni2.es^
 ||uniamazonas.com.co^
@@ -47885,6 +47974,10 @@
 ||verification-id8377-apple.matka.com.py^
 ||verification-id8377-apple.wel.com.py^
 ||verification.prima1.gq^
+||verificationdevotrecompte.blogspot.com.br^
+||verificationdevotrecompte.blogspot.com.es^
+||verificationdevotrecompte.blogspot.mx^
+||verificationdevotrecompte.blogspot.pe^
 ||verify-account-paypal.com.cactus.com.br^
 ||verify-appeal.repl.co^
 ||verify-delete-service-app-us-east-1.1l4e4riksk.carrefeces.emailrefemail.n.mail.b.carrefouruae.shopo.secure.simplepraxsecure.silogimaps.cursosbelezaestetica.com.br^
@@ -48386,6 +48479,7 @@
 ||vvv234.com.br^
 ||vvvv1998.com.br^
 ||vwamazon.com.br^
+||vxcvbzxcvbczxvbz.blogspot.com.br^
 ||vycservicios.cl^
 ||vylonia.co^
 ||vymltda.cl^
@@ -48858,6 +48952,11 @@
 ||wneggb.blogspot.mx^
 ||wo-app-staging.ivoy.mx^
 ||wo-app.ivoy.mx^
+||wodmm.blogspot.cl^
+||wodmm.blogspot.com.br^
+||wodmm.blogspot.com.co^
+||wodmm.blogspot.com.es^
+||wodmm.blogspot.pe^
 ||wodproleague.es^
 ||wolf-777.co^
 ||wolf-apparel.co^
@@ -49009,6 +49108,11 @@
 ||x3tec.com.br^
 ||x5kop.rockt.es^
 ||x65rr.gq^
+||x6mzb.blogspot.cl^
+||x6mzb.blogspot.com.ar^
+||x6mzb.blogspot.com.br^
+||x6mzb.blogspot.mx^
+||x6mzb.blogspot.pe^
 ||xacutaravideo.blogspot.cl^
 ||xadrezamazonas.com.br^
 ||xairooo.gq^
@@ -49702,6 +49806,10 @@
 ||zipmex.co^
 ||ziraatbanksi.gq^
 ||ziro.com.ec^
+||ziu8e8.blogspot.cl^
+||ziu8e8.blogspot.com.es^
+||ziu8e8.blogspot.com.uy^
+||ziu8e8.blogspot.mx^
 ||zivora-app.co^
 ||zjc.bz^
 ||zk5.co^
