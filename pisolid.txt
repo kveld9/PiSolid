@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-04T08:08:08.643Z
+! Last modified: 2025-04-05T08:08:06.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -935,6 +935,7 @@
 ||7743f873-f27f-4139-9f4d-0e0de601871f-00-3fg8ns2uzyjvs.riker.repl.co^
 ||776656554654645--56546564546.repl.co^
 ||777rc.bz^
+||777slotsonline.co^
 ||779890.co^
 ||77uu.co^
 ||77uu123.com.br^
@@ -1540,7 +1541,7 @@
 ||acontsuspend-alertspaqes12.gq^
 ||acorazonabierto.cl^
 ||acordemaior.com.br^
-||acordofeirao2025.com.br^
+||acordocerto2025feirao.com.br^
 ||acorrelan.com.br^
 ||acortalo.com.ve^
 ||acosecia.com.br^
@@ -2338,7 +2339,6 @@
 ||al2cv.com.br^
 ||al4server.com.br^
 ||alabordarte.cl^
-||alafaqinsuranceloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||alagoando.com.br^
 ||alahiu.pages.net.br^
 ||alamazonas.com.mx^
@@ -10544,7 +10544,6 @@
 ||balmaintenis.com.mx^
 ||balnearbrasil.com.br^
 ||balnearioamazonas.com.br^
-||baloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||balon99.co^
 ||balraujacheta.gq^
 ||baltazzar.cl^
@@ -11893,6 +11892,7 @@
 ||bittorrent.es^
 ||bittrexx.co^
 ||bittyurl.co^
+||bitvavo.com.nl.services.equipotacticocondor.com.mx^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -13561,6 +13561,7 @@
 ||carhartt.com.es^
 ||carharttespana.es^
 ||carhartts.com.mx^
+||carharttwips.es^
 ||cariacica.guiatonarede.com.br^
 ||caribbeanvillage.es^
 ||caribeamazonasadv.com.br^
@@ -23504,6 +23505,7 @@
 ||eurosnacks.mx^
 ||eurosouvenirs.es^
 ||euskaltel.co^
+||euskaltel.es^
 ||euskoingenieria.cl^
 ||eusonhei.com.br^
 ||eusoqueroeserfeliz.net.br^
@@ -24039,6 +24041,7 @@
 ||facebooklogin.nabinazn.repl.co^
 ||facebookmassivo.com.br^
 ||facebookmedia.com.br^
+||facebookmesseger2fa.pages.app.br^
 ||facebookmeta.co^
 ||facebookmobile12.blogspot.cl^
 ||facebookmobile12.blogspot.mx^
@@ -25476,6 +25479,7 @@
 ||gbmj.com.br^
 ||gboexprodutos.com.br^
 ||gbshop.com.ar^
+||gbsn.com.br^
 ||gbwhatsappp.co^
 ||gbwhatsapps.co^
 ||gbyu67y6.gq^
@@ -26913,6 +26917,7 @@
 ||hgfbdx.blogspot.com.es^
 ||hgfbfz.blogspot.com.ar^
 ||hgfbfz.blogspot.com.uy^
+||hgfbhe.blogspot.com.br^
 ||hgfbhe.blogspot.com.uy^
 ||hgfdghr.gq^
 ||hgfdshgdfdfg.esy.es^
@@ -31079,6 +31084,8 @@
 ||hotvidhubonline.blogspot.com.ar^
 ||hotvidhubonline.blogspot.com.es^
 ||hotvidhubonline.blogspot.mx^
+||hotviralvidstrendx.blogspot.com.co^
+||hotviralvidstrendx.blogspot.mx^
 ||hotweb.gq^
 ||house360.cl^
 ||houseapplelitoral.com.br^
@@ -32495,6 +32502,7 @@
 ||jandradesigns.co^
 ||janesapplehome.com.br^
 ||jangadeirose.com.br^
+||jansportcolombia.co^
 ||jansportnl.co^
 ||janus.com.ve^
 ||japonesdaagua.com.br^
@@ -32514,6 +32522,7 @@
 ||jas888login.co^
 ||jason.net.br^
 ||jateamentofiorin.com.br^
+||jatimnet.com.br^
 ||jatkit.gq^
 ||javaamazonas.com.br^
 ||javaapplet.co^
@@ -33193,7 +33202,6 @@
 ||kngs.es^
 ||knifewell.co^
 ||koc-app.mail-next.stage0.cybozu-ne.co^
-||kofloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||koicomunicacao.com.br^
 ||koiyvf.blogspot.com.co^
 ||koiyvf.blogspot.com.es^
@@ -33476,6 +33484,7 @@
 ||latino.com.uy^
 ||latinosamazon.co^
 ||latraca.es^
+||latrinchera.mx^
 ||latticemty.com.mx^
 ||laudodecamargo.com.br^
 ||laundry-app.protech.net.co^
@@ -33847,7 +33856,6 @@
 ||linksforactors.com.es^
 ||linkslotgacorfafa88.easy.co^
 ||linksolutions.com.pe^
-||linktree.ec^
 ||linktrk.com.br^
 ||linkupmarketing.co^
 ||linkvideos.com.br^
@@ -34050,6 +34058,7 @@
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
 ||loginforms.co^
+||loginmicrosoftcommon365authtwt18t.hemvyiycoruq.es^
 ||loginmicrosoftonline.envalior.com.ribeiroautocapas.com.br^
 ||loginmicrosoftonline365.arxada.com.ribeiroautocapas.com.br^
 ||loginmlcrosoftonline365.afd.fr.ribeiroautocapas.com.br^
@@ -35091,6 +35100,8 @@
 ||mattecoftalmologia.com.br^
 ||maturidadecomsaude.com.br^
 ||matybiop.blogspot.mx^
+||maudiatas.com.mx^
+||maul.artmaker.com.mx^
 ||mauriciogodoy.com.br^
 ||mawi.com.ni^
 ||max-charge.co^
@@ -35439,6 +35450,7 @@
 ||mercadovegano.idadismo.com.br^
 ||mercantil-app-dev.mercantil.finansystech.com.br^
 ||mercattoenergia.com.br^
+||mercedo.com.br^
 ||mercereales.com.mx^
 ||merchantuploads.es^
 ||merchbyamazon.com.br^
@@ -35481,6 +35493,7 @@
 ||metabase.nzs.com.br^
 ||metachains.co^
 ||metackdaamazonia.com.br^
+||metaconterhelp402.pages.app.br^
 ||metafinanzas.com.co^
 ||metagroup-956822182.pages.net.br^
 ||metal-este.com.br^
@@ -36014,6 +36027,12 @@
 ||mobilelegendsfrdiamonds.blogspot.com.br^
 ||mobilepackages.co^
 ||mobilevents.es^
+||mobilguncelgirishaber.blogspot.com.ar^
+||mobilguncelgirishaber.blogspot.com.br^
+||mobilguncelgirishaber.blogspot.com.co^
+||mobilguncelgirishaber.blogspot.com.es^
+||mobilguncelgirishaber.blogspot.com.uy^
+||mobilguncelgirishaber.blogspot.mx^
 ||mobiliarioofficedeco.es^
 ||mobiliarum.com.br^
 ||mobility.com.br^
@@ -36232,6 +36251,7 @@
 ||movies342.gq^
 ||moviespedia.co^
 ||movilink.es^
+||moviltours.com.pe^
 ||movimientociudadanozac.org.mx^
 ||movimientosdetierra.cl^
 ||movistarporta.com.ar^
@@ -36313,6 +36333,7 @@
 ||mudapple.co^
 ||mudedevidaparasempre.com.br^
 ||mueblesdecal.cl^
+||mueblesdejardin.com.mx^
 ||mueblesespinola.cl^
 ||mueblesideas.cl^
 ||mueblesormes.com.ar^
@@ -37276,6 +37297,7 @@
 ||newscp.usgonline.mx^
 ||newscp.valledelinka.com.pe^
 ||newscp.verdelima.com.br^
+||newsgettransfer.co^
 ||newsinfomarketing.com.br^
 ||newsinfonet.com.br^
 ||newsleadpix.com.br^
@@ -38076,7 +38098,6 @@
 ||onlyfans-gratis.mx^
 ||onlyfans-search.co^
 ||onlyfans-th.co^
-||onlyfans.pe^
 ||onlyfans24.co^
 ||onlyfansagency.co^
 ||onlyfansdownloader.co^
@@ -39765,6 +39786,7 @@
 ||paypalloginin-usa.blogspot.cl^
 ||paypalloginin-usa.blogspot.com.ar^
 ||paypalloginin-usa.blogspot.com.br^
+||paypalloginin-usa.blogspot.com.co^
 ||paypalloginin-usa.blogspot.com.es^
 ||paypalloginin-usa.blogspot.com.uy^
 ||paypalloginin-usa.blogspot.mx^
@@ -40092,6 +40114,7 @@
 ||phclubemailmkt.com.br^
 ||phdconstrucaocivil.com.br^
 ||phdns25.es^
+||phdns5.es^
 ||phdns9.es^
 ||phefinsi.gq^
 ||phentermine.bz^
@@ -41540,6 +41563,7 @@
 ||pyapay.co^
 ||pyapl.esy.es^
 ||pybm.com.mx^
+||pymedominio.cl^
 ||pynapple.co^
 ||pyppublisoluciones.com.ve^
 ||pzu.electronorte.com.ar^
@@ -41804,6 +41828,7 @@
 ||radiorirbrasilamazonas.com.br^
 ||radiosalette.com.br^
 ||radiosambaqui.com.br^
+||radiosaomiguelarcanjo.agoranoar.com.br^
 ||radiosapplenordeste.webkit.com.br^
 ||radiosonora.com.mx^
 ||radiostar.mx^
@@ -43282,7 +43307,6 @@
 ||rvuswood.co^
 ||rw595phpt4kk538s.botanik.gq^
 ||rwinfo.cl^
-||rwsfixadores.com.br^
 ||rxglobalpharm.co^
 ||ryanyoung.co^
 ||ryhtuhaeyreyhaerh.blogspot.com.ar^
@@ -45349,6 +45373,7 @@
 ||stealerx7.esy.es^
 ||steam-wallet.co^
 ||steambid.co^
+||steamcomunnity.co^
 ||steamlab.com.br^
 ||steamnow.gq^
 ||steamwordl.blogspot.com.ar^
@@ -47052,6 +47077,7 @@
 ||tribunadaamazonia.novageracaohost.com.br^
 ||tribunaldecontasdoamazonas.com.br^
 ||tribunaluziense.com.br^
+||tribuntrik123.blogspot.cl^
 ||tribusamazonenergyacai.com.br^
 ||tributan.co^
 ||tributobrasileiro.com.br^
@@ -47543,6 +47569,7 @@
 ||unitei.co^
 ||uniteltu.gq^
 ||unityweb.com.br^
+||univconnectcompte.mypi.co^
 ||universalpaymentport.co^
 ||universalvision.com.mx^
 ||universeamazonas.com.br^
@@ -49008,6 +49035,7 @@
 ||wpk7088555.co^
 ||wpoptimizeinnodbtables.gq^
 ||wrap-app.co^
+||wrestlefuse.com.satelitnews.co^
 ||writemypaper.co^
 ||writewithchatgpt.co^
 ||ws-app.habolt.mx^
@@ -49195,6 +49223,7 @@
 ||xn--agnciamagnix-peb.com.br^
 ||xn--aldeadesueos-jhb.com.ar^
 ||xn--almdospreosbaixos-isb4a.com.br^
+||xn--aloyogaespaa-khb.es^
 ||xn--anarosaexcurses-4sb.com.br^
 ||xn--andryimobiliria-yjb.com.br^
 ||xn--apymaazpilagaa-2nb.es^
@@ -49506,6 +49535,12 @@
 ||xtend.com.ar^
 ||xtepmkmpec.danoverestaurante.com.br^
 ||xtour.com.mx^
+||xtradigcommunity.blogspot.cl^
+||xtradigcommunity.blogspot.com.br^
+||xtradigcommunity.blogspot.com.co^
+||xtradigcommunity.blogspot.com.es^
+||xtradigcommunity.blogspot.mx^
+||xtradigcommunity.blogspot.pe^
 ||xtradingbrasil.com.br^
 ||xtremeplay.co^
 ||xtremeprotein.es^
@@ -49735,6 +49770,7 @@
 ||zaphub-app.castor.gdxconsulting.com.br^
 ||zaphub-app.polux.gdxconsulting.com.br^
 ||zapples.co^
+||zappro.app.br^
 ||zapsegurancas.com.br^
 ||zapychat.com.br^
 ||zapzapsweb.com.br^
