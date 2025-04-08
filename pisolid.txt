@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-07T08:08:07.853Z
+! Last modified: 2025-04-08T08:08:08.485Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -120,7 +120,6 @@
 ||0298d618.cftvpinheiro.com.br^
 ||02s.co^
 ||0310.pages.net.br^
-||031abcca-0d7d-4467-a6de-97a79f56b2c6.id.repl.co^
 ||0341896618.yellowenergiasustentavel.com.br^
 ||0359.pages.net.br^
 ||03a66596.cftvpinheiro.com.br^
@@ -683,7 +682,6 @@
 ||4g43g34g34.pagedemo.co^
 ||4hjjhdfjkr.pagedemo.co^
 ||4hnz49a8iy4v8dtjkuerpmf.sitracon.com.pe^
-||4kspyoz8x.we9ixzz.co^
 ||4m.cl^
 ||4mmanutencaoeletrica.com.br^
 ||4pxq55.difarmafarmaceutica.com.br^
@@ -930,7 +928,6 @@
 ||8675345eminent.98675323ths.repl.co^
 ||868688.pages.net.br^
 ||87.0hot.repl.co^
-||87652347.76547.repl.co^
 ||876534453--gal1c1a.repl.co^
 ||876hfggfgfg.blogspot.com.ar^
 ||8777vjilrelz0sx7fc1ppzdh0nzoa15ilj8kuk4f.gq^
@@ -972,10 +969,10 @@
 ||8fhdfhg.pagedemo.co^
 ||8hjxtvcdohky.munty.co^
 ||8kfwygjkg284npbwgmlhmvhoo0uozp.we9ixzz.co^
-||8rgfffg4gg.blogspot.com.ar^
 ||8sai-asncio-ascihisaciobowi-ascwh.sbc9as.repl.co^
 ||8uvip.com.br^
 ||8westfalla.gq^
+||8zjw5c7dmr.we9ixzz.co^
 ||9.hojeeuconsigo.com.br^
 ||901ec3a4-2367-4d09-909e-50084e221a38.id.repl.co^
 ||903290.90843.repl.co^
@@ -999,7 +996,6 @@
 ||96e00e40-f767-4992-aaff-08f8d5786ed9.id.repl.co^
 ||976vcbc.blogspot.com.uy^
 ||976vcbc.blogspot.pe^
-||9788--jnjasd.repl.co^
 ||9788.jnjasd.repl.co^
 ||9796623323.yellowenergiasustentavel.com.br^
 ||9798pg.com.br^
@@ -1053,7 +1049,6 @@
 ||a1034556620.hol.es^
 ||a123dd.namdsad.repl.co^
 ||a1acb25a-9478-497a-9dcb-dc38ca455f16.id.repl.co^
-||a1b11c13-607a-4ed8-aab5-285d07e7ff95.id.repl.co^
 ||a1birincibelirle.blogspot.com.br^
 ||a1birincibelirle.blogspot.com.es^
 ||a1birincibelirle.blogspot.com.uy^
@@ -1445,7 +1440,6 @@
 ||acrobatpdf1.adobe.com.delaty.co^
 ||acronimofenix.com.br^
 ||acrpapeis.com.br^
-||acsesogalicahome.hombankngrapido.repl.co^
 ||act-eng-app.co^
 ||actanacimiento.com.mx^
 ||acter.org.co^
@@ -1461,7 +1455,6 @@
 ||activarsalud.com.ar^
 ||activate-mcafee.co^
 ||activatiin.co^
-||activation-promoteddesignmethod.jiseth-1995.repl.co^
 ||activator.looksites.com.br^
 ||activatuclavedinamica.verificarbanca.repl.co^
 ||activavisionoptica.es^
@@ -1495,7 +1488,6 @@
 ||acvbnmq.blogspot.com.br^
 ||acvbnmq.blogspot.com.es^
 ||acvbnmq.blogspot.com.uy^
-||acvmotyre.blogspot.com.br^
 ||acwdz.blogspot.mx^
 ||acwritav.gq^
 ||acylslusqvmfpcft.barclayis.co^
@@ -1536,7 +1528,6 @@
 ||ademjashari.wapka.co^
 ||adenac.com.br^
 ||adentura.com.mx^
-||adequateoddmegahertz--five-nine.repl.co^
 ||adesao-liberar.gq^
 ||adesentupidora24horas.com.br^
 ||adesivosmm.com.br^
@@ -2619,7 +2610,6 @@
 ||amazingdrone.com.br^
 ||amazingnutrients.com.ar^
 ||amazingvideo2.pagedemo.co^
-||amazoama.co.jp.mastercardnortniahnewestphalialauasi01.gq^
 ||amazoazm.co.jp.mastercardnorthrhinewestphalialeave01.gq^
 ||amazoazm.co.jp.mastercardnortniahnewestphalialauasi04.gq^
 ||amazol.co^
@@ -2656,7 +2646,6 @@
 ||amazon-co-jp.uuyo2.co^
 ||amazon-co-jp.yyi1.co^
 ||amazon-com.mx^
-||amazon-confirmed.co^
 ||amazon-consultant.co^
 ||amazon-consulting.co^
 ||amazon-corp.co^
@@ -6826,7 +6815,6 @@
 ||anneboutique.com.br^
 ||anneklein-mexicos.com.mx^
 ||annexseguros.com.br^
-||annosale.gq^
 ||anntayloroutlet.co^
 ||anocomvc.com.br^
 ||anonymix.co^
@@ -7114,7 +7102,6 @@
 ||app-origin-app-gcp.cartwire.co^
 ||app-settings.hol.es^
 ||app-uniswap.co^
-||app-validd-usuar.ronaldgeo-85.repl.co^
 ||app-verifycation-page.gq^
 ||app.agenciavirtualsicoob.com.br^
 ||app.betoys.com.br^
@@ -7138,7 +7125,6 @@
 ||app.supershoes.mx^
 ||app.tapid.es^
 ||app.whirr.co^
-||app.wpessentials.co^
 ||app1.00515.co^
 ||app33076.hol.es^
 ||app4237.hol.es^
@@ -8968,7 +8954,6 @@
 ||apply-events.gq^
 ||apply-hypesquadteam.gq^
 ||apply-now-hype.gq^
-||apply-now-signup.gq^
 ||apply.do^
 ||apply54-info.gq^
 ||applyedbe-events.gq^
@@ -9111,7 +9096,6 @@
 ||archivosdelestado.com.co^
 ||archmedx.co^
 ||archmove.com.br^
-||archwood.gq^
 ||archworld.co^
 ||arclim.com.br^
 ||arcoldarcondicionado.com.br^
@@ -9717,7 +9701,6 @@
 ||atual2013.com.br^
 ||atualconstrucao.com.br^
 ||atualflex.com.br^
-||atualizeseuavisosms.gq^
 ||atudomicilio.com.mx^
 ||atullmusic.openinapp.co^
 ||atuntaya.cl^
@@ -9766,7 +9749,6 @@
 ||aulavirtualcecip.com.mx^
 ||aulit.com.ec^
 ||aumentaloslimites.zz.com.ve^
-||aumento-cupo-beneficios-en-tarjeta.gq^
 ||aumentonatural.com.br^
 ||auntoservicioscotiabankuy.personasdefault.repl.co^
 ||auq9hveenbhhhxxoasstky0cepclgb.we9ixzz.co^
@@ -9979,7 +9961,6 @@
 ||avirtual.ustavillavicencio.edu.co^
 ||avisoscotia.x10.bz^
 ||avisosealertas.com.br^
-||avisurgernteproccessus.blogspot.com.es^
 ||avitecdv.com.br^
 ||avivagrancruzadadefe.com.ve^
 ||avivasa.com.br^
@@ -10249,10 +10230,8 @@
 ||bambkroped.gq^
 ||bametrino.com.br^
 ||bamonite.com.br^
-||ban.banreservva.repl.co^
 ||banana.gq^
 ||bananalonline.com.br^
-||banarsystreas.banclclaosl.repl.co^
 ||banc0l0mbia.jljkbhvkghm.repl.co^
 ||banca--bbfva001.repl.co^
 ||banca.ebisapluss.repl.co^
@@ -10269,7 +10248,6 @@
 ||bancainternetprovincia--lekeb20688.repl.co^
 ||bancaonline.zz.com.ve^
 ||bancaonlineficoshahondura.ficoshacuenta.repl.co^
-||bancapersonal8.agricotoutrs.repl.co^
 ||bancaporinternet.interbank-pe.co^
 ||bancaporinternet.pe^
 ||bancaporinternetpe--interbankpe1.repl.co^
@@ -10285,7 +10263,6 @@
 ||banceporinternet.interbnal.repl.co^
 ||bancknaciionall.webnode.com.co^
 ||bancm.co^
-||bancmb310fgd.bernardovelasq1.repl.co^
 ||bancnacional.webnode.com.co^
 ||banco-aw4se5dr6--judithpatino.repl.co^
 ||banco-aw4se5dr6.judithpatino.repl.co^
@@ -10337,7 +10314,6 @@
 ||bancolombia--com-user-as82.repl.co^
 ||bancolombia--com-userapp.repl.co^
 ||bancolombia--com-xlq.repl.co^
-||bancolombia--com1mua.repl.co^
 ||bancolombia--mua1entra.repl.co^
 ||bancolombia--mua1tu360.repl.co^
 ||bancolombia-4.bancolombia3232.repl.co^
@@ -10346,7 +10322,6 @@
 ||bancolombia-app.com-app-virtual.repl.co^
 ||bancolombia-seguridad.suspensiondecuenta.repl.co^
 ||bancolombia-xw.com-xlq.repl.co^
-||bancolombia.co-personas.repl.co^
 ||bancolombia.com-08543.repl.co^
 ||bancolombia.com-08622.repl.co^
 ||bancolombia.com-13i.repl.co^
@@ -10354,9 +10329,7 @@
 ||bancolombia.com-13t.repl.co^
 ||bancolombia.com-1home.repl.co^
 ||bancolombia.com-1y.repl.co^
-||bancolombia.com-365.repl.co^
 ||bancolombia.com-accountverify.repl.co^
-||bancolombia.com-ai13.repl.co^
 ||bancolombia.com-apply4.repl.co^
 ||bancolombia.com-b11.repl.co^
 ||bancolombia.com-b12.repl.co^
@@ -10368,7 +10341,6 @@
 ||bancolombia.com-h3.repl.co^
 ||bancolombia.com-i18.repl.co^
 ||bancolombia.com-ii15.repl.co^
-||bancolombia.com-in.repl.co^
 ||bancolombia.com-ingreso-00283.repl.co^
 ||bancolombia.com-login-kso9.repl.co^
 ||bancolombia.com-mua-verificar.repl.co^
@@ -10415,9 +10387,6 @@
 ||bancolombiaalert.service74.repl.co^
 ||bancolombiacom.validaciondedatos.repl.co^
 ||bancolombiaenlinea--1com7118.repl.co^
-||bancolombiapersonas.svb.com.co^
-||bancolombiapersonasvirtual.1com4221.repl.co^
-||bancolombiasuporttnet.notificacionesb.repl.co^
 ||bancolombiausel.repl.co^
 ||bancolombiaverificacion.com-cq.repl.co^
 ||bancolombiavirtual.1com0029.repl.co^
@@ -10506,7 +10475,6 @@
 ||banrisul.com.br^
 ||banrualsa.marlinarmando.repl.co^
 ||banrural-informa.arvizusalazar.repl.co^
-||banrural.mjosechanfreut.repl.co^
 ||banrural2.jorgelanderos7.repl.co^
 ||bantrab.webnode.com.co^
 ||bantuan-ewallet.it4e.co^
@@ -10595,7 +10563,6 @@
 ||basketballshoes.net.co^
 ||basoa.misuperweb.es^
 ||basped.es^
-||basssinclarsbbbb32111.bedoya01222111.repl.co^
 ||bastardo.cl^
 ||bastosecolomba.adv.br^
 ||basungaintl.gq^
@@ -10821,7 +10788,6 @@
 ||belgraviaarquitectura.com.co^
 ||beliving.com.br^
 ||bellabaeta.com.br^
-||bellaction.co^
 ||bellafemma.com.br^
 ||bellahouseoutlet.com.br^
 ||bellalingerieriopreto.com.br^
@@ -11275,7 +11241,6 @@
 ||bingbontw.co^
 ||bingoamazonia.com.br^
 ||bingomarbella.com.sv^
-||bingx.colecoescoin.com.br^
 ||binhan216.pagedemo.co^
 ||binhoinformatica.com.br^
 ||binlist.stinstalaciones.es^
@@ -11434,15 +11399,19 @@
 ||bittorrent.es^
 ||bittrexx.co^
 ||bittyurl.co^
+||bitvavo.com.nl.herramientasbellota.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
 ||bitvavo.com.nl.services.mwftelecom.com.br^
+||bitvavo.com.nl.services.nexoocupacional.com.br^
 ||bitvavo.com.nl.services.pulsopet.com.br^
 ||bitvavo.com.nl.services.sdsvilanova.com.br^
+||bitvavo.com.nl.services.tactica7.com.mx^
 ||bitvavo.com.nl.services.transhelis.com.br^
 ||bitvavo.com.nl.services.victorcassiano.com.br^
+||bitvavo.com.nl.tactica7.com.mx^
 ||bitvavo.sagec.cl^
 ||bitvavtios.co^
 ||bitwise-pal.co^
@@ -11993,7 +11962,6 @@
 ||bqog-gjytms.gq^
 ||bqsnsdqkz.blogspot.mx^
 ||br-appliances.imporhome.com.br^
-||br-facebook.co^
 ||br.brasil104-1070.com.br^
 ||br.brasil105-9070.com.br^
 ||br.brasil106-5030.com.br^
@@ -12564,7 +12532,6 @@
 ||c90eebbfa9c90eebbfa9700.lpages.co^
 ||c9694822-c49d-43d8-8509-b1054b261115.id.repl.co^
 ||ca-pf00669991.webnode.cl^
-||ca-rty-sze.gq^
 ||ca.backmoveis.com.br^
 ||ca4c1on8.co^
 ||caaarem.mx^
@@ -12899,7 +12866,6 @@
 ||canillaikas.com.br^
 ||canilmascaranegra.com.br^
 ||canilpequinmalter.com.br^
-||caninevelvetyglueware.agrico0las.repl.co^
 ||caniracsinaloa.mx^
 ||canmeds.co^
 ||cannabisconsultingabogados.es^
@@ -13234,7 +13200,6 @@
 ||caseguridad.cl^
 ||caseimeamarrei.com.br^
 ||caselhgia.gq^
-||caseroom.gq^
 ||cash-app.idesoft.co^
 ||cashaa.co^
 ||cashappguid.blogspot.cl^
@@ -13400,7 +13365,6 @@
 ||cbqme5dxyixkyv4xxtcgma.we9ixzz.co^
 ||cbr.pressing360.com.br^
 ||cbrantofagasta.cl^
-||cbsvtt.cl^
 ||cbt.org.mx^
 ||cbtechdaamazonia.com.br^
 ||cbtelefonia.com.ar^
@@ -13409,7 +13373,6 @@
 ||cbuckner.expofranchise.com.br^
 ||cbxbcvbbcxcv.pagedemo.co^
 ||cbzoft.com.mx^
-||cc.lojacasafortunato.com.br^
 ||cc1c84b8-2509-42ce-a011-8b2fa4158633.id.repl.co^
 ||ccahn.esy.es^
 ||ccamazonas.com.pe^
@@ -13762,7 +13725,6 @@
 ||certoouerrado.com.br^
 ||certoparavc.com.br^
 ||certoquevaleapena.com.br^
-||cerveceriascusco.com.pe^
 ||cervejariadivisa.com.br^
 ||cervejariamarcosbrunholi.com.br^
 ||cerventanas.cl^
@@ -13848,7 +13810,6 @@
 ||cgaservicios.cl^
 ||cgbclick.com.br^
 ||cgdfbgtryb6udtyjngh.blogspot.com.es^
-||cgenergia.com.br^
 ||cgep.umich.mx^
 ||cgi-apps-paypal-servers-updates-confrmations-data-paypal.com.lasinternational.com.moveissol.com.br^
 ||cgi-bin.update-acccount.service.login.vrrefrigeracao.com.br^
@@ -13888,8 +13849,6 @@
 ||changeorderas.gq^
 ||changofariasgomez.com.ar^
 ||chanoe.es^
-||chanralenlist.gq^
-||chantal.jolette-qualiticaconsulting.marciojs.com.br^
 ||chaouikola.gq^
 ||chaovalarmerghulisfreefacebook-com.blogspot.com.es^
 ||chaovalarmerghulisfreefacebook-com.blogspot.mx^
@@ -14267,6 +14226,7 @@
 ||chatgpt.yuanbao.co^
 ||chatgpt.ywsj.gq^
 ||chatgpt.zcong.co^
+||chatgpt.zdzcode.com.br^
 ||chatgpt.zilor.com.br^
 ||chatgpt1.co^
 ||chatgpt1.socialforest.co^
@@ -14583,6 +14543,7 @@
 ||chatgptproxy.co^
 ||chatgptpt.com.br^
 ||chatgptrain.ysix.com.br^
+||chatgptree.co^
 ||chatgptree.es^
 ||chatgptrentavel.com.br^
 ||chatgpts.co^
@@ -14658,7 +14619,6 @@
 ||chatt0whattsapp0.easy.co^
 ||chatterboxsalon.co^
 ||chatttwhatsapp.mypi.co^
-||chatwhastapp.dyvkm.gq^
 ||chatwhatsap.sociallinkgrups.gq^
 ||chatwhatsapgroupinvitejoinowfree.whatsappgroupinvite13.gq^
 ||chatwhatsapp-join18.gq^
@@ -14832,7 +14792,6 @@
 ||chinabistro.co^
 ||chinagrill.co^
 ||chinatakecare.com.es^
-||chinawoddon.co^
 ||chingowashers.gq^
 ||chinmayi.gq^
 ||chipionabus.es^
@@ -15358,6 +15317,7 @@
 ||clinicamazon.com.br^
 ||clinicamegadental.com.br^
 ||clinicamilli.com.br^
+||clinicamontesinai.com.pe^
 ||clinicanatur.com.br^
 ||clinicaneo.com.br^
 ||clinicanuevaesperanza.cl^
@@ -15457,7 +15417,6 @@
 ||clt1629167.bmeurl.co^
 ||clt1663616.bmeurl.co^
 ||clt1711052.bmeurl.co^
-||cltznss.gq^
 ||club-pampa.com.ar^
 ||clubapple.com.br^
 ||clubapple.com.co^
@@ -15888,7 +15847,6 @@
 ||comercialbonsucesso.com.br^
 ||comercialdecarlo.com.ar^
 ||comercialdistak.com.br^
-||comercialdym.com.gt^
 ||comercialelsiglo.pe^
 ||comercialhigisol.com.br^
 ||comercialhispana.cl^
@@ -16132,6 +16090,7 @@
 ||concretosaldeco.mx^
 ||concripli.gq^
 ||conculturacre.com.br^
+||concur.net.co^
 ||concurso.fnagov.co^
 ||condassist-app.com.br^
 ||condcidadecomercial.com.br^
@@ -16186,7 +16145,6 @@
 ||confiancepetfood.com.br^
 ||confiehoje.com.br^
 ||configuradorapple.semic.es^
-||configurations-checkaprovdesrs12.gq^
 ||confirm-1532762022.gq^
 ||confirm-page-100000012345986958680000075.gq^
 ||confirm-page-100000012345986958680000077.gq^
@@ -16247,7 +16205,6 @@
 ||connectaglobal.co^
 ||connectamazonconsultancy.co^
 ||connectamazonia.com.br^
-||connectcontabeis.com.br^
 ||connectcontrol.com.br^
 ||connecte-online.webnode.com.co^
 ||connectedagain.gq^
@@ -16443,7 +16400,6 @@
 ||content-29127518.latuka.com.bo^
 ||content-2auvryl1q.contextura.co^
 ||content-59135335.latuka.com.bo^
-||content-61xj1otkz.contextura.co^
 ||content-66127752.latuka.com.bo^
 ||content-72436611.latuka.com.bo^
 ||content-8n7x32ii.contextura.co^
@@ -16479,11 +16435,9 @@
 ||contenter04nr8fs.tmaipo.cl^
 ||contentfb-0dhgq3bf.playvisual.co^
 ||contentfb-124e0mb4.playvisual.co^
-||contentfb-28ab47jl.playvisual.co^
 ||contentfb-3x0o6qgo.playvisual.co^
 ||contentfb-ayai2sql.playvisual.co^
 ||contentfb-azvax7wd.playvisual.co^
-||contentfb-bocvmev2.playvisual.co^
 ||contentfb-e077wvtu.playvisual.co^
 ||contentfb-e2bxc6mc.playvisual.co^
 ||contentfb-f0z3zhmd.playvisual.co^
@@ -16724,7 +16678,6 @@
 ||corposanagustin.cl^
 ||corposervis.com.ve^
 ||corpusdoxchristi.gq^
-||corpusefaces.com.br^
 ||corraantesquetermine.com.br^
 ||corragaranta.com.br^
 ||corraldebustos.gov.ar^
@@ -16753,6 +16706,7 @@
 ||corsinipneus.com.br^
 ||corta.co^
 ||cortefacil.ind.br^
+||corteiz.co^
 ||corteizfrance.co^
 ||cortex-app.inf.elasticnet.co^
 ||cortexerp.com.br^
@@ -16855,7 +16809,6 @@
 ||covid.vozdascomunidades.com.br^
 ||covid19-support.aquintaessencia.com.br^
 ||covid19.cmi.co^
-||covidi9.gq^
 ||covintel.co^
 ||covrigaria.es^
 ||coworking-app.devix.co^
@@ -16910,7 +16863,6 @@
 ||cpx.mx^
 ||cq-safewatch.grupocgd.co^
 ||cqa.mx^
-||cqnvc.barclayis.co^
 ||cr-comex.com.ar^
 ||cr.mufg.asweetpeachef.co^
 ||cr.mufg.atlantictactical.co^
@@ -16998,7 +16950,6 @@
 ||credipersonas.com94509.repl.co^
 ||crediplus-app.credi-plus.mx^
 ||credit-agrigol.co^
-||creditagricoles.cloudns.cl^
 ||creditarassessoria.com.br^
 ||creditazos.es^
 ||credito-libre-1--destino2.repl.co^
@@ -17323,7 +17274,6 @@
 ||cuquan.pages.net.br^
 ||curadosparacurar.org.br^
 ||curafy-app.jpoh.co^
-||curcumagastronomia.cl^
 ||cureakyara.com.br^
 ||curesgentgrancrm.es^
 ||curiconectado.cl^
@@ -18557,7 +18507,6 @@
 ||d2a6s9.blogspot.com.br^
 ||d2a6s9.blogspot.pe^
 ||d36f0fe7.empresamrclean.com.br^
-||d3d030d6-b1ff-4359-816e-4908928ee26b.id.repl.co^
 ||d4af4fc7-7bfd-48b9-813c-2ac36e0500e5.id.repl.co^
 ||d4l.co^
 ||d4t.com.mx^
@@ -18744,7 +18693,6 @@
 ||darkundefinedhoutehpz.blogspot.mx^
 ||darlanoliveira.adv.br^
 ||darling-app.hox.dev.br^
-||darlingmeaslyarray--allstargal.repl.co^
 ||darole.com.br^
 ||darrana.co^
 ||dart-app.tools.grove.co^
@@ -18968,7 +18916,6 @@
 ||decoritababy.com.br^
 ||decorvise.es^
 ||decoutinho.com.br^
-||decoy20.com.mx^
 ||decozalop.es^
 ||decvidros.com.br^
 ||dedambiental.com.br^
@@ -18998,7 +18945,6 @@
 ||defi-cloud.co^
 ||defi-eth.co^
 ||defi-trx.co^
-||defiantspringgreentwintext.gatoomewimmer.repl.co^
 ||defiantstormybooleanvalue.wwwseguriti.repl.co^
 ||deficientsillyproperties.omarbaez.repl.co^
 ||defieo.co^
@@ -19071,7 +19017,6 @@
 ||delivery-app-tracker-proxy.app-sr.co^
 ||delivery-app.coreform.co^
 ||delivery-waiting.do^
-||delivery.attempt.grandtower.com.br^
 ||delivery.eurodomservice.gq^
 ||delivery.imaginedbyjess.co^
 ||delivery.slz.br^
@@ -19555,7 +19500,6 @@
 ||dfghjhsdfjhsfgsdfgjhsdfghusdfgjhu.blogspot.mx^
 ||dfgndfn.blogspot.pe^
 ||dfgretgg.blogspot.cl^
-||dfgsde3.gq^
 ||dfgtyah.webnode.es^
 ||dfhaa.blogspot.cl^
 ||dfhgfdhgfdfh.blogspot.com.co^
@@ -19816,7 +19760,6 @@
 ||dimverticalguiltware.sincerelyfiorel.repl.co^
 ||din-app.patrickhadson.com.br^
 ||dina-banco.candres-07.repl.co^
-||dinabit.es^
 ||dinamerica.com.uy^
 ||dinamibancolom.dinamibancolom.repl.co^
 ||dinamic-ban-si.avalon1576.repl.co^
@@ -19920,11 +19863,9 @@
 ||discord.ad^
 ||discord.com.mx^
 ||discord.contalogin.repl.co^
-||discord.form-hypesquad-us.repl.co^
 ||discord.hypesquad-alist.repl.co^
 ||discord.hypesquad-event.repl.co^
 ||discord.hypesquad-eventreturn.repl.co^
-||discord.hypesquad-events.repl.co^
 ||discord.hypesquad-invite-forms.repl.co^
 ||discord.hypesquad-invite.repl.co^
 ||discord.hypesquad-login.repl.co^
@@ -19946,7 +19887,6 @@
 ||discord.moderator-exam-academy.repl.co^
 ||discord.moderator-verify.repl.co^
 ||discord.moderators-event.repl.co^
-||discord.moderators-form.repl.co^
 ||discord.teamhypesquad.repl.co^
 ||discord.verifysquad.repl.co^
 ||discord.yonle.repl.co^
@@ -19954,8 +19894,6 @@
 ||discordgifts.gq^
 ||discordiu-gift.gq^
 ||discordmoderato.repl.co^
-||discordpolicy.repl.co^
-||discordpremium.gq^
 ||discords.bz^
 ||discordstaff.gq^
 ||discountnativesmokes.co^
@@ -20027,7 +19965,6 @@
 ||distribuidoraeurometropolitan.com.ve^
 ||distribuidoraimigrantes.com.br^
 ||distribuidorajr.com.ar^
-||distribuidoralimpar.com.br^
 ||distribuidoramnr.com.br^
 ||distribuidoramomm.com.br^
 ||distribuidoraph.com.ar^
@@ -20404,7 +20341,6 @@
 ||dracarolinamazonmiranda.com.br^
 ||dracetronic.com.br^
 ||drachristieviviane.com.br^
-||dracristiannehueb.com.br^
 ||dradalyllabreia.com.br^
 ||dradaniellerocha.com.br^
 ||dradenisechiquetti.com.br^
@@ -20455,7 +20391,6 @@
 ||drbonadia.com.br^
 ||drcano.es^
 ||drcurvy.co^
-||drdiogomatias.com.br^
 ||drdoceo.com.br^
 ||dreamail.cl^
 ||dreamitapplesales.com.br^
@@ -20795,7 +20730,6 @@
 ||e.co^
 ||e.eaobd.co^
 ||e10126ee-e7d0-4dce-b1ea-ba1f5a733e82.id.repl.co^
-||e14995cd-c982-4f55-97e6-40cb8d9758b0.id.repl.co^
 ||e17srijon.com.br^
 ||e1m8wuhbpaxrqjequ5.barclayis.co^
 ||e2yhtncs3yayzmv6isp.we9ixzz.co^
@@ -20804,10 +20738,7 @@
 ||e4isa2bgg1ldnl5lrh47jbjdoahu.we9ixzz.co^
 ||e4marketing.com.br^
 ||e546456456646.45435435435435.repl.co^
-||e555c2fc-9ac7-4f92-ba60-ceca0e7db727.id.repl.co^
 ||e5web.com.br^
-||e63bdkjmdhy7i93nnmji3n.mai8edhhe838sbdhju8bdbnh8.repl.co^
-||e6wlxbirldbwosjo.we9ixzz.co^
 ||e82s2cisktrtj94sg8jnqga.we9ixzz.co^
 ||e8560ade-d480-49ad-b4c5-8c49c1a68121.id.repl.co^
 ||e914d128-96c9-434c-b193-a8c94d0175da.id.repl.co^
@@ -20851,7 +20782,6 @@
 ||eatrvmt55kg6wrszpbceflihpcshbebcnu8zybzhodk.materialdeconstrucaobh.com.br^
 ||eatside.es^
 ||eaut.com.br^
-||eaydqlxsanwj.we9ixzz.co^
 ||eayobppgwky1a84cl2wseeey.we9ixzz.co^
 ||eazi-apps.co^
 ||eazy.co^
@@ -21029,11 +20959,9 @@
 ||ecustomsareno.es^
 ||ed.bbva1999.co^
 ||ed01d993-e0c5-4081-9cb3-8ef847649755.id.repl.co^
-||ed0da847-7eef-4bf3-810c-911558839835.id.repl.co^
 ||ed73fcad-e837-4366-8136-2f9211bd369f.id.repl.co^
 ||ed7c95dc.seuestiloseucarater.com.br^
 ||edarmotopartes.com.ar^
-||edb3dfc5-cf44-4ef5-8ef1-bb6e1d704b1a.id.repl.co^
 ||edca.org.ec^
 ||eddiesee.easy.co^
 ||eddycardona.mx^
@@ -21152,7 +21080,6 @@
 ||ee0str0p.arimix.cl^
 ||eee.eh39.co^
 ||eee.ttyy888.co^
-||eemid.marcasocial.cl^
 ||eep-arturosoria.es^
 ||eet1junin.com.ar^
 ||eeu1.co^
@@ -21246,7 +21173,6 @@
 ||ekzotischsinaloa.com.mx^
 ||el-loscria.com.ar^
 ||el-templo-amazonico.com.co^
-||elaborateagitatedcondition--allsummerring.repl.co^
 ||eladios.com.mx^
 ||eladorno.co^
 ||elagasajo.com.ar^
@@ -21312,7 +21238,6 @@
 ||electrum.mx^
 ||electrumbtc.co^
 ||elefantegrafica.com.br^
-||eleganti.com.ec^
 ||elegantidealisticcalculators--thaliasilvana.repl.co^
 ||elegantstitches.co^
 ||eleinca.com.ve^
@@ -22120,7 +22045,6 @@
 ||escritoriovirtual.emp.br^
 ||escritoriovxz.net.br^
 ||escritoriowillar.net.br^
-||escrituraacademica.co^
 ||escuela-inclusiva.com.ar^
 ||escuela-numerologia.com.ar^
 ||escuela411.cl^
@@ -22477,7 +22401,6 @@
 ||eusouogoogle.com.br^
 ||euvotodistrital.org.br^
 ||euvsnaval.gq^
-||ev58b3buszd4baywgmmm3gmcsaog.we9ixzz.co^
 ||eva.namkhang.gq^
 ||evabottling.co^
 ||evalastfireclop.co^
@@ -22607,7 +22530,6 @@
 ||exovel.gq^
 ||expand-app.com.br^
 ||expandamazonconsultancy.co^
-||expandserices.gq^
 ||expansaoempreendimentos.com.br^
 ||expansaoeventos.com.br^
 ||expedicaoamazonia.com.br^
@@ -22783,7 +22705,6 @@
 ||facebo00k10.blogspot.pe^
 ||facebok-azzz.pages.net.br^
 ||facebokmessengercom.blogspot.cl^
-||facebook---login.gq^
 ||facebook--rayanj.repl.co^
 ||facebook-02.gq^
 ||facebook-02846052.workpoint.pe^
@@ -22917,7 +22838,6 @@
 ||facebookaccountloginml.blogspot.com.br^
 ||facebookaccountloginml.blogspot.pe^
 ||facebookbrasill.com.br^
-||facebookco-0387098818.ho27.co^
 ||facebookco-166282714.ho27.co^
 ||facebookco-21252071.ho27.co^
 ||facebookco-308707517.ho27.co^
@@ -22965,7 +22885,6 @@
 ||facebookxunblocks.gq^
 ||facebookzone.co^
 ||facebookzs.pages.net.br^
-||facebopage.blogspot.com.uy^
 ||facedook-com.gq^
 ||faceebookk.hol.es^
 ||facemap.es^
@@ -24025,7 +23944,6 @@
 ||from-cetak-geyb4r.brlmorila.co^
 ||from-g4byar-fztvl-b3hadiah.brlmori.co^
 ||from.notification-user-pages.gq^
-||fromgcash.cl^
 ||front-app-pesquisasolidaria.gke-hmg.solucx.com.br^
 ||front.ratiboo.cl^
 ||fronteranoticias.mx^
@@ -31699,6 +31617,7 @@
 ||jumpmovinganddelivery.co^
 ||jumpparaacademia.com.br^
 ||juncal.cl^
+||juncao.ind.br^
 ||jungbrasilia.com.br^
 ||jungle-app.co^
 ||jungleamazonia.com.br^
@@ -31765,7 +31684,6 @@
 ||k5m.co^
 ||k6net.esy.es^
 ||k8-apps-int-dev.digitalaec.com.br^
-||kaasbrikloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||kabarin.co^
 ||kabuminformativo.com.br^
 ||kaceyahouse.co^
@@ -33442,7 +33360,6 @@
 ||mail.sansalvadordejujuy.gob.ar^
 ||mail.spray-ground-mexico.com.mx^
 ||mail.teikit.es^
-||mail.tory-burch-colombia.com.co^
 ||mail.tysan2.com.ar^
 ||mail.vanadiumlab.com.br^
 ||mail.wr.odo.br^
@@ -35815,6 +35732,7 @@
 ||nenedamamae.com.br^
 ||nenrile.gq^
 ||neo-tracler.co^
+||neocentrovacinas.com.br^
 ||neodimio.com.br^
 ||neoenterprise.com.pe^
 ||neofarm.com.br^
@@ -36080,7 +35998,6 @@
 ||newstatement-youraccoount24.gq^
 ||newstop.com.br^
 ||newsystem.cl^
-||newteenlivestream.blogspot.com.uy^
 ||newton.co^
 ||newton.sampa.br^
 ||newtonpaiva.br^
@@ -36659,7 +36576,6 @@
 ||oitlook.co^
 ||oitopharma.parceirodocontador.com.br^
 ||oitrema.blogspot.cl^
-||oitrema.blogspot.com.uy^
 ||oitwis.gq^
 ||ojocaribe.com.ve^
 ||ok-anngel.gq^
@@ -36851,6 +36767,7 @@
 ||onlyfans-gratis.mx^
 ||onlyfans-search.co^
 ||onlyfans-th.co^
+||onlyfans.pe^
 ||onlyfans24.co^
 ||onlyfansagency.co^
 ||onlyfansdownloader.co^
@@ -37108,6 +37025,7 @@
 ||openaigpt.qubigo.com.ar^
 ||openaigpts.co^
 ||openaihealth.co^
+||openaihostagesystemroli1909090927346.novastudios.es^
 ||openaii.co^
 ||openailist.co^
 ||openailok.co^
@@ -38535,6 +38453,7 @@
 ||paypalloginin-usa.blogspot.pe^
 ||paypallplus.bubbe.com.br^
 ||paypalm.com.br^
+||paypalmanager.mandioca.es^
 ||paypalmanager.techfront.com.br^
 ||paypalmobile-secure.tindernude.co^
 ||paypalmoneyexploit.blogspot.mx^
@@ -43505,7 +43424,6 @@
 ||smsx01.blogspot.com.br^
 ||smsyyt-upqs.co^
 ||smtp-app.procempa.com.br^
-||smtp.bitmarg.co^
 ||smtpmarketing.com.br^
 ||smtppro.com.br^
 ||smtrofeus.com.br^
@@ -44722,7 +44640,6 @@
 ||tdm.com.co^
 ||tdrewz.blogspot.com.co^
 ||te328ezfnezfnod.blogspot.com.ar^
-||te328ezfnezfnod.blogspot.com.br^
 ||te328ezfnezfnod.blogspot.com.co^
 ||teachmechatgpt.co^
 ||team-aml.co^
@@ -45708,6 +45625,7 @@
 ||transocidente.com.br^
 ||transparencia-app.teapa.gob.mx^
 ||transparencia.ucal.edu.pe^
+||transparenciaquillota.cl^
 ||transparenciasaojorge.com.br^
 ||transpitassi.com.br^
 ||transportadoramega.com.br^
@@ -47534,7 +47452,6 @@
 ||whatsapp-bachup.com.br^
 ||whatsapp.cradiagnosticos.com.br^
 ||whatsapp.italia-app.ap2018.co^
-||whatsapp.net.co^
 ||whatsapp.pepe.app.br^
 ||whatsapp.servicosmsc.com.br^
 ||whatsapp.web-net.messenger.security-contac.whatsapp.2018messenger.ipays.shop.whatsappbcf59a6496548c5.ap2018.co^
@@ -47773,6 +47690,7 @@
 ||wwwcasinoonlinebrasil.co^
 ||wwwcentrum24-pl.es^
 ||wwwcentrum24-web-pl.es^
+||wwwchatgpt.co^
 ||wwweamazon.co^
 ||wwwgoonline-bnpparibas-pl.no-no.es^
 ||wwwguarda.co^
