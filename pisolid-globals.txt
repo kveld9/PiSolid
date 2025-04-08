@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-07T08:09:15.065Z
+! Last modified: 2025-04-08T08:09:14.857Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1467,7 +1467,6 @@ backtrace-forwarder*.amazonaws.com
 ||sgtm.*all
 ||gtag.js^
 gtm-snippet
-||research.google.com^$denyallow=colab.research.google.com
 ||2mdn.net^$important
 ||s0.2mdn.net^$important
 ||2mdn-cn.net^$important
@@ -5077,7 +5076,6 @@ google-analytics.$important
 ||recommender.googleapis.com^
 ||redis.googleapis.com^
 ||regionlookup.googleapis.com^
-||research.google^
 ||reseller.googleapis.com^
 ||retail.googleapis.com^
 ||row-advil.waze.com^
@@ -5227,6 +5225,7 @@ google-analytics.$important
 ||matomo.js^
 ||analytics.cdn.live^
 ||analytics-evisit.vsee.com^
+||analytics.finna.fi^
 ||anon-stats.eff.org^
 ||beans.opensuse.org^
 ||henryk.mdrn.pl^
@@ -5688,6 +5687,8 @@ watcab*.blob.core.windows.net
 ||xpay-edgetipping-api-atm-prod.trafficmanager.net^
 ||xpay-edgetipping-gateway.centralus.cloudapp.azure.com^
 ||xpay-int.microsoft.com^
+||telemetry.mozilla.org^$badfilter
+||telemetry.mozilla.org^$denyallow=dictionary.telemetry.mozilla.org|docs.telemetry.mozilla.org|probeinfo.telemetry.mozilla.org
 ||ads*.mozgcp.net^
 ||contile*.mozilla.com^
 ||snippets*.mozilla.net^
