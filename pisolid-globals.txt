@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-09T08:09:14.796Z
+! Last modified: 2025-04-10T08:09:14.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1083,6 +1083,7 @@ voiceid*.amazonaws.
 ||acfeedbackws.icloud.com^
 ||advertising.apple.com^
 ||advp.apple.com^
+||amsui.apple.com^
 ||api-adservices.apple.com^
 ||api-smoot.apple.com^
 ||applemediaservices.com^
@@ -1161,6 +1162,8 @@ voiceid*.amazonaws.
 ||idiagnostics-qa.apple.com^
 ||idiagnostics-reno.apple.com^
 ||idv-signals-pommery-prod.v.aaplimg.com^
+||images-mercury.mzstatic.com^
+||images-mercury.v.aaplimg.com^
 ||internalcheck.apple.com^
 ||iphonesubmissions.apple.com^
 ||iphonesubmissions.apple.com.akadns.net^
@@ -1179,6 +1182,8 @@ voiceid*.amazonaws.
 ||metrics.icloud.com^
 ||metrics.mzstatic.com^
 ||msc-dct-prod.msc.apple.com^
+||my.itunes.apple.com^
+||my.itunes-apple.com.akadns.net^
 ||news-app-events.apple.com^
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
@@ -1208,6 +1213,9 @@ voiceid*.amazonaws.
 ||radarsubmissions.apple.com.akadns.net^
 ||sdkintg-iad.apple.com^
 ||sdkintgiad.apple.com^
+||se2-cdn.itunes-apple.com.akadns.net^
+||se2.itunes.apple.com^
+||se2.itunes.apple.com.edgesuite.net^
 ||searchads.apple.com^
 ||searchads.apple.com.edgesuite.net^
 ||searchads.lb-apple.com.akadns.net^
@@ -1227,7 +1235,10 @@ voiceid*.amazonaws.
 ||smoot-feedback.v.aaplimg.com^
 ||smoot.g.aaplimg.com^
 ||smoot-searchv2-ause1c.v.aaplimg.com^
+||sp-cdn.itunes-apple.com.akadns.net^
 ||speedtracer.apple.com^
+||sp.itunes.apple.com^
+||sp.itunes.apple.com.edgekey.net^
 ||st11p01su-lcdnreg.isu.apple.com.akadns.net^
 ||stg-iad.apple.com^
 ||stocks-analytics-events.apple.com^
@@ -5688,7 +5699,7 @@ watcab*.blob.core.windows.net
 ||xpay-edgetipping-gateway.centralus.cloudapp.azure.com^
 ||xpay-int.microsoft.com^
 ||telemetry.mozilla.org^$badfilter
-||telemetry.mozilla.org^$denyallow=dictionary.telemetry.mozilla.org|docs.telemetry.mozilla.org|probeinfo.telemetry.mozilla.org|public-data.telemetry.mozilla.org
+||telemetry.mozilla.org^$denyallow=dictionary.telemetry.mozilla.org|docs.telemetry.mozilla.org|probeinfo.telemetry.mozilla.org
 ||ads*.mozgcp.net^
 ||contile*.mozilla.com^
 ||snippets*.mozilla.net^
