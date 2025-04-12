@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-11T08:08:19.270Z
+! Last modified: 2025-04-12T08:08:09.542Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -168,6 +168,7 @@
 ||0ebemkthynly.munty.co^
 ||0hj.com.br^
 ||0ltkinv7.robertaocana.com.br^
+||0x.lfyabbhdluzu.es^
 ||0x0-eligibility.co^
 ||0xbitconnect.co^
 ||0xhpalid.arimix.cl^
@@ -9245,6 +9246,7 @@
 ||articulo.mercadolibre.com.uy^
 ||articulosreligiosos.com.pe^
 ||artificialfish.com.ar^
+||artigosmatheus.com.br^
 ||artinfo.com.br^
 ||artinlouvor.com.br^
 ||artis303login.co^
@@ -12355,6 +12357,7 @@
 ||bz64iwo2sccimxn25usslsifj2yiu9.ribeiroamaro.adv.br^
 ||bzaitew.gq^
 ||bzex.co^
+||bzr.tujaeiq.es^
 ||bzzki0novvcug.we9ixzz.co^
 ||c-andes.cl^
 ||c-apprentiy.simfemaiouile.bupport.pop3.staging.pport.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -13256,6 +13259,7 @@
 ||cctvdelnorte.com.mx^
 ||ccvivabuenaventura.com.co^
 ||cd60e2c9-6b25-4361-8a8e-bc74b0898b93.id.repl.co^
+||cd703801d9285ef650f2ab78805e78976.unifacvest.com.br^
 ||cdadiagnostico.com.br^
 ||cdagoiania.com.br^
 ||cdamazonas.gov.co^
@@ -20075,6 +20079,8 @@
 ||draeliandra.com.br^
 ||draemanuellamikilita.com.br^
 ||draftdaddy.co^
+||draftsmalls.blogspot.com.co^
+||draftsmalls.blogspot.pe^
 ||dragfalsbag.gq^
 ||dragoa.com.ar^
 ||dragocapital.co^
@@ -25162,6 +25168,7 @@
 ||hc-app.servisuministrosjg.co^
 ||hd.pe^
 ||hdasset.co^
+||hdc.lfyabbhdluzu.es^
 ||hdserviceindustria.com.br^
 ||hdshawyhw3eayuheyh.blogspot.cl^
 ||hdwallpaper.com.co^
@@ -30867,7 +30874,6 @@
 ||jabutiurbano.com.br^
 ||jacintor.gq^
 ||jack-wolfskin.com.co^
-||jackbocksharefile.msa-ps.co^
 ||jacketscoat.co^
 ||jackiechan.com.br^
 ||jacksapplechips.co^
@@ -36350,6 +36356,7 @@
 ||omkilohedi.blogspot.com.es^
 ||omkt.com.br^
 ||omnibeees.ddns.com.br^
+||omt3.tujaeiq.es^
 ||omybestdo.gq^
 ||on-cloud-mx.com.mx^
 ||on-cloud-shoes.com.mx^
@@ -38785,6 +38792,7 @@
 ||pizzariapuchinella.com.br^
 ||pizzeriagradi.es^
 ||pjsoftservice.com.br^
+||pkkb.lfyabbhdluzu.es^
 ||pko-pkobp-pl.es^
 ||pkobp.co^
 ||pkssolar.es^
@@ -39325,6 +39333,7 @@
 ||preformanceamazon-it-non-compliant-pre-deactivate.gremcon.pe^
 ||pregunmer.gq^
 ||pregunta.es^
+||preguntalealdoctormartinez.es^
 ||preguntame.cl^
 ||premchandsharma.co^
 ||premialestats.co^
@@ -41592,6 +41601,7 @@
 ||rsistemasgestao.com.br^
 ||rsmagazine.com.br^
 ||rsmkt.com.br^
+||rsneao.co^
 ||rsrcontabilidade.com.br^
 ||rstc-app.com.mx^
 ||rsvpevite.es^
@@ -47912,6 +47922,7 @@
 ||yavehcosmeticos.com.br^
 ||yawaloaded.co^
 ||ybytymi.gov.py^
+||yds.tujaeiq.es^
 ||ydtlbb3d.the3.changyou.co^
 ||yeahday.com.br^
 ||yeahmail.com.br^
