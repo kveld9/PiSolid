@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-13T08:08:06.628Z
+! Last modified: 2025-04-14T08:08:11.095Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -10010,7 +10010,6 @@
 ||azzerp.000.pe^
 ||b-mailchimp.com.br^
 ||b.ibfv.rio.br^
-||b.sergiodearagao.com.br^
 ||b003.gmt88.co^
 ||b02972149.digitalyaver.es^
 ||b159582d-2330-4e84-979d-00bd99c960ac.id.repl.co^
@@ -11307,6 +11306,7 @@
 ||bitvavo.com.nl.herramientasbellota.com.mx^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
+||bitvavo.com.nl.services.heiwa.eti.br^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -15212,6 +15212,7 @@
 ||clinicservices23.com.ve^
 ||clinicway.com.br^
 ||clinifama.com.br^
+||clinilab.cl^
 ||clinkca1dinamic.yennyrodriguez2.repl.co^
 ||clinpet.com.br^
 ||clinsupportdesign.co^
@@ -23262,6 +23263,7 @@
 ||fipsa.com.mx^
 ||fire-112.co^
 ||fire777.co^
+||fireblaze.co^
 ||fireend.com.br^
 ||firemendelivery.co^
 ||fireproof.com.ar^
@@ -24881,6 +24883,7 @@
 ||grupocompucard.com.mx^
 ||grupoconcretoecia.com.br^
 ||grupocontabilalmeida.com.br^
+||grupocopesa.com.mx^
 ||grupocprh.com.br^
 ||grupocrescent.com.ar^
 ||grupodeacesso.com.br^
@@ -32812,6 +32815,7 @@
 ||loydsonline.co^
 ||lp-app.petlove.com.br^
 ||lp-markets.co^
+||lp.contabilidadeleandro.com.br^
 ||lp.wainerfortesadvocacia.com.br^
 ||lpchatgpt.eldaalmeida.com.br^
 ||lplquimica.com.br^
@@ -43345,6 +43349,7 @@
 ||socialtv.cl^
 ||socialwatch.co^
 ||sociedadcolombianadefisica.org.co^
+||sociedadimaginaria.cl^
 ||socies-app.apps.devecoop.coop.ar^
 ||socioamazonas.com.br^
 ||socioempresarial.pe^
@@ -45700,7 +45705,6 @@
 ||trypineapples.co^
 ||trysmbdealexplorermedia.co^
 ||tryteamamazon.co^
-||tryteck.com.ar^
 ||tryuhaerujasztjwrtujtrjartijwartjhqrt.blogspot.com.co^
 ||tryuhaerujasztjwrtujtrjartijwartjhqrt.blogspot.pe^
 ||tscoind.co^
