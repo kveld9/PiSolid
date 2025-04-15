@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-14T08:08:11.095Z
+! Last modified: 2025-04-15T08:08:16.829Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1143,7 +1143,6 @@
 ||abrainc.org.br^
 ||abraji.org.br^
 ||abrakadabra.com.pe^
-||abramge.com.br^
 ||abraomkt.com.br^
 ||abraxas-apppop3.secure.api.old.auth.master.ns.sitemap.autoconf7bq6by-am-asey-am-ase.appserviceensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||abraxas-apppop3.secure.gitlab.api.old.auth.master.ns.sitemap.autoconf7bq6by-am-ase.appserviceensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -1383,6 +1382,7 @@
 ||acontsaftyyourpages-ap43754l.gq^
 ||acorazonabierto.cl^
 ||acordemaior.com.br^
+||acordo2025ofeirao.com.br^
 ||acordocomofertas.com.br^
 ||acorrelan.com.br^
 ||acortalo.com.ve^
@@ -6777,6 +6777,7 @@
 ||anntayloroutlet.co^
 ||anocomvc.com.br^
 ||anonymix.co^
+||anotamais.com.br^
 ||anpad.org.br^
 ||anperbue.gq^
 ||anpicacolombia.co^
@@ -11303,10 +11304,8 @@
 ||bittorrent.es^
 ||bittrexx.co^
 ||bittyurl.co^
-||bitvavo.com.nl.herramientasbellota.com.mx^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
-||bitvavo.com.nl.services.heiwa.eti.br^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -11427,6 +11426,7 @@
 ||blocxchain.co^
 ||blog-inclusao.com.br^
 ||blog.0xproject.co^
+||blog.abramge.com.br^
 ||blog.adendus.com.br^
 ||blog.adrifaralli.com.br^
 ||blog.ateliedeeventos.com.br^
@@ -15172,6 +15172,7 @@
 ||clinicadichiara.com.br^
 ||clinicaecomedsaude.com.br^
 ||clinicafamilia.cl^
+||clinicaflorescerdf.com.br^
 ||clinicainthera.com.br^
 ||clinicaitca.com.br^
 ||clinicalesage.com.br^
@@ -24136,6 +24137,7 @@
 ||geominassp.com.br^
 ||geosclean.com.br^
 ||geoserver-app.sema.df.gov.br^
+||geotecnus.eng.br^
 ||geox.com.mx^
 ||gepama.com.ar^
 ||geppc.org.br^
@@ -24883,7 +24885,6 @@
 ||grupocompucard.com.mx^
 ||grupoconcretoecia.com.br^
 ||grupocontabilalmeida.com.br^
-||grupocopesa.com.mx^
 ||grupocprh.com.br^
 ||grupocrescent.com.ar^
 ||grupodeacesso.com.br^
@@ -32562,7 +32563,6 @@
 ||login-manage-appleeid-appleeusvrf-auth-id.titimo.co^
 ||login-paypal.es^
 ||login.blockchaim.co^
-||login.cj.tec.br^
 ||login.help-jhy.gq^
 ||login.hypeevent.repl.co^
 ||login.microsftonline.com.office365.com.fbestruturasmetalicas.com.br^
@@ -35192,7 +35192,6 @@
 ||naospcserasa.com.br^
 ||naovivosem.com.br^
 ||napa.hn^
-||napoleaoebarcelos.com.br^
 ||napolicontabilidade.com.br^
 ||napolivideo.blogspot.com.br^
 ||napples.co^
@@ -35761,6 +35760,7 @@
 ||newline-app-staging.oat.bz^
 ||newpartsapple.com.ar^
 ||newplatform.co^
+||newprojectz.co^
 ||newriverx.com.es^
 ||newrobloxhackergroup.blogspot.com.uy^
 ||news-163.com.es^
@@ -38604,6 +38604,7 @@
 ||petroneel.co^
 ||petronilho.com.br^
 ||pets.cl^
+||petturbo.webinfor.tec.br^
 ||pettybaby.com.br^
 ||petworldcrematorio.com.br^
 ||peuxtonacheterdesrobuxavecgoogleplay.blogspot.com.uy^
@@ -39404,6 +39405,7 @@
 ||pousadaencantosdaamazonia.com.br^
 ||pousadafazendanovaestancia.com.br^
 ||pousadafti.com.br^
+||pousadalaportella.com.br^
 ||pousadamamori.com.br^
 ||pousadameiapraia.com.br^
 ||pousadareidaamazonia.com.br^
@@ -40327,6 +40329,7 @@
 ||radiologiajardim.com.br^
 ||radiomaracanadaamazonia.com.br^
 ||radiomixamazonia.com.br^
+||radiomixtopline.com.br^
 ||radiomodeloamazonianews.dechost.com.br^
 ||radionacionalamazonia-stream.ebc.com.br^
 ||radioneta.com.mx^
@@ -43349,7 +43352,6 @@
 ||socialtv.cl^
 ||socialwatch.co^
 ||sociedadcolombianadefisica.org.co^
-||sociedadimaginaria.cl^
 ||socies-app.apps.devecoop.coop.ar^
 ||socioamazonas.com.br^
 ||socioempresarial.pe^
@@ -45964,6 +45966,7 @@
 ||ugscceugvifb.blogspot.com.co^
 ||ugscceugvifb.blogspot.com.es^
 ||ugscceugvifb.blogspot.com.uy^
+||uh.ggcpvxtlkd.es^
 ||ui.com.mx^
 ||uiaraamazon.com.br^
 ||uiaraamazonresort.cd.economysoftware.com.br^
