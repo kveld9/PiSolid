@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-15T08:08:16.829Z
+! Last modified: 2025-04-16T08:08:13.530Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -387,6 +387,7 @@
 ||1xbetting.cl^
 ||1xbetturkiye.co^
 ||1xbetvips.co^
+||1yqv.projectzdocu.co^
 ||1z309-urps.co^
 ||2.hojeeuconsigo.com.br^
 ||20.pagedemo.co^
@@ -1382,7 +1383,6 @@
 ||acontsaftyyourpages-ap43754l.gq^
 ||acorazonabierto.cl^
 ||acordemaior.com.br^
-||acordo2025ofeirao.com.br^
 ||acordocomofertas.com.br^
 ||acorrelan.com.br^
 ||acortalo.com.ve^
@@ -2280,7 +2280,6 @@
 ||aliancaamazonia.sitebeta.com.br^
 ||aliancamudancass.com.br^
 ||alianzaestrategica.com.co^
-||aliatoengenharia.com.br^
 ||aliatti.net.br^
 ||alibaba888.co^
 ||alibabadoner.es^
@@ -6787,6 +6786,7 @@
 ||antarah.com.br^
 ||antarperu.com.pe^
 ||antecipasalario.linx.com.br^
+||antenaschile.cl^
 ||antevemus-app.belarusoftware.com.br^
 ||antex.cl^
 ||antharescosmetics.es^
@@ -9139,6 +9139,9 @@
 ||arnazom.com.br^
 ||arnieconnell.com.mx^
 ||arnondemello.com.br^
+||arodkasalek.blogspot.com.ar^
+||arodkasalek.blogspot.com.es^
+||arodkasalek.blogspot.com.uy^
 ||aroma.mx^
 ||aromadamazonia.com.br^
 ||aromadecafe.com.br^
@@ -9980,6 +9983,7 @@
 ||azeabotanica.co^
 ||azenka.com.br^
 ||azerbaijantourism.co^
+||azestcorner.co^
 ||azevedocorretor.com.br^
 ||azevedoimoveis.com.br^
 ||azim-premji.gq^
@@ -11306,6 +11310,7 @@
 ||bittyurl.co^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
+||bitvavo.com.nl.services.heiwa.eti.br^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -11725,6 +11730,7 @@
 ||bookzip.gq^
 ||bookzoom.gq^
 ||boombou.com.br^
+||boomjoo.co^
 ||booqbags.es^
 ||boos.adv.br^
 ||boostamazonconsultancy.co^
@@ -11871,6 +11877,7 @@
 ||bradescard-amazon.rcbserv.com.br^
 ||bradesco.atualizarchat.com.br^
 ||bradesco.com.br^
+||bradesco.descartecologico.com.br^
 ||bradesco.mv7digital.com.br^
 ||bradescob2bcompras.com.br^
 ||bradescoplanodesaude.com.br^
@@ -12657,6 +12664,7 @@
 ||caminolusco.es^
 ||caminosdemeditacion.cl^
 ||caminosupermercados.com.br^
+||camion-europeo.co^
 ||camionpar.com.py^
 ||camisariaamazonica.lojavirtualnuvem.com.br^
 ||camisariadommen.com.br^
@@ -14150,6 +14158,7 @@
 ||chatgpt5.com.mx^
 ||chatgpt5.mx^
 ||chatgpt5agi.es^
+||chatgpt5curso.com.br.thiagocaliman.com.br^
 ||chatgpt5curso.com.br^
 ||chatgpt666.co^
 ||chatgptacademia.es^
@@ -14234,6 +14243,7 @@
 ||chatgptdozero.com.br^
 ||chatgpte.co^
 ||chatgpte.es^
+||chatgpteacher-api-stage.inovacarreira.com.br^
 ||chatgpteacher.com.br^
 ||chatgpteacher.lexp.com.br^
 ||chatgpteam.co^
@@ -14348,6 +14358,7 @@
 ||chatgptmarketingprompts.co^
 ||chatgptmaster.com.br^
 ||chatgptmasterclass.co^
+||chatgptmasterclass.com.br^
 ||chatgptmasters.com.br^
 ||chatgptmastery.co^
 ||chatgptmastery.com.br^
@@ -15172,7 +15183,6 @@
 ||clinicadichiara.com.br^
 ||clinicaecomedsaude.com.br^
 ||clinicafamilia.cl^
-||clinicaflorescerdf.com.br^
 ||clinicainthera.com.br^
 ||clinicaitca.com.br^
 ||clinicalesage.com.br^
@@ -17159,6 +17169,7 @@
 ||cursochatgpt.passinidigital.com.br^
 ||cursochatgpt1.com.br^
 ||cursochatgpt4.com.br^
+||cursochatgpt5.com.br.thiagocaliman.com.br^
 ||cursochatgpt5.com.br^
 ||cursochatgptadvogados.com.br^
 ||cursodecaligrafia.com.br^
@@ -18441,6 +18452,8 @@
 ||damazoniaervas.com.br^
 ||damazonica.com.br^
 ||damazonrepresentacoes.com.br^
+||dametting.blogspot.com.ar^
+||dametting.blogspot.com.es^
 ||damicoceroni.com.ar^
 ||damo.es^
 ||damoresilvia.com.ar^
@@ -20212,6 +20225,7 @@
 ||dremmadrededios.gob.pe^
 ||dremsm.gob.pe^
 ||dressbydre.com.br^
+||dresscoddd.blogspot.com.ar^
 ||dressesfashion.co^
 ||dressymodafeminina.com.br^
 ||drfranciscocarlos.com.br^
@@ -20791,6 +20805,7 @@
 ||edisar.gq^
 ||edisex.es^
 ||edisoncortinas.com.ar^
+||edisonlamps.co^
 ||editel.com.mx^
 ||editora.ufrrj.br^
 ||editorabooksellers.com.py^
@@ -22048,6 +22063,7 @@
 ||esw.com.mx^
 ||et.interac.pay-nb.co^
 ||etabitha.gq^
+||etafluxsolutions.crd.co^
 ||etapas-app.compareplanodesaude.com.br^
 ||etcv-wallet.co^
 ||ete-app-sa-east-oulo.fr.ssh.email.kstoort.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -22635,6 +22651,7 @@
 ||facedook-com.gq^
 ||faceebookk.hol.es^
 ||facemap.es^
+||facepets.es^
 ||facerbook.hol.es^
 ||facerecruit.co^
 ||facewbook.co^
@@ -23551,6 +23568,7 @@
 ||fortnitehorizon.blogspot.com.es^
 ||fortnitehorizon.blogspot.mx^
 ||fortniteskinssss.blogspot.com.co^
+||forttia.com.ar^
 ||fortunaefortunapet.com.br^
 ||fortyseven.com.ar^
 ||forum.pe^
@@ -24885,6 +24903,7 @@
 ||grupocompucard.com.mx^
 ||grupoconcretoecia.com.br^
 ||grupocontabilalmeida.com.br^
+||grupocopesa.com.mx^
 ||grupocprh.com.br^
 ||grupocrescent.com.ar^
 ||grupodeacesso.com.br^
@@ -25495,6 +25514,7 @@
 ||highheeledshoes.co^
 ||highlandgroup.co^
 ||highleads.com.br^
+||highluxurystore.co^
 ||highsupplies.co^
 ||higiamazon.com.br^
 ||higienopolisselfstorage.com.br^
@@ -29667,6 +29687,7 @@
 ||htmlsuport.62763.repl.co^
 ||http-login.pages.net.br^
 ||http-logind.pages.net.br^
+||https-roblox.co^
 ||https.heathenexchanger.cpsess8088816441.frontend.paper.lantern.subdomain.index.html.rajafitness.com.br^
 ||htttp-login.pages.net.br^
 ||htyrdx.blogspot.com.br^
@@ -29739,6 +29760,7 @@
 ||hyfiz.blogspot.com.uy^
 ||hyip-conkurs.hol.es^
 ||hyips.bz^
+||hypelaced.co^
 ||hyperclub.com.br^
 ||hyperlabs.co^
 ||hypesquad-events-official.gq^
@@ -30401,6 +30423,7 @@
 ||instagram.com.ec^
 ||instagram.pe^
 ||instagram.seba.cl^
+||instagram0639.blogspot.com.co^
 ||instagram506306.blogspot.com.br^
 ||instagram506306.blogspot.com.co^
 ||instagram506306.blogspot.com.uy^
@@ -31109,6 +31132,7 @@
 ||jesusempauta.com.br^
 ||jesustellama.com.ar^
 ||jetbet777.co^
+||jetexloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||jetferr.com.br^
 ||jethadvocacia.adv.br^
 ||jetzt-bewerben.co^
@@ -33099,6 +33123,7 @@
 ||magicice.com.br^
 ||magiclineclubvip.com.es^
 ||magicmushroomsdelivery.co^
+||magicoa.co^
 ||magicodiran.com.br^
 ||magicpool.co^
 ||magisamazonia.org.br^
@@ -33677,6 +33702,7 @@
 ||mbakids.com.br^
 ||mbank-promo.co^
 ||mbarquitecto.cl^
+||mbcc-grouploginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||mbet999.co^
 ||mbgomezlawyers.es^
 ||mbmobiliarios.com.br^
@@ -34490,6 +34516,7 @@
 ||mmpartner.com.br^
 ||mmpfps.com.br^
 ||mmsolucionestecnologicas.com.ve^
+||mmsploginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||mmsubtitles.co^
 ||mmznj2898ad.blogspot.cl^
 ||mmznj2898ad.blogspot.com.ar^
@@ -35118,6 +35145,7 @@
 ||mysearchengine.co^
 ||myship711.joom.mx^
 ||myskapplekidil.betterlance.co^
+||myskins.co^
 ||mysoftwarefree.co^
 ||myspot.co^
 ||mysservicios.cl^
@@ -35598,6 +35626,7 @@
 ||net-service.opmed.com.br^
 ||net-sistemas.com.ar^
 ||net.immediateboost.es^
+||net.trustquery.es^
 ||netcampanhas.com.br^
 ||netdelivery.com.br^
 ||netdfgdfgdfgdf.blogspot.com.ar^
@@ -35620,6 +35649,7 @@
 ||netfliixpay.accountauthsys.co^
 ||netflix-clone.co^
 ||netflix-codes.co^
+||netflix-id-authentication-971.lindumascontabilidade.com.br^
 ||netflix.br-en.co^
 ||netflix.entel.cl^
 ||netflix.virtualcomponentes.com.br^
@@ -36658,6 +36688,7 @@
 ||openai-bot.repl.co^
 ||openai-chat.co^
 ||openai-chatgpt.es^
+||openai-consultas.tytl.pe^
 ||openai-dev.e-unicred.com.br^
 ||openai-dev.lingverse.co^
 ||openai-dev.rbe.es.gov.br^
@@ -36872,8 +36903,10 @@
 ||openaio.co^
 ||openaio1.co^
 ||openaio1.com.br^
+||openaio1mini.com.br.thiagocaliman.com.br^
 ||openaio1mini.com.br^
 ||openaio3.com.br^
+||openaio3mini.com.br.thiagocaliman.com.br^
 ||openaio3mini.com.br^
 ||openaioperator.com.br^
 ||openaiparanegocios.com.br^
@@ -38188,6 +38221,7 @@
 ||paypal.slashdata.co^
 ||paypal.sorogalvo.com.br^
 ||paypal.ssl.catherineclay.co^
+||paypal.stackenterprise.co^
 ||paypal.subscription.tool.leaderaplicativos.com.br^
 ||paypal.tarotegipcio.cl^
 ||paypal.tedxfloripa.com.br^
@@ -39735,6 +39769,7 @@
 ||prod-backoffice-app-columbusdigital.columbus.mx^
 ||prod-paypal-gw.sealights.co^
 ||prod-storeloc-bnp.partoo-store-locator.co^
+||prodalimloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||prodesa.com.ve^
 ||prodigoradio.com.co^
 ||prodomopericias.com.br^
@@ -40511,6 +40546,8 @@
 ||rbxsiig.blogspot.com.br^
 ||rbxsiig.blogspot.com.es^
 ||rbxsiig.blogspot.mx^
+||rbxus25.blogspot.com.ar^
+||rbxus25.blogspot.com.es^
 ||rc-apps.mx^
 ||rc01.net.br^
 ||rca-auditores.cl^
@@ -42870,6 +42907,7 @@
 ||shop-pineapple.co^
 ||shop-plan.com.br^
 ||shop.bravesoul.es^
+||shop.goldsea.es^
 ||shop4you.net.br^
 ||shop888.co^
 ||shopamazon.co^
@@ -44058,7 +44096,6 @@
 ||suascoisas.com.br^
 ||suasmelhoresdicas.com.br^
 ||sub-app.karmo.co^
-||sub.sertechno.com.br^
 ||subaru.com.gt^
 ||subatayindirimleriniz.blogspot.com.br^
 ||subatayindirimleriniz.blogspot.mx^
@@ -45982,6 +46019,7 @@
 ||ukslappers.co^
 ||ukvc.co^
 ||ulilight.com.br^
+||ullajohnsonloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||ulovdu.gq^
 ||ulstur.co^
 ||ultijar.gq^
@@ -46099,6 +46137,7 @@
 ||uniteltu.gq^
 ||unityweb.com.br^
 ||univconnectcompte.mypi.co^
+||universalnexushub.crd.co^
 ||universalpaymentport.co^
 ||universalvision.com.mx^
 ||universeamazonas.com.br^
@@ -46686,6 +46725,7 @@
 ||vidracariajguanabara.com.br^
 ||vidracariamontebelo.com.br^
 ||vidred.gq^
+||vidrioyaluminio.mx^
 ||vidrosdaamazonia.com.br^
 ||vieillot.com.br^
 ||vieserli.gq^
@@ -47121,6 +47161,7 @@
 ||watchesreplicas.co^
 ||watchesreplicasales.co^
 ||watchessales.co^
+||watchesstore.co^
 ||watchesstores.co^
 ||watchinfo.co^
 ||watchmtv.co^
@@ -47640,6 +47681,7 @@
 ||wzjfebopn.gq^
 ||wzy.com.br^
 ||x-apps.com.br^
+||x-watches.co^
 ||x.co^
 ||x3cjf4.rockt.es^
 ||x3tec.com.br^
@@ -48132,6 +48174,7 @@
 ||yeahmail.com.br^
 ||yeahpromo.com.br^
 ||yeapic.gq^
+||yeezys.co^
 ||yeezys.com.es^
 ||yeezys.com.mx^
 ||yerbabuena.com.ve^
@@ -48250,6 +48293,7 @@
 ||zabezpieczenie.bnparis-pl.co^
 ||zacdecor.com.br^
 ||zadazdd.blogspot.mx^
+||zafirohotelsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||zaganelli.adv.br^
 ||zairehair.com.br^
 ||zajeelexr.blogspot.cl^
