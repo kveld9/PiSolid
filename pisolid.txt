@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-16T08:08:13.530Z
+! Last modified: 2025-04-17T08:08:14.673Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6776,7 +6776,6 @@
 ||anntayloroutlet.co^
 ||anocomvc.com.br^
 ||anonymix.co^
-||anotamais.com.br^
 ||anpad.org.br^
 ||anperbue.gq^
 ||anpicacolombia.co^
@@ -9140,6 +9139,7 @@
 ||arnieconnell.com.mx^
 ||arnondemello.com.br^
 ||arodkasalek.blogspot.com.ar^
+||arodkasalek.blogspot.com.br^
 ||arodkasalek.blogspot.com.es^
 ||arodkasalek.blogspot.com.uy^
 ||aroma.mx^
@@ -11310,7 +11310,7 @@
 ||bittyurl.co^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
-||bitvavo.com.nl.services.heiwa.eti.br^
+||bitvavo.com.nl.services.hipergranel.com.br^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -15265,6 +15265,7 @@
 ||cloud-log.blogspot.com.es^
 ||cloud-store-applet.uat.2vm.co^
 ||cloud.com.py^
+||cloud.glowman554.gq^
 ||cloud.mineirodelivery.com.br^
 ||cloud.myaws.gq^
 ||cloud101.americahost.cl^
@@ -18454,6 +18455,7 @@
 ||damazonrepresentacoes.com.br^
 ||dametting.blogspot.com.ar^
 ||dametting.blogspot.com.es^
+||dametting.blogspot.mx^
 ||damicoceroni.com.ar^
 ||damo.es^
 ||damoresilvia.com.ar^
@@ -19572,7 +19574,6 @@
 ||digitalvikn.com.br^
 ||digitalvision.com.ar^
 ||digitami.com.br^
-||digitecgalaxusloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||digitnet.com.br^
 ||digitosnet.com.br^
 ||digitpush.co^
@@ -21144,6 +21145,7 @@
 ||elpanul.cl^
 ||elpilotohernan.com.ar^
 ||elportico.com.ar^
+||elportuariodigital.com.ar^
 ||elproductorsa.com.ar^
 ||elranchito.com.ec^
 ||elranking.mx^
@@ -22130,7 +22132,6 @@
 ||etiquetasebrindes.com.br^
 ||etiquetasquality.com.br^
 ||etisa.mimascota.pe^
-||etlloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||etmega.com.br^
 ||etole.com.br^
 ||etoll.govpl.co^
@@ -22172,7 +22173,6 @@
 ||eurisko.co^
 ||euro-hard.com.ar^
 ||euro2012tickets.co^
-||euroaptiekaloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||eurobikemtb.es^
 ||euroconstrucoesmf.com.br^
 ||eurocopaespanashop.es^
@@ -23506,6 +23506,7 @@
 ||foodprogramnetwoek.blogspot.com.br^
 ||foodprogramnetwoek.blogspot.com.uy^
 ||foodtopia.com.br^
+||foomac.blogspot.mx^
 ||footpathee.co^
 ||foottrips.co^
 ||fopirm.gq^
@@ -23568,7 +23569,6 @@
 ||fortnitehorizon.blogspot.com.es^
 ||fortnitehorizon.blogspot.mx^
 ||fortniteskinssss.blogspot.com.co^
-||forttia.com.ar^
 ||fortunaefortunapet.com.br^
 ||fortyseven.com.ar^
 ||forum.pe^
@@ -24155,7 +24155,6 @@
 ||geominassp.com.br^
 ||geosclean.com.br^
 ||geoserver-app.sema.df.gov.br^
-||geotecnus.eng.br^
 ||geox.com.mx^
 ||gepama.com.ar^
 ||geppc.org.br^
@@ -30423,7 +30422,9 @@
 ||instagram.com.ec^
 ||instagram.pe^
 ||instagram.seba.cl^
+||instagram0639.blogspot.com.br^
 ||instagram0639.blogspot.com.co^
+||instagram0639.blogspot.mx^
 ||instagram506306.blogspot.com.br^
 ||instagram506306.blogspot.com.co^
 ||instagram506306.blogspot.com.uy^
@@ -31132,7 +31133,6 @@
 ||jesusempauta.com.br^
 ||jesustellama.com.ar^
 ||jetbet777.co^
-||jetexloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||jetferr.com.br^
 ||jethadvocacia.adv.br^
 ||jetzt-bewerben.co^
@@ -32333,7 +32333,6 @@
 ||limalamalaultimadefensa.com.mx^
 ||limatecinformatica.com.br^
 ||limduc.cl^
-||limeraloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||limfosep.cl^
 ||limitx.com.mx^
 ||limmobilier.co^
@@ -32596,23 +32595,6 @@
 ||login.regista2017pages.gq^
 ||login.servicedetails.com.es^
 ||loginmicrosoftcommon365authtwt18t.hemvyiycoruq.es^
-||loginmicrosoftonline.envalior.com.ribeiroautocapas.com.br^
-||loginmicrosoftonline365.arxada.com.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.afd.fr.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.airproducts.com.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.avantix.net.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.cyklad.fr.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.nne.com.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.sanita.it.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.sap.com.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.thegbfoods.com.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365.wellcome.org.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365albaugh.eu.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365brusselsairport.be.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365elma.co.il.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365lbbd.gov.uk.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365printcom.fi.ribeiroautocapas.com.br^
-||loginmlcrosoftonline365zynka.se.ribeiroautocapas.com.br^
 ||loginn-facebook-klikk.blogspot.mx^
 ||loginnetflixleiojfioje.blogspot.com.es^
 ||loginx-robinhoodx.blogspot.cl^
@@ -32670,7 +32652,6 @@
 ||lojacashondelivery.com.br^
 ||lojaceltainfo.com.br^
 ||lojack-app.com.uy^
-||lojadasmetas.com.br^
 ||lojadeantenas.com.br^
 ||lojadecolores.com.br^
 ||lojadiplapel.com.br^
@@ -33011,7 +32992,6 @@
 ||luzeamor.org.br^
 ||luzemagia.com.br^
 ||luzpulsadaylaser.com.ar^
-||lv-logisticsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||lvcsac.com.pe^
 ||lvg.cl^
 ||lvrkrk.com.br^
@@ -33702,7 +33682,6 @@
 ||mbakids.com.br^
 ||mbank-promo.co^
 ||mbarquitecto.cl^
-||mbcc-grouploginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||mbet999.co^
 ||mbgomezlawyers.es^
 ||mbmobiliarios.com.br^
@@ -34516,7 +34495,6 @@
 ||mmpartner.com.br^
 ||mmpfps.com.br^
 ||mmsolucionestecnologicas.com.ve^
-||mmsploginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||mmsubtitles.co^
 ||mmznj2898ad.blogspot.cl^
 ||mmznj2898ad.blogspot.com.ar^
@@ -38638,7 +38616,6 @@
 ||petroneel.co^
 ||petronilho.com.br^
 ||pets.cl^
-||petturbo.webinfor.tec.br^
 ||pettybaby.com.br^
 ||petworldcrematorio.com.br^
 ||peuxtonacheterdesrobuxavecgoogleplay.blogspot.com.uy^
@@ -39439,7 +39416,6 @@
 ||pousadaencantosdaamazonia.com.br^
 ||pousadafazendanovaestancia.com.br^
 ||pousadafti.com.br^
-||pousadalaportella.com.br^
 ||pousadamamori.com.br^
 ||pousadameiapraia.com.br^
 ||pousadareidaamazonia.com.br^
@@ -39769,7 +39745,6 @@
 ||prod-backoffice-app-columbusdigital.columbus.mx^
 ||prod-paypal-gw.sealights.co^
 ||prod-storeloc-bnp.partoo-store-locator.co^
-||prodalimloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||prodesa.com.ve^
 ||prodigoradio.com.co^
 ||prodomopericias.com.br^
@@ -40364,7 +40339,6 @@
 ||radiologiajardim.com.br^
 ||radiomaracanadaamazonia.com.br^
 ||radiomixamazonia.com.br^
-||radiomixtopline.com.br^
 ||radiomodeloamazonianews.dechost.com.br^
 ||radionacionalamazonia-stream.ebc.com.br^
 ||radioneta.com.mx^
@@ -40547,7 +40521,9 @@
 ||rbxsiig.blogspot.com.es^
 ||rbxsiig.blogspot.mx^
 ||rbxus25.blogspot.com.ar^
+||rbxus25.blogspot.com.br^
 ||rbxus25.blogspot.com.es^
+||rbxus25.blogspot.mx^
 ||rc-apps.mx^
 ||rc01.net.br^
 ||rca-auditores.cl^
@@ -41149,6 +41125,7 @@
 ||rhriss.com.br^
 ||rhrossi.com.br^
 ||ribapple.com.br^
+||ribeiroautocapas.com.br^
 ||ribeiroguimaraes.adv.br^
 ||riberplandistribuidora.com.br^
 ||ricardoarjona.cl^
@@ -43223,7 +43200,6 @@
 ||skechers-mexico.com.mx^
 ||skechersaustralia.co^
 ||skechersphilippines.co^
-||skfloginmicrosoftonlineservices.ribeiroautocapas.com.br^
 ||ski9776.com.br^
 ||skillapple567.repl.co^
 ||skimsespana.com.es^
@@ -46004,6 +45980,7 @@
 ||ugscceugvifb.blogspot.com.es^
 ||ugscceugvifb.blogspot.com.uy^
 ||uh.ggcpvxtlkd.es^
+||ui-components.fleet.datamart.co^
 ||ui.com.mx^
 ||uiaraamazon.com.br^
 ||uiaraamazonresort.cd.economysoftware.com.br^
@@ -46019,7 +45996,6 @@
 ||ukslappers.co^
 ||ukvc.co^
 ||ulilight.com.br^
-||ullajohnsonloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||ulovdu.gq^
 ||ulstur.co^
 ||ultijar.gq^
@@ -46346,6 +46322,7 @@
 ||v.deoba.co^
 ||v2-app.douglas.es^
 ||v24.rocabrasilstore.com.br^
+||v6q.vhxohc.es^
 ||vaamonde.com.br^
 ||vaapples.co^
 ||vacanteslosdentistas.mx^
@@ -48293,7 +48270,6 @@
 ||zabezpieczenie.bnparis-pl.co^
 ||zacdecor.com.br^
 ||zadazdd.blogspot.mx^
-||zafirohotelsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||zaganelli.adv.br^
 ||zairehair.com.br^
 ||zajeelexr.blogspot.cl^
