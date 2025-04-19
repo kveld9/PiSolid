@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-18T08:08:14.474Z
+! Last modified: 2025-04-19T08:08:10.032Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6995,6 +6995,7 @@
 ||apiapple.staging01.paroli.es^
 ||apiapplemotor.bosscar.co^
 ||apic-chile.cl^
+||apichat.gptrend.com.br^
 ||apichatgpt.coronelazevedo.com.br^
 ||apichatgpt.dev.curbe.com.ec^
 ||apichatgpt.ifconnectsystem.com.br^
@@ -11311,7 +11312,6 @@
 ||bittyurl.co^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
-||bitvavo.com.nl.services.hipergranel.com.br^
 ||bitvavo.com.nl.services.itacasd.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
@@ -13811,6 +13811,7 @@
 ||chat.gptjuridico.com.br^
 ||chat.gptjus.com.br^
 ||chat.gptmedios.cl^
+||chat.gptrend.com.br^
 ||chat.pages.mus.br^
 ||chat.whatsap.com.co^
 ||chatbooks.com.br^
@@ -13968,6 +13969,7 @@
 ||chatgpt.hbsmarketing.cl^
 ||chatgpt.hml.cni.com.br^
 ||chatgpt.hn^
+||chatgpt.homelababrera.es^
 ||chatgpt.huiai.co^
 ||chatgpt.huludaddy.gq^
 ||chatgpt.hz-it-dev.co^
@@ -14035,6 +14037,7 @@
 ||chatgpt.paymefast.co^
 ||chatgpt.pcpartners.com.mx^
 ||chatgpt.pcplay.cl^
+||chatgpt.pesquisasinteligentes.com.br^
 ||chatgpt.phucdh0110.x10.mx^
 ||chatgpt.playcode.com.ar^
 ||chatgpt.portal-hml.orizon.com.br^
@@ -14162,6 +14165,7 @@
 ||chatgpt5curso.com.br.thiagocaliman.com.br^
 ||chatgpt5curso.com.br^
 ||chatgpt666.co^
+||chatgpt8.com.br^
 ||chatgptacademia.es^
 ||chatgptacademy.co^
 ||chatgptacademy.com.br^
@@ -14483,6 +14487,7 @@
 ||chatgptvendas.com.br^
 ||chatgptvenezuela.co^
 ||chatgptvip.com.co^
+||chatgptvip10.com.br^
 ||chatgptvsall.repl.co^
 ||chatgptw.com.br^
 ||chatgptwa.repl.co^
@@ -16062,6 +16067,9 @@
 ||conlosninosno.com.py^
 ||conlozypho.gq^
 ||conmiguelalejandro.cl^
+||connect-002.controlhub.es^
+||connect-004.controlhub.es^
+||connect-005.controlhub.es^
 ||connect-apple.co^
 ||connect-excel.on.fleek.co^
 ||connect-secure-session321.gq^
@@ -34151,6 +34159,8 @@
 ||mfleader.com.ar^
 ||mfmdp.com.ar^
 ||mfrosaamazonica.mfrosaamaznica.com.br^
+||mfsc-001.controlhub.es^
+||mfsc-002.controlhub.es^
 ||mg-app.lleego.es^
 ||mg365.com.br^
 ||mg8tubos.com.br^
@@ -35590,6 +35600,7 @@
 ||nelorenovo.com.br^
 ||nemancarpets.co^
 ||nemapa.com.ar^
+||nemereguimaraes.adv.br^
 ||nenedamamae.com.br^
 ||nenrile.gq^
 ||neo-tracler.co^
@@ -37164,6 +37175,7 @@
 ||ovb.es^
 ||ovcommendsa.gq^
 ||ovejes.gq^
+||overview.controlhub.es^
 ||overwrite.co^
 ||overzerout.gq^
 ||ovh-com-049808bc.noticiasdopantanal.com.br^
@@ -37702,6 +37714,7 @@
 ||paypal-education.channel.ar^
 ||paypal-education.school.ar^
 ||paypal-education.study.co^
+||paypal-education.tube.ar^
 ||paypal-education.uk.cl^
 ||paypal-education.vip.cl^
 ||paypal-eem.nicecloudsvc.co^
@@ -37763,6 +37776,7 @@
 ||paypal-gestion.com.do^
 ||paypal-gestion.do^
 ||paypal-gifts.box.cl^
+||paypal-gifts.bw.pe^
 ||paypal-gifts.co^
 ||paypal-gifts.health.ar^
 ||paypal-gifts.realestate.mx^
@@ -37925,6 +37939,7 @@
 ||paypal-optimizer.capital.bz^
 ||paypal-optimizer.esurance.co^
 ||paypal-optimizer.forum.ar^
+||paypal-optimizer.game.ar^
 ||paypal-optimizer.insure.ar^
 ||paypal-optimizer.juegos.co^
 ||paypal-optimizer.properties.ar^
@@ -38703,6 +38718,7 @@
 ||piedranegra.com.uy^
 ||pierodecampos.com.br^
 ||pierrefitte-sur-seine-chienne.blogspot.pe^
+||piishststyaagahhufs.blogspot.pe^
 ||pijamazon.com.mx^
 ||pijamazon.mx^
 ||pikalo.com.pe^
@@ -42232,6 +42248,9 @@
 ||sbscandles.co^
 ||sbtnoticiaria.com.br^
 ||sbxconsultoriaegestao.com.br^
+||sc-0003.controlhub.es^
+||sc-001.controlhub.es^
+||sc-002.controlhub.es^
 ||sc-sp-app.ticketmais.com.br^
 ||sc3-app.com.ar^
 ||sc3-app2.com.ar^
@@ -42701,6 +42720,7 @@
 ||service-paypal.newsit.es^
 ||service-payqal-confirmation.carreteras.com.mx^
 ||service-schmitz.co^
+||service.controlhub.es^
 ||service.dwflabs.co^
 ||serviceglsgroup.on.fleek.co^
 ||servicenickell.blogspot.com.uy^
@@ -43023,7 +43043,6 @@
 ||sign-appleeiid-appleeussvfy-auth-id-2341.azzu.ind.br^
 ||sign-appleeiid-appleeussvfy-auth-id.spacocorpo.com.br^
 ||sign-appleeiid-appleeussvfy-auth-id.titimo.co^
-||sign-appleeiid-appleeusvf-authen-mnag-id.xeshop.co^
 ||sign-trk.dt2m.co^
 ||sign.appleid.forgot-myappleid.gq^
 ||sign.cgi-bin.signresilve-accountz.paypai.coooooom.marquesempreendimentos.com.br^
@@ -47514,6 +47533,8 @@
 ||wiwiwwiiwiwiwiwiwi.blogspot.mx^
 ||wiwiwwiiwiwiwiwiwi.blogspot.pe^
 ||wix5.wixnet.com.br^
+||wizz-002.controlhub.es^
+||wizz.controlhub.es^
 ||wj556.com.br^
 ||wjfggroup.co^
 ||wkgroup.com.br^
@@ -47726,6 +47747,7 @@
 ||xenet.es^
 ||xenonn.com.br^
 ||xeroxsaopedro.com.br^
+||xeshop.co^
 ||xfarm.co^
 ||xfiles.es^
 ||xfinity.visual360.ec^
@@ -47744,6 +47766,7 @@
 ||xiaomispain.es^
 ||xiaomistore.com.hn^
 ||ximenesimobiliaria.com.br^
+||ximonite.co^
 ||xinchao13.gq^
 ||xinet.com.br^
 ||xinfo53-online.gq^
@@ -48443,7 +48466,6 @@
 ||zoomsat.com.br^
 ||zoonosesnaamazonia10.com.br^
 ||zooomiinvtee.es^
-||zooominvite.es^
 ||zooomxinvite.es^
 ||zora89.co^
 ||zoreson.gq^
