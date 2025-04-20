@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-19T08:08:10.032Z
+! Last modified: 2025-04-20T08:08:15.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -953,6 +953,7 @@
 ||8sai-asncio-ascihisaciobowi-ascwh.sbc9as.repl.co^
 ||8uvip.com.br^
 ||8westfalla.gq^
+||9-5.co^
 ||9.hojeeuconsigo.com.br^
 ||901ec3a4-2367-4d09-909e-50084e221a38.id.repl.co^
 ||905films.com.br^
@@ -2235,6 +2236,7 @@
 ||alexandranatale.com.br^
 ||alexandreamazonas.com.br^
 ||alexandregallo.com.br^
+||alexandreveiculos.com.br^
 ||alexfarm-eg.co^
 ||alexfranco.co^
 ||alexim.com.br^
@@ -6585,6 +6587,7 @@
 ||amsler.com.br^
 ||amsmkxpl.paperform.co^
 ||amssas.com.co^
+||amssh.co^
 ||amt.com.do^
 ||amtech.es^
 ||amtinsumos.cl^
@@ -6995,7 +6998,6 @@
 ||apiapple.staging01.paroli.es^
 ||apiapplemotor.bosscar.co^
 ||apic-chile.cl^
-||apichat.gptrend.com.br^
 ||apichatgpt.coronelazevedo.com.br^
 ||apichatgpt.dev.curbe.com.ec^
 ||apichatgpt.ifconnectsystem.com.br^
@@ -13811,7 +13813,6 @@
 ||chat.gptjuridico.com.br^
 ||chat.gptjus.com.br^
 ||chat.gptmedios.cl^
-||chat.gptrend.com.br^
 ||chat.pages.mus.br^
 ||chat.whatsap.com.co^
 ||chatbooks.com.br^
@@ -13969,7 +13970,6 @@
 ||chatgpt.hbsmarketing.cl^
 ||chatgpt.hml.cni.com.br^
 ||chatgpt.hn^
-||chatgpt.homelababrera.es^
 ||chatgpt.huiai.co^
 ||chatgpt.huludaddy.gq^
 ||chatgpt.hz-it-dev.co^
@@ -14010,7 +14010,6 @@
 ||chatgpt.my-ai.co^
 ||chatgpt.namegenerator.co^
 ||chatgpt.nanaqi.co^
-||chatgpt.napoleon.com.br^
 ||chatgpt.naslive.es^
 ||chatgpt.nawatech.co^
 ||chatgpt.net.co^
@@ -14089,7 +14088,6 @@
 ||chatgpt.unix.do^
 ||chatgpt.unoeste.br^
 ||chatgpt.urbanads.com.br^
-||chatgpt.valuehost.com.br^
 ||chatgpt.vantegdigital.com.br^
 ||chatgpt.venezianasindustriais.com.br^
 ||chatgpt.vensys.pe^
@@ -14162,10 +14160,8 @@
 ||chatgpt5.com.mx^
 ||chatgpt5.mx^
 ||chatgpt5agi.es^
-||chatgpt5curso.com.br.thiagocaliman.com.br^
 ||chatgpt5curso.com.br^
 ||chatgpt666.co^
-||chatgpt8.com.br^
 ||chatgptacademia.es^
 ||chatgptacademy.co^
 ||chatgptacademy.com.br^
@@ -14248,7 +14244,6 @@
 ||chatgptdozero.com.br^
 ||chatgpte.co^
 ||chatgpte.es^
-||chatgpteacher-api-stage.inovacarreira.com.br^
 ||chatgpteacher.com.br^
 ||chatgpteacher.lexp.com.br^
 ||chatgpteam.co^
@@ -14363,7 +14358,6 @@
 ||chatgptmarketingprompts.co^
 ||chatgptmaster.com.br^
 ||chatgptmasterclass.co^
-||chatgptmasterclass.com.br^
 ||chatgptmasters.com.br^
 ||chatgptmastery.co^
 ||chatgptmastery.com.br^
@@ -14487,7 +14481,6 @@
 ||chatgptvendas.com.br^
 ||chatgptvenezuela.co^
 ||chatgptvip.com.co^
-||chatgptvip10.com.br^
 ||chatgptvsall.repl.co^
 ||chatgptw.com.br^
 ||chatgptwa.repl.co^
@@ -16243,7 +16236,6 @@
 ||contabilidadeshalom.com.br^
 ||contabilizandoempresas.com.br^
 ||contabilprimazia.com.br^
-||contachatgpt.com.br^
 ||contacontrole-app.prd-cloud.tuliobmachado.com.br^
 ||contact-atlas.vozipcolombia.net.co^
 ||contact-customer-service.co^
@@ -16364,6 +16356,7 @@
 ||control3.com.br^
 ||controleremotoparaportao.com.br^
 ||controlexito.com.br^
+||controller001.controlhub.es^
 ||controlpanelhn0.060522h.repl.co^
 ||controlsinc.advamandamascarenhas.com.br^
 ||controlux.es^
@@ -33949,6 +33942,7 @@
 ||mememeklawer.blogspot.com.es^
 ||mememeklawer.blogspot.mx^
 ||memestwitter.com.br^
+||memivi.com.br^
 ||memonero.co^
 ||memorialpecasford.com.br^
 ||menangin.co^
@@ -34023,6 +34017,7 @@
 ||mesabr.com.br^
 ||mesadeenvio.com.br^
 ||mesadegala.com.mx^
+||mesdalu.app.br^
 ||meshki.es^
 ||meslocxvkxcv.blogspot.mx^
 ||mesondelaluna.com.mx^
@@ -36705,7 +36700,6 @@
 ||openai-bot.repl.co^
 ||openai-chat.co^
 ||openai-chatgpt.es^
-||openai-consultas.tytl.pe^
 ||openai-dev.e-unicred.com.br^
 ||openai-dev.lingverse.co^
 ||openai-dev.rbe.es.gov.br^
@@ -36907,7 +36901,6 @@
 ||openaigpt.es^
 ||openaigpt.qubigo.com.ar^
 ||openaigpts.co^
-||openaigramado.com.br^
 ||openaihealth.co^
 ||openaihostagesystemroli1909090927346.novastudios.es^
 ||openaii.co^
@@ -36920,10 +36913,8 @@
 ||openaio.co^
 ||openaio1.co^
 ||openaio1.com.br^
-||openaio1mini.com.br.thiagocaliman.com.br^
 ||openaio1mini.com.br^
 ||openaio3.com.br^
-||openaio3mini.com.br.thiagocaliman.com.br^
 ||openaio3mini.com.br^
 ||openaioperator.com.br^
 ||openaiparanegocios.com.br^
@@ -38116,6 +38107,8 @@
 ||paypal.billie.co^
 ||paypal.blogbirutagaivota.com.br^
 ||paypal.bo^
+||paypal.bpp.com.br^
+||paypal.brasilprepagos.com.br^
 ||paypal.brechosocial.com.br^
 ||paypal.bundas.com.br^
 ||paypal.business.do^
@@ -38194,6 +38187,7 @@
 ||paypal.helloapi.co^
 ||paypal.hiltonfranco.com.br^
 ||paypal.hnetsites.com.br^
+||paypal.hom-bpp.com.br^
 ||paypal.inspire.inspire.med.br^
 ||paypal.ism.es^
 ||paypal.jdns.com.br^
@@ -38314,6 +38308,7 @@
 ||paypalcredit.swiss.mx^
 ||paypalcredit.versicherung.bz^
 ||paypalcredit.vip.cl^
+||paypaldescur3d.mypi.co^
 ||paypale.es^
 ||paypaleu.dasana.mx^
 ||paypalexperience.motu.com.br^
@@ -38396,6 +38391,7 @@
 ||paypalupdateyouraccount.com.iessrj.com.br^
 ||paypalverification.whf.bz^
 ||paypalverify.whf.bz^
+||paypalyes.bpp.com.br^
 ||paypalzkawyv0.blogspot.com.es^
 ||paypan.co^
 ||pays-olx.gq^
@@ -41004,6 +41000,7 @@
 ||replitchatgpt.repl.co^
 ||reply-amazon.co^
 ||repmef.com.br^
+||repondechatgpt.softset.com.br^
 ||report-app2.leadfy.com.br^
 ||reporteramazonia.com.br^
 ||reporterdaamazonia.com.br^
@@ -42252,6 +42249,7 @@
 ||sc-001.controlhub.es^
 ||sc-002.controlhub.es^
 ||sc-sp-app.ticketmais.com.br^
+||sc.controlhub.es^
 ||sc3-app.com.ar^
 ||sc3-app2.com.ar^
 ||sc3-app3.com.ar^
@@ -43043,6 +43041,7 @@
 ||sign-appleeiid-appleeussvfy-auth-id-2341.azzu.ind.br^
 ||sign-appleeiid-appleeussvfy-auth-id.spacocorpo.com.br^
 ||sign-appleeiid-appleeussvfy-auth-id.titimo.co^
+||sign-appleeiid-appleeusvf-authen-mnag-id.xeshop.co^
 ||sign-trk.dt2m.co^
 ||sign.appleid.forgot-myappleid.gq^
 ||sign.cgi-bin.signresilve-accountz.paypai.coooooom.marquesempreendimentos.com.br^
@@ -43969,7 +43968,6 @@
 ||status-apps.laalianza.co^
 ||statusamazonas.inbestmen.co^
 ||staymusic.com.br^
-||stayopenair.co^
 ||staypineapple.co^
 ||stclenoticias.cl^
 ||stcoachingepnl.net.br^
@@ -47534,6 +47532,7 @@
 ||wiwiwwiiwiwiwiwiwi.blogspot.pe^
 ||wix5.wixnet.com.br^
 ||wizz-002.controlhub.es^
+||wizz-01.controlhub.es^
 ||wizz.controlhub.es^
 ||wj556.com.br^
 ||wjfggroup.co^
@@ -47747,7 +47746,6 @@
 ||xenet.es^
 ||xenonn.com.br^
 ||xeroxsaopedro.com.br^
-||xeshop.co^
 ||xfarm.co^
 ||xfiles.es^
 ||xfinity.visual360.ec^
