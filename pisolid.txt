@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-20T08:08:15.242Z
+! Last modified: 2025-04-21T08:08:26.930Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2380,7 +2380,6 @@
 ||alltrips-app.app-server-01.citruss.mx^
 ||alltuning.com.br^
 ||allureinvest.co^
-||allureodonto.com.br^
 ||alma-app.co^
 ||almacalefaccion.cl^
 ||almacenelectricidad.es^
@@ -9728,7 +9727,6 @@
 ||australrenault.com.ar^
 ||australterrenos.cl^
 ||austriameta.pages.net.br^
-||autcon.com.br^
 ||auteam.com.mx^
 ||autenticacion-bancolombia.autenticacion0.repl.co^
 ||auth-act.gq^
@@ -9759,6 +9757,7 @@
 ||authbncrficr.bncr.repl.co^
 ||authen-solutionsu4uu.es^
 ||authenticatie-procedure.gq^
+||authentication-acc-221.sincodivdf.com.br^
 ||authline-checkappr0v.com.es^
 ||authomathika.com.br^
 ||authortheme.co^
@@ -12688,6 +12687,7 @@
 ||campeaoamazonense.com.br^
 ||campercolombia.com.co^
 ||campers.com.es^
+||campesino.cl^
 ||campinasfight.com.br^
 ||campingbichodagua.com.br^
 ||campingcuevanegra.es^
@@ -15222,7 +15222,6 @@
 ||clinicservices23.com.ve^
 ||clinicway.com.br^
 ||clinifama.com.br^
-||clinilab.cl^
 ||clinkca1dinamic.yennyrodriguez2.repl.co^
 ||clinpet.com.br^
 ||clinsupportdesign.co^
@@ -16497,6 +16496,7 @@
 ||corecs.co^
 ||coredatamtnc.co^
 ||coredna-unsubscribe-app.dev.arep.co^
+||coredomain.co^
 ||coremgt.com.py^
 ||coreos-tracking-eu.es^
 ||coreral.gq^
@@ -25107,7 +25107,6 @@
 ||gustavoreisoficial.com.br^
 ||gustavoserver1.com.br^
 ||gustyjatiprakoso.co^
-||gute.com.ar^
 ||gutxksrgcoamazon-de.beta.imdb.com.ar^
 ||gvamerica.co^
 ||gvartstudio.com.mx^
@@ -32847,7 +32846,6 @@
 ||loydsonline.co^
 ||lp-app.petlove.com.br^
 ||lp-markets.co^
-||lp.contabilidadeleandro.com.br^
 ||lp.wainerfortesadvocacia.com.br^
 ||lpchatgpt.eldaalmeida.com.br^
 ||lplquimica.com.br^
@@ -33707,6 +33705,7 @@
 ||mayoristadiscusamazonas.com.ar^
 ||mazur.cl^
 ||mazzelabs.co^
+||mb.yourdriverapp.com.br^
 ||mbakids.com.br^
 ||mbank-promo.co^
 ||mbarquitecto.cl^
@@ -39937,6 +39936,7 @@
 ||propagamailing.com.br^
 ||propagandarapul.com.br^
 ||propaganews.com.br^
+||propanelweb.cl^
 ||propeledaamazonia.org.br^
 ||propiedadesbyb.cl^
 ||propiedadescyt.cl^
@@ -41893,7 +41893,6 @@
 ||rvuswood.co^
 ||rw595phpt4kk538s.botanik.gq^
 ||rwinfo.cl^
-||rwsfixadores.com.br^
 ||rxglobalpharm.co^
 ||ryanyoung.co^
 ||ryhtuhaeyreyhaerh.blogspot.com.ar^
@@ -42901,7 +42900,6 @@
 ||shared-ativosreuso-appointment-dev.pottencial.com.br^
 ||shared-ativosreuso-appointment-hml.pottencial.com.br^
 ||shared-ativosreuso-appointment.pottencial.com.br^
-||shared.docuprint.com.ar^
 ||sharedpoint.viewing.alessandromelo.com.br^
 ||sharepoint-microsoft.co^
 ||shares-boxing.on.fleek.co^
@@ -46427,7 +46425,6 @@
 ||vanlokaq-monics.gq^
 ||vannichile.cl^
 ||vans-colombia.com.co^
-||vansegseguranca.com.br^
 ||vansmexicooutlet.com.mx^
 ||vanss.com.mx^
 ||vantle.co^
