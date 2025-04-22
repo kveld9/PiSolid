@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-21T08:08:26.930Z
+! Last modified: 2025-04-22T08:08:16.336Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9140,10 +9140,6 @@
 ||arnazom.com.br^
 ||arnieconnell.com.mx^
 ||arnondemello.com.br^
-||arodkasalek.blogspot.com.ar^
-||arodkasalek.blogspot.com.br^
-||arodkasalek.blogspot.com.es^
-||arodkasalek.blogspot.com.uy^
 ||aroma.mx^
 ||aromadamazonia.com.br^
 ||aromadecafe.com.br^
@@ -11879,7 +11875,6 @@
 ||bradescard-amazon.rcbserv.com.br^
 ||bradesco.atualizarchat.com.br^
 ||bradesco.com.br^
-||bradesco.descartecologico.com.br^
 ||bradesco.mv7digital.com.br^
 ||bradescob2bcompras.com.br^
 ||bradescoplanodesaude.com.br^
@@ -14486,6 +14481,7 @@
 ||chatgptwa.repl.co^
 ||chatgptwallet.co^
 ||chatgptwork.co^
+||chatgptworkm.whf.bz^
 ||chatgptworld.co^
 ||chatgptwriters.co^
 ||chatgptx.co^
@@ -17203,6 +17199,8 @@
 ||cursosbitcoin.com.br^
 ||cursoschatgpt.com.br^
 ||cursosconexaodotantra.com.br^
+||cursosdechatgpt.es.cursoexcel.es^
+||cursosdechatgpt.es^
 ||cursosdeinversiones.cl^
 ||cursosdez.com.br^
 ||cursosdobrasil.com.br^
@@ -18455,9 +18453,6 @@
 ||damazoniaervas.com.br^
 ||damazonica.com.br^
 ||damazonrepresentacoes.com.br^
-||dametting.blogspot.com.ar^
-||dametting.blogspot.com.es^
-||dametting.blogspot.mx^
 ||damicoceroni.com.ar^
 ||damo.es^
 ||damoresilvia.com.ar^
@@ -20229,7 +20224,6 @@
 ||dremmadrededios.gob.pe^
 ||dremsm.gob.pe^
 ||dressbydre.com.br^
-||dresscoddd.blogspot.com.ar^
 ||dressesfashion.co^
 ||dressymodafeminina.com.br^
 ||drfranciscocarlos.com.br^
@@ -20326,6 +20320,7 @@
 ||ds-present.gq^
 ||ds.gria.com.br^
 ||ds39sx.blogspot.com.br^
+||dsaadvogados.adv.br^
 ||dsacsdgdcdg.blogspot.cl^
 ||dsadasd3123123.blogspot.mx^
 ||dsadh8323.blogspot.com.uy^
@@ -23512,7 +23507,6 @@
 ||foodprogramnetwoek.blogspot.com.br^
 ||foodprogramnetwoek.blogspot.com.uy^
 ||foodtopia.com.br^
-||foomac.blogspot.mx^
 ||footpathee.co^
 ||foottrips.co^
 ||fopirm.gq^
@@ -24909,7 +24903,6 @@
 ||grupocompucard.com.mx^
 ||grupoconcretoecia.com.br^
 ||grupocontabilalmeida.com.br^
-||grupocopesa.com.mx^
 ||grupocprh.com.br^
 ||grupocrescent.com.ar^
 ||grupodeacesso.com.br^
@@ -30429,9 +30422,6 @@
 ||instagram.com.ec^
 ||instagram.pe^
 ||instagram.seba.cl^
-||instagram0639.blogspot.com.br^
-||instagram0639.blogspot.com.co^
-||instagram0639.blogspot.mx^
 ||instagram506306.blogspot.com.br^
 ||instagram506306.blogspot.com.co^
 ||instagram506306.blogspot.com.uy^
@@ -33193,6 +33183,7 @@
 ||mail.teikit.es^
 ||mail.tysan2.com.ar^
 ||mail.vanadiumlab.com.br^
+||mail.wetllands.co^
 ||mail.wr.odo.br^
 ||mail.ziggo.nl-appsuite.gq^
 ||mail10.com.br^
@@ -34817,6 +34808,7 @@
 ||moz.good-shop.co^
 ||mozaikformaturas.com.br^
 ||mpaokgeo.gq^
+||mpaypal.co^
 ||mpcargas.com.br^
 ||mpcelmobile.com.br^
 ||mpcoliveira.com.br^
@@ -36731,6 +36723,7 @@
 ||openai.aidaquan.co^
 ||openai.aigital.co^
 ||openai.alick.co^
+||openai.animes.com.br^
 ||openai.anyone.gq^
 ||openai.api.onlyoffice.co^
 ||openai.api10.com.br^
@@ -36891,6 +36884,7 @@
 ||openaicy.codeempresarial.com.br^
 ||openaidavin.nacatalogo.com.br^
 ||openaidavinci.rockety.dev.br^
+||openaie.co^
 ||openaiedu.co^
 ||openaifab.avalonagency.co^
 ||openaifab.co^
@@ -37708,6 +37702,7 @@
 ||paypal-education.uk.cl^
 ||paypal-education.vip.cl^
 ||paypal-eem.nicecloudsvc.co^
+||paypal-engineering.aarp.co^
 ||paypal-engineering.academy.ar^
 ||paypal-engineering.bw.pe^
 ||paypal-engineering.careers.mx^
@@ -40562,10 +40557,6 @@
 ||rbxsiig.blogspot.com.br^
 ||rbxsiig.blogspot.com.es^
 ||rbxsiig.blogspot.mx^
-||rbxus25.blogspot.com.ar^
-||rbxus25.blogspot.com.br^
-||rbxus25.blogspot.com.es^
-||rbxus25.blogspot.mx^
 ||rc-apps.mx^
 ||rc01.net.br^
 ||rca-auditores.cl^
@@ -41052,6 +41043,7 @@
 ||respiraamazonia.saudeesustentabilidade.org.br^
 ||respiramazonia.org.br.saudeesustentabilidade.org.br^
 ||respiramazonia.org.br^
+||respondechatgpt.softset.com.br^
 ||ressfulsuanise.gq^
 ||rest-app.siqueiracastro.com.br^
 ||restapouco.com.br^
@@ -46479,6 +46471,7 @@
 ||veeem.com.br^
 ||veelli.co^
 ||veg4eva.co^
+||vegesnafoundation.co^
 ||veibelda.gq^
 ||veigahomecare.com.br^
 ||veiligonlineformulier.gq^
@@ -46534,6 +46527,7 @@
 ||vendome.cl^
 ||vendor-apple.co^
 ||vendrazimidgets.gq^
+||venezapiscinas.com.br^
 ||venezuelamodapk.com.co^
 ||venganze-invest.gq^
 ||venialteatro.com.ar^
@@ -48417,6 +48411,7 @@
 ||zinniaelegans.es^
 ||zioneng.com.br^
 ||zionestudio.com.br^
+||zipbr.com.br^
 ||zipgrafica.com.br^
 ||zipmex.co^
 ||ziraatbanksi.gq^
