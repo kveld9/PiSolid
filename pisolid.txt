@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-22T08:08:16.336Z
+! Last modified: 2025-04-23T08:08:16.287Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -16162,7 +16162,6 @@
 ||constructweb.com.br^
 ||construguayas.gob.ec^
 ||construseralvear.com.ar^
-||construton.com.br^
 ||construtoraamazonia.com.br^
 ||construtoracajamar.com.br^
 ||construtoracampos.com.br^
@@ -19959,6 +19958,7 @@
 ||docs.codethemes.co^
 ||docs.google-app.co^
 ||docs.negaft.gq^
+||docs2025.com.br^
 ||docsach24.co^
 ||docscanpdf-app.hml.sesi.org.br^
 ||docsigns.gq^
@@ -23197,6 +23197,7 @@
 ||filelauncher.co^
 ||fileleauncher.co^
 ||filepass.co^
+||files-hub.es^
 ||files.umso.co^
 ||filezilla.es^
 ||filhasdomeldaamazonia.com.br^
@@ -24134,6 +24135,7 @@
 ||genericapple.repl.co^
 ||genericviagra.jubiiblog.com.es^
 ||generonaamazonia.ufpa.br^
+||genesisconstruccion.cl^
 ||genesiscure.co^
 ||genevawatches.co^
 ||genialatendimento.com.br^
@@ -33183,7 +33185,6 @@
 ||mail.teikit.es^
 ||mail.tysan2.com.ar^
 ||mail.vanadiumlab.com.br^
-||mail.wetllands.co^
 ||mail.wr.odo.br^
 ||mail.ziggo.nl-appsuite.gq^
 ||mail10.com.br^
@@ -42659,6 +42660,7 @@
 ||serv8.com.br^
 ||servdell.com.br^
 ||servdorda.gq^
+||serveapps-acc-id-226.sosofasmoveis.com.br^
 ||serven.com.br^
 ||servencedor.com.br^
 ||server-app-laravel.fontech.co^
@@ -47397,6 +47399,7 @@
 ||westkinon.gq^
 ||westliberrtybank.co^
 ||westudios.com.ar^
+||wetllands.co^
 ||wetransfer-com-ovh-dev-dossiersec-connexionpagetelechargement.pages.dev.br^
 ||wetrtfg.gq^
 ||wetsuits.es^
