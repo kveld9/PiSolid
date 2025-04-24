@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-23T08:09:14.939Z
+! Last modified: 2025-04-24T08:09:14.861Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1088,10 +1088,8 @@ voiceid*.amazonaws.
 ||advp.apple.com^
 ||amsui.apple.com^
 ||api-adservices.apple.com^
-||api-smoot.apple.com^
 ||applemediaservices.com^
 ||apple.netscape.com^
-||bag-smoot.apple.com^
 ||bag-smoot.v.aaplimg.com^
 ||beacon.shazam.com^
 ||beta.apple.com^
@@ -1225,8 +1223,10 @@ voiceid*.amazonaws.
 ||searchads.apple.com.edgesuite.net^
 ||searchads.lb-apple.com.akadns.net^
 ||securemetrics.apple.com^
+||securemetrics.apple.com.cn^
 ||securemetrics.v.aaplimg.com^
 ||securemvt.apple.com^
+||securemvt.apple.com.cn^
 ||securemvt.v.aaplimg.com^
 ||seed-siri-apple-com.v.aaplimg.com^
 ||sequoia.apple.com^
@@ -1234,6 +1234,7 @@ voiceid*.amazonaws.
 ||serverstatus.apple.com^
 ||serverstatus.apple.com.akadns.net^
 ||siri.apple.com^
+||smoot-api-glb.v.aaplimg.com^
 ||smoot.apple.cn^
 ||smoot-apple.com.akadns.net^
 ||smoot.apple.com.cn^
@@ -1372,6 +1373,9 @@ netseer-ipaddr-assoc*.fbcdn.net
 backtrace-forwarder*.amazonaws.com
 ||abtesting.roblox.com^
 ||adconfiguration.roblox.com^
+||ad.playstation.net^
+||ad.playstation.net.edgekey.net^
+||adproxy.ndmdhs.com^
 ||ads.roblox.com^
 ||alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com^
 ||ams2-128-116-21-3.roblox.com^
@@ -1384,6 +1388,8 @@ backtrace-forwarder*.amazonaws.com
 ||crashes.rbxinfra.com^
 ||crashes.roblox.com^
 ||crashreporter.avalanchestudios.com^
+||crepo.ww.dl.playstation.net^
+||crepo.ww.dl.playstation.net.edgekey.net^
 ||datarouter.cfef.live.use1a.on.epicgames.com^
 ||datarouter.ol.epicgames.com^
 ||datarouter-prod.ak.epicgames.com^
@@ -1418,6 +1424,8 @@ backtrace-forwarder*.amazonaws.com
 ||hls-segmentsns1.rbxcdn.com^
 ||hls-segments.rbxcdn.com^
 ||idlerestaurant.com^
+||infoboard.ww.dl.playstation.net^
+||infoboard.xx.dl.playstation.net^
 ||jamcity.com^
 ||jc-gs.com^
 ||k8s-riverpro-captures-9dd19d74e0-169116437.us-east-1.elb.amazonaws.com^
@@ -1426,6 +1434,7 @@ backtrace-forwarder*.amazonaws.com
 ||lms.roblox.com^
 ||lms-split.roblox.com^
 ||locale.roblox.com^
+||mercury.dl.playstation.net^
 ||metrics.avalanchestudios.com^
 ||metrics.nintendo.com^
 ||metrics.ol.epicgames.com^
@@ -1435,12 +1444,18 @@ backtrace-forwarder*.amazonaws.com
 ||mobilityware.helpshift.com^
 ||ncs.roblox.com^
 ||nrt1-128-116-120-3.roblox.com^
+||nsx-e.np.dl.playstation.net^
+||nsx-e.np.dl.playstation.net.edgesuite.net^
+||nsx.np.dl.playstation.net^
+||nsx.np.dl.playstation.net.edgekey.net^
 ||oldtracking.avalanchestudios.com^
 ||ord2-128-116-101-3.roblox.com^
 ||pacman-cross-promo.s3.eu-central-1.amazonaws.com^
 ||pin-river.data.ea.com^
 ||playsimple.co^
 ||playsimple.games^
+||promotions.roblox.com^
+||promotions.roblox.com.edgekey.net^
 ||realtime.roblox.com^
 ||realtime-signalr.roblox.com^
 ||river.data.ea.com^
@@ -1448,6 +1463,7 @@ backtrace-forwarder*.amazonaws.com
 ||river-prod-external.eadpdata.ddns.ea.com^
 ||river-prod-external-non-pin.eadpdata.ddns.ea.com^
 ||robloxlabs.com^
+||rpt.msys.playstation.net^
 ||sentry-platform.pogospike.com^
 ||sgnapps.com^
 ||sgn.com^
@@ -3530,6 +3546,7 @@ google-analytics.$important
 ||apigee.googleapis.com^
 ||apigeeregistry.googleapis.com^
 ||apihub.googleapis.com^
+||app-ads-services.com^
 ||app-analytics-services-att.com^
 ||app-analytics-services.com^
 ||appdevelopmentexperience.googleapis.com^
@@ -4293,6 +4310,7 @@ google-analytics.$important
 ||gsacollections-pa.googleapis.com^
 ||gstaticadssl.l.google.com^
 ||gtaggingservice.alliedpilots.org^
+||gtm.wise.com^
 ||gvt2-cn.com^
 ||gvt2.com^
 ||gvt3.com^
@@ -5052,6 +5070,7 @@ google-analytics.$important
 ||partnersaunz.com^
 ||partners.googleapis.com^
 ||partners-json.googleapis.com^
+||passwordsleakcheck-pa.googleapis.com^
 ||peoplestack-pa.clients6.google.com^
 ||peoplestack-pa.googleapis.com^
 ||peoplestackwebexperiments-pa.clients6.google.com^
@@ -5073,6 +5092,7 @@ google-analytics.$important
 ||preprod-discover-pa.googleapis.com^
 ||privacychoices.org^
 ||privacysandbox.com^
+||privacysandbox.google.com^
 ||proactivebackend-pa.googleapis.com^
 ||promotargeting.com^
 ||promotargeting.net^
@@ -5221,6 +5241,7 @@ google-analytics.$important
 ||cdpsvc.lgtvcommon.com^
 ||eic-ngfts.lge.com^
 ||eic-ngfts.lge.com.edgekey.net^
+||eic.service.lgtvcommon.com^
 ||homeprv.lgtvcommon.com^
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgads.tv^
@@ -5742,6 +5763,8 @@ watcab*.blob.core.windows.net
 ||analytics.getpocket.com^
 ||anonymco.com^
 ||asan-nightly-frontend-elb-1348905149.us-east-2.elb.amazonaws.com^
+||classify-client.nonprod.webservices.mozgcp.net^
+||classify-client.prod.webservices.mozgcp.net^
 ||contile-images.services.mozilla.com^
 ||contile.services.mozilla.com^
 ||crash-reports.allizom.org^
@@ -5771,6 +5794,8 @@ watcab*.blob.core.windows.net
 ||fuzzing.mozilla.org^
 ||incoming-telemetry.thunderbird.net^
 ||incoming.thunderbird.net^
+||location.services.mozilla.com^
+||locprod2-elb-us-west-2.prod.mozaws.net^
 ||merino.nonprod.cloudops.mozgcp.net^
 ||merino.prod.cloudops.mozgcp.net^
 ||merino.services.mozilla.com^
