@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-23T08:08:16.287Z
+! Last modified: 2025-04-24T08:08:15.831Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -22789,6 +22789,7 @@
 ||fansclub.com.py^
 ||fansdeapple.es^
 ||fansgearshop.com.co^
+||fansly.ad^
 ||fanstasticodemais.com.br^
 ||fantasiasamerica.co.ve^
 ||fantasticplacesite.com.es^
@@ -29725,6 +29726,7 @@
 ||humancm.com.mx^
 ||humanitae.com.pe^
 ||humanizarchatgpt.es^
+||humansa.com.br^
 ||humorchiquedobrasil.com.br^
 ||hundsige.gq^
 ||hungryironapple.repl.co^
@@ -32566,6 +32568,7 @@
 ||logconnectingweblogin6cpsess799238928236rdpartyehnsxw6.accountconnecting.repl.co^
 ||logged-apple.co^
 ||logicadaamazonia.com.br^
+||logicainf.com.br^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.ativecell.com.br^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.jotacicli.com.br^
 ||login-apple.co^
@@ -34348,6 +34351,7 @@
 ||minhassapatilhas.com.br^
 ||miniapple8888.repl.co^
 ||miniestudio.com.br^
+||minilu.co^
 ||minimail.gq^
 ||minimumspecsforroblox.blogspot.com.br^
 ||mining-apps.cl^
@@ -39423,6 +39427,7 @@
 ||potencialvistorias.com.br^
 ||potentia.eng.br^
 ||potterheads.co^
+||poty-vr.com.br^
 ||potyao.blogspot.cl^
 ||potyao.blogspot.com.uy^
 ||poucashoras.com.br^
