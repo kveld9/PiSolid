@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-24T08:08:15.831Z
+! Last modified: 2025-04-25T08:08:01.547Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1853,6 +1853,7 @@
 ||agent-apple.co^
 ||agent-id-018479024.gabrielferrer.com.ar^
 ||agentegarantebr.com.br^
+||agentesopenainocodecursos.com.br^
 ||agentesrehabilitador.es^
 ||agentex.com.ar^
 ||agentpiggy.com.es^
@@ -14060,6 +14061,7 @@
 ||chatgpt.sistemaindustria.com.br^
 ||chatgpt.sistemasdelivery.com.br^
 ||chatgpt.smarthat.com.br^
+||chatgpt.softset.com.br^
 ||chatgpt.solper.co^
 ||chatgpt.solucionait.es^
 ||chatgpt.somno.cl^
@@ -14083,6 +14085,7 @@
 ||chatgpt.unix.do^
 ||chatgpt.unoeste.br^
 ||chatgpt.urbanads.com.br^
+||chatgpt.valuehost.com.br^
 ||chatgpt.vantegdigital.com.br^
 ||chatgpt.venezianasindustriais.com.br^
 ||chatgpt.vensys.pe^
@@ -14475,6 +14478,7 @@
 ||chatgptvendas.com.br.suprainternet.com.br^
 ||chatgptvendas.com.br^
 ||chatgptvenezuela.co^
+||chatgptvip.com.br^
 ||chatgptvip.com.co^
 ||chatgptvsall.repl.co^
 ||chatgptw.com.br^
@@ -19107,7 +19111,6 @@
 ||despachoarquitectos.com.mx^
 ||despertandosuaconsciencia.com.br^
 ||desperteseueu.com.br^
-||desquer.ens.uabc.mx^
 ||desratizacao.adm.br^
 ||desscontudo.com.br^
 ||dessire.cl^
@@ -22333,6 +22336,7 @@
 ||expertambiental.com.br^
 ||expertapple.com.br^
 ||expertassessoria.com.br^
+||expertchatgpt.com.br^
 ||expertcol.com.co^
 ||expertise-solutions.com.pe^
 ||expertleads.com.br^
@@ -22789,7 +22793,6 @@
 ||fansclub.com.py^
 ||fansdeapple.es^
 ||fansgearshop.com.co^
-||fansly.ad^
 ||fanstasticodemais.com.br^
 ||fantasiasamerica.co.ve^
 ||fantasticplacesite.com.es^
@@ -31735,7 +31738,6 @@
 ||kmitecnologia.com.br^
 ||kmmautomacao.com.br^
 ||kmspi.co^
-||kmsupdateservice.com.br^
 ||kmthb.blogspot.cl^
 ||kmthb.blogspot.mx^
 ||knapplejuice.co^
@@ -32568,7 +32570,6 @@
 ||logconnectingweblogin6cpsess799238928236rdpartyehnsxw6.accountconnecting.repl.co^
 ||logged-apple.co^
 ||logicadaamazonia.com.br^
-||logicainf.com.br^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.ativecell.com.br^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.jotacicli.com.br^
 ||login-apple.co^
@@ -34351,7 +34352,6 @@
 ||minhassapatilhas.com.br^
 ||miniapple8888.repl.co^
 ||miniestudio.com.br^
-||minilu.co^
 ||minimail.gq^
 ||minimumspecsforroblox.blogspot.com.br^
 ||mining-apps.cl^
@@ -35075,6 +35075,7 @@
 ||mybill.oursite.co^
 ||mychatgpt.co^
 ||mychatgpt.mediared.es^
+||mychatgpt.tentacles.es^
 ||mycloud-apps.es^
 ||mycraft.com.br^
 ||mycrypto.bz^
@@ -36109,6 +36110,7 @@
 ||notexistspaypal.foo.es^
 ||notexistspaypal.prepaid.co^
 ||notexistspaypal.service.garko.com.mx^
+||notexistspaypal.update.garko.com.mx^
 ||notexistspaypalcredit.foo.es^
 ||notexiststhepaypalshop.foo.es^
 ||notexiststhepaypalshop.lb.cl^
@@ -36596,6 +36598,7 @@
 ||online-action-required-client044783.lagacetadearucas.es^
 ||online-app.co^
 ||online-campaign.com.br^
+||online-casino-android-paypal.acsblog.es^
 ||online-casino-app.co^
 ||online-casino-mit-paypal.acsblog.es^
 ||online-reaktivierung.co^
@@ -36693,9 +36696,11 @@
 ||open.airnetic.co^
 ||openai-api.arkoselabs.co^
 ||openai-api.lingverse.co^
+||openai-assistant-api.softset.com.br^
 ||openai-bot.repl.co^
 ||openai-chat.co^
 ||openai-chatgpt.es^
+||openai-consultas.tytl.pe^
 ||openai-dev.e-unicred.com.br^
 ||openai-dev.lingverse.co^
 ||openai-dev.rbe.es.gov.br^
@@ -36836,6 +36841,7 @@
 ||openai.seuportalonline.com.br^
 ||openai.shiyue.es^
 ||openai.shopdoacademico.com.br^
+||openai.softset.com.br^
 ||openai.stag.lassosecurity.co^
 ||openai.tecnoprop.ar^
 ||openai.thinkaboutexport.es^
@@ -37568,6 +37574,7 @@
 ||paypal-australia.guardian.co^
 ||paypal-australia.paris.mx^
 ||paypal-billing-exrctvybux45c6v7b.airbnbsex.co^
+||paypal-brasil.aarp.co^
 ||paypal-brasil.com.br^
 ||paypal-brasil.diet.mx^
 ||paypal-brasil.insure.ar^
@@ -37581,6 +37588,7 @@
 ||paypal-brasil.vodka.es^
 ||paypal-business.auto.bz^
 ||paypal-business.bharti.co^
+||paypal-business.cards.mx^
 ||paypal-business.fish.mx^
 ||paypal-business.forum.ar^
 ||paypal-business.fund.mx^
@@ -39427,7 +39435,6 @@
 ||potencialvistorias.com.br^
 ||potentia.eng.br^
 ||potterheads.co^
-||poty-vr.com.br^
 ||potyao.blogspot.cl^
 ||potyao.blogspot.com.uy^
 ||poucashoras.com.br^
@@ -43432,6 +43439,7 @@
 ||softapple.com.br^
 ||softcorporation.com.br^
 ||softexamazonia.com.br^
+||softglide.co^
 ||software1.esy.es^
 ||softwaredefacturacion.com.ar^
 ||softwaremarket.com.br^
@@ -44922,6 +44930,7 @@
 ||teste-app-scanner.bne.com.br^
 ||teste-app.cachebank.com.br^
 ||teste-apprevendedor.precodogas.com.br^
+||teste-expresso-openai.ligo.go.gov.br^
 ||teste.shoppingdascarretinhas.com.br^
 ||teste2-apps.vertech-it.com.br^
 ||teste2.espacoevoluser.com.br^
@@ -45959,6 +45968,7 @@
 ||u18facebook-colors.blogspot.pe^
 ||u1x.co^
 ||u3l.co^
+||u3qb3kvwxpnuivfn4nld.wouparu.es^
 ||uae-app.phishguard.co^
 ||uaildafeao.gq^
 ||uamazon.co^
@@ -46478,7 +46488,6 @@
 ||veeem.com.br^
 ||veelli.co^
 ||veg4eva.co^
-||vegesnafoundation.co^
 ||veibelda.gq^
 ||veigahomecare.com.br^
 ||veiligonlineformulier.gq^
@@ -48419,7 +48428,6 @@
 ||zinniaelegans.es^
 ||zioneng.com.br^
 ||zionestudio.com.br^
-||zipbr.com.br^
 ||zipgrafica.com.br^
 ||zipmex.co^
 ||ziraatbanksi.gq^
