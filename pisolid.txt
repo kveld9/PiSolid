@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-25T08:08:01.547Z
+! Last modified: 2025-04-26T08:08:04.790Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -25593,6 +25593,7 @@
 ||hjytxd.blogspot.com.co^
 ||hlm-app.certificata.com.br^
 ||hlpremoldados.com.br^
+||hlt.trusttime.es^
 ||hm-mexico.com.mx^
 ||hm17.com.br^
 ||hma-mapfy-app.gatec.com.br^
@@ -46214,6 +46215,7 @@
 ||update-information-paypal.mcsoluciones.com.mx^
 ||update-paypal-accounte.rosinhaflores.com.br^
 ||update-your-account-paypal.baraoimoveisitaguai.com.br^
+||update.clcc.cl^
 ||updatec.carrd.co^
 ||updatei1nfo.lwudj.q367knmuk66f.net.ve^
 ||updateilnfo.ybwtm.miziurxvkh.net.ve^
