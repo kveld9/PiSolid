@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-30T08:08:32.591Z
+! Last modified: 2025-04-30T13:14:32.557Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -188,8 +188,6 @@
 ||101amazonas.com.pe^
 ||102154460ie.hol.es^
 ||1028848247.yellowenergiasustentavel.com.br^
-||1047games.cov6m.co^
-||1047games.xje2f.co^
 ||104coworking.com.br^
 ||108bpo.com.br^
 ||10brasil.net.br^
@@ -6901,7 +6899,6 @@
 ||apiuiaraamazonresort.cd.economysoftware.com.br^
 ||apiuiaraamazonresort.fd.economysoftware.com.br^
 ||apix-app.logmanager.com.br^
-||apk.anecoin.co^
 ||apkmirror.co^
 ||apkupdatessl.co^
 ||aplfcu.keygraphics.mx^
@@ -10276,7 +10273,6 @@
 ||bcfges.blogspot.com.co^
 ||bcgfh.co^
 ||bchile-demo-openai.xrm.cl.xrm.cl^
-||bcnex.co^
 ||bcoterceirizacao.com.br^
 ||bcp.blueberry.com.bo^
 ||bcp.com.bo^
@@ -10928,7 +10924,6 @@
 ||bitbr.com.br^
 ||bitbuymu.gq^
 ||bitcell.com.mx^
-||bitclog.co^
 ||bitclub.bz^
 ||bitcoiin2gen.pr.co^
 ||bitcoin-blender.co^
@@ -11370,7 +11365,6 @@
 ||bookend-view-app.keyring.net.smu.remotexs.co^
 ||bookflix.co^
 ||booking-appartaments.co^
-||booking-com.co^
 ||booking-verified.co^
 ||booking.com-load-extranet.co^
 ||booking.ufqsgh.co^
@@ -11834,7 +11828,6 @@
 ||btcstar.co^
 ||btcvipotc.co^
 ||btechbrasil.com.br^
-||btetoken.co^
 ||btgpactual.online.engaged.com.br^
 ||btgpactual.pixeliaworks.cl^
 ||btgsolo.cl^
@@ -12455,7 +12448,6 @@
 ||carballoartesania.es^
 ||carbinz.gq^
 ||carbofixn.co^
-||carbon-s.co^
 ||carbonamazoniabrazil.com.br^
 ||carbosur.com.mx^
 ||carburo2.srtv.cl^
@@ -18693,7 +18685,6 @@
 ||dgsdfyhdfjfgjhfgmjfhdyhdtjufhfgj.blogspot.com.uy^
 ||dgsound.com.br^
 ||dgt-academyse.com.do^
-||dgt588.co^
 ||dhalander.com.br^
 ||dhall.expofranchise.com.br^
 ||dhcembalagens.com.br^
@@ -21221,7 +21212,6 @@
 ||eth-giveaway.gq^
 ||eth-giveaway.updog.co^
 ||eth-news.co^
-||eth-ves.co^
 ||eth.hn^
 ||eth26.blogspot.com.uy^
 ||ethdrop.co^
@@ -21283,7 +21273,6 @@
 ||eumeinteresso.com.br^
 ||eumerecotudo.com.br^
 ||eunaoestouso.com.br^
-||eunex.co^
 ||eupesquei.com.br^
 ||euphone.co^
 ||euqueroaprenderchatgpt.com.br^
@@ -21898,7 +21887,6 @@
 ||farzona.co^
 ||fas-solutions.com.br^
 ||fasanarocontabil.com.br^
-||faseng.co^
 ||fashionclub.com.ec^
 ||fashionwine.com.ar^
 ||fasinarm.edu.ec^
@@ -24124,7 +24112,6 @@
 ||fx7.com.br^
 ||fxbzjyomnfweqzso.barclayis.co^
 ||fxmoderate.co^
-||fxnovus.co^
 ||fxrani.com.ar^
 ||fxtmvn-mkt.co^
 ||fy.pe^
@@ -25339,7 +25326,6 @@
 ||golfoam.co^
 ||golfspecialoffer.com.es^
 ||golfview.com.do^
-||goloo.co^
 ||golostria.gq^
 ||gomaespumaamedida.es^
 ||gomaspureglow.com.br^
@@ -31710,7 +31696,6 @@
 ||hystik.com.ve^
 ||hzb.com.ar^
 ||hzoijx.maniguaorganica.com.co^
-||hzwebsea.co^
 ||i-change.co^
 ||i-forgotapple.co^
 ||i-kidsmaresme.es^
@@ -38448,7 +38433,6 @@
 ||manvim.co^
 ||manvy.gq^
 ||manychatgpt.ysix.com.br^
-||manycoin.co^
 ||manylink.co^
 ||manzocasadecarnes.com.br^
 ||maong.com.br^
@@ -41375,7 +41359,6 @@
 ||mysearchengine.co^
 ||mysecurity.paypal.com.webscr.paypalogin.accountinfocase.resolve.paypal.comsecure.connection.ppsecure.paypal.com.intl.webscr.pp.notariaunicasalamina-caldas.com.co^
 ||myshaksales.com.ybxeii.colegiogilgalosorno.cl^
-||myship711.joom.mx^
 ||mysiteleekonline.judithfenton.repl.co^
 ||myskapplekidil.betterlance.co^
 ||myskins.co^
@@ -41998,7 +41981,6 @@
 ||neotracler.co^
 ||nepotv.gq^
 ||nepotx.gq^
-||neptunex.co^
 ||nerd-email.com.br^
 ||nerfgdfgdfgdfgdfg.blogspot.com.br^
 ||nerfgdfgdfgfg.blogspot.com.co^
@@ -44406,10 +44388,8 @@
 ||originco-applications.marykayintouch.com.co^
 ||originpe-applications.marykayintouch.com.pe^
 ||oriolbatalla.es^
-||orion-app.co^
 ||orion.pe^
 ||orionascension.com.br^
-||orioncoin.co^
 ||orionseguridad.com.ec^
 ||orionsistem.com.br^
 ||oririfoods.co^
@@ -44660,7 +44640,6 @@
 ||ozarglakes.gq^
 ||ozoneintegrale.com.br^
 ||ozono.org.es^
-||ozonshop.co^
 ||ozzeseventos.com.br^
 ||p--appsms0023.repl.co^
 ||p-free.gq^
@@ -54051,7 +54030,6 @@
 ||sinueloagropecuaria.com.br^
 ||siofreelan.gq^
 ||siononpa.gq^
-||sip-alibaba.co^
 ||sip.vilanet.com.br^
 ||sipeukanbonxer.gq^
 ||sipho.es^
@@ -58454,7 +58432,6 @@
 ||turismomigrantes.cl^
 ||turismonaterceiraidade.com.br^
 ||turismosanpablo.cl^
-||turismosaofrancisco.com.br^
 ||turismovillagiardino.gob.ar^
 ||turisticafm.com.ve^
 ||turmadofrederico.com.br^
@@ -58553,8 +58530,6 @@
 ||twoco.com.br^
 ||twomarketing.com.co^
 ||twotikti.gq^
-||twshop40.joom.mx^
-||twshop6.joom.mx^
 ||twsuyhfm.gq^
 ||twup.com.br^
 ||twursaw.gq^
@@ -58603,7 +58578,6 @@
 ||u3l.co^
 ||u3qb3kvwxpnuivfn4nld.wouparu.es^
 ||u88yoo3e6ko9rnpxsli.barclayis.co^
-||ua.eetthh20.co^
 ||uacai.com.py^
 ||uadkm.barclayis.co^
 ||uae-app.phishguard.co^
@@ -62793,7 +62767,6 @@
 ||zxebbm48.arimix.cl^
 ||zxgawmec.test3.shoppaas.co^
 ||zxkaet-71.gq^
-||zxl.stsait.co^
 ||zxovic.co^
 ||zxtest.test3.shoppaas.co^
 ||zyaviv.co^
