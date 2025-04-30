@@ -1,5 +1,7 @@
 # PiSolid: aumenta la seguridad en internet.
 
+![License](https://img.shields.io/badge/License-GPLv3-orange.svg)
+
 <img src="images/banner.png" alt="banner" style="max-width: 100%; height: auto;">
 
 ## ¿En qué consiste?
@@ -26,22 +28,27 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 ### **PiSolid**
 - [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid.txt)
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid.txt)
-- [Mirror](https://dns.churuga.duckdns.org/pisolid.txt)
+- [Mirror](https://brevent.sytes.net/dns/pisolid.txt)
 
 ### **PiSolid-Ultra**
 - [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-ultra.txt)
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-ultra.txt)
-- [Mirror](https://dns.churuga.duckdns.org/pisolid-ultra.txt)
+- [Mirror](https://brevent.sytes.net/dns/pisolid-ultra.txt)
+
+### **PiSolid-Ultra-Lite**
+- [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-ultra-lite.txt)
+- [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-ultra-lite.txt)
+- [Mirror](https://brevent.sytes.net/dns/pisolid-ultra-lite.txt)
 
 ### **PiSolid-NSFW**
 - [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-nsfw.txt)
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-nsfw.txt)
-- [Mirror](https://dns.churuga.duckdns.org/pisolid-nsfw.txt)
+- [Mirror](https://brevent.sytes.net/dns/pisolid-nsfw.txt)
 
 ### **PiSolid-Globals**
 - [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-globals.txt)
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-globals.txt)
-- [Mirror](https://dns.churuga.duckdns.org/pisolid-globals.txt)
+- [Mirror](https://brevent.sytes.net/dns/pisolid-globals.txt)
 
 ## Fuentes
 ### **PiSolid-Ultra**
@@ -49,6 +56,11 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [HaGeZi's Threat Intelligence Feeds DNS Blocklist - full version](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt)  
 - [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)  
 - [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.adblock)  
+
+### **PiSolid-Ultra-Lite**
+- [HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/tif.mini.txt)
+- [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)
+- [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.top-n.adblock)
 
 ### **PiSolid-NSFW**
 - [Accomplist-AdultThemed-cbuijs](https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/adult-themed/optimized.black.top-n.domain.list)  
