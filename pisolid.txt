@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-04-30T14:04:50.135Z
+! Last modified: 2025-05-01T15:46:15.319Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9580,6 +9580,7 @@
 ||austriameta.pages.net.br^
 ||auteam.com.mx^
 ||autenticacion-bancolombia.autenticacion0.repl.co^
+||auth-acc-logact-210.sincodivdf.com.br^
 ||auth-act.gq^
 ||auth-beneficios.saleseguro.cl^
 ||auth-neuesupdates.co^
@@ -10842,6 +10843,7 @@
 ||binance.uya.cl^
 ||binancen.co^
 ||binarypilot.co^
+||binatones.gq^
 ||binbirapple.co^
 ||binence.co^
 ||binfashiontrending.co^
@@ -12544,6 +12546,7 @@
 ||carnisseriacanmia.es^
 ||carnocha.gq^
 ||carolabeltrepeluqueria.es^
+||carolinascarpelini.com.br^
 ||carolinereiscoaching.com.br^
 ||carollevorci.com.br^
 ||carols.es^
@@ -12875,6 +12878,7 @@
 ||ccganadera.com.co^
 ||ccian-app.com.ar^
 ||cciasalinas.uy^
+||ccilogistica.com.br^
 ||ccj.org.do^
 ||cclamazonia.com.br^
 ||cclconcreto.com.br^
@@ -31584,6 +31588,7 @@
 ||hugodiaz.cl^
 ||hugopapucci.com.ar^
 ||huilders.es^
+||huizechina.co^
 ||hulas.co^
 ||hule.com.br^
 ||humadwsq.gq^
@@ -34258,6 +34263,7 @@
 ||jas888login.co^
 ||jascha.muller.ultramedicinadiagnostica.com.br^
 ||jason.expofranchise.com.br^
+||jason.net.br^
 ||jason.sturmey-fonterra.2erc.com.br^
 ||jasonfe.gq^
 ||jasonveiga.com.br^
@@ -36964,6 +36970,7 @@
 ||local-app.plataformacera.com.br^
 ||local-v2-app-test.plataformacera.com.br^
 ||localapple.co^
+||localbusineess.com.br^
 ||localcerto.imb.br^
 ||localiser-apple.co^
 ||localiser-eu.co^
@@ -45097,6 +45104,7 @@
 ||pararrayosmexico.com.mx^
 ||parasails-plannar.com.br^
 ||paraturbofreios.com.br^
+||paratuseventos.cl^
 ||paravertemejor.co^
 ||parbal.com.mx^
 ||parc-app-emulator.mainstreetdata.co^
@@ -51199,6 +51207,7 @@
 ||rodaltek.com.br^
 ||rodanet.com.br^
 ||rodasports.com.mx^
+||rodavivanoticias.com.br^
 ||rodmetal.cl^
 ||rodney.prince.expofranchise.com.br^
 ||rodoamazonia.monitoramento.brasildigital.net.br^
@@ -51220,6 +51229,7 @@
 ||roeengenharia.com.br^
 ||rogacomp.gq^
 ||rogal.cl^
+||rogatech.gq^
 ||rogaza.com.br^
 ||rogelioht.gq^
 ||rogemar.es^
@@ -53041,6 +53051,7 @@
 ||seldel.com.br^
 ||seleb-bkp444.gq^
 ||selec.net.pe^
+||selecsa.es^
 ||selectairbrasil.com.br^
 ||selectamazonproducts.com.br^
 ||selectbloodpressure.com.es^
@@ -58515,6 +58526,7 @@
 ||turismomigrantes.cl^
 ||turismonaterceiraidade.com.br^
 ||turismosanpablo.cl^
+||turismosaofrancisco.com.br^
 ||turismovillagiardino.gob.ar^
 ||turisticafm.com.ve^
 ||turmadofrederico.com.br^
@@ -59460,6 +59472,7 @@
 ||validascotiacs.eshost.com.ar^
 ||validateswallet.co^
 ||validation-amazon.wootraining.certificacion.cl^
+||validation.wootraining.certificacion.cl^
 ||validations--notificaciondaviapp.repl.co^
 ||validatore-acoun.x10.mx^
 ||validde-ap-banc.pachonlilis.repl.co^
