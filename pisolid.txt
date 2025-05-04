@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-04T04:11:11.286Z
+! Last modified: 2025-05-04T08:02:29.887Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9203,7 +9203,6 @@
 ||binance.uya.cl^
 ||binancen.co^
 ||binarypilot.co^
-||binatones.gq^
 ||binbirapple.co^
 ||binence.co^
 ||binfashiontrending.co^
@@ -9321,6 +9320,7 @@
 ||bittorrent.es^
 ||bitvavo.com.nl.services.condorequipotactico.com.mx^
 ||bitvavo.com.nl.services.equipotacticocondor.com.mx^
+||bitvavo.com.nl.services.hipergranel.com.br^
 ||bitvavo.com.nl.services.lasvegastourvip.com.br^
 ||bitvavo.com.nl.services.marcaeng.com.br^
 ||bitvavo.com.nl.services.mwftelecom.com.br^
@@ -10443,7 +10443,6 @@
 ||carnisseriacanmia.es^
 ||carnocha.gq^
 ||carolabeltrepeluqueria.es^
-||carolinascarpelini.com.br^
 ||carollevorci.com.br^
 ||carols.es^
 ||caroradenoche.com.ve^
@@ -12325,6 +12324,7 @@
 ||codelaisc.co^
 ||codemat.com.co^
 ||codemed.com.br^
+||codenation.com.ar^
 ||codepa.com.pe^
 ||codepromolistroblox2021.blogspot.pe^
 ||codepromorobloxabeille.blogspot.pe^
@@ -16183,6 +16183,7 @@
 ||ecosocial-apps.com.br^
 ||ecosolutionenergy.com.br^
 ||ecotechamazonia.com.br^
+||ecoterra.com.pe^
 ||ecotono.soledadbenjumea.es^
 ||ecoturismocoracaoamazonia.com.br^
 ||ecov.com.br^
@@ -24332,7 +24333,6 @@
 ||hugodiaz.cl^
 ||hugopapucci.com.ar^
 ||huilders.es^
-||huizechina.co^
 ||hulas.co^
 ||hule.com.br^
 ||humancm.com.mx^
@@ -24514,6 +24514,7 @@
 ||id200654log.hol.es^
 ||id5377390a678.nova-terra.cl^
 ||id53a0cdcfb73.nova-terra.cl^
+||id5cd12aed918.nova-terra.cl^
 ||idaconstrucciones.com.ar^
 ||idapple.co^
 ||idareu.co^
@@ -25667,7 +25668,6 @@
 ||jardinmisamiguitos.cl^
 ||jardmolas.com.br^
 ||jas888login.co^
-||jason.net.br^
 ||jateamentofiorin.com.br^
 ||jatkit.gq^
 ||javaamazonas.com.br^
@@ -28880,6 +28880,7 @@
 ||milleniumplazasuites.mx^
 ||millennialradio.es^
 ||millenniumautoescola.com.br^
+||millenniumeventos.com.br^
 ||millionaires-blueprint.co^
 ||millionairesblueprint.co^
 ||millionchatgpt.com.br^
@@ -28941,6 +28942,7 @@
 ||miniparts.es^
 ||minmissy.gq^
 ||minolite.co^
+||minoroubatuba.com.br^
 ||minr.es^
 ||minsodar.gq^
 ||minterest.co^
@@ -30620,7 +30622,6 @@
 ||nordesteamazonia.ufba.br^
 ||nordesterep.com.br^
 ||norenplast.com.ar^
-||norep-layamazoon.wootraining.certificacion.cl^
 ||noreplyonlineservice.nuevaesperanza.edu.ar^
 ||normal13.carrd.co^
 ||normandy.com.br^
@@ -32013,7 +32014,6 @@
 ||pararrayosmexico.com.mx^
 ||parasails-plannar.com.br^
 ||paraturbofreios.com.br^
-||paratuseventos.cl^
 ||paravertemejor.co^
 ||parbal.com.mx^
 ||parc-app-emulator.mainstreetdata.co^
@@ -33804,7 +33804,6 @@
 ||policia-gmac.blogspot.com.br^
 ||policlinicaamazonas.com.br^
 ||policlinicadaamazonia.com.br^
-||policlinicariovermelho.com.br^
 ||policomp.com.br^
 ||polideportivosangabriel.es^
 ||polifilmesdaamazonia.com.br^
@@ -34559,6 +34558,7 @@
 ||protecttheamazon.com.br^
 ||protectus.es^
 ||protege-app.wolftechti.com.br^
+||protegemilhas.co^
 ||proteknica.cl^
 ||protelas.com.br^
 ||protenortesolar.com.br^
@@ -35949,7 +35949,6 @@
 ||rodadochopp.com.br^
 ||rodaltek.com.br^
 ||rodanet.com.br^
-||rodavivanoticias.com.br^
 ||rodmetal.cl^
 ||rodoamazonia.monitoramento.brasildigital.net.br^
 ||rodomago.com.br^
@@ -35964,7 +35963,6 @@
 ||roeengenharia.com.br^
 ||rogacomp.gq^
 ||rogal.cl^
-||rogatech.gq^
 ||rogaza.com.br^
 ||rogerdistribuidora.com.br^
 ||rogerioallves.com.br^
@@ -39043,6 +39041,7 @@
 ||syval.co^
 ||sz168-app.co^
 ||sziejpaypal-globalshops.forum.ar^
+||t0z2pb6yfjhmfhqwssoikbgsjche.mfvaleengenharia.com.br^
 ||t12design.com.br^
 ||t2m.co^
 ||t4s.cl^
@@ -40955,7 +40954,6 @@
 ||valid-app.modeveloper.dev.br^
 ||validacaodetran.co^
 ||validation-amazon.wootraining.certificacion.cl^
-||validation.wootraining.certificacion.cl^
 ||vallada.adv.br^
 ||vallartagardensscams.com.mx^
 ||vallecriativo.com.br^
