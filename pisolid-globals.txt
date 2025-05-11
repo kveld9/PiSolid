@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-06T08:03:58.218Z
+! Last modified: 2025-05-11T08:07:33.797Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5765,6 +5765,7 @@ watcab*.blob.core.windows.net
 ||asan-nightly-frontend-elb-1348905149.us-east-2.elb.amazonaws.com^
 ||classify-client.nonprod.webservices.mozgcp.net^
 ||classify-client.prod.webservices.mozgcp.net^
+||classify-client.services.mozilla.com^
 ||contile-images.services.mozilla.com^
 ||contile.services.mozilla.com^
 ||crash-reports.allizom.org^
@@ -5795,6 +5796,7 @@ watcab*.blob.core.windows.net
 ||incoming-telemetry.thunderbird.net^
 ||incoming.thunderbird.net^
 ||location.services.mozilla.com^
+||locprod1-elb-eu-west-1.prod.mozaws.net^
 ||locprod2-elb-us-west-2.prod.mozaws.net^
 ||merino.nonprod.cloudops.mozgcp.net^
 ||merino.prod.cloudops.mozgcp.net^
@@ -5805,9 +5807,13 @@ watcab*.blob.core.windows.net
 ||normandy.prod.cloudops.mozgcp.net^
 ||pdfjs.robwu.nl^
 ||pipeline-incoming-prod-elb-149169523.us-west-2.elb.amazonaws.com^
-||qsurvey.mozilla.com^
+||search.r53-2.services.mozilla.com^
+||search.services.mozilla.com^
+||self-repair.mozilla.org^
+||self-repair.r53-2.services.mozilla.com^
 ||sentry.nonprod.cloudops.mozgcp.net^
 ||sentry.prod.cloudops.mozgcp.net^
+||sentry.prod.mozaws.net^
 ||snippets.allizom.org^
 ||snippets.cdn.mozilla.net^
 ||snippets.mozilla.com^
@@ -5827,19 +5833,21 @@ watcab*.blob.core.windows.net
 ||start-stage.thunderbird.net^
 ||start.thunderbird.net^
 ||survey.mozilla.com^
-||symbolication.services.mozilla.com^
-||symbols.mozilla.org^
 ||talkback.mozilla.org^
 ||talkback-public.mozilla.org^
 ||talkback-reports.mozilla.org^
 ||telemetry-coverage.mozilla.org^
 ||telemetry-coverage.r53-2.services.mozilla.com^
 ||telemetry-data.r53-2.services.mozilla.com^
+||telemetry-experiment.cdn.mozilla.net^
+||telemetry-incoming-a.r53-2.services.mozilla.com^
+||telemetry-incoming-b.r53-2.services.mozilla.com^
 ||telemetry-incoming.r53-2.services.mozilla.com^
 ||telemetry.mozilla.org^
 ||telemetry-prod-1054754349.us-east-1.elb.amazonaws.com^
 ||updates-stage.thunderbird.net^
 ||updates.thunderbird.net^
+||widgets.getpocket.com^
 ||events.gfe.nvidia.com^
 ||events.nvidia.com^
 ||metrics.nvidia.com^
