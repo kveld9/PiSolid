@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-15T08:04:37.895Z
+! Last modified: 2025-05-17T08:05:56.425Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -10648,6 +10648,7 @@
 ||bookzip.gq^
 ||bookzoom.gq^
 ||boombou.com.br^
+||boomjoo.co^
 ||booqbags.es^
 ||boos.adv.br^
 ||boostamazonconsultancy.co^
@@ -12247,6 +12248,7 @@
 ||cesigloxxi.edu.mx^
 ||cesma.com.br^
 ||cesp-pimentel.com.br^
+||cespedelespartano.com.ar^
 ||cespednewgarden.es^
 ||cesproducoes.com.br^
 ||cespu.com.ar^
@@ -14397,6 +14399,7 @@
 ||connect-excel.on.fleek.co^
 ||connect.cloudscontroller.es^
 ||connect.codigodebarra.co^
+||connect.connectprotocol.es^
 ||connect.secure.wellsfargo.com.auth.login.present.origin.cob.cabe110.com.ar^
 ||connect.secure.wellsfargoauthlogin.hosteltravessia.com.br^
 ||connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.br^
@@ -14406,6 +14409,7 @@
 ||connectamazonia.com.br^
 ||connectcontrol.com.br^
 ||connectedagain.gq^
+||connection.connectprotocol.es^
 ||connectionofparcel.es^
 ||connectionproblem.gq^
 ||connectionproblem1.gq^
@@ -14413,6 +14417,7 @@
 ||connectmail.co^
 ||connectmobil.com.br^
 ||connects-apple.co^
+||connectscreen.connectprotocol.es^
 ||connecttrips.com.br^
 ||connectwebmarketing.com.br^
 ||connexionmabanquebnpparibas.co^
@@ -22217,6 +22222,7 @@
 ||gesconimoveis.com.br^
 ||gesfinka.es^
 ||gessoamaro.com.br^
+||gessojfa.com.br^
 ||gessosaojudastadeu.com.br^
 ||gessxe.blogspot.cl^
 ||gessxe.blogspot.com.uy^
@@ -28417,7 +28423,6 @@
 ||hssvicosa.com.br^
 ||hsuuiwiue1.mypi.co^
 ||hsvpuba.com.br^
-||ht351.snmoxfowlp.es^
 ||ht4r.34rthg.repl.co^
 ||ht5.net.br^
 ||htcourse.es^
@@ -28789,10 +28794,12 @@
 ||id5027eee620d.nova-terra.cl^
 ||id502cce79d34.nova-terra.cl^
 ||id50447c3cbd1.nova-terra.cl^
+||id516bfb2c4bb.nova-terra.cl^
 ||id51a03ac7f4d.nova-terra.cl^
 ||id51a77e54b1b.nova-terra.cl^
 ||id52821e629eb.nova-terra.cl^
 ||id5284cc88742.nova-terra.cl^
+||id52b4787e1f8.nova-terra.cl^
 ||id5377390a678.nova-terra.cl^
 ||id53a0cdcfb73.nova-terra.cl^
 ||id5512320647a.nova-terra.cl^
@@ -28803,11 +28810,14 @@
 ||id5735290a7c4.nova-terra.cl^
 ||id5802813b51a.nova-terra.cl^
 ||id582d9e02898.nova-terra.cl^
+||id5895000e438.nova-terra.cl^
 ||id597681c9779.nova-terra.cl^
 ||id5981ed80cde.nova-terra.cl^
 ||id5b0c4bde35c.nova-terra.cl^
+||id5b4f0f71ee1.nova-terra.cl^
 ||id5bcdad881c9.nova-terra.cl^
 ||id5cba177afc3.nova-terra.cl^
+||id5ccbf0a2238.nova-terra.cl^
 ||id5cd12aed918.nova-terra.cl^
 ||id5e703f80e20.nova-terra.cl^
 ||id5e930b32efa.nova-terra.cl^
@@ -30797,6 +30807,8 @@
 ||jiaufib.zz.com.ve^
 ||jibia.cl^
 ||jibrain.com.todeschinialdeota.com.br^
+||jibsn.co^
+||jibun.co^
 ||jicrcfirehononlin4.withgytonl3in3.repl.co^
 ||jiles.cl^
 ||jimaja.com.mx^
@@ -30820,6 +30832,8 @@
 ||jiyftc.blogspot.com.ar^
 ||jjbpo.com.co^
 ||jjgghhjghgh.blogspot.mx^
+||jjiban.co^
+||jjibun.co^
 ||jjjuber.es^
 ||jjs.adv.br^
 ||jjsv.com.br^
@@ -32853,6 +32867,10 @@
 ||login-zoommicrosoftauthenticator.blindaconsultoria.com.br^
 ||login.acceso-bancochlle.cl.aquitosolar.cl^
 ||login.acceso-bancochlle.cl.luisorlandini.cl^
+||login.account.co-jp.awsgxkzwa.co^
+||login.account.co-jp.hyxkwvxxs.co^
+||login.account.co-jp.kqkryxfaz.co^
+||login.account.co-jp.kqxfqyqsf.co^
 ||login.activarusuario.repl.co^
 ||login.apk-mfacebook1.gq^
 ||login.banreresevasdo.repl.co^
@@ -32871,6 +32889,7 @@
 ||login.microsofftonline.co^
 ||login.microsoftonline.com-common.oauth2.tkdmaninho.com.br^
 ||login.microsoftonline.com.auth.inflablesalan.com.mx^
+||login.microsoftonline.solbeg.co^
 ||login.microsoftsonline.com.co^
 ||login.moderationdc.repl.co^
 ||login.myreview.com.br^
@@ -39273,6 +39292,7 @@
 ||p2p.eosio.cr^
 ||p2pestrategia.com.br^
 ||p2pool.co^
+||p4man.com.br^
 ||p4t.com.pe^
 ||p800.baunaoresgatado.com.br^
 ||p99.com.br^
@@ -43526,6 +43546,7 @@
 ||rankingbinarys.gq^
 ||rankingdodia.com.br^
 ||ranoes.co^
+||ransoe.co^
 ||raota.com.br^
 ||rapamazonia.gov.co^
 ||rapesdaamazonia.com.br^
@@ -44176,6 +44197,7 @@
 ||renagesp.com.br^
 ||renasceramazonico.org.br.engerclima.com.br^
 ||renascerdaesperanca.org.br^
+||renaso.co^
 ||renataassef.com.br^
 ||renatacampanelli.com.br^
 ||renatoluis.com.br^
@@ -44207,6 +44229,7 @@
 ||renovacionautomatica.blogspot.mx^
 ||renovainspe.com.br^
 ||renovaremedlab.com.br^
+||rensea.co^
 ||rent4ever.co^
 ||rental-app.jbsinc.co^
 ||rentalpark.com.ar^
@@ -44217,6 +44240,7 @@
 ||rentownhomes2024.carrd.co^
 ||renud.co^
 ||renwaey.gq^
+||reosoa.co^
 ||repairserviceprotectionsupport.gq^
 ||reparacionapple.es^
 ||reparacioncomputadoras.mx^
@@ -44286,8 +44310,10 @@
 ||request-submit.appeal-us.repl.co^
 ||requesting-appeal.repl.co^
 ||requipsol.es^
+||rerona.co^
 ||rescatetupuntositau.latoperia.cl^
 ||rescco.co^
+||rescna.co^
 ||rescovetions.esy.es^
 ||rescuetoast.co^
 ||researchinfotech.co^
@@ -44317,11 +44343,17 @@
 ||resilientplanb.mypi.co^
 ||resilit.co^
 ||resnas.co^
+||resnva.co^
+||resnza.co^
 ||resoluciones.ugel01.gob.pe^
 ||resolutioncenter.co^
 ||resolvasaude.com.br^
 ||resolveadvocacia.com.br^
 ||resolvewallet.co^
+||reson-bank.co^
+||resona-bank.co^
+||resone.co^
+||resonn.co^
 ||resorttravelclub.com.co^
 ||resparked.co^
 ||respiraamazonia.com.br.saudeesustentabilidade.org.br^
@@ -44333,6 +44365,7 @@
 ||respiramazonia.org.br^
 ||respondechatgpt.softset.com.br^
 ||responwhatsapp.gq^
+||ressee.co^
 ||ressfulsuanise.gq^
 ||rest-app.siqueiracastro.com.br^
 ||restapouco.com.br^
@@ -44650,6 +44683,7 @@
 ||rnth.com.br^
 ||rnw.groupsync.es^
 ||roadrunnerexpress.co^
+||roasne.co^
 ||roastedjointsequel.fico0lsa.repl.co^
 ||roastedpuzzlingloopfission.agric8olas.repl.co^
 ||robergwo.gq^
@@ -44849,6 +44883,7 @@
 ||rondotech.com.br^
 ||ronesa.co^
 ||ronipidp.gq^
+||ronoe.co^
 ||rooftopapplebees.com.br^
 ||roosevel.gq^
 ||roosterstore.com.mx^
@@ -45327,6 +45362,7 @@
 ||rsmagazine.com.br^
 ||rsmkt.com.br^
 ||rsneao.co^
+||rsona.co^
 ||rsrcontabilidade.com.br^
 ||rstc-app.com.mx^
 ||rsvpevite.es^
@@ -45898,6 +45934,7 @@
 ||sc-001.controlhub.es^
 ||sc-002.controlhub.es^
 ||sc-sp-app.ticketmais.com.br^
+||sc.connectprotocol.es^
 ||sc.controlhub.es^
 ||sc.openmkt.mx^
 ||sc3-app.com.ar^
@@ -45954,6 +45991,11 @@
 ||sclext.gq^
 ||scmaritimomargarita.org.ve^
 ||scnet-tech.com.br^
+||sconnect-01.connectprotocol.es^
+||sconnect-02.connectprotocol.es^
+||sconnect-04.connectprotocol.es^
+||sconnect-05.connectprotocol.es^
+||sconnect.connectprotocol.es^
 ||scootermania.com.br^
 ||scopebitcoin.com.br^
 ||scopusrevista.es^
@@ -45980,6 +46022,7 @@
 ||scrapple.co^
 ||scratchynicebootstrapping94944.niembien.repl.co^
 ||screcibras.com.br^
+||screen.connectprotocol.es^
 ||screenacy.co^
 ||screensshots.esy.es^
 ||screenups.co^
@@ -52579,6 +52622,7 @@
 ||vp-diretorioweb.net.br^
 ||vp-trevisocc.com.br^
 ||vp3-diretorioweb.net.br^
+||vplayer.cl^
 ||vpn.kenogard.es^
 ||vps-1004003.neumachile.cl^
 ||vps-310989.unkrunchdesabor.com.mx^
