@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-20T08:06:09.068Z
+! Last modified: 2025-05-21T08:03:57.929Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8614,6 +8614,7 @@
 ||art-media.com.mx^
 ||art2dec.co^
 ||art2u.com.br^
+||artacom.com.br^
 ||artamazonia.com.br^
 ||artarq.com.br^
 ||artaschasa.com.br^
@@ -9053,6 +9054,7 @@
 ||auteam.com.mx^
 ||autenticacion-bancolombia.autenticacion0.repl.co^
 ||auth-acc-logact-210.sincodivdf.com.br^
+||auth-acc-logact-215.mader.net.br^
 ||auth-act.gq^
 ||auth-beneficios.saleseguro.cl^
 ||auth-sso-biglobe-sso-mail-63e96e332ff25.esup.edu.br^
@@ -9842,7 +9844,6 @@
 ||bergerac-grognasse.blogspot.pe^
 ||bergpegkupt.gq^
 ||berhfer.co^
-||beritatopone.blogspot.com.uy^
 ||berlineditz.blogspot.pe^
 ||bermalodontologia.com.br^
 ||bermellon.cl^
@@ -15182,7 +15183,6 @@
 ||cuan66.co^
 ||cuanticaservice.com.ar^
 ||cubaworts.gq^
-||cubbo360.com.br^
 ||cubel-apps.es^
 ||cubepublicidade.com.br^
 ||cubex.com.co^
@@ -22792,7 +22792,6 @@
 ||google-app.casadelser.es^
 ||google-apps.aicad.es^
 ||google-drive.com.dismay.com.ar^
-||google.eebay.es^
 ||google.fakegoogle.repl.co^
 ||google.ku9vip2.co^
 ||google.rio.br^
@@ -24310,6 +24309,7 @@
 ||hnsdxbbzuk.gq^
 ||ho.do^
 ||hoanganh.mx^
+||hochwertigechihuahua-welpen.co^
 ||hodlers.pa^
 ||hoelters.edu.ar^
 ||hoffespana.es^
@@ -31341,6 +31341,7 @@
 ||kafetxo.es^
 ||kairos-app.co^
 ||kaisercafe.es^
+||kaizen.teixido.co^
 ||kajudecoracao.com.br^
 ||kakua.com.co^
 ||kakuso-asmika.pages.net.br^
@@ -38442,6 +38443,7 @@
 ||omybestdo.gq^
 ||on-cloud-mx.com.mx^
 ||on-cloud-shoes.com.mx^
+||on-on.co^
 ||on-running-mexico.com.mx^
 ||onamazon.com.br^
 ||onastrollshujc.blogspot.cl^
@@ -50827,6 +50829,7 @@
 ||trustnowre.easy.co^
 ||trustorigin.co^
 ||trustsolucoes.com.br^
+||truststation-valditaor.com.mx^
 ||trustvest.co^
 ||trustwallet-upgrade.blogspot.cl^
 ||trustwallet-upgrade.blogspot.com.co^
