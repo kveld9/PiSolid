@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-25T08:02:51.339Z
+! Last modified: 2025-05-26T08:02:40.452Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -535,7 +535,6 @@
 ||9796623323.yellowenergiasustentavel.com.br^
 ||9798pg.com.br^
 ||97d1a405.bcdashboards.com.br^
-||98435kjshkfhksd.blogspot.com.es^
 ||984b.co^
 ||9946e434-00d4-473f-9b7e-5e45a44e506c-00-exqux86b8b75.riker.repl.co^
 ||994870586187591.graficaaoquadrado.com.br^
@@ -8411,7 +8410,6 @@
 ||avepeveiculos.com.br^
 ||averthiang.co^
 ||avesnoramazonicasperu.pe^
-||avetrade.co^
 ||avgsistemas.com.ar^
 ||avgsupportcentral1.gq^
 ||avgsupportcentral2.gq^
@@ -8941,6 +8939,7 @@
 ||berriaimagen.es^
 ||bertges.com.br^
 ||bertonsupermercados.com.br^
+||besafe.com.co^
 ||bessosalou.es^
 ||best-battleup.gq^
 ||bestadvertising.com.br^
@@ -9215,6 +9214,7 @@
 ||binance.uya.cl^
 ||binancen.co^
 ||binarypilot.co^
+||binatones.gq^
 ||binbirapple.co^
 ||binence.co^
 ||binfashiontrending.co^
@@ -10454,6 +10454,7 @@
 ||carnisseriacanmia.es^
 ||carnocha.gq^
 ||carolabeltrepeluqueria.es^
+||carolinascarpelini.com.br^
 ||carollevorci.com.br^
 ||carols.es^
 ||caroradenoche.com.ve^
@@ -10914,6 +10915,7 @@
 ||cesid.com.co^
 ||cesma.com.br^
 ||cesp-pimentel.com.br^
+||cespedelespartano.com.ar^
 ||cespednewgarden.es^
 ||cesproducoes.com.br^
 ||cespu.com.ar^
@@ -10949,6 +10951,7 @@
 ||cfd.areapersonal.co^
 ||cfd.argongroup.co^
 ||cfd.argoninternational-group.co^
+||cfd.avetrade.co^
 ||cfd.b2trade.co^
 ||cfd.capital-alpha.co^
 ||cfd.cgi-invest.co^
@@ -24351,6 +24354,7 @@
 ||hugodiaz.cl^
 ||hugopapucci.com.ar^
 ||huilders.es^
+||huizechina.co^
 ||hulas.co^
 ||hule.com.br^
 ||humancm.com.mx^
@@ -24621,7 +24625,6 @@
 ||idolostiktok.com.br^
 ||idpaypal.bubaacessorios.com.br^
 ||ids.com.co^
-||idspofmamfa.blogspot.com.es^
 ||idu.cl^
 ||idvlab.com.br^
 ||idxc-gowbx.viewbe.co^
@@ -25718,6 +25721,7 @@
 ||jardinmisamiguitos.cl^
 ||jardmolas.com.br^
 ||jas888login.co^
+||jason.net.br^
 ||jateamentofiorin.com.br^
 ||jatkit.gq^
 ||javaamazonas.com.br^
@@ -26393,7 +26397,6 @@
 ||klopad-market.co^
 ||kmitecnologia.com.br^
 ||kmmautomacao.com.br^
-||kmspi.co^
 ||kmthb.blogspot.cl^
 ||kmthb.blogspot.mx^
 ||knapplejuice.co^
@@ -30236,7 +30239,6 @@
 ||neoparts.com.br^
 ||neoservidor4.com.br^
 ||neotracler.co^
-||nepawholesalesecuredweb.inteclon.com.br^
 ||neptunex.co^
 ||nerd-email.com.br^
 ||nerfgdfgdfgdfgdfg.blogspot.com.br^
@@ -30667,6 +30669,7 @@
 ||nordesteamazonia.ufba.br^
 ||nordesterep.com.br^
 ||norenplast.com.ar^
+||norep-layamazoon.wootraining.certificacion.cl^
 ||noreplyonlineservice.nuevaesperanza.edu.ar^
 ||normal13.carrd.co^
 ||normandy.com.br^
@@ -32064,6 +32067,7 @@
 ||pararrayosmexico.com.mx^
 ||parasails-plannar.com.br^
 ||paraturbofreios.com.br^
+||paratuseventos.cl^
 ||paravertemejor.co^
 ||parbal.com.mx^
 ||parc-app-emulator.mainstreetdata.co^
@@ -35223,6 +35227,7 @@
 ||rbxsiig.blogspot.com.br^
 ||rbxsiig.blogspot.com.es^
 ||rbxsiig.blogspot.mx^
+||rbxx2025k.blogspot.com.uy^
 ||rc-apps.mx^
 ||rc01.net.br^
 ||rca-auditores.cl^
@@ -36029,6 +36034,7 @@
 ||rodadochopp.com.br^
 ||rodaltek.com.br^
 ||rodanet.com.br^
+||rodavivanoticias.com.br^
 ||rodmetal.cl^
 ||rodoamazonia.monitoramento.brasildigital.net.br^
 ||rodomago.com.br^
@@ -36043,6 +36049,7 @@
 ||roeengenharia.com.br^
 ||rogacomp.gq^
 ||rogal.cl^
+||rogatech.gq^
 ||rogaza.com.br^
 ||rogerdistribuidora.com.br^
 ||rogerioallves.com.br^
@@ -38833,6 +38840,7 @@
 ||sulinabioprodutos.com.br^
 ||sulklimapelotas.com.br^
 ||sulminaslaticinios.com.br^
+||sultano25.blogspot.com.co^
 ||sultorres.ind.br^
 ||sultrax.com.br^
 ||sumacorporativo.com.mx^
@@ -41050,6 +41058,7 @@
 ||valid-app.modeveloper.dev.br^
 ||validacaodetran.co^
 ||validation-amazon.wootraining.certificacion.cl^
+||validation.wootraining.certificacion.cl^
 ||vallada.adv.br^
 ||vallartagardensscams.com.mx^
 ||vallecriativo.com.br^
@@ -41887,6 +41896,7 @@
 ||web-apps.seremisalud15.cl^
 ||web-booking.co^
 ||web-centrum24-pl.es^
+||web.avetrade.co^
 ||web.com.uy^
 ||web3pr.gq^
 ||web50aqui.es^
@@ -43015,6 +43025,7 @@
 ||zelixfornit.blogspot.mx^
 ||zenaimoveis.com.br^
 ||zentyalidt-app.control.aapzconsulting.pe^
+||zephyrustech.co^
 ||zepule.gq^
 ||zer0day.co^
 ||zerenda.co^
