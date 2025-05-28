@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-27T08:02:33.501Z
+! Last modified: 2025-05-28T08:03:58.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -560,6 +560,7 @@
 ||9mawsx9hrdk2wzas.botanik.gq^
 ||9spai.es^
 ||9stupefacentevideo2022.pagedemo.co^
+||9vbeh.tujaeiq.es^
 ||9xrockersa.co^
 ||a-better-meal-app-25575.botics.co^
 ||a-mazon.co^
@@ -1340,6 +1341,7 @@
 ||akrainformatica.es^
 ||akros-arq.cl^
 ||aksia.co^
+||aktualizacja.konta.altacecuador.com.ec^
 ||akufry.gq^
 ||al-ihsan.es^
 ||al2cv.com.br^
@@ -8258,6 +8260,7 @@
 ||atlassiderurgica.com.br^
 ||atm.cl^
 ||atmsistemica.com.br^
+||atocadaleitura.com.br^
 ||atodacostagalicia.es^
 ||atoearte.com.br^
 ||atogov.accesoriosparamujerbogota.com.mx^
@@ -8389,6 +8392,7 @@
 ||autronic.com.br^
 ||autryspain.es^
 ||autumn-bird-8417.on.fleek.co^
+||auukapaypal-opinions.realestate.do^
 ||auxiliardefarmacia.com.ar^
 ||auxiliomilhas.co^
 ||avaapplebee.repl.co^
@@ -16502,6 +16506,7 @@
 ||eliteamazonconsultancy.co^
 ||eliteaviation.com.br^
 ||elitecoberturalegal.com.ar^
+||elitedaconstrucao.com.br^
 ||elitedelivery.com.br^
 ||elitemail.com.br^
 ||elitereplicawatches.co^
@@ -17429,6 +17434,7 @@
 ||facder.unitru.edu.pe^
 ||face.com.ec^
 ||faceapp.x10.mx^
+||facebok.com.ar^
 ||facebook-com-py.blogspot.com.ar^
 ||facebook-login.pages.net.br^
 ||facebook-net.gq^
@@ -18210,6 +18216,7 @@
 ||folhadecondeuba.com.br^
 ||folhadetreino.com.br^
 ||folhadoamazonas.com.br^
+||folhapr.com.br^
 ||folhaserrana.com.br^
 ||folhetodigital.com.br^
 ||folksrh.com.br^
@@ -27666,6 +27673,7 @@
 ||lucrandocomapple.importecomlucro.com.br^
 ||lucrandocomchatgpt.com.br.trendcursos.com.br^
 ||lucrandocomchatgpt.com.br^
+||lucrandocomchatgpt.drsebooks.com.br^
 ||lucrandocomchatgpt.lpmdigital.com.br^
 ||lucrandocomchatgpt.lvdigitalmkt.com.br^
 ||lucrandocomchatgpt.nektarweb.com.br^
@@ -27740,7 +27748,6 @@
 ||lunaervasprodutos.com.br^
 ||lunareternalhealth.com.es^
 ||lunaticmonkey-app.matriculei.com.br^
-||luncrist.es^
 ||lungbreak.co^
 ||luocentce.gq^
 ||lupatech.com.co^
@@ -28246,6 +28253,7 @@
 ||marinhomultimarcas.com.br^
 ||marinohonda556.lpages.co^
 ||mariomoreno.cl^
+||mariopenainc.co^
 ||marioricart.com.br^
 ||marisalago.com.ar^
 ||marisatranship.com.ve^
@@ -28917,6 +28925,7 @@
 ||mhtjv.blogspot.mx^
 ||mhweb.com.br^
 ||mhxdrb.blogspot.com.br^
+||mhzffpaypalcredit.realestate.cr^
 ||mi-app.cl^
 ||mi-app.co^
 ||mi-app.com.co^
@@ -31668,6 +31677,7 @@
 ||openaigpt.qubigo.com.ar^
 ||openaigpts.co^
 ||openaigramado.com.br^
+||openaihardware.co^
 ||openaihealth.co^
 ||openaihostagesystemroli1909090927346.novastudios.es^
 ||openaii.co^
@@ -32639,6 +32649,7 @@
 ||paypal-marketing.review.ar^
 ||paypal-marketing.room.ar^
 ||paypal-marketing.school.ar^
+||paypal-marketing.study.co^
 ||paypal-marketing.vip.cl^
 ||paypal-media.channel.ar^
 ||paypal-media.game.ar^
@@ -40150,6 +40161,7 @@
 ||tnappletv.flowingstreams.co^
 ||tngrypaypal-shopping.game.ar^
 ||tningedi.gq^
+||tnmmfpaypal-mktg.games.co^
 ||tntennis.com.br^
 ||to-is.cl^
 ||to.sv^
@@ -40314,6 +40326,7 @@
 ||toubem.com.br^
 ||tourcoing-garce.blogspot.cl^
 ||tourdiezmedellin.com.co^
+||towsl.msyoxvxe.es^
 ||toxicplayers.es^
 ||toyahotel.com.br^
 ||toycopum.gq^
@@ -40892,6 +40905,7 @@
 ||umasuperoferta.com.br^
 ||umbrocolombia.com.co^
 ||umet.org.mx^
+||umframe.com.br^
 ||ummundodeofertas.com.br^
 ||un.uut-lt.gq^
 ||una-app.s2i.es^
