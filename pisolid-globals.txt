@@ -3,7 +3,7 @@
 ! Description: Impide el rastreamiento del usuario de las grandes empresas.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-05-30T08:04:06.039Z
+! Last modified: 2025-05-31T08:03:52.415Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5286,6 +5286,7 @@ google-analytics.$important
 ||piwik*.$important
 ||analytics.cdn.live^
 ||analytics-evisit.vsee.com^
+||analytics.faplex.to^
 ||analytics.finna.fi^
 ||analytics.routinehub.co^
 ||anon-stats.eff.org^
