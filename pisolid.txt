@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-06T08:02:27.445Z
+! Last modified: 2025-06-07T08:02:36.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -357,7 +357,6 @@
 ||43mouvie.co^
 ||4541b5d5.coletivohojeapassarinho.com.br^
 ||45dsffsfggg.blogspot.cl^
-||472-colombia.co^
 ||47673.co^
 ||485060461459146.graficaaoquadrado.com.br^
 ||488829.co^
@@ -8771,6 +8770,7 @@
 ||bbva.es-email.es^
 ||bbva.es-verificacion.co^
 ||bbva.galitec.es^
+||bbva.stockbrokers.com.mx^
 ||bbvanetcash.mx^
 ||bc.nc-img.co^
 ||bc.tv.br^
@@ -16052,6 +16052,7 @@
 ||e-onay.co^
 ||e-orange.co^
 ||e-pes2020.com.br^
+||e-receipts.co^
 ||e-saudeonline.com.br^
 ||e-smu.com.ar^
 ||e-solutions.com.pe^
@@ -17293,6 +17294,7 @@
 ||expertleads.com.br^
 ||expertlog.com.br^
 ||expertmarketing.com.br^
+||expertsarg.es^
 ||explicabitcoin.com.br^
 ||explodepromo.com.br^
 ||explonun.cl^
@@ -17395,6 +17397,7 @@
 ||facebook-support-team-market.pages.mus.br^
 ||facebook-support.pages.mus.br^
 ||facebook.com-7yf9ktf451a70ca-secured-login-token.7qz6ztn.gq^
+||facebook.com.01i.co^
 ||facebook.com.179863857.connect.user.19472973904038575.ajslyr36hur85.replymprevivaldi.angelas.cl^
 ||facebook.gruta.mx^
 ||facebook.login.octgencia.com.br^
@@ -25685,7 +25688,6 @@
 ||iwoca.co^
 ||iworkapplesp.com.br^
 ||iworldapple.com.br^
-||iwua8.losocvxr.es^
 ||izabelsadallagrispino.com.br^
 ||izinet.net.br^
 ||izing-app.xtrackfoz.com.br^
@@ -27077,6 +27079,7 @@
 ||linkccx-ld-webs.vanxx.co^
 ||linkclicks.co^
 ||linkcomercial.com.br^
+||linkedin.com.01i.co^
 ||linkedincommunity.co^
 ||linkedinconnection.co^
 ||linkedinetwork.co^
@@ -32859,6 +32862,7 @@
 ||paypal.com-verificationaccountlimit.westernunion.ar^
 ||paypal.com-websppsc-verification.epsilons.co^
 ||paypal.com.0019867.shirene.shirene.com.br^
+||paypal.com.01i.co^
 ||paypal.com.623-923-208.608s4o6vbpi1yehahv.we6nd56ukm.net.ve^
 ||paypal.com.683-763-126.hee2izlz8ekkj7t.tpzwj2yjmk.net.ve^
 ||paypal.com.801-648-565.jxnni3rwa4d01lzjzsnj.45dxjh29e5.com.ve^
@@ -34762,7 +34766,6 @@
 ||ptc-traffic-bitcoin.blogspot.com.co^
 ||ptc-traffic-bitcoin.blogspot.com.uy^
 ||ptc-traffic-bitcoin.blogspot.mx^
-||pti3ow6ugvoroka8ii9t.qznyqyloqmru.es^
 ||ptugnpaypal-plaza.game.ar^
 ||ptyr.pe^
 ||puasslot.co^
@@ -34889,7 +34892,6 @@
 ||qa-web-app.yuge.es^
 ||qaerghbqaehgb.blogspot.cl^
 ||qaerghbqaehgb.blogspot.com.es^
-||qajxk-slipstreaminc.qkipikpp.es^
 ||qap.net.br^
 ||qas-app-exporter-api.homolog.dev-arquivei.com.br^
 ||qas-app.homolog.dev-arquivei.com.br^
@@ -34909,7 +34911,6 @@
 ||qconnect.com.br^
 ||qczjaj.gq^
 ||qd.pe^
-||qd7vh.rqtumewex.es^
 ||qdhokadiya.gq^
 ||qe-pe.co^
 ||qeahbqaedg.blogspot.mx^
@@ -35041,7 +35042,6 @@
 ||qwerut.gq^
 ||qwt.co^
 ||qwtdrx.blogspot.com.br^
-||qybh3.pyxihfrzp.es^
 ||qzjefpaypal-optimizer.game.ar^
 ||r.4wp.co^
 ||r.oblox.com.co^
@@ -38142,7 +38142,6 @@
 ||snapplecap.repl.co^
 ||snapshirt.co^
 ||snaptec.co^
-||sncnp.xnsnrfp.es^
 ||sneakerroom.com.br^
 ||sneakersdistrict.co^
 ||snow.hol.es^
@@ -38277,6 +38276,7 @@
 ||sondomax.co^
 ||songforamazonia.com.br^
 ||songslyricaz.gq^
+||soniaborges.com.br^
 ||sonicslabs.co^
 ||sonlclabs.co^
 ||sonm.facetour.com.br^
@@ -38510,6 +38510,7 @@
 ||spotifypremiumapkpt.com.br^
 ||spotifypremiumapks.com.br^
 ||spotifypremiumapks.es^
+||spotifypremiumapps.com.mx^
 ||spotifypremiumgeek.com.mx^
 ||spotifypremiumsapk.com.mx^
 ||spotifypro.com.co^
@@ -38577,6 +38578,7 @@
 ||srv4.srv.br^
 ||srv54.prodns.com.br^
 ||srvjoa.com.br^
+||ss.good-shop.co^
 ||ss.ousic.co^
 ||ss.outor.co^
 ||ss.viaemporium.com.br^
@@ -38591,7 +38593,6 @@
 ||sses-bbva.acceso-secure.es^
 ||ssitweb.com.br^
 ||sslambienteseguro.com.br^
-||ssloq.mqzbrjwaeea.es^
 ||ssmso.cl^
 ||ssn.com.ve^
 ||ssorajasthanid.co^
@@ -39217,14 +39218,12 @@
 ||syval.co^
 ||sz168-app.co^
 ||sziejpaypal-globalshops.forum.ar^
-||szkfm-commitpartnership.qkipikpp.es^
 ||t0z2pb6yfjhmfhqwssoikbgsjche.mfvaleengenharia.com.br^
 ||t12design.com.br^
 ||t2m.co^
 ||t4s.cl^
 ||t63shop.com.br^
 ||t67uyhgf.co^
-||t6hqn-innomotics.gksnhlbhkq.es^
 ||ta-app.com.ar^
 ||tabao.es^
 ||tabcomons.gq^
@@ -40620,7 +40619,6 @@
 ||turbomak.com.br^
 ||turbomarketing.com.br^
 ||turbomine.co^
-||turbonpro.co^
 ||turbopromo.com.br^
 ||turbospinz.co^
 ||turecarga.cl^
@@ -40790,7 +40788,6 @@
 ||uiaraamazonresort.fd.economysoftware.com.br^
 ||uiaraamazonriverx.com.br^
 ||uiaraamazonxperience.com.br^
-||uii8v-rydin.ghjigclbopy.es^
 ||uij.sisance.co^
 ||ujxhesim6wey.esy.es^
 ||ukfirstco.gq^
@@ -41806,7 +41803,6 @@
 ||vp-diretorioweb.net.br^
 ||vp-trevisocc.com.br^
 ||vp3-diretorioweb.net.br^
-||vp3hv.zgyeea.es^
 ||vplayer.cl^
 ||vpn.kenogard.es^
 ||vps-1004003.neumachile.cl^
@@ -42161,13 +42157,11 @@
 ||wfartuzzaue.co^
 ||wfcomercial.com.br^
 ||wferreira.adv.br^
-||wfyty.qkquna.es^
 ||wg777pg.com.br^
 ||wgarinstalacoes.com.br^
 ||wgimoveis-al.com.br^
 ||wgsltda.com.co^
 ||wgsseguroserastreamento.com.br^
-||wgysk-ardaghgroup.gksnhlbhkq.es^
 ||whambam.co^
 ||what-app.co^
 ||whatelsefloat.com.es^
@@ -42360,7 +42354,6 @@
 ||ws020.coinhive.co^
 ||ws2-app.habolt.mx^
 ||wsc.mx^
-||wsww7-gprmp.gksnhlbhkq.es^
 ||wtamazonia.com.br^
 ||wtamazonia.nuccitms.com.br^
 ||wtoljtcrffbaoxlo-application.ipedep.edu.gt^
@@ -42843,8 +42836,6 @@
 ||xplayn.com.br^
 ||xprepresentacoes.com.br^
 ||xptoplus.com.br^
-||xqqih.qdkmauwvxvzi.es^
-||xri97-epicio.ghjigclbopy.es^
 ||xrp2x.blogspot.cl^
 ||xrp2x.blogspot.com.ar^
 ||xrp2x.blogspot.com.uy^
@@ -42936,10 +42927,8 @@
 ||yavehcosmeticos.com.br^
 ||yawaloaded.co^
 ||ybytymi.gov.py^
-||ybzjy-haselden.qkipikpp.es^
 ||yds.tujaeiq.es^
 ||ydtlbb3d.the3.changyou.co^
-||ydws.ymcajficzrw.es^
 ||yeahday.com.br^
 ||yeahmail.com.br^
 ||yeahpromo.com.br^
@@ -43063,7 +43052,6 @@
 ||z2i.co^
 ||zabelli.com.br^
 ||zabezpieczenie.bnparis-pl.co^
-||zabns-rydindecal.ghjigclbopy.es^
 ||zacdecor.com.br^
 ||zadazdd.blogspot.mx^
 ||zafirohotelsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
@@ -43178,7 +43166,6 @@
 ||zkika0717822.blogspot.com.ar^
 ||zkikaa05281922.blogspot.com.es^
 ||zkml-ai.co^
-||zkxsy.qstgr.es^
 ||zlatan.gq^
 ||zlx.com.br^
 ||zm.cplsqci.es^
