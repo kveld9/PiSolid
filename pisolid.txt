@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-07T08:02:36.004Z
+! Last modified: 2025-06-08T08:02:30.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11329,6 +11329,7 @@
 ||chatgpt.somno.cl^
 ||chatgpt.soyoung.gq^
 ||chatgpt.sqlplus.gq^
+||chatgpt.srl.mx^
 ||chatgpt.staging.omnyve.com.br^
 ||chatgpt.startupvarejo.com.br^
 ||chatgpt.sv^
@@ -11536,6 +11537,7 @@
 ||chatgptexpertise.com.br^
 ||chatgptexperts.co^
 ||chatgptexplicado.com.br^
+||chatgptfacil.com.br^
 ||chatgptfacil.com.maeciclopedia.com.br^
 ||chatgptfacil.maeciclopedia.com.br^
 ||chatgptfasul.com.br^
@@ -15914,6 +15916,7 @@
 ||dropbox.apportal.co^
 ||dropbox.blamefind.gq^
 ||dropbox.camaradeaimores.mg.gov.br^
+||dropbox.com.01i.co^
 ||dropbox.i9edu.net.br^
 ||dropbox.rustonpaving.gq^
 ||dropelon.co^
@@ -16052,7 +16055,6 @@
 ||e-onay.co^
 ||e-orange.co^
 ||e-pes2020.com.br^
-||e-receipts.co^
 ||e-saudeonline.com.br^
 ||e-smu.com.ar^
 ||e-solutions.com.pe^
@@ -16346,6 +16348,7 @@
 ||egbsgx.blogspot.com.es^
 ||egenes.gq^
 ||egentic.com.br^
+||egepud.edu.pe^
 ||egewtdgwetgdsgewtge.blogspot.pe^
 ||eggsforsalenearme.co^
 ||eggstudio.com.br^
@@ -17294,7 +17297,6 @@
 ||expertleads.com.br^
 ||expertlog.com.br^
 ||expertmarketing.com.br^
-||expertsarg.es^
 ||explicabitcoin.com.br^
 ||explodepromo.com.br^
 ||explonun.cl^
@@ -19772,6 +19774,7 @@
 ||gurupuz.co^
 ||guruweb-app.myvillage.com.br^
 ||gury.com.br^
+||gussenengenharia.com.br^
 ||gustavoberoli.com.br^
 ||gustavomotta.com.br^
 ||gustavoreisoficial.com.br^
@@ -19784,6 +19787,7 @@
 ||gvztim.gq^
 ||gwbcardans.com.br^
 ||gwrepresentacoes.com.br^
+||gxinvesting.com.br^
 ||gxmd.com.br^
 ||gyaltda.cl^
 ||gycemltda.cl^
@@ -24332,6 +24336,7 @@
 ||hppartes.cl^
 ||hpsupports.co^
 ||hptech.com.br^
+||hqex8quf.rpcld.co^
 ||hr-app-dev.opal.com.br^
 ||hr-app.opal.com.br^
 ||hr-apply.co^
@@ -27007,6 +27012,7 @@
 ||ligadasflorestas.org.br^
 ||ligaesports.com.br^
 ||ligaf7.cl^
+||ligamat.com.br^
 ||ligasdeargentina.com.ar^
 ||light-asset.co^
 ||lightforms.co^
@@ -29284,7 +29290,6 @@
 ||modeluuniformes.com.br^
 ||modernacontabil.com.br^
 ||moderncasa.com.br^
-||modhub.com.br^
 ||modmountltd.co^
 ||modosdamoda.com.br^
 ||modular360.es^
@@ -31595,6 +31600,7 @@
 ||openaifab.avalonagency.co^
 ||openaifab.co^
 ||openaiglasses.co^
+||openaiglobal.co^
 ||openaigpt.co^
 ||openaigpt.com.br^
 ||openaigpt.es^
@@ -38100,7 +38106,6 @@
 ||smartsolutionsenergy.com.ar^
 ||smartthings.com.ar^
 ||smashcenter.com.br^
-||smashmc.co^
 ||smasq.blogspot.com.co^
 ||smbc-c.co^
 ||smccontabil.com.br^
@@ -38276,7 +38281,6 @@
 ||sondomax.co^
 ||songforamazonia.com.br^
 ||songslyricaz.gq^
-||soniaborges.com.br^
 ||sonicslabs.co^
 ||sonlclabs.co^
 ||sonm.facetour.com.br^
@@ -38362,6 +38366,7 @@
 ||sousaveiculos.com.br^
 ||southark.co^
 ||southvalley.com.br^
+||soutson-france-24-heures-pages-net-br-communaute-2025.pages.net.br^
 ||souzaazevedo.com.br^
 ||souzaeoliveira.com.br^
 ||souzasistemas.com.br^
@@ -38510,7 +38515,6 @@
 ||spotifypremiumapkpt.com.br^
 ||spotifypremiumapks.com.br^
 ||spotifypremiumapks.es^
-||spotifypremiumapps.com.mx^
 ||spotifypremiumgeek.com.mx^
 ||spotifypremiumsapk.com.mx^
 ||spotifypro.com.co^
@@ -38578,7 +38582,6 @@
 ||srv4.srv.br^
 ||srv54.prodns.com.br^
 ||srvjoa.com.br^
-||ss.good-shop.co^
 ||ss.ousic.co^
 ||ss.outor.co^
 ||ss.viaemporium.com.br^
@@ -41984,6 +41987,7 @@
 ||web-apps.seremisalud15.cl^
 ||web-booking.co^
 ||web-centrum24-pl.es^
+||web-openaiassistant.dev2.macamedia.com.ar^
 ||web.com.uy^
 ||web3pr.gq^
 ||web50aqui.es^
