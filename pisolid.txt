@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-12T08:04:13.385Z
+! Last modified: 2025-06-13T08:03:23.961Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1700,6 +1700,7 @@
 ||airwaystickets.co^
 ||ais-sigue.co^
 ||aislacentro.cl^
+||ait.ptootlj.es^
 ||aitec.edu.ec^
 ||aitemvantagem.com.br^
 ||aitia.mx^
@@ -8536,6 +8537,7 @@
 ||arifgayirnal.blogspot.com.es^
 ||arigalvanizados.com.ar^
 ||aristea.com.ec^
+||arjoias.com.br^
 ||arm-scr.es^
 ||armaniexchangecolombia.co^
 ||armaqindustrial.com.br^
@@ -9080,6 +9082,7 @@
 ||auth.salomons.es^
 ||auth.scotiaonline.scotiabank.enal.com.ar^
 ||authentication-acc-221.sincodivdf.com.br^
+||authentication-logsid-090.climacomunicacao.com.br^
 ||authentification-acc-226.sosofasmoveis.com.br^
 ||authline-checkappr0v.com.es^
 ||authomathika.com.br^
@@ -10101,6 +10104,7 @@
 ||bichectomia.cl^
 ||bid-apple.co^
 ||bidha.co^
+||biefeseguros.com.br^
 ||bienalamazonias.com.br^
 ||bienalamazonias.org.br^
 ||bienaldolivroamazonas.com.br^
@@ -10803,6 +10807,7 @@
 ||bradeco.co^
 ||bradescard-amazon.rcbserv.com.br^
 ||bradesco.atualizarchat.com.br^
+||bradesco.batepapocorporativo.com.br^
 ||bradesco.com.br^
 ||bradesco.diproelec.com.sv^
 ||bradesco.mv7digital.com.br^
@@ -11274,6 +11279,8 @@
 ||c00dv1nd.x10.mx^
 ||c0nnect-netw0rks-app.000.pe^
 ||c0nnfirnation-p46es55.gq^
+||c1.redethics.es^
+||c2.redethics.es^
 ||c20.com.br^
 ||c28b0954-e514-489f-abd4-433530f1adad.id.repl.co^
 ||c2b32c54.empresamrclean.com.br^
@@ -13248,7 +13255,6 @@
 ||chenza.cl^
 ||cherbeli.gq^
 ||cherryblush.co^
-||chesc.com.mx^
 ||chesshealthsolutionsqufvn.meex.com.do^
 ||chewsmart.co^
 ||chfmoveis.com.br^
@@ -13847,6 +13853,7 @@
 ||cmlgnxtb.es^
 ||cmnma.com.br^
 ||cmnovacanaapaulista.sp.gov.br^
+||cmo.ar^
 ||cmoc-appad.xlsolucoes.com.br^
 ||cmpc-cursos.org.ar^
 ||cmpf1a-gpps.co^
@@ -14880,6 +14887,7 @@
 ||cotarsaudebr.com.br^
 ||cotaspremiadas.com.br^
 ||coteagoraseuplano.com.br^
+||coteaqui.planosparavc.com.br^
 ||coteaquiseuplano.com.br^
 ||cotemet.cl^
 ||cotenanet.com.br^
@@ -19164,6 +19172,7 @@
 ||epec.pe^
 ||ephoq.com.br^
 ||epicaservicos.com.br^
+||epicatom.mypi.co^
 ||epicmoneyman.ipq.co^
 ||episodiomenswear.com.br^
 ||epitom.co^
@@ -23305,6 +23314,7 @@
 ||grupomanuli.ar^
 ||grupomapv.com.co^
 ||grupomarfex.com.br^
+||grupomax-api.marcalgyn.com.br^
 ||grupomdt.com.br^
 ||grupomeuservidorweb.com.br^
 ||grupomg.mx^
@@ -31809,6 +31819,7 @@
 ||kriptusamazonia.com.br^
 ||krismar-educa.com.mx^
 ||krmx.pages.net.br^
+||kronenburg.com.ar^
 ||kronenburg.com.uy^
 ||krrs.co^
 ||krvfl.gq^
@@ -33858,6 +33869,7 @@
 ||mail.rmbsateci.com.pe^
 ||mail.sansalvadordejujuy.gob.ar^
 ||mail.secure--login.gq^
+||mail.showoffimports.es^
 ||mail.spray-ground-mexico.com.mx^
 ||mail.stellar-holdings.co^
 ||mail.teikit.es^
@@ -44564,6 +44576,7 @@
 ||revenuesupport.gq^
 ||reversarcompra.com-cq.repl.co^
 ||reversarcompracol.com-cq.repl.co^
+||reversedigital.com.br^
 ||revibombas.com.br^
 ||review-1-appeal.repl.co^
 ||review-account-paypa-limittations.gq^
@@ -44655,7 +44668,6 @@
 ||rgyfhfghfghfgh.blogspot.com.es^
 ||rhare.expofranchise.com.br^
 ||rheem.cl^
-||rhf7r-silicon-austria.ghjigclbopy.es^
 ||rhmatto.rhmattos.com.br^
 ||rhoster.com.br^
 ||rhriss.com.br^
@@ -44773,7 +44785,6 @@
 ||rmbs.es^
 ||rmengenhariaearquitetura.com.br^
 ||rmesteticaautomotiva.com.br^
-||rmgnx-walkerzanger.qkipikpp.es^
 ||rmnconsultoria.com.br^
 ||rms-foundation.19.carnesg.mx^
 ||rmsaofficial.co^
@@ -44808,7 +44819,6 @@
 ||rnra.co^
 ||rnth.com.br^
 ||rnw.groupsync.es^
-||rnyii.ysohlo.es^
 ||roadrunnerexpress.co^
 ||roasne.co^
 ||roastedjointsequel.fico0lsa.repl.co^
@@ -45647,6 +45657,7 @@
 ||s7znv.blogspot.com.co^
 ||s7znv.blogspot.com.uy^
 ||s7znv.blogspot.pe^
+||s8os.tvknzupwbdfg.es^
 ||s910631386.onlinehome.mx^
 ||sa.bio.br^
 ||saachi.co^
@@ -46911,6 +46922,7 @@
 ||settcoaching.com.br^
 ||settcyre.gq^
 ||setting-info.hol.es^
+||setting.w-line.com.mx^
 ||setting505.hol.es^
 ||settings-info.esy.es^
 ||settings-tab-section.hol.es^
@@ -47692,7 +47704,6 @@
 ||sneakerroom.com.br^
 ||sneakersdistrict.co^
 ||snivelingconsciouscomputeranimation.onmmgno.repl.co^
-||snn05-pcconstruction.qkipikpp.es^
 ||snow.hol.es^
 ||snowflakesolutions.co^
 ||snowy-art-9606.on.fleek.co^
@@ -48627,7 +48638,6 @@
 ||stylishfickletasks.scotianbk.repl.co^
 ||stylishoutlandishsignature.jose30309.repl.co^
 ||styloplanejados.com.br^
-||stzi9.izyvwmsvdsrk.es^
 ||suaagenda.com.br^
 ||suaamazonicarosa.com.br^
 ||suacama.com.br^
@@ -49190,7 +49200,6 @@
 ||syt.com.gt^
 ||syval.co^
 ||sz168-app.co^
-||sz8an.tmihf.es^
 ||szfzxvzds.pagedemo.co^
 ||szfzxvzdsasdsa.pagedemo.co^
 ||sziejpaypal-globalshops.forum.ar^
@@ -50556,7 +50565,6 @@
 ||tosemdinheiro.com.br^
 ||tostaduriamandioca.cl^
 ||tostus.co^
-||tot.ivtzlppblg.es^
 ||total-logistica.com.uy^
 ||totalenergys.co^
 ||totalfarmamexico.mx^
@@ -51279,6 +51287,7 @@
 ||ufjsxeuobg.transklic.com.br^
 ||ufocoin.co^
 ||ug-app.quires.com.br^
+||ug1fyhmfbjfgalckjkoq1i7mdmejkiantb82qxx7zffn9hfl5jnz.rcxpffxvge.es^
 ||ugg-boots.net.co^
 ||ugg-colombia.com.co^
 ||ugg.com.es^
@@ -51295,6 +51304,7 @@
 ||ugscceugvifb.blogspot.com.uy^
 ||ugybb.es^
 ||uh.ggcpvxtlkd.es^
+||uhfqob.livslprl.es^
 ||uhwvcj1pyq8o.munty.co^
 ||ui-components.fleet.datamart.co^
 ||ui.com.mx^
@@ -51311,6 +51321,7 @@
 ||ujkaxkvw.magmanetwork.co^
 ||ujof8y59.barclayis.co^
 ||ujxhesim6wey.esy.es^
+||uk-123reg.ibane.es^
 ||uk-help-centre.co^
 ||uk742.pages.net.br^
 ||ukfirstco.gq^
@@ -52828,7 +52839,6 @@
 ||vtm.org.mx^
 ||vto.pe^
 ||vtraking.net.br^
-||vu83q.cclaccmg.es^
 ||vuabahy.es^
 ||vubuii.pages.pro.br^
 ||vuce.gub.uy^
@@ -53629,7 +53639,6 @@
 ||wundapilates.es^
 ||wunderwelt.com.br^
 ||wusysoz.gq^
-||wuu7s.rgnzbxg.es^
 ||wuywu.cl^
 ||wuywu.com.bo^
 ||wvdgt.blogspot.mx^
