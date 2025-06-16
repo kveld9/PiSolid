@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-15T08:02:17.608Z
+! Last modified: 2025-06-16T08:02:28.183Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -670,7 +670,6 @@
 ||abpra.com.br^
 ||abrac-mdw-app-qas.itsscloud.com.br^
 ||abraji.org.br^
-||abramge.com.br^
 ||abraxas-apppop3.secure.api.old.auth.master.ns.sitemap.autoconf7bq6by-am-asey-am-ase.appserviceensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||abraxas-apppop3.secure.gitlab.api.old.auth.master.ns.sitemap.autoconf7bq6by-am-ase.appserviceensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||abraxas-apppop3.secure.gitlab.api.old.auth.master.ns.sitemap.autoconf7bq6by-am-asey-am-ase.appserviceensiteupport.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -7858,6 +7857,7 @@
 ||araujoeamazonas.com.br^
 ||arawaks.com.ve^
 ||arba.gq^
+||arbeitsplatze.co^
 ||arbell.com.mx^
 ||arbitraging.co^
 ||arbomtec.com.br^
@@ -10428,6 +10428,7 @@
 ||capifer.com.br^
 ||capisa.com.mx^
 ||capital-humano.cl^
+||capital-partnersgroup.co^
 ||capital-trade.co^
 ||capital500.co^
 ||capitalamazonico.com.br^
@@ -10438,7 +10439,6 @@
 ||capitalleads.com.br^
 ||capitalmaterial.com.br^
 ||capitalonetravel.co^
-||capitalunionbank.co^
 ||capitanhook.es^
 ||capitaorodrigo.com.br^
 ||capoker.com.ar^
@@ -12470,6 +12470,7 @@
 ||coinbase.com.eslogin.co^
 ||coinbase.pablitux.com.br^
 ||coinbaselogin.blogspot.com.uy^
+||coinbaselogindesk.blogspot.com.ar^
 ||coinbaseus.co^
 ||coinchecker.com.br^
 ||coineurocapital.co^
@@ -19144,6 +19145,7 @@
 ||givealwyesd.blogspot.com.co^
 ||givemoneycashapp.blogspot.com.br^
 ||givemoneycashapp.blogspot.mx^
+||giverblx12.blogspot.com.co^
 ||givovasport.es^
 ||gjftt.mypi.co^
 ||gjnrxd.blogspot.com.ar^
@@ -38819,6 +38821,7 @@
 ||ssses-bbva.acceso-secure.es^
 ||sssolutions.com.br^
 ||sssses-bbva.acceso-secure.es^
+||ssssl.es^
 ||ssssses-bbva.acceso-secure.es^
 ||ssstiktok.com.co^
 ||sstamlyn.gq^
@@ -39727,6 +39730,7 @@
 ||teleoticadelivery.com.br^
 ||telepajxt.co^
 ||telepizzaamazonas.com.br^
+||teleponadzkiya.co^
 ||telerecarga.com.ar^
 ||telero.es^
 ||telesa.net.br^
@@ -42562,6 +42566,7 @@
 ||wonfshes.com.ve^
 ||woo-headless-bcknd.maksimer.es^
 ||woo-headless-bcknd.utvikl.es^
+||woodmarkgroup.es^
 ||woodxestofados.com.br^
 ||wordpress-import-app.cosmicapp1.co^
 ||wordpress.factoriadigitalpremium.es^
