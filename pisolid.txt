@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-16T08:02:28.183Z
+! Last modified: 2025-06-17T08:02:16.115Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5906,6 +5906,7 @@
 ||apiapple.staging01.paroli.es^
 ||apiapplemotor.bosscar.co^
 ||apic-chile.cl^
+||apichat.gptrend.com.br^
 ||apichatgpt.coronelazevedo.com.br^
 ||apichatgpt.dev.curbe.com.ec^
 ||apichatgpt.ifconnectsystem.com.br^
@@ -9098,6 +9099,7 @@
 ||bet625.net.br^
 ||bet661.com.br^
 ||bet696.com.br^
+||bet73.co^
 ||bet7477.com.br^
 ||bet7477.net.br^
 ||bet77788.net.br^
@@ -10990,6 +10992,7 @@
 ||cespu.com.ar^
 ||cestadepromo.com.br^
 ||cestasrio.com.br^
+||cesub.com.br^
 ||cesy.edu.mx^
 ||cet-app.focomc.com.br^
 ||cet-puertovaras.cl^
@@ -11119,6 +11122,7 @@
 ||chat.gptjuridico.com.br^
 ||chat.gptjus.com.br^
 ||chat.gptmedios.cl^
+||chat.gptrend.com.br^
 ||chat.pages.mus.br^
 ||chatgpt-3.es^
 ||chatgpt-4.co^
@@ -11291,6 +11295,7 @@
 ||chatgpt.jillofalltrad.es^
 ||chatgpt.joanmedina.es^
 ||chatgpt.jodines.com.br^
+||chatgpt.joogtech.com.br^
 ||chatgpt.josecortes.co^
 ||chatgpt.jubert.co^
 ||chatgpt.kdkhost.com.br^
@@ -11821,6 +11826,7 @@
 ||chatgptw.com.br^
 ||chatgptwa.repl.co^
 ||chatgptwallet.co^
+||chatgptweb.mx^
 ||chatgptwork.co^
 ||chatgptworkm.whf.bz^
 ||chatgptworld.co^
@@ -12470,7 +12476,6 @@
 ||coinbase.com.eslogin.co^
 ||coinbase.pablitux.com.br^
 ||coinbaselogin.blogspot.com.uy^
-||coinbaselogindesk.blogspot.com.ar^
 ||coinbaseus.co^
 ||coinchecker.com.br^
 ||coineurocapital.co^
@@ -13224,6 +13229,7 @@
 ||cpasmieux.ad^
 ||cpbconstrutora.eng.br^
 ||cpcac.pe^
+||cpcalendars.sandropeixoto.com.br^
 ||cpcef.org.ar^
 ||cpcont-approval.lemdeploy-delete-test-ca-centrapop.support.remweb.apwwtemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||cpcont-approval.lemdeploy-delete-test-ca-centrroval.lemdeploy-delete-test-ca-centrapop.support.remweb.apwwtemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -19145,7 +19151,6 @@
 ||givealwyesd.blogspot.com.co^
 ||givemoneycashapp.blogspot.com.br^
 ||givemoneycashapp.blogspot.mx^
-||giverblx12.blogspot.com.co^
 ||givovasport.es^
 ||gjftt.mypi.co^
 ||gjnrxd.blogspot.com.ar^
@@ -19972,6 +19977,7 @@
 ||hagamosalgo.co^
 ||haggar-mexico.com.mx^
 ||hahola123.blogspot.cl^
+||haimgestaoimobiliaria.com.br^
 ||hairoff.co^
 ||haixcolombia.com.co^
 ||haixespana.es^
@@ -25220,6 +25226,7 @@
 ||inovarcont.com.br^
 ||inovaseguro.com.br^
 ||inovavital.com.br^
+||inovebartenders.com.br^
 ||inoveflex.com.br^
 ||inovtecautomacao.com.br^
 ||inpacksolutions.es^
@@ -26677,6 +26684,8 @@
 ||kujtfc.blogspot.com.co^
 ||kujtfc.blogspot.com.uy^
 ||kulmeo.gq^
+||kunden-commerzbank-de.forestalpinto.cl^
+||kunden-commerzbank-de.online.forestalpinto.cl^
 ||kungxd.blogspot.com.br^
 ||kungxd.blogspot.com.co^
 ||kuricaambiental.com.br^
@@ -28146,6 +28155,7 @@
 ||maltex.com.br^
 ||malucomail.com.br^
 ||malukamakea.es^
+||malupieng.com.br^
 ||maluuuuuuuuuu.com.br^
 ||malvisa.com.br^
 ||malwares-unibh.blogspot.com.br^
@@ -28884,6 +28894,7 @@
 ||metal-este.com.br^
 ||metal.co.cr^
 ||metalbank.co^
+||metalbel.com.br^
 ||metalcar.es^
 ||metalconflex.com.br^
 ||metalead.com.br^
@@ -31620,6 +31631,7 @@
 ||openai.busdigital.pe^
 ||openai.businessintelligence.pixerama.com.br^
 ||openai.bz^
+||openai.cartao.tur.br^
 ||openai.ccoo-correos.es^
 ||openai.chat.com.ar^
 ||openai.cl^
@@ -31764,6 +31776,7 @@
 ||openaichatapike.repl.co^
 ||openaichatbot.lafrabricadeemprendimientos.es^
 ||openaichatgpt.co^
+||openaichatgpt.com.br^
 ||openaicm.co^
 ||openaicoders.co^
 ||openaicoin.co^
@@ -33061,6 +33074,7 @@
 ||paypal.com.850-327-899.ge0a5s5etjd5z5j18jbw.mzz8qx3jd4.net.ve^
 ||paypal.com.ar^
 ||paypal.com.au-user-agreement.intranet.antoniopereiraadvogados.com.br^
+||paypal.com.br.cortezeletrobike.com.br^
 ||paypal.com.br^
 ||paypal.com.caseid.co^
 ||paypal.com.cgi-bin-webscr.cmd-login-submit.dispatch.6785d80a13c0dbe.f879b5c2a4f6b3d0b6.85d80a13c0dbd80a1c0db1f8.salcalifornia.co^
@@ -37180,6 +37194,7 @@
 ||saveamazoniabrazil.dvictoriano.com.br^
 ||savemylogs.es^
 ||saverpa.gq^
+||savetik.com.co^
 ||savingamazon.com.br^
 ||savingtheamazon.es^
 ||savioaraujo.com.br^
@@ -39900,6 +39915,7 @@
 ||test-staking-app.velar.co^
 ||test-swap-app.velar.co^
 ||test-vue-app.eedv.co^
+||test.fabrx.co^
 ||test1-app.vimmerse.co^
 ||test1.clouds11.co^
 ||test2-app.vimmerse.co^
@@ -40776,6 +40792,7 @@
 ||tssistemas.com.br^
 ||tst-mapfy-app.gatec.com.br^
 ||ttblues.mx^
+||ttd.good-shop.co^
 ||ttdistribuidor.com.br^
 ||ttozkycrbqybhkn5fsed.mafe.edu.co^
 ||ttpjbot.gq^
@@ -41927,6 +41944,7 @@
 ||vitafollinbrasil.com.br^
 ||vital-admin.gq^
 ||vitalhost.com.br^
+||vitalidadclub.com.co^
 ||vitallewis.esy.es^
 ||vitalofertas.com.br^
 ||vitalsec.cl^
