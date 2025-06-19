@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-18T08:02:34.838Z
+! Last modified: 2025-06-19T08:02:09.223Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1005,6 +1005,7 @@
 ||advbrdoc.com.br^
 ||advcs.co^
 ||advdomingues.com.br^
+||adventuretransporttat.com.do^
 ||advertsetting.hol.es^
 ||advico-si.co^
 ||advlisboa.com.br^
@@ -9103,7 +9104,6 @@
 ||bet625.net.br^
 ||bet661.com.br^
 ||bet696.com.br^
-||bet73.co^
 ||bet7477.com.br^
 ||bet7477.net.br^
 ||bet77788.net.br^
@@ -12325,6 +12325,7 @@
 ||cloudsendmail.com.br^
 ||cloudsites.com.br^
 ||cloudssd.com.br^
+||cloudwebnet.co^
 ||cloudweek.com.br^
 ||cloudworld.com.br^
 ||clovergy.co^
@@ -17988,6 +17989,7 @@
 ||fideicomisoimperio.com.ar^
 ||fidelit-app.com.br^
 ||fidelity-appraisals.co^
+||fidesrely.com.mx^
 ||fiduciariobajio.com.mx^
 ||fiera-global.gq^
 ||fiestafortunes.mx^
@@ -20135,7 +20137,6 @@
 ||helborsp.axusmarketing.com.br^
 ||helchiloe.cl^
 ||helenchalkley578-od3.kleap.co^
-||helguerosport.com.ar^
 ||heliamazonas.co^
 ||heliotide.mypi.co^
 ||hellandheavenopenair.com.mx^
@@ -25117,6 +25118,7 @@
 ||infinityfit-app.2mind.com.br^
 ||infinitygamer.com.br^
 ||infinityhc.com.br^
+||infinityproducts.pe^
 ||infinnibrasil.com.br^
 ||inflaloquitos.cl^
 ||inflatob.gq^
@@ -26551,6 +26553,7 @@
 ||kingbtc.co^
 ||kingkongfurniture.easy.co^
 ||kingsire.co^
+||kingsmarketing.co^
 ||kingsoluciones.pe^
 ||kinogo.ec^
 ||kinokrad.co^
@@ -27453,7 +27456,7 @@
 ||location-apple.co^
 ||location-applemaps.co^
 ||locations-apple.co^
-||locawsato.blogspot.com.co^
+||locawsato.blogspot.com.es^
 ||locibelder.com.do^
 ||lockedintrading.co^
 ||locker-petz-app.dev.stoomlab.com.br^
@@ -28216,7 +28219,6 @@
 ||manage-amazon.logodesignagency.co^
 ||manage-applleid-applle-us-com.autovidroscalogeras.com.br^
 ||manage-authent-en-us-id-992.jotacicli.com.br^
-||manage-webinformrenewstatementmembership.webradiovidanews.robsonhost.com.br^
 ||manage.polka-dot.co^
 ||manage.service-mhdpr.gq^
 ||manage.signin.paypalsecure.com.zfsom.co^
@@ -29845,6 +29847,7 @@
 ||mundoapplesanisidro.com.ar^
 ||mundoapplesjc.com.br^
 ||mundoapplesp.com.br^
+||mundocarnes.cl^
 ||mundoclouditsolutions.com.br^
 ||mundocurvas.cl^
 ||mundodainfo.com.br^
@@ -31090,6 +31093,7 @@
 ||novochatgpt.com.br^
 ||novochatgpt.potelo.com.br^
 ||novoconstructora.es^
+||novodominio01.com.br^
 ||novoglass.com.co^
 ||novoib5.7comm.com.br^
 ||novoolhar.com.br^
@@ -36957,6 +36961,7 @@
 ||s7znv.blogspot.com.uy^
 ||s7znv.blogspot.pe^
 ||s8os.tvknzupwbdfg.es^
+||s8qtbywu.987691.co^
 ||sa.bio.br^
 ||saachi.co^
 ||saaddxczshop.es^
@@ -43295,7 +43300,6 @@
 ||yeyu.gq^
 ||yf6j.wzatrge.es^
 ||yfqkwvzkl.gq^
-||yfthfwk8.987691.co^
 ||ygonzalez.es^
 ||ygsddl1.gq^
 ||ygtrdx.blogspot.com.es^
@@ -43406,6 +43410,7 @@
 ||zabelli.com.br^
 ||zabezpieczenie.bnparis-pl.co^
 ||zacdecor.com.br^
+||zacto.cl^
 ||zadazdd.blogspot.mx^
 ||zafirohotelsloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||zaganelli.adv.br^
@@ -43428,6 +43433,7 @@
 ||zanonball.com.br^
 ||zanonitransportes.com.br^
 ||zapallarnorte.cl^
+||zapataplast.com.ar^
 ||zapatillasnikefactory.es^
 ||zapatillasrunningonline.es^
 ||zapatosclarkscolombia.com.co^
@@ -43436,6 +43442,7 @@
 ||zapchatgpt.capstoop.com.br^
 ||zaphub-app.castor.gdxconsulting.com.br^
 ||zaphub-app.polux.gdxconsulting.com.br^
+||zapinformatica.net.br^
 ||zapmultas.com.br^
 ||zapples.co^
 ||zapsegurancas.com.br^
@@ -43458,6 +43465,7 @@
 ||zczczyuida78y2i.blogspot.pe^
 ||zdrmqijrh.es^
 ||zdsiqjcn.es^
+||zebarbudo.com.br^
 ||zebida9ayahderbzfcnodo.blogspot.com.es^
 ||zebolachabar.com.br^
 ||zebra88login.co^
@@ -43517,6 +43525,7 @@
 ||ziu8e8.blogspot.com.es^
 ||ziu8e8.blogspot.com.uy^
 ||ziu8e8.blogspot.mx^
+||zivalife.com.br^
 ||zivora-app.co^
 ||zjc.bz^
 ||zk5.co^
@@ -43560,6 +43569,7 @@
 ||zorg51.esy.es^
 ||zpy-customer-communication-app-bff.staging.usezapay.com.br^
 ||zqjgxd.blogspot.com.br^
+||zr-estudio.com.ar^
 ||zs59u2vwvups.co^
 ||zsedxrfcgvt.gq^
 ||zsn5qtrgfpu4tmpg.onion.gq^
