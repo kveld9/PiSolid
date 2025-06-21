@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-20T08:02:16.727Z
+! Last modified: 2025-06-21T08:02:18.186Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -148,6 +148,7 @@
 ||09a.co^
 ||0d1ba8.joultp.es^
 ||0d804e52.alvoradaconsultoria.com.br^
+||0ffgyedfrvl.qkipikpp.es^
 ||0hj.com.br^
 ||0x.lfyabbhdluzu.es^
 ||0x0-eligibility.co^
@@ -372,7 +373,6 @@
 ||4f3blz84z38n.umso.co^
 ||4freemovie.gq^
 ||4hnz49a8iy4v8dtjkuerpmf.sitracon.com.pe^
-||4l4j55un.987691.co^
 ||4mmanutencaoeletrica.com.br^
 ||4serjfr.com.br^
 ||4yh.co^
@@ -485,6 +485,7 @@
 ||7852-bcmidgetrademarketing.gq^
 ||789bet188.co^
 ||791804551256359.graficaaoquadrado.com.br^
+||79ml2xl73.gwzimifoi.es^
 ||79ze.kytiauyoss.es^
 ||7af04237.coletivohojeapassarinho.com.br^
 ||7corp.com.br^
@@ -518,6 +519,7 @@
 ||88.freesoul.gq^
 ||880227596061819.graficaaoquadrado.com.br^
 ||88110.co^
+||88420000.celulafranquias.com.br^
 ||88506.co^
 ||888183.co^
 ||888283.co^
@@ -564,6 +566,7 @@
 ||9998ijanbhdj.blogspot.mx^
 ||999kk1.com.br^
 ||99mining.cl^
+||99naturais.com.br^
 ||99onlinebola.co^
 ||9b27e1f1.cftvpinheiro.com.br^
 ||9d6gr424nzt1evifhj6e.wvorvfz.es^
@@ -644,7 +647,9 @@
 ||abear.com.ar^
 ||abegs.com.br^
 ||abeocpr.com.br^
+||abepets.visaojr.com.br^
 ||abercrombie.net.co^
+||abertura.michelledelara.com.br^
 ||aberturademercado.com.br^
 ||abes.co^
 ||abgreen.com.br^
@@ -1006,7 +1011,6 @@
 ||advbrdoc.com.br^
 ||advcs.co^
 ||advdomingues.com.br^
-||adventuretransporttat.com.do^
 ||advertsetting.hol.es^
 ||advico-si.co^
 ||advlisboa.com.br^
@@ -7903,6 +7907,7 @@
 ||argamasa.cl^
 ||argencello.com.ar^
 ||argensudalimentaria.com.ar^
+||argentas.co^
 ||argentec.com.ar^
 ||argeradores.com.br^
 ||argo-wf-qa-awseuw1-cp-app-1.qa.cld.elstc.co^
@@ -10303,6 +10308,7 @@
 ||calilsalles.com.br^
 ||calipto-app.paas.node07.de.vix.br^
 ||calipto9-app.paas.node10.de.vix.br^
+||call.qkipikpp.es^
 ||call4u.com.ve^
 ||callitspringco.com.co^
 ||callpineapple.co^
@@ -14922,6 +14928,7 @@
 ||deamazon.com.br^
 ||deamazon.gonpweb.com.br^
 ||deamazonia.com.br^
+||deamoseguros.com.br^
 ||deangelisfilmes.com.br^
 ||deapple.es^
 ||deardardaear.blogspot.com.uy^
@@ -14947,6 +14954,7 @@
 ||decoratupiel.es^
 ||decoravinilo.es^
 ||decorcenter.co.pe^
+||decorecasacastanhal.com.br^
 ||decoritababy.com.br^
 ||decorvise.es^
 ||decoutinho.com.br^
@@ -14992,6 +15000,7 @@
 ||delarus.co^
 ||delegatepaypal.vissioon.co^
 ||delegation.co^
+||delermando.com.br^
 ||deleverfabrica.com.br^
 ||delfinlimpiezas.es^
 ||delhibulksms.co^
@@ -15011,6 +15020,7 @@
 ||delivery.slz.br^
 ||deliverytechnologies.com.co^
 ||delivr-app.meusitenainternet.com.br^
+||deliwise.com.br^
 ||dellamazon.es^
 ||dellavoherrajes.com.ar^
 ||dellver7ollxpls.span-dostawkans3.es^
@@ -15022,6 +15032,7 @@
 ||delpueblocomodoro.com.ar^
 ||deltabeneficios.com.br^
 ||deltaextintores.com.br^
+||deltamedicalbrasilia.com.br^
 ||deltametals.co^
 ||deluxeamazon.co^
 ||demaispromo.com.br^
@@ -15037,7 +15048,9 @@
 ||demo-app.settle.co^
 ||demo-app.soffit.co^
 ||demo-apps.datacredito.com.co^
+||demo-digitalmag.actionlabs.com.br^
 ||demo-tpi-portal-app.apps.ocpdes.t-systems.es^
+||demo.facialarts.mx^
 ||demo.gesto.es^
 ||demo.webaccess.mx^
 ||demo2.aurorapro.co^
@@ -15076,11 +15089,13 @@
 ||dentcell.com.mx^
 ||dentegi.gq^
 ||dentesplaza.com.br^
+||dentista.auwebdesign.com.br^
 ||dentsclin.com.br^
 ||deo0os99.esy.es^
 ||departamento-amazonas.opendi.co^
 ||departuretrip.com.br^
 ||depascoalcalhas.com.br^
+||depaulo.com.br^
 ||depilmax.com.br^
 ||deplm.com.ar^
 ||deploy-delete-app-0.dberger-ure.sitemaps.cursosbelezaestetica.com.br^
@@ -15095,6 +15110,7 @@
 ||deploy-delete-app-cb427170234232e.lukegreaves.cosofiesitemaps.cursosbelezaestetica.com.br^
 ||deploy-delete-app-rg.cursosbelezaestetica.com.br^
 ||deploy-delete-app-us-east-2rd.phpmyadmin.img.chat.sitemap.sitemaps.cursosbelezaestetica.com.br^
+||depoimentos.professorcorazza.com.br^
 ||depormania.es^
 ||deportesdoxa.com.mx^
 ||deportesonce.com.ar^
@@ -15107,11 +15123,13 @@
 ||depradoork.gq^
 ||deptgadcha.gq^
 ||deptoportunidades.cl^
+||deputadacampagnolo.com.br^
 ||dercocenteryusic.cl^
 ||dercocupon.raya.cl^
 ||derechoparlamentario.cl^
 ||derechoshumanos.gob.ec^
 ||derekxdrive.gq^
+||dermagummy.saudeverdenaweb.com.br^
 ||dermefisio.com.br^
 ||desa-appempresas.bancoestado.cl^
 ||desafioalimentosybioproductos.cl^
@@ -15127,9 +15145,11 @@
 ||desbravandoaamazon.com.br^
 ||desbraveamazonia.com.br^
 ||desbravo.com.br^
+||descansarbien.com.ar^
 ||descargartrap.com.ve^
 ||descente.es^
 ||desckvbrat.com.br^
+||descomoveis.com.br^
 ||descomplicandochatgpt.com.br^
 ||descontaovip.com.br^
 ||descontaso.com.br^
@@ -15146,6 +15166,7 @@
 ||descuentosamazon.com.mx^
 ||desejofiel.com.br^
 ||desenhoscriptivo.com.br^
+||desentupidoraalternativa.com.br^
 ||desentupidoraamazonia.com.br^
 ||desentupidoraamazonia.lipegs.com.br^
 ||desentupidoradepalmas.com.br^
@@ -15623,6 +15644,7 @@
 ||directpaydaylendersonly.gq^
 ||directpower.co^
 ||directsuccess.co^
+||directum.com.ar^
 ||directun.co^
 ||directvisa.com.br^
 ||direitoacidadania.com.br^
@@ -15762,6 +15784,7 @@
 ||dnamazonpet.com.br^
 ||dnamazonpetcare.com.br^
 ||dndchile.cl^
+||dnffeerof9.qkipikpp.es^
 ||dns-applinet.es^
 ||do-delete-app-ca-central-1-0.deploy-delete-test-ca-centrapop.support.remweb.apwwtemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||dobairrolanches.com.br^
@@ -17285,6 +17308,7 @@
 ||etiketa.com.br^
 ||etimus.com.br^
 ||etiquetasebrindes.com.br^
+||etiribbon.com.mx^
 ||etlloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||etmega.com.br^
 ||etole.com.br^
@@ -17483,6 +17507,7 @@
 ||f2vav-fidelity.qkipikpp.es^
 ||f34fbb31.cftvpinheiro.com.br^
 ||f45c6f1e.cftvpinheiro.com.br^
+||f4k.es^
 ||f5sapi.com.br^
 ||f7ohoscb.paperform.co^
 ||faasbom.es^
@@ -17934,6 +17959,7 @@
 ||ffawdsfcscdzc.blogspot.com.co^
 ||ffc-sentiment-app.fourthfloor.co^
 ||ffcomercio.com.br^
+||ffdsjf9.qkipikpp.es^
 ||ffinwwfpqi.gq^
 ||fflink194xyz.blogspot.com.ar^
 ||fflink194xyz.blogspot.com.co^
@@ -18294,6 +18320,7 @@
 ||fofuchaschile.cl^
 ||foga.co^
 ||fogosamazonia.com.br^
+||foiufl.qkipikpp.es^
 ||foldcase.co^
 ||folhaamazonas.com.br^
 ||folhaamazonica.com.br^
@@ -24494,7 +24521,6 @@
 ||hr-innovation.co^
 ||hrbb.co^
 ||hrtjnhaqfhb.blogspot.com.br^
-||hrvz0ykk.987691.co^
 ||hrw.cl^
 ||hsbc.manialimpeza.com.br^
 ||hsbcs.com.mx^
@@ -25497,6 +25523,7 @@
 ||invest.autumnmarket.co^
 ||invest.hugecninv.co^
 ||invest.nexioval.co^
+||invest.qkipikpp.es^
 ||investadia.es^
 ||investamazonia.com.br^
 ||investcomprazer.com.br^
@@ -27670,6 +27697,7 @@
 ||longguide.com.es^
 ||longittude.co^
 ||loocaldelivery.com.br^
+||looil.qkipikpp.es^
 ||lookingyoubest.com.es^
 ||lookstoremail.net.br^
 ||loopingquery61-online.gq^
@@ -31265,6 +31293,7 @@
 ||octaviocastillo.cl^
 ||octavioflores.cl^
 ||oculoscoyote.com.br^
+||od9.qkipikpp.es^
 ||odbll-srv-app.sorreasy.com.br^
 ||odfgidfghdfjh.blogspot.com.br^
 ||odiamelhor.com.br^
@@ -32422,6 +32451,7 @@
 ||partner-more.co^
 ||partneramazonconsultancy.co^
 ||partners-app.cabifil.es^
+||partnerscomunicacao.com.br^
 ||partonobrasil.com.br^
 ||partsdiesel.com.br^
 ||partydice.co^
@@ -33577,6 +33607,7 @@
 ||pereiraartefatosdecimento.com.br^
 ||perere.gq^
 ||perezfernandez.cl^
+||perezlogisticsincloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||perfect-money.rgmchile.cl^
 ||perfect-wedding.co^
 ||perfectmoney.becktrop.com.mx^
@@ -35175,7 +35206,6 @@
 ||qcnz84ut.paperform.co^
 ||qconnect.com.br^
 ||qczjaj.gq^
-||qd.pe^
 ||qdfh6.vacvqzbog.es^
 ||qdhokadiya.gq^
 ||qe-pe.co^
@@ -36845,6 +36875,7 @@
 ||rrexpress.com.br^
 ||rrhh-app.devdpma.gdeba.gba.gob.ar^
 ||rrilnanan.gq^
+||rrof9.qkipikpp.es^
 ||rrosaamazonica.com.br^
 ||rrproperties.iamtech.mx^
 ||rrrtrfluuxin.es^
@@ -37327,6 +37358,7 @@
 ||scire.org.mx^
 ||sciww.com.pe^
 ||scjmariquina.cl^
+||scjool.qkipikpp.es^
 ||sclext.gq^
 ||scmaritimomargarita.org.ve^
 ||scnet-tech.com.br^
@@ -38439,6 +38471,7 @@
 ||snaptec.co^
 ||sneakerroom.com.br^
 ||sneakersdistrict.co^
+||sneakersgoat.co^
 ||snow.hol.es^
 ||snowy-hat-6872.on.fleek.co^
 ||so-nettel-so.gq^
@@ -38823,6 +38856,7 @@
 ||sprucee.gq^
 ||spsas-amazonia.biota.org.br^
 ||spscommkt.com.br^
+||spsol.qkipikpp.es^
 ||spuexpress.com.br^
 ||spy-cam-voyeur.blogspot.mx^
 ||spyinvestigue.com.br^
@@ -38888,6 +38922,7 @@
 ||sslambienteseguro.com.br^
 ||ssmso.cl^
 ||ssn.com.ve^
+||sso.qkipikpp.es^
 ||ssorajasthanid.co^
 ||sspropiedades.mx^
 ||ssses-bbva.acceso-secure.es^
@@ -39451,6 +39486,7 @@
 ||sweetprofessional.pe^
 ||swet.gq^
 ||swift-network.co^
+||swiftde.qkipikpp.es^
 ||swiftlinkedurl.parge.co^
 ||swiftvest.co^
 ||swimsport.com.ec^
@@ -39840,6 +39876,7 @@
 ||tempodecelebrar.org.br^
 ||tempodeflor.com.br^
 ||temporary-url-app.expedido.com.br^
+||tempos21.es^
 ||tempoweb.es^
 ||tempusluxor.com.br^
 ||temqueserperfeito.com.br^
@@ -40797,6 +40834,7 @@
 ||trr20181112200655341.domtemporario.com.br^
 ||trr20190321191108535.domtemporario.com.br^
 ||trransferdatacenter.es^
+||trtiro.qkipikpp.es^
 ||truantinmobiliaria.com.ar^
 ||truck-app.deploy.calvia2000.es^
 ||truck.log.br^
@@ -40809,6 +40847,7 @@
 ||truepay.co^
 ||truereligioncolombia.com.co^
 ||truetones.co^
+||truiro.qkipikpp.es^
 ||trulyamazon.com.br^
 ||trumpsha.mypi.co^
 ||truquedaamazon.com.br^
@@ -40900,6 +40939,7 @@
 ||tuhosting.co^
 ||tui.ulagos.cl^
 ||tuimpresion3d.com.ve^
+||tuiriro.qkipikpp.es^
 ||tuitfdg.mypi.co^
 ||tujuh77login.co^
 ||tuktaks.gq^
@@ -42658,6 +42698,7 @@
 ||worker-app-test.ihms.co^
 ||workmedicina.com.br^
 ||workoutbuzios.com.br^
+||works-clubs-attendance-vi.trycloudflare.co^
 ||workshopchatgpt.com.br^
 ||workshopchatgpt.metamind.com.br^
 ||worksmail.gq^
@@ -43393,6 +43434,7 @@
 ||ytonihon.com.br^
 ||ytrtyuy.oursite.co^
 ||yuasdhuaiefhesufhsrfhgsfieasfhada.blogspot.com.uy^
+||yuide.qkipikpp.es^
 ||yuijgssagdf66asu79aiio78asdojis79.blogspot.cl^
 ||yuki188login.co^
 ||yuki4dlogin.co^
