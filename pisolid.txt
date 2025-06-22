@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-21T08:02:18.186Z
+! Last modified: 2025-06-22T08:02:55.590Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4279,6 +4279,7 @@
 ||amazonja.co^
 ||amazonjalecaria.optbot.com.br^
 ||amazonjazzfest.com.br^
+||amazonjcn.co^
 ||amazonje.co^
 ||amazonjeans.com.br^
 ||amazonjeel.com.br^
@@ -11132,6 +11133,7 @@
 ||chat.gpt.bigtienda.es^
 ||chat.gpt.bz^
 ||chat.gpt.do^
+||chat.gptfy.co^
 ||chat.gptgov.com.br^
 ||chat.gptjuridico.com.br^
 ||chat.gptjus.com.br^
@@ -11321,6 +11323,7 @@
 ||chatgpt.luyang.co^
 ||chatgpt.maity.gq^
 ||chatgpt.mariopenna.org.br^
+||chatgpt.mascarenhasbarbosa.com.br^
 ||chatgpt.menainvest.co^
 ||chatgpt.metopia.co^
 ||chatgpt.mexico.com.mx^
@@ -11352,6 +11355,7 @@
 ||chatgpt.olinia.com.mx^
 ||chatgpt.olsensolucoes.com.br^
 ||chatgpt.onlineweb.cl^
+||chatgpt.onsistemasweb.com.br^
 ||chatgpt.onyxtec.co^
 ||chatgpt.openbusiness.co^
 ||chatgpt.openerp.es^
@@ -15365,6 +15369,7 @@
 ||dev7.com.br^
 ||devamazon-130nordiskw3authn.walmart.mx^
 ||devamazonvwnew.appdealersites.com.br^
+||devel-openai-tts.k8s.elmec.ad^
 ||develop-app.aprova.com.br^
 ||develop2-app.aprova.com.br^
 ||deverasamazonia.com.br^
@@ -26135,6 +26140,7 @@
 ||jm1.hxtpakczdi.es^
 ||jma.edu.pe^
 ||jmambiental.com.br^
+||jmanga.co^
 ||jmatosseguros.com.br^
 ||jmdshop.good-shop.co^
 ||jmeter.com.br^
@@ -27759,6 +27765,7 @@
 ||louvalence.co^
 ||louvera.com.br^
 ||lova-amazonas.com.br^
+||lovaric.co^
 ||lovatec-apple.com.br^
 ||love-apple.co^
 ||lovea.co^
@@ -27888,6 +27895,7 @@
 ||lugarbonito.com.br^
 ||lugareselugares.com.br^
 ||lugaribeiro.com.br^
+||lugatex.com.br^
 ||lugocel.com.mx^
 ||luisamazonas.com.co^
 ||luislabra.cl^
@@ -28083,6 +28091,7 @@
 ||magnetopia.co^
 ||magnumtrading.co^
 ||magocinzento.com.br^
+||magodontologia.com.br^
 ||mahari.com.br^
 ||mahkotabet138.co^
 ||maiiscompras.com.br^
@@ -29078,6 +29087,7 @@
 ||mgmedic.com.br^
 ||mgmedic.com.mx^
 ||mgmengenharia.com.br^
+||mgoldenberg.com.br^
 ||mgtpropiedades.cl^
 ||mheleva.com.mx^
 ||mhgbienesraices.com.ar^
@@ -29157,6 +29167,7 @@
 ||microsoft0x8024f077aus.gq^
 ||microsoft365copilot.co^
 ||microsoftbrasil.net.br^
+||microsoftcdnlicense.putinswin.es^
 ||microsoftclubedigital.com.br^
 ||microsoftman.com.br^
 ||microsoftoffice365support.co^
@@ -32451,7 +32462,6 @@
 ||partner-more.co^
 ||partneramazonconsultancy.co^
 ||partners-app.cabifil.es^
-||partnerscomunicacao.com.br^
 ||partonobrasil.com.br^
 ||partsdiesel.com.br^
 ||partydice.co^
@@ -32735,6 +32745,7 @@
 ||paypal-experience.digital.do^
 ||paypal-experience.ooo.co^
 ||paypal-experience.organic.ar^
+||paypal-experience.pin.co^
 ||paypal-experience.review.ar^
 ||paypal-experience.school.ar^
 ||paypal-experience.sling.co^
@@ -35249,6 +35260,7 @@
 ||qualitadesign.com.br^
 ||qualitasauditores.cl^
 ||qualiteodonto.com.br^
+||quality-openai-tts.k8s.elmec.ad^
 ||qualitycs.com.mx^
 ||qualityprimed.co^
 ||qualividabtu.com.br^
@@ -38096,6 +38108,7 @@
 ||sibucanada.gq^
 ||sicemsrl.com.ar^
 ||sicherheitscenter-sp2.co^
+||sicrediexpoabf.com.br^
 ||sicredinne.com.br^
 ||sicredinorterssc.com.br^
 ||sidrerialajoguera.es^
@@ -38838,6 +38851,7 @@
 ||spotifypremiumapkpt.com.br^
 ||spotifypremiumapks.com.br^
 ||spotifypremiumapks.es^
+||spotifypremiumapps.com.mx^
 ||spotifypremiumgeek.com.mx^
 ||spotifypremiumsapk.com.mx^
 ||spotifypro.com.co^
