@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-24T08:02:28.227Z
+! Last modified: 2025-06-25T08:02:17.420Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1087,6 +1087,7 @@
 ||afor.co^
 ||afribeirao.com.br^
 ||afscbz.blogspot.mx^
+||afsi.org.br^
 ||afsul.com.br^
 ||afterspace-1-app.afterspace.co^
 ||afz46ttb.paperform.co^
@@ -11921,6 +11922,7 @@
 ||chenghudmfg.co^
 ||cherbeli.gq^
 ||cherryblush.co^
+||chesc.com.mx^
 ||chewsmart.co^
 ||chfmoveis.com.br^
 ||chhhpyilmazyildirir.blogspot.com.br^
@@ -25110,6 +25112,7 @@
 ||incrivelpravoce8.com.br^
 ||incubadorasavicola.cl^
 ||incubadorasonora.com.br^
+||incubadoravillaflores.com.mx^
 ||incubotucuman.com.ar^
 ||inculcar-app.ricardo.org.br^
 ||ind-apps.es^
@@ -25769,6 +25772,7 @@
 ||isabelmarantmexico.com.mx^
 ||isabelmartinezterrassa.es^
 ||isadent.cl^
+||isadoramartins.com.br^
 ||isamarketingdigital.co^
 ||iscasreidaamazonia.com.br^
 ||iscm.edu.ar^
@@ -30754,9 +30758,6 @@
 ||newpartsapple.com.ar^
 ||newplatform.co^
 ||newprojectz.co^
-||newrbx21.blogspot.cl^
-||newrbx21.blogspot.com.ar^
-||newrbx21.blogspot.com.uy^
 ||newriverx.com.es^
 ||newrobloxhackergroup.blogspot.com.uy^
 ||news-163.com.es^
@@ -39890,6 +39891,7 @@
 ||temmaxaqui.com.br^
 ||temnaamazon.com.br^
 ||temosbandas.com.br^
+||tempemail.co^
 ||tempero.com.br^
 ||temperosamazonas.com.br^
 ||tempes.gq^
@@ -40510,6 +40512,7 @@
 ||tomsshoes.nom.co^
 ||ton.updog.co^
 ||tonerinhelp.co^
+||toniluminosos.com.br^
 ||tonimartos.es^
 ||tonkeeper.bz^
 ||tonybarreto.com.br^
@@ -40993,6 +40996,7 @@
 ||turbomak.com.br^
 ||turbomarketing.com.br^
 ||turbomine.co^
+||turbonetmais.com.br^
 ||turbopromo.com.br^
 ||turbospinz.co^
 ||turecarga.cl^
@@ -41854,6 +41858,7 @@
 ||vidadeadulta.com.br^
 ||vidadeviajante.com.br^
 ||vidaecartaoportoseguro.com.br^
+||vidaexuberante.com.br^
 ||vidafilm.mx^
 ||vidalgesso.com.br^
 ||vidaluz.es^
