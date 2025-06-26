@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-25T08:02:17.420Z
+! Last modified: 2025-06-26T08:02:18.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -820,6 +820,7 @@
 ||aciax.com.br^
 ||acimo.org.br^
 ||acirv.com.br^
+||acitylive.pe^
 ||acm2.ei.m.aeiwc.static.c11n.seguridadyvigilancia.pe^
 ||acmaq.cl^
 ||acmeamazonia.com.br^
@@ -8068,6 +8069,7 @@
 ||as-app.co^
 ||as7maravilhasdoamazonas.com.br^
 ||asabrancaamazon.com.br^
+||asaderorondasur.es^
 ||asadoyrostizado.gq^
 ||asamazonas.com.br^
 ||asamazonasmr.com.br^
@@ -8279,6 +8281,8 @@
 ||ativosamazonas.com.br^
 ||atlantaxa.gq^
 ||atlanticasul.com.entreganamao.com.br^
+||atlanticcitybet.com.pe^
+||atlanticcityplay.pe^
 ||atlanticgam.es^
 ||atlanticitybet.com.pe^
 ||atlanticu.keygraphics.mx^
@@ -12541,6 +12545,7 @@
 ||colegiodiegoportales.cl^
 ||colegiojoseescandon.es^
 ||colegiolaasuncion.edu.pe^
+||colegiolambert.cl^
 ||colegiolasamericas.org.mx^
 ||colegiolemosdecastro.com.br^
 ||colegiolosproceres.edu.ve^
@@ -12651,7 +12656,9 @@
 ||commerz-bank.co^
 ||commerzbank-phototan-9ba78.firebaseapp.co^
 ||commerzbank-secure.liids.com.br^
+||commerzbank.com.br^
 ||commerzbank.de.connectcableservice.com.br^
+||commerzbank.es^
 ||commerzbank.mx^
 ||commoditybazaar.co^
 ||commservices.com.ve^
@@ -13568,6 +13575,7 @@
 ||cursochatgpt5.com.br.thiagocaliman.com.br^
 ||cursochatgpt5.com.br^
 ||cursochatgptadvogados.com.br^
+||cursochatgptsemmedo.victormolin.com.br^
 ||cursodecondominios.com.br^
 ||cursodelper.com.mx^
 ||cursodemilagros.cl^
@@ -15671,7 +15679,6 @@
 ||discord-nitro.gq^
 ||discord.ad^
 ||discord.com.mx^
-||discords.bz^
 ||discordstaff.gq^
 ||discountnativesmokes.co^
 ||discountonlyhere.com.br^
@@ -16150,6 +16157,7 @@
 ||dw-corretor.com.br^
 ||dwende.com.ar^
 ||dwnloads.co^
+||dwrezbvnzopaypal-donations.srt.cl^
 ||dwseguros.com.br^
 ||dxbvisa.co^
 ||dxmex.emindustrial.com.mx^
@@ -16868,6 +16876,7 @@
 ||english.ramondocasar.es^
 ||englishnet.com.mx^
 ||engnatural.com.br^
+||enhd.es^
 ||enigma-tokens.co^
 ||enigrna.co^
 ||enjo.cl^
@@ -25151,6 +25160,7 @@
 ||inesucs.mx^
 ||inetlabs.es^
 ||inf-t-e-l-e-k-o-m-ugf.adm.ibsystem.com.br^
+||inf-y-e-t-t-e-l-ugf.adm.ibsystem.com.br^
 ||inf.ufes.br^
 ||infcursos.com.br^
 ||infinity-app.co^
@@ -25237,6 +25247,7 @@
 ||inginida.hol.es^
 ||ingles-app.api.danielsanchesdev.com.br^
 ||ingles-app.danielsanchesdev.com.br^
+||inglesconchatgpt.mx^
 ||inglessem.co^
 ||ingressonamao.net.br^
 ||inhresidence.com.br^
@@ -26253,6 +26264,7 @@
 ||joshpiv.es^
 ||jospelhost.com.ar^
 ||josymedeiroscalcados.com.br^
+||jotacepropiedades.cl^
 ||jotiva-church-api-app.infob2b.com.br^
 ||jouasicni.gq^
 ||jovelec.cl^
@@ -26761,6 +26773,7 @@
 ||kulmeo.gq^
 ||kunden-commerzbank-de.forestalpinto.cl^
 ||kunden-commerzbank-de.online.forestalpinto.cl^
+||kunden-commerzbanktan.forestalpinto.cl^
 ||kungxd.blogspot.com.br^
 ||kungxd.blogspot.com.co^
 ||kuricaambiental.com.br^
@@ -28598,6 +28611,7 @@
 ||maximil.com.br^
 ||maximore.com.br^
 ||maximus.com.pe^
+||maxinet.com.ve^
 ||maxioff.com.br^
 ||maxipremier.com.br^
 ||maxipremium.com.br^
@@ -31612,7 +31626,6 @@
 ||onlyfans-gratis.mx^
 ||onlyfans-search.co^
 ||onlyfans-th.co^
-||onlyfans.pe^
 ||onlyfans24.co^
 ||onlyfansagency.co^
 ||onlyfansdownloader.co^
@@ -32808,6 +32821,7 @@
 ||paypal-information.alipay.co^
 ||paypal-information.auto.bz^
 ||paypal-information.fish.mx^
+||paypal-information.insure.do^
 ||paypal-information.legal.ar^
 ||paypal-information.lotto.ar^
 ||paypal-information.realestate.mx^
@@ -33138,6 +33152,7 @@
 ||paypal.bpp.com.br^
 ||paypal.brasilprepagos.com.br^
 ||paypal.brechosocial.com.br^
+||paypal.bullishtrader.co^
 ||paypal.bundas.com.br^
 ||paypal.business.do^
 ||paypal.cachorrosaiyajin.com.br^
@@ -33179,6 +33194,7 @@
 ||paypal.com.moveisdelcio.com.br^
 ||paypal.com.mx^
 ||paypal.com.pe^
+||paypal.com.service.account.topodesign.cl^
 ||paypal.com.us-cgi-bin.webscr-cmd-login-run.telar.cl^
 ||paypal.com.ve^
 ||paypal.com.webapps.manage-security.renegociardivida.com.br^
@@ -33267,6 +33283,7 @@
 ||paypal.secure-update.planaltopecastx.com.br^
 ||paypal.secure.garko.com.mx^
 ||paypal.service-now.come.do^
+||paypal.service.account.topodesign.cl^
 ||paypal.service.garko.com.mx^
 ||paypal.seusingressos.com.br^
 ||paypal.signup.co^
@@ -33422,6 +33439,7 @@
 ||paypalrefund.co^
 ||paypalreports.hooeditora.com.br^
 ||paypalreports.toonitalia.co^
+||paypalreviewinformation.coinbase-com.co^
 ||paypalsecure.000.pe^
 ||paypalsecureinfochanging.sindicato3.cl^
 ||paypalsecureteam.orangeserve.co^
@@ -35189,6 +35207,7 @@
 ||python.360elevate.co^
 ||pzu.electronorte.com.ar^
 ||q-app.co^
+||q3ex7lv17.jlaancyfaw.es^
 ||qa-app-admissao.qrpoint.com.br^
 ||qa-app-exporter-api.homolog.dev-arquivei.com.br^
 ||qa-app.antecipag.com.br^
@@ -37121,6 +37140,7 @@
 ||salutesaude.com.br^
 ||salvacionstereo.org.ve^
 ||salvamentoeresgate.com.br^
+||salvatierrainmobiliaria.com.mx^
 ||salveaamazonia.com.br^
 ||salveaamazonia.org.br^
 ||salveamazonia-com-br-zk0d.sitewhitelabel.com.br^
@@ -40996,7 +41016,6 @@
 ||turbomak.com.br^
 ||turbomarketing.com.br^
 ||turbomine.co^
-||turbonetmais.com.br^
 ||turbopromo.com.br^
 ||turbospinz.co^
 ||turecarga.cl^
@@ -42071,7 +42090,6 @@
 ||vitafollinbrasil.com.br^
 ||vital-admin.gq^
 ||vitalhost.com.br^
-||vitalidadclub.com.co^
 ||vitallewis.esy.es^
 ||vitalofertas.com.br^
 ||vitalsec.cl^
