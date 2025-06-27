@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-26T08:02:18.252Z
+! Last modified: 2025-06-27T08:02:16.157Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12970,6 +12970,7 @@
 ||consultoriacorporativago.com.br^
 ||consultoriacubo.com.br^
 ||consultoriaeducativa.org.pe^
+||consultoriaexperimental.com.br^
 ||consultoriagreenapple.lagrangeengenharia.com.br^
 ||consultorialegal.cl^
 ||consultoriarch.es^
@@ -17005,6 +17006,7 @@
 ||eqmwqjq.es^
 ||equilibriocdh.com.br^
 ||equilibriofarmaceutico.com.mx^
+||equilibriumpilatesrj.com.br^
 ||equimaxpavimentacao.com.br^
 ||equinoxamazon.com.br^
 ||equinoxincome.co^
@@ -19007,6 +19009,7 @@
 ||genionet.net.ve^
 ||genixs.co^
 ||genkat.com.mx^
+||gennera.com.ar^
 ||gentetelecom.com.br^
 ||gentlemanstore.cl^
 ||geo-app.colpolatina.com.co^
@@ -19702,6 +19705,7 @@
 ||gripom.com.br^
 ||gripstrophy.co^
 ||gris.com.gt^
+||groovefilmes.com.br^
 ||groover.com.ar^
 ||grosjoumouff.gq^
 ||grosvenor.com.br^
@@ -26264,7 +26268,6 @@
 ||joshpiv.es^
 ||jospelhost.com.ar^
 ||josymedeiroscalcados.com.br^
-||jotacepropiedades.cl^
 ||jotiva-church-api-app.infob2b.com.br^
 ||jouasicni.gq^
 ||jovelec.cl^
@@ -31324,6 +31327,7 @@
 ||octavio.cl^
 ||octaviocastillo.cl^
 ||octavioflores.cl^
+||octron.com.br^
 ||oculoscoyote.com.br^
 ||od9.qkipikpp.es^
 ||odbll-srv-app.sorreasy.com.br^
@@ -36429,6 +36433,7 @@
 ||robuxnwwww.blogspot.com.co^
 ||robuxpenjahat.blogspot.mx^
 ||robuxwebsites.blogspot.com.ar^
+||robxx2k25.blogspot.com.es^
 ||rochaemattosseguros.com.br^
 ||rochafitness.com.br^
 ||rochasgeologia.com.br^
@@ -37140,7 +37145,6 @@
 ||salutesaude.com.br^
 ||salvacionstereo.org.ve^
 ||salvamentoeresgate.com.br^
-||salvatierrainmobiliaria.com.mx^
 ||salveaamazonia.com.br^
 ||salveaamazonia.org.br^
 ||salveamazonia-com-br-zk0d.sitewhitelabel.com.br^
@@ -38341,6 +38345,7 @@
 ||sitesahome.com.br^
 ||sitesbrgiga.com.br^
 ||sitetudoaqui.com.br^
+||sitew4.com.br^
 ||sitich.gq^
 ||sitio.cnf.com.ar^
 ||sitiomonicaemarcia.com.br^
