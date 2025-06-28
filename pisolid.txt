@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-27T08:02:16.157Z
+! Last modified: 2025-06-28T08:02:20.522Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5906,6 +5906,7 @@
 ||api-treino-amazon.dealercrm.com.br^
 ||api-vcas-appuat.banbifapimarket2.com.pe^
 ||api-wchatgpt.startupvarejo.com.br^
+||api.mgcconsultoria.com.br^
 ||api.miniatm.com.br^
 ||api.safe.inf.br^
 ||api.stanley-mexico.com.mx^
@@ -7876,6 +7877,7 @@
 ||arborea.com.co^
 ||arbuthnot.com.br^
 ||arcafood.cl^
+||arcaseguroscolombia.com.co^
 ||arcea.es^
 ||arcesystems.com.co^
 ||archibox.cl^
@@ -17185,7 +17187,6 @@
 ||esquivias.es^
 ||esrlive.co^
 ||essenciadeflores.com.br^
-||essencialmateriais.com.br^
 ||essenciamazonica.com.br^
 ||essentialmaintenance.co^
 ||essentialnutrition.com.mx^
@@ -19705,7 +19706,6 @@
 ||gripom.com.br^
 ||gripstrophy.co^
 ||gris.com.gt^
-||groovefilmes.com.br^
 ||groover.com.ar^
 ||grosjoumouff.gq^
 ||grosvenor.com.br^
@@ -24725,6 +24725,7 @@
 ||icardiovascular.com.ar^
 ||icareapple.com.br^
 ||icasf.com.br^
+||icbs-webs.co^
 ||icce.cl^
 ||icdtamazonia.org.br^
 ||iceilandia.com.br^
@@ -29014,6 +29015,7 @@
 ||metamask-wallett.blogspot.com.br^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
+||metamask.io.services.id.0x86dec05e5b894b0efec69cdf6316971802a2f9a1.rochalopes.com.br^
 ||metamaskinc.blogspot.cl^
 ||metamaskinc.blogspot.com.ar^
 ||metamaskinc.blogspot.com.br^
@@ -36433,7 +36435,6 @@
 ||robuxnwwww.blogspot.com.co^
 ||robuxpenjahat.blogspot.mx^
 ||robuxwebsites.blogspot.com.ar^
-||robxx2k25.blogspot.com.es^
 ||rochaemattosseguros.com.br^
 ||rochafitness.com.br^
 ||rochasgeologia.com.br^
@@ -38111,6 +38112,7 @@
 ||shopware.co^
 ||shopwe.com.br^
 ||shopwinner.com.br^
+||shortlink.fbt.fbtenis.org.bo^
 ||shorturl.bz^
 ||show-up-theater-app-36400.botics.co^
 ||showdemais.com.br^
