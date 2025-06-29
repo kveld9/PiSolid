@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-06-28T08:02:20.522Z
+! Last modified: 2025-06-29T08:02:21.496Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -107,6 +107,7 @@
 ||01943.co^
 ||01973.co^
 ||01975.co^
+||02.notif-6017474.com.es^
 ||02073.co^
 ||02105.co^
 ||02203.co^
@@ -7809,6 +7810,7 @@
 ||aprendechatgpt.cl^
 ||aprendechatgpt.mx^
 ||aprendeconamazon.es^
+||aprendeinglesconchatgpt.com.mx^
 ||aprendendocomchatgpt.com.br^
 ||aprenderparafazer.com.br^
 ||aprex.com.br^
@@ -8287,6 +8289,7 @@
 ||atlanticcityplay.pe^
 ||atlanticgam.es^
 ||atlanticitybet.com.pe^
+||atlanticitybet.pe^
 ||atlanticu.keygraphics.mx^
 ||atlanticunion.coopcredifacil.com.co^
 ||atlanticunion.epicin.co^
@@ -9272,6 +9275,7 @@
 ||bikomebb.blogspot.mx^
 ||bikomebb.blogspot.pe^
 ||bill-app.com.ar^
+||bill.stiletano.com.ar^
 ||billabongespana.es^
 ||billabongmx.com.mx^
 ||billing-bff-app.in.neoncorp.com.br^
@@ -11204,6 +11208,7 @@
 ||chatgpt.789.com.mx^
 ||chatgpt.aaa.bz^
 ||chatgpt.aamidiasdigitais.com.br^
+||chatgpt.achadosemoferta.com.br^
 ||chatgpt.ad^
 ||chatgpt.adv.comunidadedahelen.com.br^
 ||chatgpt.ag2mais.com.br^
@@ -11326,6 +11331,7 @@
 ||chatgpt.koode.mx^
 ||chatgpt.lawfecta.co^
 ||chatgpt.ledautomotivo.com.br^
+||chatgpt.linkspromocionais.com.br^
 ||chatgpt.luowe.gq^
 ||chatgpt.luxybag.co^
 ||chatgpt.luyang.co^
@@ -16410,7 +16416,6 @@
 ||edfingenieros.cl^
 ||edfknr.co^
 ||edge.metropcs.co^
-||edge.microcoft.co^
 ||edhjzswehzshzsh.blogspot.cl^
 ||edhjzswehzshzsh.blogspot.com.co^
 ||edhjzswehzshzsh.blogspot.com.es^
@@ -16514,6 +16519,7 @@
 ||egraziani.com.ar^
 ||egypt-trips.co^
 ||ehay-uk-login-secures-5f8twghw.chevroletaracaju.com.br^
+||ehay-uk-login-secures-5f8twghw.genealogiahispana.es^
 ||ehnova.com.br^
 ||ehojeseudia.com.br^
 ||ehyygebahu.es^
@@ -17008,7 +17014,6 @@
 ||eqmwqjq.es^
 ||equilibriocdh.com.br^
 ||equilibriofarmaceutico.com.mx^
-||equilibriumpilatesrj.com.br^
 ||equimaxpavimentacao.com.br^
 ||equinoxamazon.com.br^
 ||equinoxincome.co^
@@ -19174,6 +19179,7 @@
 ||ghostsender.com.br^
 ||ghxt.upr.com.ar^
 ||giada.com.pe^
+||giamex.es^
 ||gian.com.ar^
 ||giarqco.com.pe^
 ||giftinfo.com.br^
@@ -24725,7 +24731,6 @@
 ||icardiovascular.com.ar^
 ||icareapple.com.br^
 ||icasf.com.br^
-||icbs-webs.co^
 ||icce.cl^
 ||icdtamazonia.org.br^
 ||iceilandia.com.br^
@@ -29015,7 +29020,6 @@
 ||metamask-wallett.blogspot.com.br^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
-||metamask.io.services.id.0x86dec05e5b894b0efec69cdf6316971802a2f9a1.rochalopes.com.br^
 ||metamaskinc.blogspot.cl^
 ||metamaskinc.blogspot.com.ar^
 ||metamaskinc.blogspot.com.br^
@@ -31713,6 +31717,7 @@
 ||openai-service.api.montebravo.com.br^
 ||openai-service.api.stg.montebravo.com.br^
 ||openai-service.train-ai.co^
+||openai-tts.k8s.elmec.ad^
 ||openai-us.co^
 ||openai-usage.felvieira.com.br^
 ||openai-whistper-audio-transcode.saastify.co^
@@ -31761,6 +31766,7 @@
 ||openai.contrib.co^
 ||openai.d8b.co^
 ||openai.dawntech.com.br^
+||openai.demo.mplsoft.co^
 ||openai.desteban.es^
 ||openai.devphp.com.br^
 ||openai.dhaconsultoria.com.br^
@@ -31916,6 +31922,7 @@
 ||openaimillionaires.co^
 ||openaiml.co^
 ||openainews.co^
+||openainnova.com.innovamineria.cl^
 ||openaio.co^
 ||openaio1.co^
 ||openaio1.com.br^
@@ -32827,6 +32834,7 @@
 ||paypal-information.alipay.co^
 ||paypal-information.auto.bz^
 ||paypal-information.fish.mx^
+||paypal-information.hotels.ar^
 ||paypal-information.insure.do^
 ||paypal-information.legal.ar^
 ||paypal-information.lotto.ar^
@@ -32883,6 +32891,7 @@
 ||paypal-loot.blogspot.com.br^
 ||paypal-loot.blogspot.com.es^
 ||paypal-loot.blogspot.mx^
+||paypal-luxury.c.com.ar^
 ||paypal-marketing.aarp.co^
 ||paypal-marketing.associates.co^
 ||paypal-marketing.eat.ec^
@@ -33115,6 +33124,7 @@
 ||paypal-techsupport.site.cl^
 ||paypal-techsupport.sling.co^
 ||paypal-techsupport.vodka.es^
+||paypal-test.torque360.co^
 ||paypal-turkiye.bharti.co^
 ||paypal-turkiye.box.cl^
 ||paypal-turkiye.channel.ar^
@@ -33216,6 +33226,7 @@
 ||paypal.curtamariadapenha.com.br^
 ||paypal.d3f4lt.com.br^
 ||paypal.dasana.mx^
+||paypal.deseur.com.mx^
 ||paypal.dgrooveacessorios.com.br^
 ||paypal.dilema.co^
 ||paypal.dinheiroemprestado.com.br^
@@ -35417,6 +35428,7 @@
 ||racorp.com.br^
 ||racvfinance.idkit.co^
 ||radar-app.es^
+||radar-chatgpt-test.estadao.opus-software.com.br^
 ||radaramazonico-oo.nuviobox.com.br^
 ||radaramazonico.com.br^
 ||radaramazonico.nuviobox.com.br^
@@ -41870,6 +41882,7 @@
 ||vibroacustica.com.br^
 ||vicapasatraducciones.es^
 ||vicarodi.com.ve^
+||vicentejurado.es^
 ||vickeyhouse.co^
 ||vickiandgeirstravelblogg.es^
 ||vicsamexico.mx^
@@ -43297,6 +43310,7 @@
 ||xtradingbrasil.com.br^
 ||xtremeplay.co^
 ||xtremeprotein.es^
+||xuncoco.es^
 ||xunilzita.es^
 ||xunxt.pqwlcuhsxvd.es^
 ||xurl.es^
