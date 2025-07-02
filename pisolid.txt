@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-01T08:02:15.603Z
+! Last modified: 2025-07-02T03:02:13.612Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -10675,6 +10675,7 @@
 ||casino-paypal.co^
 ||casino-paypal.es^
 ||casinoamazonia.com.br^
+||casinoatlanticcitybet.pe^
 ||casinodemendoza.com.ar^
 ||casinogm.es^
 ||casinogranmadrid.es^
@@ -12910,6 +12911,7 @@
 ||conquistatucumbre.com.ar^
 ||conrafo.gq^
 ||cons-appleeiid-appleeussvf-auth-id.campeonatodelol.com.br^
+||cons.mofagovpk.co^
 ||consefor-app.paas.node07.de.vix.br^
 ||consegg.com.br^
 ||consejo.com.py^
@@ -24039,6 +24041,7 @@
 ||hotelier.com.ve^
 ||hoteljarama.es^
 ||hotelkennedy.com.ec^
+||hotellacastellana.com.uy^
 ||hotellaslomas.com.ve^
 ||hotellizbeth.mx^
 ||hotelmaya.mx^
@@ -27727,6 +27730,7 @@
 ||lolitojr.com.mx^
 ||lolitos.com.ar^
 ||lollipoppi.com.br^
+||lomejordesalamanca.es^
 ||loncochetransparente.cl^
 ||london-amazon.volnanews.co^
 ||lonecesario.es^
@@ -28014,6 +28018,7 @@
 ||lvcsac.com.pe^
 ||lvg.cl^
 ||lvrkrk.com.br^
+||lwex.co^
 ||lwrqspaypal-business.aarp.co^
 ||lxgroup-app.repl.co^
 ||lynordewic.co^
@@ -29589,6 +29594,8 @@
 ||modulofm.com.br^
 ||modulojas.com.br^
 ||modusps.com.br^
+||mofa-govpk.co^
+||mofagovpk-hq.co^
 ||mogilux.com.br^
 ||mogimaisvoce.com.br^
 ||mogobe.co^
@@ -42201,6 +42208,7 @@
 ||vklabogadosseudurgell.es^
 ||vlc.cl^
 ||vleeko.mx^
+||vltalmex.com.mx^
 ||vlxambiental.com.br^
 ||vmd.net.br^
 ||vmellisesi.gq^
