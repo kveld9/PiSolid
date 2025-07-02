@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-02T03:02:13.612Z
+! Last modified: 2025-07-02T15:02:18.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -348,6 +348,7 @@
 ||3ponto7.com.br^
 ||3pxxkvfdiw8plvbdpny3.mafe.edu.co^
 ||3qbyaoohkcqkzrz6.torgate.es^
+||3qec3.hbyzko.es^
 ||3sapparel.co^
 ||3srvqueroemais.com.br^
 ||3vsecurity.com.mx^
@@ -36945,6 +36946,7 @@
 ||rplzdpaypal-experience.style.pr^
 ||rpmarketingdigital.com.br^
 ||rpmsenaleticas.cl^
+||rpperformance.com.br^
 ||rprclassicos.com.br^
 ||rpvdamazonia.com.br^
 ||rpvdamazonia.thesevenpublicidade.com.br^
@@ -38673,6 +38675,7 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
+||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
