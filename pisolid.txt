@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-02T15:02:18.788Z
+! Last modified: 2025-07-03T03:02:13.472Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -7812,6 +7812,7 @@
 ||aprendechatgpt.mx^
 ||aprendeconamazon.es^
 ||aprendeinglesconchatgpt.com.mx^
+||aprendeinglesconchatgpt.mx^
 ||aprendendocomchatgpt.com.br^
 ||aprenderparafazer.com.br^
 ||aprex.com.br^
@@ -10637,7 +10638,6 @@
 ||casanordestepb.com.br^
 ||casanoruega.com.ar^
 ||casanuevavida.com.pe^
-||casaperfect.com.br^
 ||casapretaamazonia.livretec.com.br^
 ||casarani.com.ec^
 ||casarebirongo.es^
@@ -16151,7 +16151,6 @@
 ||dunasfomento.com.br^
 ||dunkindonuts.com.co^
 ||duo.inf.br^
-||duosatshop.com.br^
 ||duploimpacto.com.br^
 ||duplor.midiata.com.br^
 ||duqueresidence.com.br^
@@ -19770,7 +19769,6 @@
 ||grupoamerica.pe^
 ||grupoapple.deskrio.com.br^
 ||grupoappleapi.deskrio.com.br^
-||grupoarbolito.cl^
 ||grupoautomar.com.br^
 ||grupoavanti.mx^
 ||grupobhinicio.com.br^
@@ -29834,6 +29832,7 @@
 ||msoffice.casagrandedf.com.br^
 ||mspfidelidadecer.com.br^
 ||mspy-app.co^
+||msrxwpaypal.oficinadeestilo.com.br^
 ||mssamazonia.com.br^
 ||msspoof.securitydemos.tec.br^
 ||msss49378489.blogspot.com.co^
@@ -31760,6 +31759,7 @@
 ||openai.appcasacor.com.br^
 ||openai.appclouds.com.br^
 ||openai.aquinolamunier.adv.br^
+||openai.associahub.com.br^
 ||openai.astrobot.cl^
 ||openai.aws.kane.mx^
 ||openai.bellavance.co^
@@ -32983,6 +32983,7 @@
 ||paypal-norge.foo.es^
 ||paypal-norge.grocery.co^
 ||paypal-norge.group.ar^
+||paypal-norge.hoteles.ar^
 ||paypal-norge.htc.cl^
 ||paypal-norge.lifestyle.co^
 ||paypal-norge.properties.ar^
@@ -33352,6 +33353,7 @@
 ||paypal.visitg.co^
 ||paypal.volumevivo.com.br^
 ||paypal.wbox.mx^
+||paypal.wd1.myworkdayjobs.co^
 ||paypal.xenit.cl^
 ||paypal.yoquieroyopuedo.org.mx^
 ||paypal.zapizi.com.br^
@@ -39142,6 +39144,7 @@
 ||status-apps.laalianza.co^
 ||statusamazonas.inbestmen.co^
 ||staymusic.com.br^
+||stayopenair.co^
 ||staypineapple.co^
 ||stclenoticias.cl^
 ||stcoachingepnl.net.br^
@@ -39641,7 +39644,6 @@
 ||t.elcxoa.co^
 ||t0z2pb6yfjhmfhqwssoikbgsjche.mfvaleengenharia.com.br^
 ||t12design.com.br^
-||t2m.co^
 ||t4s.cl^
 ||t63shop.com.br^
 ||t67uyhgf.co^
@@ -42139,6 +42141,7 @@
 ||vitafollinbrasil.com.br^
 ||vital-admin.gq^
 ||vitalhost.com.br^
+||vitalidadclub.com.co^
 ||vitallewis.esy.es^
 ||vitalofertas.com.br^
 ||vitalsec.cl^
@@ -42734,6 +42737,7 @@
 ||wirkaleufu.cl^
 ||wiserdev.com.br^
 ||withpineapple.co^
+||witter.co^
 ||witter.es^
 ||wiwiwwiiwiwiwiwiwi.blogspot.com.co^
 ||wiwiwwiiwiwiwiwiwi.blogspot.mx^
@@ -43599,7 +43603,6 @@
 ||zapzapsweb.com.br^
 ||zaramexico.com.mx^
 ||zaramidia.com.br^
-||zargleflump.x10.mx^
 ||zatossolucoes.com.br^
 ||zatu.vps.co.ve^
 ||zauberamc.com.br^
