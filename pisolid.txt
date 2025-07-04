@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-04T03:02:13.623Z
+! Last modified: 2025-07-04T15:02:14.021Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -5942,7 +5942,6 @@
 ||apiuiaraamazonresort.fd.economysoftware.com.br^
 ||apix-app.logmanager.com.br^
 ||apk.anecoin.co^
-||apkmirror.co^
 ||apkupdatessl.co^
 ||aplfcu.keygraphics.mx^
 ||aplicacao.seduc.pi.gov.br^
@@ -19277,7 +19276,6 @@
 ||glessyturismo.com.br^
 ||gleventslive.com.br^
 ||glidepath.co^
-||glinks.co^
 ||gliomet.com.ar^
 ||globa-assist.co^
 ||global-cap.co^
@@ -28018,7 +28016,6 @@
 ||lvcsac.com.pe^
 ||lvg.cl^
 ||lvrkrk.com.br^
-||lwex.co^
 ||lwrqspaypal-business.aarp.co^
 ||lxgroup-app.repl.co^
 ||lynordewic.co^
@@ -32168,6 +32165,7 @@
 ||otolaser.es^
 ||otomoto.moltex.cl^
 ||otomoto.sittex.cl^
+||otorh.com.br^
 ||otoshop.com.br^
 ||ottomoto-pl.coinmasa.es^
 ||ottomoto-pl.cphm.cl^
