@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-05T15:02:13.894Z
+! Last modified: 2025-07-06T03:02:16.652Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -10976,7 +10976,6 @@
 ||ceprepetozilba.gq^
 ||cequesabeamor.com.br^
 ||ceramicaamadobahia.com.br^
-||ceramicasaosebastiao.com.br^
 ||ceramicaterramazon.com.br^
 ||cercasagrande.educoncordia.gov.co^
 ||cerealesbarracuda.cl^
@@ -14829,6 +14828,7 @@
 ||danielmunoz.es^
 ||danielwellington.com.co^
 ||dantasfilmagens.com.br^
+||danyjosy.ddns.com.br^
 ||dap-udea.co^
 ||dapper-apps.co^
 ||dapple.co^
