@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-06T15:02:18.746Z
+! Last modified: 2025-07-07T03:02:21.423Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8292,6 +8292,8 @@
 ||atlanticgam.es^
 ||atlanticitybet.com.pe^
 ||atlanticitybet.pe^
+||atlanticityplay.pe^
+||atlanticlive.pe^
 ||atlanticu.keygraphics.mx^
 ||atlanticunion.coopcredifacil.com.co^
 ||atlanticunion.epicin.co^
@@ -12171,7 +12173,6 @@
 ||claim-prizerobux100k-join-here.blogspot.com.co^
 ||claim-pudgy.blogspot.mx^
 ||claim-renzoprotocol.co^
-||claimrblx10k.blogspot.com.co^
 ||claimrobuxfre.blogspot.mx^
 ||claims-renzoprotocol.co^
 ||clan88login.co^
@@ -13146,6 +13147,7 @@
 ||coreral.gq^
 ||coresdaamazonia.com.br^
 ||corg.co^
+||coriarte.com.br^
 ||corkcicles.com.mx^
 ||cormackshipping.com.br^
 ||cornerpharmshop.com.es^
@@ -24885,6 +24887,7 @@
 ||idimex.com.br^
 ||idiremi.co^
 ||idmelickmano.esy.es^
+||idmpc.co^
 ||idmsa.apple.com.idmswebautha123.eltrailer.cl^
 ||idnaco.gq^
 ||idogoiania.com.br^
@@ -26902,7 +26905,6 @@
 ||lahora.pe^
 ||laicos.es^
 ||laidclinique.com.mx^
-||laindustria.pe^
 ||lainieappleby.co^
 ||lajangadamazonas.co^
 ||lajumagroup.com.br^
@@ -28379,6 +28381,7 @@
 ||mapsa.com.pe^
 ||maqfax.com.br^
 ||maqmat.cl^
+||maqprosoft.co^
 ||maquiamazonas.com.pe^
 ||maquife.es^
 ||maquilamos.tuyo.mx^
@@ -29040,7 +29043,6 @@
 ||metamask-wallett.blogspot.com.br^
 ||metamask-wallett.blogspot.com.uy^
 ||metamask-wallett.blogspot.mx^
-||metamask.io.services.id.0x86dec05e5b894b0efec69cdf6316971802a2f9a1.rochalopes.com.br^
 ||metamaskinc.blogspot.cl^
 ||metamaskinc.blogspot.com.ar^
 ||metamaskinc.blogspot.com.br^
@@ -42974,6 +42976,7 @@
 ||xcv657.blogspot.com.uy^
 ||xcyfe.oeuxdxur.es^
 ||xdfwa.mypi.co^
+||xeana.co^
 ||xegoodelivery.com.br^
 ||xena.ad^
 ||xenet.es^
