@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-07T03:02:21.423Z
+! Last modified: 2025-07-07T15:02:18.833Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -757,6 +757,7 @@
 ||account-apple.com.es^
 ||account-iapple.com.es^
 ||account-paypal.clinicaeuropa.cl^
+||account-reaktivierung.com.nitrobridge.co^
 ||account-service-v073.gq^
 ||account-update.com.do^
 ||account-verification.frutalia.com.py^
@@ -11321,6 +11322,7 @@
 ||chatgpt.hz-it-dev.co^
 ||chatgpt.iafinance.com.br^
 ||chatgpt.ifactura.es^
+||chatgpt.institutodoze.com.br^
 ||chatgpt.institutokadima.com.br^
 ||chatgpt.irxweb.com.br^
 ||chatgpt.jailbreak.co^
@@ -11563,6 +11565,7 @@
 ||chatgptbard.co^
 ||chatgptbase.co^
 ||chatgptbasic.com.br^
+||chatgptbasics.co^
 ||chatgptblog.co^
 ||chatgptblog.com.br^
 ||chatgptblueprint.co^
@@ -11780,6 +11783,7 @@
 ||chatgptparapymes.es^
 ||chatgptparatodos.com.br^
 ||chatgptpay.co^
+||chatgptpen.co^
 ||chatgptplugin.co^
 ||chatgptplugins.co^
 ||chatgptplugins.es^
@@ -24651,6 +24655,7 @@
 ||hvieira.com.br^
 ||hwc-amazon-notification.orphex.co^
 ||hwthrq.es^
+||hx4.nmcvfipy.es^
 ||hxceaaz.blogspot.com.co^
 ||hyataimo.blogspot.mx^
 ||hyataimo.blogspot.pe^
@@ -25275,6 +25280,7 @@
 ||inginida.hol.es^
 ||ingles-app.api.danielsanchesdev.com.br^
 ||ingles-app.danielsanchesdev.com.br^
+||ingleschatgpt.mx^
 ||inglesconchatgpt.mx^
 ||inglessem.co^
 ||ingressonamao.net.br^
@@ -25983,6 +25989,7 @@
 ||jamon-appetit.es^
 ||jamsaingenieros.com.pe^
 ||janavenanciomakeup.com.br^
+||jancok.co^
 ||jandaluz.com.br^
 ||jandradesigns.co^
 ||janesapplehome.com.br^
@@ -28547,7 +28554,6 @@
 ||marylanchesdelivery.com.br^
 ||masadaamazonia.com.br^
 ||masaieventos.cl^
-||masc-006.cloudscontroller.es^
 ||mascotasbyamazonia.es^
 ||mascoti.cl^
 ||mascursosweb.com.ar^
@@ -28883,6 +28889,7 @@
 ||melhoralinkedin.com.br^
 ||melhorcondicao.com.br^
 ||melhordaoferta.srv.br^
+||melhordemoto.com.br^
 ||melhordescontodaweb.com.br^
 ||melhordestinodeverao.com.br^
 ||melhordiscon.com.br^
@@ -29098,6 +29105,7 @@
 ||meudis.com.br^
 ||meueinstein-appointment-scheduler-stg.apps.ocp-rosa-hml.einstein.br^
 ||meuespaco.influenciadormagalu.com.br^
+||meuespacoacabamentos.com.br^
 ||meufeijaogourmet.com.br^
 ||meugasdelivery.com.br^
 ||meuinter.com.br^
@@ -30120,7 +30128,6 @@
 ||myfriendcuh123.x10.mx^
 ||myg0vaccess.es^
 ||mygrammarly.co^
-||myguyjeremy.x10.mx^
 ||myhomedecoracion.com.uy^
 ||myhsbconline.co^
 ||myindianbabes.blogspot.com.es^
@@ -31369,6 +31376,7 @@
 ||odbll-srv-app.sorreasy.com.br^
 ||odfgidfghdfjh.blogspot.com.br^
 ||odiamelhor.com.br^
+||odicznqfykptugnpaypal-plaza.game.ar^
 ||odocy.co^
 ||odontoamazon.com.br^
 ||odontoaustral.com.ar^
@@ -31873,6 +31881,7 @@
 ||openai.resnj.gq^
 ||openai.rman.gq^
 ||openai.saudehd.com.br^
+||openai.sendbot.co^
 ||openai.seuportalonline.com.br^
 ||openai.shiyue.es^
 ||openai.shopdoacademico.com.br^
@@ -32734,6 +32743,7 @@
 ||paypal-danmark.eu.ar^
 ||paypal-danmark.forum.ar^
 ||paypal-danmark.game.ar^
+||paypal-danmark.meme.bz^
 ||paypal-danmark.organic.ar^
 ||paypal-danmark.post.ar^
 ||paypal-danmark.press.mx^
@@ -33003,6 +33013,7 @@
 ||paypal-opinions.fit.pe^
 ||paypal-opinions.gay.mx^
 ||paypal-opinions.juegos.mx^
+||paypal-opinions.memorial.co^
 ||paypal-opinions.nexus.mx^
 ||paypal-opinions.realestate.do^
 ||paypal-opinions.vodka.es^
@@ -33321,6 +33332,7 @@
 ||paypal.prepaid.co^
 ||paypal.press.mx^
 ||paypal.primecreditoinvest.com.br^
+||paypal.produkes.cl^
 ||paypal.promoterface.com.br^
 ||paypal.pruebassiweb.es^
 ||paypal.quatroventos.com.br^
@@ -33357,6 +33369,7 @@
 ||paypal.update.garko.com.mx^
 ||paypal.update.serviciosreunidos.es^
 ||paypal.valejunto.com.br^
+||paypal.verify.co^
 ||paypal.verify.colegiooswaldocruz.com.br^
 ||paypal.virtualcomponentes.com.br^
 ||paypal.visitg.co^
@@ -34119,6 +34132,7 @@
 ||pl.depiclinic.com.py^
 ||pl.electric-scooter.co^
 ||pl.tek.com.py^
+||pl.update-app007.com.es^
 ||pla.consigfront.com.br^
 ||placadegesso.com.br^
 ||placasajj.com.br^
@@ -37772,6 +37786,7 @@
 ||sentrol.cl^
 ||seo-app.dplop.es^
 ||seo.jakex.co^
+||seochatgpt.devroyal.es^
 ||seodescomplicado.com.br^
 ||seogoogle.com.mx^
 ||seohouse.co^
@@ -38688,7 +38703,6 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
-||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
@@ -38899,6 +38913,7 @@
 ||spk-i.co^
 ||spk-mittelthueringen.adventskalender.co^
 ||spk-v.co^
+||spk-verfahren.com.es^
 ||splashclub.com.mx^
 ||splendor.es^
 ||splitbiin.co^
@@ -41742,6 +41757,7 @@
 ||vendaingresso.com.br^
 ||vendasbr01.com.br^
 ||vendasbradescosaude.com.br^
+||vendaschatgpt.com.br^
 ||vendasmktorg.com.br^
 ||vendasonlinesg.com.br^
 ||vendaspacotes.com.br^
