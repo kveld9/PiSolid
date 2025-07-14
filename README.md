@@ -47,7 +47,6 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 
 ## Fuentes
 ### **PiSolid-Ultra**
-- [Dandelion Sprout's Anti Push Notifications](https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt)  
 - [HaGeZi's Threat Intelligence Feeds DNS Blocklist - full version](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt)  
 - [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)  
 - [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.adblock)  
