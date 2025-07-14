@@ -45,11 +45,6 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-nsfw.txt)
 - [Mirror](https://brevent.sytes.net/dns/pisolid-nsfw.txt)
 
-### **PiSolid-Globals**
-- [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-globals.txt)
-- [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-globals.txt)
-- [Mirror](https://brevent.sytes.net/dns/pisolid-globals.txt)
-
 ## Fuentes
 ### **PiSolid-Ultra**
 - [Dandelion Sprout's Anti Push Notifications](https://adguardteam.github.io/HostlistsRegistry/assets/filter_39.txt)  
@@ -68,28 +63,6 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [KidSaf-cbuijs](https://raw.githubusercontent.com/cbuijs/1hosts/refs/heads/main/KidSaf/domains.top-n.adblock)  
 - [OISD-NSFW-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/nsfw/domains.top-n.adblock)  
 - [StevenBlack-NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts)  
-
-### **PiSolid-Globals**
-- [celenity - adobe](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/adobe.txt)  
-- [celenity - amazon](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/amazon.txt)  
-- [celenity - apple](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/apple.txt)  
-- [celenity - brave](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/brave.txt)  
-- [celenity - facebook](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/facebook.txt)  
-- [celenity - gaming](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/gaming.txt)  
-- [celenity - google](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/google.txt)  
-- [celenity - huawei](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/huawei.txt)  
-- [celenity - lg](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/lg.txt)  
-- [celenity - matomo](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/matomo.txt)  
-- [celenity - microsoft](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/microsoft.txt)  
-- [celenity - mozilla](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/mozilla.txt)  
-- [celenity - nvidia](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/nvidia.txt)  
-- [celenity - oracle](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/oracle.txt)  
-- [celenity - samsung](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/samsung.txt)  
-- [celenity - tiktok](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/tiktok.txt)  
-- [celenity - twitter](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/twitter.txt)  
-- [celenity - xiaomi](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/xiaomi.txt)  
-- [celenity - yahoo](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/yahoo.txt)  
-- [celenity - yandex](https://codeberg.org/celenity/BadBlock/raw/branch/pages/abp/yandex.txt)
 
 ## Agradecimientos
 - Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
