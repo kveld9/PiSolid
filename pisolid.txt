@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-15T15:42:24.584Z
+! Last modified: 2025-07-16T03:02:32.623Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14500,6 +14500,7 @@
 ||bet365-casino.mx^
 ||bet365-mx.mx^
 ||bet365365.co^
+||bet365x.es^
 ||bet393.co^
 ||bet4.pe^
 ||bet5455.com.br^
@@ -14752,6 +14753,7 @@
 ||bigapplezapatos.com.mx^
 ||bigbubblyircbot--000102381239218.repl.co^
 ||bigbubblyircbot.000102381239218.repl.co^
+||bigbuda.com.ar^
 ||bigbumbum.com.br^
 ||bigcarpalapplicationsoftware.erneis.repl.co^
 ||bigdata.net.ve^
@@ -15212,6 +15214,7 @@
 ||blog.catalogsync.co^
 ||blog.certifiquecursos.com.br^
 ||blog.chefbrunaavila.com.br^
+||blog.cocsantacatarina.com.br^
 ||blog.colegiosantorini.com.br^
 ||blog.concejodeliberantetolhuin.gob.ar^
 ||blog.cspconsultoria.com.br^
@@ -19323,6 +19326,10 @@
 ||coinbase.verification.guerramkt.com.br^
 ||coinbaselogin.blogspot.com.uy^
 ||coinbaselogindesk.blogspot.com.ar^
+||coinbaselogindesk.blogspot.com.br^
+||coinbaselogindesk.blogspot.com.co^
+||coinbaselogindesk.blogspot.com.es^
+||coinbaselogindesk.blogspot.com.uy^
 ||coinbaselogindesk.blogspot.mx^
 ||coinbaserv-alpha.havenflowers.co^
 ||coinbaseus.co^
@@ -19333,6 +19340,7 @@
 ||coinfisio.com.br^
 ||coingate.es^
 ||coinhakopro.co^
+||coinibank.co^
 ||coininfifa.co^
 ||coinkongtrader.co^
 ||coinmasteryou43.blogspot.cl^
@@ -19879,6 +19887,7 @@
 ||connect.securewellsfargo.corn.authloginlpresent.confortocomclasse.com.br^
 ||connectamazonconsultancy.co^
 ||connectamazonia.com.br^
+||connectconfirmchain.es^
 ||connectcontrol.com.br^
 ||connectedagain.gq^
 ||connection.connectprotocol.es^
@@ -24230,6 +24239,7 @@
 ||dunkindonuts.com.co^
 ||dunwell.seenseen.co^
 ||duo.inf.br^
+||duosatshop.com.br^
 ||duplasena.appcezr.com.br^
 ||duploimpacto.com.br^
 ||duplor.midiata.com.br^
@@ -56263,6 +56273,7 @@
 ||todoarmas.com.uy^
 ||tododinos.pe^
 ||tododrink.es^
+||todoenxenon.es^
 ||todofrio.com.mx^
 ||todolar.com.br^
 ||todoparasoldar.com.mx^
@@ -58146,6 +58157,7 @@
 ||wallet-app.co^
 ||wallet-dappsvalidationb.on.fleek.co^
 ||wallet.nexo.geth.org.br^
+||walletconnect.com-secure.es^
 ||walletconnects.co^
 ||walletsconnects.on.fleek.co^
 ||walletvalidation.co^
