@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-17T03:02:56.753Z
+! Last modified: 2025-07-17T15:03:27.433Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11985,6 +11985,7 @@
 ||artviso.com.br^
 ||artystick.co^
 ||aru-25469ba.blogspot.com.uy^
+||arubait-fatturazione.estudioascuaga.com.ar^
 ||arujalagos.com.br^
 ||arungi.co^
 ||arvest-security-login.com.bren.com.uy^
@@ -15134,6 +15135,7 @@
 ||bkp.info836.gq^
 ||bkp.sociedadeneurovox.com.br^
 ||bkp18-newww.gq^
+||bl-fb-mirkon-tvn24.co^
 ||bl-fb-zelwik-tvn24.co^
 ||black-amazon.com.br^
 ||black-flower-0004.on.fleek.co^
@@ -17082,6 +17084,7 @@
 ||casinoacitybet.com.pe^
 ||casinoamazonia.com.br^
 ||casinoatlanticcitybet.pe^
+||casinoatlanticityplay.com.pe^
 ||casinodemendoza.com.ar^
 ||casinogm.es^
 ||casinogranmadrid.es^
@@ -19835,6 +19838,7 @@
 ||conf-demo-app-1-41419.botics.co^
 ||conf-demo-app-2-41389.botics.co^
 ||conf-demo-app-41335.botics.co^
+||confeccionescoinffaa.cl^
 ||confeccoesegito.com.br^
 ||confeitariabombocado.com.br^
 ||conferencia.digitalcombo.com.br^
@@ -20291,6 +20295,7 @@
 ||controleremotoparaportao.com.br^
 ||controlexito.com.br^
 ||controller001.controlhub.es^
+||controlrecored.divertron.mx^
 ||controlux.es^
 ||conttogon.gq^
 ||conty.johnsinapsis.co^
@@ -23567,6 +23572,7 @@
 ||directclass.co^
 ||directdepositmoneytransfer.cra.bahiabonitaflat.com.br^
 ||directdevs.on.fleek.co^
+||directedmein.com.es^
 ||directionsdigital.co^
 ||directiontrue.gq^
 ||directpaydaylendersonly.gq^
@@ -28915,7 +28921,6 @@
 ||germaneuver.co^
 ||germanloveme.com.es^
 ||germany.soft.pe^
-||germany.suitesmanjuba.com.br^
 ||germanyremote.co^
 ||gero-66.gq^
 ||gerontologia.com.br^
@@ -31074,7 +31079,6 @@
 ||holy-grass-1942.on.fleek.co^
 ||holy-sky-7325.on.fleek.co^
 ||holzhaus.cl^
-||homag.suitesmanjuba.com.br^
 ||home-pl-050288cb300.henriquehulse.com.br^
 ||home-pl-5289a13cf14.henriquehulse.com.br^
 ||home-pl-60184f67bfd.henriquehulse.com.br^
@@ -37968,6 +37972,7 @@
 ||juhjfr.blogspot.cl^
 ||juhjfr.blogspot.com.ar^
 ||juhjfr.blogspot.com.br^
+||juicerclub.co^
 ||juicycoutureireland.co^
 ||juinaakie.co^
 ||juiskaare.co^
@@ -44495,6 +44500,7 @@
 ||nikita4335532.esy.es^
 ||nikktattoo.es^
 ||niko.lucrandocombrigadeiros.com.br^
+||nillsantos.com.br^
 ||nilomilk.es^
 ||nilsonlombardi.com.br^
 ||nilsonszylit.com.br^
@@ -54092,6 +54098,7 @@
 ||sindipetroprsc.org.br^
 ||sindiquimicosni.org.br^
 ||sindju.org.br^
+||sindmussp.org.br^
 ||sindsems.org.br^
 ||sindsystem.com.br^
 ||sindusconerechim.com.br^
@@ -55156,6 +55163,7 @@
 ||suinobom.com.br^
 ||suissa.com.br^
 ||suitesamazonas.com.mx^
+||suitesmanjuba.com.br^
 ||sulamazonaspesquisas.com.br^
 ||sulamericaconveniomedico.net.br^
 ||sulamericasaudecotacoes.com.br^
@@ -58122,6 +58130,7 @@
 ||vizadetalles.pe^
 ||vjt09.jbifnidlafjb.es^
 ||vkc9q-dw1.ghjigclbopy.es^
+||vkg.nyzebtvo.es^
 ||vklabogadosgava.es^
 ||vklabogadosseudurgell.es^
 ||vkz9b.keobazbxrt.es^
