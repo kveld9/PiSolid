@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-19T03:02:55.624Z
+! Last modified: 2025-07-19T15:03:06.757Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -255,6 +255,7 @@
 ||09.l12h.repl.co^
 ||0913.comvocenaweb.com.br^
 ||091343301649925.cocopasa.com.mx^
+||092384.idsecurityportal.com.es^
 ||092c9c3b-dd9b-441e-a3b5-8ee2d397bdd7.id.repl.co^
 ||09388.co^
 ||093rusrpvwaiu239azjksfh3o.gq^
@@ -12687,6 +12688,7 @@
 ||autoria.com.ar^
 ||autorizadigital.co^
 ||autorizador5.com.br^
+||autorizalibere.co^
 ||autorizaonline.co^
 ||autosabio.es^
 ||autosblogs.co^
@@ -14192,6 +14194,7 @@
 ||bdonline.com.br^
 ||bdrgnh.blogspot.com.es^
 ||bdrhdw.blogspot.cl^
+||bdscimei.cl^
 ||bdt.org.br^
 ||bdv4.webnode.com.co^
 ||bdwva.blogspot.cl^
@@ -39607,6 +39610,7 @@
 ||llamazon.pe^
 ||llapple.melborp.co^
 ||llaverosmetalicos.com.ar^
+||llbancobase.com.mx^
 ||llegitnon.gq^
 ||llgames.com.br^
 ||lll4.gq^
@@ -48918,6 +48922,7 @@
 ||pontosnotifica.co^
 ||pontosresgatar.co^
 ||pontotecno.com.br^
+||pontovaloriza.co^
 ||pontuaagora.co^
 ||pony19.esy.es^
 ||ponytutorial.esy.es^
@@ -48968,6 +48973,7 @@
 ||portal-app.salez.com.br^
 ||portal-bancoestado-personas-login.gq^
 ||portal-bancolombia.portall3.repl.co^
+||portal-cliente.trescoolatelie.com.br^
 ||portal-ingreso-bancoestado-cl.gq^
 ||portal.baixadaon.com.br^
 ||portal.betelhost.com.br^
