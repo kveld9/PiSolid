@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-18T15:03:02.477Z
+! Last modified: 2025-07-19T03:02:55.624Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12041,6 +12041,7 @@
 ||asclinica.com.br^
 ||ascofame.org.co^
 ||ascon.co^
+||asconspa.cl^
 ||ascorfin.org.br^
 ||ascovermusicbrasilinstagram.blogspot.com.ar^
 ||ascovermusicbrasilinstagram.blogspot.com.co^
@@ -16061,6 +16062,7 @@
 ||broad-tree-2228.on.fleek.co^
 ||broad-tree-9637.on.fleek.co^
 ||broad-wave-0335.on.fleek.co^
+||broadband.makeweb.co^
 ||broadcal.gq^
 ||brocamuebles.com.ar^
 ||broken-butterfly-0280.on.fleek.co^
@@ -23042,6 +23044,7 @@
 ||destypad.gq^
 ||desvendandoochatgpt.com.br.curcucalmvitality.com.br^
 ||desvendandoochatgpt.com.br^
+||detail-booking.com.br^
 ||detail-for--fb-restication.repl.co^
 ||detail-of--fb-restication.repl.co^
 ||detectaseguranca.com.br^
@@ -48909,6 +48912,7 @@
 ||pontonexo.com.br^
 ||pontoregistrado.com.br^
 ||pontosaplique.co^
+||pontosativar.co^
 ||pontoscertos.com.br^
 ||pontosentrega.co^
 ||pontosnotifica.co^
@@ -54108,7 +54112,6 @@
 ||sindipetroprsc.org.br^
 ||sindiquimicosni.org.br^
 ||sindju.org.br^
-||sindmussp.org.br^
 ||sindsems.org.br^
 ||sindsystem.com.br^
 ||sindusconerechim.com.br^
@@ -57718,6 +57721,7 @@
 ||verdoto.gq^
 ||verge.com.br^
 ||verificacfdi.facturaelectronica.sat.cfdisgob.mx^
+||verificacfdi.facturaelectronica.satg.com.mx^
 ||verificacfdi.facturaelectronica.validacion-sat-gob.mx^
 ||verificacfdifacturaelectronicasatgov.com.mx^
 ||verificacion-santander-app.com.mx^
@@ -58417,6 +58421,7 @@
 ||web-centrum24-pl.es^
 ||web-openaiassistant.dev2.macamedia.com.ar^
 ||web.com.uy^
+||web.dpallet.com.mx^
 ||web3pr.gq^
 ||web50aqui.es^
 ||web6728.autoridad-dela-cooperativa-de-credito.mx^
@@ -58676,6 +58681,7 @@
 ||wildgene.co^
 ||wildlifeworld.gq^
 ||wildtracks.es^
+||willams.makeweb.co^
 ||williamjames.edu.mx^
 ||willnow.com.br^
 ||willrazsi.gq^
