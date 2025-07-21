@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-20T15:02:43.315Z
+! Last modified: 2025-07-21T03:02:59.898Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4468,7 +4468,6 @@
 ||alexandranatale.com.br^
 ||alexandreamazonas.com.br^
 ||alexandregallo.com.br^
-||alexandreveiculos.com.br^
 ||alexfarm-eg.co^
 ||alexfranco.co^
 ||alexim.com.br^
@@ -9353,6 +9352,7 @@
 ||apaevitoria.org.br^
 ||aparatologiaspa.net.pe^
 ||aparatosolucoes.com.br^
+||aparecanochatgpt.com.br^
 ||apartamentoenvalencia.com.ve^
 ||apartamentosadriana.com.br^
 ||apartamentoturisticogranada.es^
@@ -12955,6 +12955,7 @@
 ||azsdcvbrtghnuikolmtghnrfv.gq^
 ||azsfdfvawgbp.es^
 ||azsrv-app01.4core.com.br^
+||aztecno.com.co^
 ||azuki.com.co^
 ||azulconsultas.com.br^
 ||azulejoslowcost.es^
@@ -17987,6 +17988,7 @@
 ||chatgpt.plugia.com.br^
 ||chatgpt.portal-hml.orizon.com.br^
 ||chatgpt.potado.co^
+||chatgpt.primerimpacto.es^
 ||chatgpt.pro.br^
 ||chatgpt.prod5.dmapper.co^
 ||chatgpt.prod8.dmapper.co^
@@ -18126,6 +18128,7 @@
 ||chatgptagenciademarketing.com.br^
 ||chatgptagenciaiaartificial.com.br^
 ||chatgptagency.co^
+||chatgptagent.co^
 ||chatgptagi.es^
 ||chatgptai.co^
 ||chatgptai.com.co^
@@ -22610,6 +22613,7 @@
 ||ddsamazon.co^
 ||de-locked.update-app007.com.es^
 ||de-origen.es^
+||de-paypal.co^
 ||de.freemail-webmail.documentos.unirad.med.br^
 ||de.goldsea.es^
 ||de.rubbertek.cl^
@@ -31216,6 +31220,7 @@
 ||host.e-hosting.com.ve^
 ||host.novanitro.com.br^
 ||host48-15.viabrs.com.br^
+||hostalalberdi.cl^
 ||hostalalcala.cl^
 ||hostalbarrioitalia.cl^
 ||hostalcazalegas.es^
@@ -35739,6 +35744,7 @@
 ||igc93-crbgroup.qkipikpp.es^
 ||igcar.es^
 ||igconfirmform-meta.gq^
+||igd-agents-openai.ignicaodigital.com.br^
 ||igdigital.com.br^
 ||igdxpu.es^
 ||igeniic.co^
@@ -36067,6 +36073,7 @@
 ||independentmusiclovers.gq^
 ||index.2iemechanceassurance.co^
 ||indexalimentos.com.mx^
+||indexfxcapital.co^
 ||indexs.mysniperhex.repl.co^
 ||indiaapple.mysbuxben.co^
 ||indianflowers.gq^
@@ -45100,6 +45107,7 @@
 ||octavio.cl^
 ||octaviocastillo.cl^
 ||octavioflores.cl^
+||octopuslabs.cl^
 ||octron.com.br^
 ||oculistasantoamaro.com.br^
 ||oculistazonasul.com.br^
@@ -45794,6 +45802,7 @@
 ||openai.projurisadv.com.br^
 ||openai.proxy.onlyoffice.co^
 ||openai.quizclass.com.br^
+||openai.rambos.com.br^
 ||openai.resnj.gq^
 ||openai.rman.gq^
 ||openai.saudehd.com.br^
@@ -46861,6 +46870,7 @@
 ||pay-pal-21321.hol.es^
 ||pay-pal-info1.gq^
 ||pay-pal-tiktokearn.rexon.com.co^
+||pay-pal.a-ii.co^
 ||pay-pal.co^
 ||pay-pal.rexon.com.co^
 ||pay-pal.uk-help-centre.co^
@@ -46894,6 +46904,7 @@
 ||paypal--aidan1234567898.repl.co^
 ||paypal-account-confirmation.muninuevaesperanza.gov.py^
 ||paypal-account-verification.francodieselperu.com.pe^
+||paypal-account.com.mx^
 ||paypal-account.support-center-limited.renegociardivida.com.br^
 ||paypal-accountlimit.yahoodatabreachsettlement.co^
 ||paypal-accounts-verification.mcsoluciones.com.mx^
@@ -47294,6 +47305,7 @@
 ||paypal-optimizer.school.ar^
 ||paypal-partners.aarp.co^
 ||paypal-partners.careers.mx^
+||paypal-partners.cc.pe^
 ||paypal-partners.desi.co^
 ||paypal-partners.htc.cl^
 ||paypal-partners.nexus.mx^
@@ -50974,6 +50986,7 @@
 ||rec.facebookco-232118147.ho27.co^
 ||rec.facebookco-709997187.ho27.co^
 ||rec.facebookco-826198529.ho27.co^
+||rec.metaambiental.eco.br^
 ||recaldepropiedades.com.ar^
 ||recanto3irmaos.com.br^
 ||recantoacacias.com.br^
@@ -53219,7 +53232,6 @@
 ||sc-002.controlhub.es^
 ||sc-sp-app.ticketmais.com.br^
 ||sc.connectprotocol.es^
-||sc.controlhub.es^
 ||sc3-app.com.ar^
 ||sc3-app2.com.ar^
 ||sc3-app3.com.ar^
@@ -54201,7 +54213,6 @@
 ||site-apple.co^
 ||site-binance.co^
 ||site-de-rencontre-cocine.blogspot.pe^
-||site-smd5ol7jv.godaddysites.co^
 ||site.feuc.br^
 ||site.seguro.cadastro.cliente.promocao.qualitynet.com.br^
 ||site.webtupi.com.br^
@@ -57063,6 +57074,7 @@
 ||u2oqz.plyaqid.es^
 ||u3l.co^
 ||u3qb3kvwxpnuivfn4nld.wouparu.es^
+||u58o.yurgltyju.es^
 ||u6j45-paramountcontracting.qkipikpp.es^
 ||u6th7u.bsfff.es^
 ||ua.eetthh20.co^
@@ -58469,7 +58481,6 @@
 ||webdesign.com.es^
 ||webdigi.com.br^
 ||webdisk.carhartt-wipsouthafrica.co^
-||webdisk.newprojectz.co^
 ||webespetacular.com.br^
 ||webexclusivo.com.br^
 ||webgama.com.br^
@@ -58597,6 +58608,7 @@
 ||westkinon.gq^
 ||westliberrtybank.co^
 ||westudios.com.ar^
+||weswjpaypal-europe.show.cl^
 ||wetllands.co^
 ||wetransfer-com-ovh-dev-dossiersec-connexionpagetelechargement.pages.dev.br^
 ||wetrtfg.gq^
