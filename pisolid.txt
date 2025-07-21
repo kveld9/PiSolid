@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-21T03:02:59.898Z
+! Last modified: 2025-07-21T15:02:43.371Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -12685,6 +12685,7 @@
 ||autorefixsystem.co^
 ||autores.ra-ma.es^
 ||autoria.com.ar^
+||autorizaagora.co^
 ||autorizadigital.co^
 ||autorizador5.com.br^
 ||autorizaonline.co^
@@ -48541,7 +48542,6 @@
 ||pissettiadvogados.com.br^
 ||pistadebaile.co^
 ||pitacobom.com.br^
-||pitchbookfinance.co^
 ||pitifulwellwornsystemintegrator.bmclmbia.repl.co^
 ||pittur.pitimbu.pb.gov.br^
 ||piumaweb.com.br^
@@ -54527,6 +54527,7 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
+||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
