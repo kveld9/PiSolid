@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-22T03:02:53.603Z
+! Last modified: 2025-07-22T15:02:53.962Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -15146,6 +15146,7 @@
 ||bkp.sociedadeneurovox.com.br^
 ||bkp18-newww.gq^
 ||bl-fb-drosan-tvn24.co^
+||bl-fb-krytol-tvn24.co^
 ||bl-fb-mirkon-tvn24.co^
 ||bl-fb-zelwik-tvn24.co^
 ||black-amazon.com.br^
@@ -22645,6 +22646,7 @@
 ||debank.net.co^
 ||debatebonaerense.com.ar^
 ||deboracorvellofotografia.com.br^
+||dec55-accsessp0int2.es^
 ||decactus.cl^
 ||deccore.com.br^
 ||decentdarkvioletrepo.bgeneralfw5com.repl.co^
@@ -45115,7 +45117,6 @@
 ||octavio.cl^
 ||octaviocastillo.cl^
 ||octavioflores.cl^
-||octopuslabs.cl^
 ||octron.com.br^
 ||oculistasantoamaro.com.br^
 ||oculistazonasul.com.br^
@@ -54302,6 +54303,7 @@
 ||skypool.co^
 ||skytech.gq^
 ||skyview-fx-trading.co^
+||skywander.co^
 ||slack-app.avogato.co^
 ||slack-app.ekie.co^
 ||slaft.com.mx^
