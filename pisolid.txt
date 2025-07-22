@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-21T15:02:43.371Z
+! Last modified: 2025-07-22T03:02:53.603Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1029,6 +1029,7 @@
 ||2fjjrnq6k93gpdmbk.we9ixzz.co^
 ||2fo4xr6a7zyd7dd.we9ixzz.co^
 ||2funnyvideos.pagedemo.co^
+||2g3eff33.blogspot.cl^
 ||2giga.do^
 ||2go.net.br^
 ||2hfgjfg.pagedemo.co^
@@ -14371,6 +14372,7 @@
 ||belotoner.com.br^
 ||belovedrowdygigabyte--five-nine.repl.co^
 ||belunardopizzaria.com.br^
+||belvedere.eng.br^
 ||bemadrid.es^
 ||bemardistribuidora.com.ar^
 ||bemarking.com.br^
@@ -15584,6 +15586,7 @@
 ||bold-waterfall-8408.on.fleek.co^
 ||boldclassicintegrationtesting.notiesnewsglars.repl.co^
 ||boldlygo.co^
+||boldmount.co^
 ||boldrini.org.br^
 ||boletim.srv.br^
 ||boletimamazonico.com.br^
@@ -19251,6 +19254,7 @@
 ||cmtkoreal.com.br^
 ||cmturismo.com.br^
 ||cmzdr.com.mx^
+||cn-kuaifan.co^
 ||cn-metamask.co^
 ||cnamazon.com.br^
 ||cnatural.ec^
@@ -25873,6 +25877,7 @@
 ||estudiodetatuagens.com.br^
 ||estudioespositoymiguel.com.ar^
 ||estudiofeldman.com.ar^
+||estudiofelli.com.ar^
 ||estudioharapiuk.com.ar^
 ||estudioidprotesecapilar.com.br^
 ||estudioiorfida.com.ar^
@@ -41201,6 +41206,7 @@
 ||marketingsender.com.br^
 ||marketingvoiplivre.com.br^
 ||marketingwithchatgpt.co^
+||marketingwithsam.co^
 ||marketmoda.com.br^
 ||marketome.co^
 ||marketplace-item2487222297984.consultoc.com.br^
@@ -42464,6 +42470,7 @@
 ||mizunomx.com.mx^
 ||mizunoperu.com.pe^
 ||mizunos.com.mx^
+||mj.net.br^
 ||mjanssen.expofranchise.com.br^
 ||mjaui27hdk13.blogspot.com.br^
 ||mjaui27hdk13.blogspot.com.uy^
@@ -54527,7 +54534,6 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
-||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
@@ -55629,6 +55635,7 @@
 ||tartanz.co^
 ||tarumaengenharia.com.br^
 ||tarwdu.es^
+||tasinsa.com.gt^
 ||taskdata.gq^
 ||tasteofjingyangtasteofjingyang.easy.co^
 ||tastyapple7501.repl.co^
@@ -58694,6 +58701,7 @@
 ||wi-app.support.secure.sitemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||wi3c.msyoxvxe.es^
 ||wibtech.com.br^
+||wickbot.co^
 ||widepip.es^
 ||wiehenstahl.co^
 ||wieser-appartement.com.es^
