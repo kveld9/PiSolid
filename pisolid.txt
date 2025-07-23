@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-23T03:02:48.224Z
+! Last modified: 2025-07-23T15:02:47.832Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2376,6 +2376,7 @@
 ||86u750988760000--querita.repl.co^
 ||86u750988760000.querita.repl.co^
 ||87.0hot.repl.co^
+||871549.eliteeyeview.co^
 ||8721154087.nruiqekxlv0ofnrmlggc.indiomuerto.cl^
 ||873wntrz788fhd367mhnn.mattsenior1.repl.co^
 ||875.fxjkd.es^
@@ -4358,6 +4359,7 @@
 ||albercasresidenciales.com.mx^
 ||albert.senesie.ultramedicinadiagnostica.com.br^
 ||alberteinstein.edu.pe^
+||albertetienne1752715747611.0140026.meusitehostgator.com.br^
 ||albertform.com.br^
 ||albertgrafica.com.br^
 ||albertoadriano.com.br^
@@ -10776,6 +10778,7 @@
 ||applejob.co^
 ||applejobs.co^
 ||applejooce.co^
+||applejp.co^
 ||applejr.co^
 ||applejuice.cabofio.com.br^
 ||applejuice.jigtelecom.com.br^
@@ -17098,6 +17101,7 @@
 ||casino-paypal.co^
 ||casino-paypal.es^
 ||casinoacitybet.com.pe^
+||casinoacitybet.pe^
 ||casinoamazonia.com.br^
 ||casinoatlanticcitybet.pe^
 ||casinoatlanticitylive.com.pe^
@@ -17499,6 +17503,7 @@
 ||cercasagrande.educoncordia.gov.co^
 ||cerealesbarracuda.cl^
 ||cererdana.co^
+||ceresdigital.co^
 ||cerezasq.com.ar^
 ||ceriabet188.co^
 ||cerimonialbh.com.br^
@@ -19988,6 +19993,7 @@
 ||consciousburger.co^
 ||consefor-app.paas.node07.de.vix.br^
 ||consegg.com.br^
+||consegna-brt-it.restodeltata.com.ar^
 ||conseillercode.blogspot.cl^
 ||conseillercode.blogspot.com.co^
 ||consejo.com.py^
@@ -45046,6 +45052,7 @@
 ||oan.egs.transagua.cl^
 ||oanxgf.maniguaorganica.com.co^
 ||oape.org.br^
+||oapple.co^
 ||oarangeapple.co^
 ||oasisecohotel.cl^
 ||oasiss.co^
