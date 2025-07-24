@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-23T15:02:47.832Z
+! Last modified: 2025-07-24T03:03:03.936Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3150,6 +3150,7 @@
 ||accounts.google-app.co^
 ||accounts.meta.com-helpcenter.co^
 ||accounts.mx^
+||accounts.secure-verifications.es^
 ||accounts.snap-chat.gq^
 ||accounts.zeropaper.com.br^
 ||accountscenter-meta.com-helpcenter.co^
@@ -28680,6 +28681,7 @@
 ||garagewineco.cl^
 ||garaizabal.es^
 ||garantidopravoce.com.br^
+||garantirpontos.co^
 ||garantizatutrabajo.cl^
 ||garasi777login.co^
 ||garboimagen.com.uy^
@@ -41264,6 +41266,7 @@
 ||martelinhofalcon.com.br^
 ||martelinhomogi.com.br^
 ||martenshrvatska.co^
+||marthaannesdiasthomp1746983281251.0640324.meusitehostgator.com.br^
 ||marthapinheirocardiologia.com.br^
 ||martianappletre.repl.co^
 ||martianmedia.co^
@@ -43306,6 +43309,7 @@
 ||mutisporelforoescape.es^
 ||mutterevening.co^
 ||mutualenlineacr-com8.webnode.es^
+||muuimh.poqjfrm.es^
 ||muv-app.co^
 ||muv.mx^
 ||muvy3d.es^
@@ -46102,6 +46106,7 @@
 ||orange-c00800.webnode.com.co^
 ||orange-credit-2254.on.fleek.co^
 ||orange-darkness-4210.on.fleek.co^
+||orange-empresas-ofertas.es^
 ||orange-scene-7260.on.fleek.co^
 ||orange-sun-5184.on.fleek.co^
 ||orangeapple.co^
