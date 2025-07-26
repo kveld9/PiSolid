@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-26T03:02:52.030Z
+! Last modified: 2025-07-26T15:02:41.333Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1640,6 +1640,7 @@
 ||54a4502a-eb67-4696-812e-55c2ede08154.id.repl.co^
 ||55.ganador55.repl.co^
 ||55100000.co^
+||55100003.co^
 ||55100005.co^
 ||551001.co^
 ||551002.co^
@@ -26661,6 +26662,7 @@
 ||farmaciasloshidalgos.com.do^
 ||farmaciavecina.pe^
 ||farmadepot.com.mx^
+||farmavida.com.es^
 ||farmax.far.br^
 ||farmed.es^
 ||farmlink-app.top-secret.mx^
@@ -42746,6 +42748,7 @@
 ||modernacontabil.com.br^
 ||moderncasa.com.br^
 ||modmountltd.co^
+||modobracesso.mudc.com.br^
 ||modosdamoda.com.br^
 ||modular360.es^
 ||modulargarden.co^
@@ -58905,6 +58908,9 @@
 ||wt.eliteforex.co^
 ||wt.est-invest.co^
 ||wt.lldsgroup.co^
+||wt.millenniumtrading.co^
+||wt.oakwellfinance.co^
+||wt.profile-hub.co^
 ||wt.rukapp.co^
 ||wt.superswiss.co^
 ||wtamazonia.com.br^
