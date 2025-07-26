@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-25T15:03:44.479Z
+! Last modified: 2025-07-26T03:02:52.030Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -371,6 +371,7 @@
 ||107106025673983.graficaaoquadrado.com.br^
 ||107298241558747.gq^
 ||108060997791300.gq^
+||108623.co^
 ||108bpo.com.br^
 ||109761126210152.kitlanchesisa.com.br^
 ||109995305821806.lgc.eng.br^
@@ -9645,6 +9646,7 @@
 ||appaulovelasco.com.br^
 ||appbanrural.manuel-990.repl.co^
 ||appbestdelivery.com.br^
+||appbradesco.co^
 ||appbrl.com.br^
 ||appcardapio.com.br^
 ||appchatgpt.openbusiness.co^
@@ -11864,6 +11866,7 @@
 ||arqflora.com.br^
 ||arqlon.mx^
 ||arqmdiaz.com.ar^
+||arqnit.org.br^
 ||arqsustancial.com.ar^
 ||arqueirosdaamazonia.com.br^
 ||arquelau.com.br^
@@ -17709,6 +17712,7 @@
 ||chat-gpt-mexico.mx^
 ||chat-gpt-software.es^
 ||chat-gpt-tech.es^
+||chat-gpt-translator-api.moonsys.co^
 ||chat-gpt.ai-ml.cyberh.com.br^
 ||chat-gpt.alattas.co^
 ||chat-gpt.bz^
@@ -17878,6 +17882,7 @@
 ||chatgpt.cursosinfornet.com.br^
 ||chatgpt.deados.es^
 ||chatgpt.deepseek.co^
+||chatgpt.deinos.com.ar^
 ||chatgpt.descomplicandovidas.com.br^
 ||chatgpt.dev.br^
 ||chatgpt.dev.omaly.com.ar^
@@ -17893,6 +17898,7 @@
 ||chatgpt.docentesit.es^
 ||chatgpt.dongxin.co^
 ||chatgpt.dsinove.com.br^
+||chatgpt.dytweb.cl^
 ||chatgpt.e-mat.cl^
 ||chatgpt.eactiva.pe^
 ||chatgpt.ec^
@@ -20643,7 +20649,6 @@
 ||cpcontacts.financialdesign.mx^
 ||cpcontacts.granadoemurahara.com.br^
 ||cpcontacts.login-giffgaff.co^
-||cpcontacts.newprojectz.co^
 ||cpdatpaypal-businesscenter.hotmail.ar^
 ||cpesusanawesley.edu.pe^
 ||cpetroamazonas.wilcatsystems.pe^
@@ -27455,6 +27460,7 @@
 ||fhjgrx.blogspot.com.uy^
 ||fhjtdx.blogspot.com.es^
 ||fhsingenieria.cl^
+||fiambresbienalsur.com.ar^
 ||fianacialwealth.co^
 ||fiastubof.gq^
 ||fiatamazonas.com.br^
@@ -28838,6 +28844,7 @@
 ||gearedsantander3online--troubgytcont1ne.repl.co^
 ||gebdfe.blogspot.com.es^
 ||gebdfe.blogspot.pe^
+||gebpaypal.estrellablanca.com.mx^
 ||gebyar-bripoin2022.blogspot.com.ar^
 ||gecatl.gq^
 ||gececom.com.br^
@@ -29835,6 +29842,7 @@
 ||gris.com.gt^
 ||grizzledsilverbinarysearchtree--five-nine.repl.co^
 ||gromatosa.gq^
+||gronest.mypi.co^
 ||groovefilmes.com.br^
 ||groover.com.ar^
 ||grosjoumouff.gq^
@@ -40746,7 +40754,6 @@
 ||mail.mindcx.com.br^
 ||mail.mujeressinpermiso.com.ar^
 ||mail.newfutsal.com.br^
-||mail.newprojectz.co^
 ||mail.onlinebankin.co^
 ||mail.ourletter.com.br^
 ||mail.paypalid.co^
@@ -45847,6 +45854,7 @@
 ||openai.synautomai.com.br^
 ||openai.tecnoprop.ar^
 ||openai.thinkaboutexport.es^
+||openai.tms.com.ve^
 ||openai.tomiko.co^
 ||openai.train-ai.co^
 ||openai.uniaqua.co^
@@ -47440,6 +47448,7 @@
 ||paypal-shopping.read.co^
 ||paypal-shopping.sling.co^
 ||paypal-solving.yahoodatabreachsettlement.co^
+||paypal-sptam.aarp.co^
 ||paypal-sptam.alipay.co^
 ||paypal-sptam.casino.sv^
 ||paypal-sptam.farmers.co^
@@ -47607,6 +47616,7 @@
 ||paypal.gewinnspiele.es^
 ||paypal.granlogia.bo^
 ||paypal.greymidwest.co^
+||paypal.greyohio.co^
 ||paypal.group.ar^
 ||paypal.gumi.mx^
 ||paypal.gwata.com.br^
@@ -47763,6 +47773,7 @@
 ||paypalfeecalculator.co^
 ||paypalfest.com.mx^
 ||paypalfinance.co^
+||paypalgiving.fund.mx^
 ||paypalgivingfund.bharti.co^
 ||paypalgivingfund.channel.ar^
 ||paypalgivingfund.grocery.co^
@@ -54590,6 +54601,7 @@
 ||sonnica.com.mx^
 ||sonnwend-appartements.com.es^
 ||sonodigi.es^
+||sonovisual.com.co^
 ||sonpitecto.gq^
 ||sonsdaamazonia.com.br.innovmidia.com.br^
 ||sonsmasters.com.br^
@@ -57970,6 +57982,7 @@
 ||view.campanhasbradesco.com.br^
 ||view.x10.mx^
 ||viewsign.tbhnpjc.es^
+||viewsolucoes.com.br^
 ||vigaloperadora.com.mx^
 ||vigilanteamazonico.pe^
 ||vigillaralarmes.com.br^
@@ -58540,7 +58553,6 @@
 ||webmail.cl^
 ||webmail.dickies-colombia.com.co^
 ||webmail.impetrol.com.br^
-||webmail.newprojectz.co^
 ||webmailbb.maxvisao.com.br^
 ||webmailbb.reverter.com.br^
 ||webmailbradesco.primeirasconversas.com.br^
@@ -58651,7 +58663,6 @@
 ||westliberrtybank.co^
 ||westudios.com.ar^
 ||weswjpaypal-europe.show.cl^
-||wetllands.co^
 ||wetransfer-com-ovh-dev-dossiersec-connexionpagetelechargement.pages.dev.br^
 ||wetrtfg.gq^
 ||wetsuits.es^
@@ -58888,8 +58899,11 @@
 ||wsrie-yoursix.ghjigclbopy.es^
 ||wsww7-gprmp.gksnhlbhkq.es^
 ||wt.altacon-investment.co^
+||wt.arsapp.co^
+||wt.bitincome.co^
 ||wt.clients-portal.co^
 ||wt.eliteforex.co^
+||wt.est-invest.co^
 ||wt.lldsgroup.co^
 ||wt.rukapp.co^
 ||wt.superswiss.co^
