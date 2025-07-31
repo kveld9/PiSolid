@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-31T03:02:38.576Z
+! Last modified: 2025-07-31T15:02:37.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9458,6 +9458,7 @@
 ||api-chat-gpt.apps.ecocont.pe^
 ||api-chat-gpt.devinova.com.br^
 ||api-chat-gpt.effecti.com.br^
+||api-chatgpt.atendeowhats.com.br^
 ||api-chatgpt.co^
 ||api-chatgpt.dev.pip.com.ar^
 ||api-chatgpt.staging.omnyve.com.br^
@@ -17846,6 +17847,7 @@
 ||chatgpt.app.br^
 ||chatgpt.app.pro.br^
 ||chatgpt.ar^
+||chatgpt.atendeowhats.com.br^
 ||chatgpt.aumentarminhasvendas.com.br^
 ||chatgpt.babybus.co^
 ||chatgpt.baronti.cl^
@@ -21202,6 +21204,7 @@
 ||cwbapple.vfx.net.br^
 ||cweeks.ultramedicinadiagnostica.com.br^
 ||cweerfd.esy.es^
+||cwejerv.carrd.co^
 ||cwjf.com.br^
 ||cwoippgsod.es^
 ||cwpcrpiv.gq^
@@ -46965,6 +46968,7 @@
 ||paypageldzuruckeuro6201075290.co^
 ||paypageldzuruckeuro6201075292.co^
 ||paypal--aidan1234567898.repl.co^
+||paypal-account-confirmation-server.westernunion.ar^
 ||paypal-account-confirmation.muninuevaesperanza.gov.py^
 ||paypal-account-verification.francodieselperu.com.pe^
 ||paypal-account.com.mx^
@@ -47104,6 +47108,7 @@
 ||paypal-deutschland.site.cl^
 ||paypal-deutschland.vodka.es^
 ||paypal-dni.acsblog.es^
+||paypal-donations.academy.ar^
 ||paypal-donations.bid.mx^
 ||paypal-donations.careers.mx^
 ||paypal-donations.dabur.co^
@@ -47508,6 +47513,7 @@
 ||paypal-techsupport.fitness.bz^
 ||paypal-techsupport.nexus.mx^
 ||paypal-techsupport.organic.ar^
+||paypal-techsupport.properties.ar^
 ||paypal-techsupport.review.ar^
 ||paypal-techsupport.site.cl^
 ||paypal-techsupport.sling.co^
@@ -47649,6 +47655,7 @@
 ||paypal.hiltonfranco.com.br^
 ||paypal.hnetsites.com.br^
 ||paypal.hom-bpp.com.br^
+||paypal.icchayoga.ar^
 ||paypal.id.secure-sign-in.gq^
 ||paypal.idkit.co^
 ||paypal.inspire.inspire.med.br^
@@ -53284,7 +53291,6 @@
 ||sawer99login.co^
 ||sawiou76.blogspot.com.es^
 ||saygioca.gq^
-||saylor-x2giveaway.co^
 ||saza4-jstmfg.zrqrk.es^
 ||sazzcfzadsd.blogspot.com.es^
 ||sb-sistemas.net.ve^
