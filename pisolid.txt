@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-30T15:03:14.755Z
+! Last modified: 2025-07-31T03:02:38.576Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2462,6 +2462,7 @@
 ||8cc9eb32-3a4c-449f-8c20-63d7bd3236c2.id.repl.co^
 ||8ce0784e-5381-42b0-bd84-ea11022ba6fb.id.repl.co^
 ||8ce0ym6yt2wd62cdiqp.we9ixzz.co^
+||8cvodjnmfux6wczwt6bopyjpcsihl.ec^
 ||8d1f95ac-ceaf-4ee4-ad63-ce0a71e6ba55.id.repl.co^
 ||8d43cbcd-f292-4d3f-bb74-32c38a832df1.id.repl.co^
 ||8d65bebf-11c5-410c-8d8f-8d6127fa6320.id.repl.co^
@@ -18349,6 +18350,7 @@
 ||chatgptmaster.com.br^
 ||chatgptmasterclass.co^
 ||chatgptmasterclass.com.br^
+||chatgptmasterclass.projetorendadgt.com.br^
 ||chatgptmasters.com.br^
 ||chatgptmastery.co^
 ||chatgptmastery.com.br^
@@ -25786,6 +25788,7 @@
 ||especialistas.org.ar^
 ||especialistasapple.com.br^
 ||especialistassm.com.mx^
+||especializacaochatgpt.joaodelima.com.br^
 ||especializaonline.com.br^
 ||especialpromobr.com.br^
 ||especiariasamazonia.com.br^
@@ -30347,7 +30350,6 @@
 ||h-appmgp.mprj.mp.br^
 ||h-herms.es^
 ||h0me-bank1ng00.fgrtherftgh.repl.co^
-||h1.redethics.es^
 ||h1000x.com.br^
 ||h11ev5290.hixtvgskmynz.es^
 ||h28.hserv.com.br^
@@ -38058,7 +38060,6 @@
 ||julioretamar.com.ar^
 ||juliorivera.com.pe^
 ||jumabijuterias.com.br^
-||jumaisimba.x10.mx^
 ||jumbochillyarchitects--five-nine.repl.co^
 ||jumbonaiveadministration.maria55550.repl.co^
 ||jumbosickinterfaces.cecilialuna1.repl.co^
@@ -38541,6 +38542,7 @@
 ||knowingdeficientfunnel--five-nine.repl.co^
 ||knycupaypal.oficinadeestilo.com.br^
 ||koc-app.mail-next.stage0.cybozu-ne.co^
+||koccpsu0xw5ummzudixne9sejgzem.do^
 ||koemankh.slythored.gq^
 ||kofeicoffee.com.gt^
 ||kofloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
@@ -39731,7 +39733,6 @@
 ||local-app.plataformacera.com.br^
 ||local-v2-app-test.plataformacera.com.br^
 ||localapple.co^
-||localbusineess.com.br^
 ||localcerto.imb.br^
 ||localiser-apple.co^
 ||localiser-eu.co^
@@ -39850,6 +39851,7 @@
 ||login.instgram.repl.co^
 ||login.live.com.login.srf.nz-clasic.gq^
 ||login.live.com.pr0tection.gq^
+||login.lojacorrr.com.br^
 ||login.microsftonline.com.office365.com.fbestruturasmetalicas.com.br^
 ||login.microsofftonline.co^
 ||login.microsoftonline.com-common.oauth2.tkdmaninho.com.br^
@@ -40909,6 +40911,7 @@
 ||makita-ua.gq^
 ||makroimobiliaria.com.br^
 ||makuma-app.repl.co^
+||mal289re1.es^
 ||maladir.com.br^
 ||maladireta.globalrural.com.br^
 ||maladiretabrasil.com.br^
@@ -42135,6 +42138,7 @@
 ||mgoldenberg.com.br^
 ||mgtpropiedades.cl^
 ||mgtransportesmt.com.br^
+||mgvltqo48ymirixm1lukh9ajry06b.pa^
 ||mgyrd4.gq^
 ||mhctransportes.com.br^
 ||mheleva.com.mx^
@@ -45794,6 +45798,7 @@
 ||openai.easyweb.com.br^
 ||openai.ec^
 ||openai.evolgpt.cl^
+||openai.fia.ignicaodigital.com.br^
 ||openai.fortunestold.co^
 ||openai.fullstacksaas.com.br^
 ||openai.ggsite.co^
@@ -45809,6 +45814,7 @@
 ||openai.guoqiao.x10.bz^
 ||openai.henhao.gq^
 ||openai.hkjackma.gq^
+||openai.homeserver.co^
 ||openai.htamaro.com.br^
 ||openai.hub121.mx^
 ||openai.iiic.co^
@@ -45856,6 +45862,7 @@
 ||openai.quizclass.com.br^
 ||openai.rambos.com.br^
 ||openai.resnj.gq^
+||openai.ribeiro.floripa.br^
 ||openai.rman.gq^
 ||openai.saudehd.com.br^
 ||openai.sendbot.co^
@@ -45967,6 +45974,7 @@
 ||openaircinema.co^
 ||openairclub.ticketconex.com.br^
 ||openaircoffee.co^
+||openairdrones.es^
 ||openaire.co^
 ||openaire.linkeddata.es^
 ||openairesportes.com.br^
@@ -47240,6 +47248,7 @@
 ||paypal-knowledge-test.organic.ar^
 ||paypal-knowledge-test.show.cl^
 ||paypal-knowledge-test.tunes.mx^
+||paypal-knowledge.dabur.co^
 ||paypal-knowledge.game.ar^
 ||paypal-knowledge.legal.ar^
 ||paypal-knowledge.rugby.cl^
@@ -47672,6 +47681,7 @@
 ||paypal.online-help-centre.co^
 ||paypal.onlysugar.com.br^
 ||paypal.oomovil.x10.mx^
+||paypal.ouech.co^
 ||paypal.p9p1.co^
 ||paypal.paisco.com.do^
 ||paypal.percovich.com.ar^
@@ -48990,6 +49000,7 @@
 ||pontodot.com.br^
 ||pontonexo.com.br^
 ||pontoregistrado.com.br^
+||pontosalvos.co^
 ||pontosaplique.co^
 ||pontosativar.co^
 ||pontoscertos.com.br^
@@ -50189,6 +50200,7 @@
 ||puntodesalud.com.do^
 ||puntoexpress.es^
 ||puntos-premia.com.mx^
+||puntoscolombiaa.co^
 ||puntosdeventas.cl^
 ||puntosurf.com.mx^
 ||puntoti.com.mx^
@@ -51993,6 +52005,7 @@
 ||roakt-71.gq^
 ||roasne.co^
 ||rob.expofranchise.com.br^
+||robeeexform.blogspot.com.ar^
 ||robeeexform.blogspot.com.es^
 ||robeeexform.blogspot.mx^
 ||robergwo.gq^
@@ -52603,6 +52616,7 @@
 ||rouxx90.blogspot.mx^
 ||rouxx90.blogspot.pe^
 ||rouxx99.blogspot.cl^
+||rouxx99.blogspot.com.ar^
 ||rouxx99.blogspot.com.co^
 ||rouxx99.blogspot.com.es^
 ||rouxx99.blogspot.com.uy^
@@ -54453,7 +54467,6 @@
 ||smashcenter.com.br^
 ||smasq.blogspot.com.co^
 ||smbc-c.co^
-||smbcmobit.co^
 ||smccontabil.com.br^
 ||smdpe.com.br^
 ||smellfragrance.com.br^
@@ -55641,6 +55654,7 @@
 ||tagreplicawatch.co^
 ||taguatingashopping.com.br^
 ||tagwatches.co^
+||tahnhdgwywgz3so0afgyqrre2dxf5.pe^
 ||taikosushibar.com.br^
 ||tailorexpress.co^
 ||taimeha.gq^
@@ -58038,6 +58052,7 @@
 ||vilapple.com.br^
 ||vilax.gq^
 ||vilbarcpil.gq^
+||vilelaadvogados.com.br^
 ||villa-games.cl^
 ||villalemana.cl^
 ||villamer.com.br^
@@ -58861,6 +58876,7 @@
 ||wmodz.gq^
 ||wmwmlv.com.br^
 ||wmzrf.co^
+||wn1qfacegrj1zpl3gscmftv6rjqe2.do^
 ||wneggb.blogspot.mx^
 ||wnguuddiu.es^
 ||wnmnw.crapkdtubgo.es^
@@ -59045,6 +59061,7 @@
 ||wxzkehqb.es^
 ||wyckoffacademy.com.br^
 ||wyobj.ogyhr.es^
+||wz2sum62pmfpkvpngtvloqvrxulc4.ve^
 ||wzjfebopn.gq^
 ||wzlporgovvz.es^
 ||wzsovau.es^
@@ -59716,6 +59733,7 @@
 ||yuwhpbvbkpdy.es^
 ||yvkmefshrbaa.es^
 ||yvo.ivtzlppblg.es^
+||ywipbbhn7akaowimtm3iorz5hqkui.do^
 ||ywnlzl.dwqewi.es^
 ||ywseu2.com.br^
 ||yxzpih6qj.nvzjmhklxre.es^
@@ -59884,6 +59902,7 @@
 ||zona-azul-app.jumpparkapi.com.br^
 ||zonaamazon.es^
 ||zonaapple.co^
+||zonainformatica.es^
 ||zonawisp.cl^
 ||zone-apps.co^
 ||zoneawe.co^
