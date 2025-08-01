@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-07-31T15:02:37.106Z
+! Last modified: 2025-08-01T03:02:48.004Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4462,6 +4462,7 @@
 ||alertpastlamp.webclientes.repl.co^
 ||alertpoisedsolaris.cecilialuna1.repl.co^
 ||alerts-bancolombia.zz.com.ve^
+||alerts-device.co^
 ||alerts-vm.co^
 ||alertsbanca.galiciasecurit.repl.co^
 ||alertshelpprotector.gq^
@@ -19424,6 +19425,7 @@
 ||coinbaselogindesk.blogspot.com.es^
 ||coinbaselogindesk.blogspot.com.uy^
 ||coinbaselogindesk.blogspot.mx^
+||coinbaselogindesk.blogspot.pe^
 ||coinbaserv-alpha.havenflowers.co^
 ||coinbaseus.co^
 ||coinbasewalletpro.co^
@@ -21030,6 +21032,7 @@
 ||cultura5.com.br^
 ||culturaamazonica.com.br^
 ||culturabritanicacba.org.ar^
+||culturabva.es^
 ||culturaconsciente.com.br^
 ||culturadireitoesociedade.com.br^
 ||culturafocus.com.br^
@@ -24367,6 +24370,7 @@
 ||dvla.refund.delafuentepropiedades.cl^
 ||dvlaroadtaxesrebate.co^
 ||dvlataxreturn.co^
+||dvlhpbxlmmi.es^
 ||dvscolombia.com.co^
 ||dvsistemas.com.mx^
 ||dvsmall.com.br^
@@ -31016,6 +31020,7 @@
 ||hjd0mcqc84.dutraphotos.com.br^
 ||hjdescount.com.br^
 ||hjesxd.blogspot.cl^
+||hjgbfv.es^
 ||hjgbjt.blogspot.com.co^
 ||hjggcl.gq^
 ||hjghhjghgfdg.easy.co^
@@ -43304,6 +43309,7 @@
 ||muniquerecotillo.gob.pe^
 ||munisanborja.gob.pe^
 ||munoubengoshi.gq^
+||muriaspetin.es^
 ||murlioter.gq^
 ||murospremoldado.com.br^
 ||musashi-da-amazonia.my3cx.com.br^
@@ -50283,6 +50289,7 @@
 ||pyapay.co^
 ||pyapl.esy.es^
 ||pybm.com.mx^
+||pyfao.es^
 ||pyinthehouse.staccato22.repl.co^
 ||pynapple.co^
 ||pypm2t.noiveiuai.com.br^
@@ -54771,6 +54778,7 @@
 ||spacex.bz^
 ||spacextesla.co^
 ||spaciosaiz.es^
+||spaijo.es^
 ||spainpool.es^
 ||spam.nem.ec^
 ||spamazon.com.br^
@@ -55769,7 +55777,6 @@
 ||tbforte-app.pathfindsistema.com.br^
 ||tbotpr.oeuxdxur.es^
 ||tc.shlok.co^
-||tc1zeq.hjgbfv.es^
 ||tcdegzmg.es^
 ||tchat-gratuit-et-sans-inscription.blogspot.cl^
 ||tchemailer.com.br^
@@ -56934,6 +56941,7 @@
 ||trong-tran214.pages.net.br^
 ||tronics.updog.co^
 ||tronlab.co^
+||tronlink.com.co^
 ||tropicalpaisagem.com.br^
 ||tropilhagrillchurrascaria.com.br^
 ||tropitalia.com.br^
