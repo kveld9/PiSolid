@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-02T03:02:38.968Z
+! Last modified: 2025-08-02T15:02:36.204Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8796,6 +8796,7 @@
 ||amazonzip.com.br^
 ||amazonzk.co^
 ||amazonzll.co^
+||amazonzmc.co^
 ||amazonzn.co^
 ||amazonzo.co^
 ||amazonzoer.co^
@@ -14261,7 +14262,6 @@
 ||beautyamazony.com.br^
 ||beautyconcept.com.pe^
 ||beautydisplay.com.br^
-||beautyperfumes.com.br^
 ||beautyschooldropout.co^
 ||beautyslimreportagem.com.br^
 ||beautywellness.com.co^
@@ -15476,6 +15476,7 @@
 ||bmservice.com.br^
 ||bmssaude.com.br^
 ||bmvkcellodmee.gq^
+||bmw320ikaka.co^
 ||bmwmeaudi.pages.net.br^
 ||bmxcxell.gq^
 ||bn3ferwxidncsxpinlcrr6hulw9jo.we9ixzz.co^
@@ -15668,6 +15669,7 @@
 ||bonanzasolar.com.br^
 ||bonasecco.com.br^
 ||bone-appetit.co^
+||bonearte.com.br^
 ||bonecariadaamazonia.com.br^
 ||bonfimambiental.com.br^
 ||bonganichickenfarm.co^
@@ -24842,6 +24844,7 @@
 ||effdental.com.br^
 ||effective.com.uy^
 ||efficiencyempregos.com.br^
+||eficienciaeningenieria.com.mx^
 ||efimec.com.pe^
 ||efimeras.es^
 ||eflogistica.com.ar^
@@ -26280,6 +26283,7 @@
 ||extremas.com.ar^
 ||extreme-profits.co^
 ||extreme.co^
+||extremefishing.ar^
 ||extremeimports.com.br^
 ||extremesforcerbabel.industrisverifi.repl.co^
 ||exxa.co^
@@ -29256,6 +29260,7 @@
 ||gkerr.ultramedicinadiagnostica.com.br^
 ||gkfhkkkkhfgcg.easy.co^
 ||gkjtkytui.easy.co^
+||gkscwu.es^
 ||gksegdjtyklu.gq^
 ||gksynyzmxmhh.munty.co^
 ||glacierbanks.co^
@@ -40264,6 +40269,7 @@
 ||lp.bealpha.com.br^
 ||lp.cinthyaborges.com.br^
 ||lp.magicafilmes.com.br^
+||lp.photonanalitica.com.br^
 ||lp.wainerfortesadvocacia.com.br^
 ||lpacakeswaps.finance.trade.now.pagedemo.co^
 ||lpar.com.br^
@@ -46444,6 +46450,7 @@
 ||oxin.co^
 ||oxisalud.com.ec^
 ||oxllade.com.mx^
+||oxpiippkmu.es^
 ||oxweb.com.br^
 ||oy-delete-app-ca-central-1-0.deploy-delete-test-ca-centrapop.support.remweb.apwwtemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
 ||oyarceabogados.cl^
@@ -49035,10 +49042,13 @@
 ||pontodot.com.br^
 ||pontonexo.com.br^
 ||pontoregistrado.com.br^
+||pontoresgatar.co^
 ||pontosalvos.co^
 ||pontosaplique.co^
 ||pontosativar.co^
 ||pontoscertos.com.br^
+||pontosdivulga.co^
+||pontosemita.co^
 ||pontosentrega.co^
 ||pontosnotifica.co^
 ||pontosnovos.co^
@@ -55603,6 +55613,7 @@
 ||swiss-pass.co^
 ||swiss-trade.co^
 ||swiss-watches.co^
+||swiss.com-membership.co^
 ||swissclean.cl^
 ||swisscome.blogspot.cl^
 ||swisscome.blogspot.com.ar^
@@ -57274,7 +57285,6 @@
 ||uebapromo.com.br^
 ||uecq7-columbian.ghjigclbopy.es^
 ||uesca.gob.pe^
-||uezow.gkscwu.es^
 ||ufabet191.bz^
 ||ufabet196.co^
 ||ufabet1991.co^
@@ -57941,6 +57951,7 @@
 ||vesta-app.cl^
 ||vesta-app.co^
 ||vesta-app.icex360.cl^
+||vestcast.co^
 ||veste4me.com.br^
 ||vestibular-app.iesbtech.com.br^
 ||vestida.com.br^
@@ -58355,6 +58366,7 @@
 ||volkswagen.comexport.com.br^
 ||vollagio.com.br^
 ||vollmers.es^
+||vollume.com.br^
 ||vomadig.gq^
 ||vonmenzel.cl^
 ||vorempreendimentos.com.br^
@@ -59048,6 +59060,7 @@
 ||www-roblox.co^
 ||www-robloxx.com.es^
 ||www-support-apple.co^
+||www1.allianz-courtage.co^
 ||www1goonline-bnpparibas-pl.no-no.es^
 ||www2.amazon.co.jp.amuzan.co^
 ||www2.oftomed.cl^
@@ -59102,6 +59115,7 @@
 ||wzlporgovvz.es^
 ||wzsovau.es^
 ||wzuylk.es^
+||wzwln.es^
 ||wzy.com.br^
 ||x-apps.com.br^
 ||x-watches.co^
@@ -59782,6 +59796,7 @@
 ||yzpcoygst.gq^
 ||yzqeuhxf.es^
 ||z-app.co^
+||z-m-static.xx.allianz-courtage.co^
 ||z0fpy-mtechg.qkipikpp.es^
 ||z2i.co^
 ||z9d.fcwif.es^
