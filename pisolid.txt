@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-02T15:02:36.204Z
+! Last modified: 2025-08-03T03:02:36.832Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8792,6 +8792,7 @@
 ||amazonzaqws.co^
 ||amazonzc.co^
 ||amazonzds.co^
+||amazonzfv.co^
 ||amazonzia.co^
 ||amazonzip.com.br^
 ||amazonzk.co^
@@ -28767,7 +28768,6 @@
 ||gassomatic.com.mx^
 ||gastemenosagora.com.br^
 ||gastemenoshoje.com.br^
-||gastrade.co^
 ||gastriclower-cn-paypal.mysbuxben.co^
 ||gastrobahia.com.br^
 ||gastrocenter.co.cr^
@@ -28909,6 +28909,7 @@
 ||gemanavarro.es^
 ||gembira88login.co^
 ||gemini2.co^
+||gemmagalganiclinica.com.br^
 ||gems-claim.blogspot.com.co^
 ||gems-claim.blogspot.com.es^
 ||gen88login.co^
@@ -36149,7 +36150,6 @@
 ||independentmusiclovers.gq^
 ||index.2iemechanceassurance.co^
 ||indexalimentos.com.mx^
-||indexfxcapital.co^
 ||indexs.mysniperhex.repl.co^
 ||indiaapple.mysbuxben.co^
 ||indianflowers.gq^
@@ -37111,6 +37111,7 @@
 ||ishqpeterewaqt15.gq^
 ||isic.com.py^
 ||isimooapple.repl.co^
+||isiore.com.co^
 ||isitios.cl^
 ||isladelcampo.com.mx^
 ||islam.com.ar^
@@ -56930,6 +56931,7 @@
 ||triciasonline.com.br^
 ||tricinjohjua.gq^
 ||tricon.co^
+||triforma.com.ar^
 ||triktok.co^
 ||trilce.com.uy^
 ||trilhaamazoniaatlantica.com.br^
@@ -56997,7 +56999,6 @@
 ||truetones.co^
 ||truiro.qkipikpp.es^
 ||trulyamazon.com.br^
-||trumpsha.mypi.co^
 ||truquedaamazon.com.br^
 ||trust-kyc.controlarcondominios.com.br^
 ||trust-pharmacy.co^
