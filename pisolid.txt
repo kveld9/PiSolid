@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-04T03:02:54.289Z
+! Last modified: 2025-08-04T15:02:50.683Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -18894,6 +18894,7 @@
 ||citycolor.com.mx^
 ||citydelivery.es^
 ||citymdisp.gq^
+||citynational.disputespage.es^
 ||cityoutlet.es^
 ||citypizza.gq^
 ||cityshoes.com.mx^
@@ -24743,6 +24744,7 @@
 ||edfdesfewrfegfrfgrd.blogspot.mx^
 ||edfingenieros.cl^
 ||edfknr.co^
+||edge-chat.allianz-courtage.co^
 ||edge.metropcs.co^
 ||edhjzswehzshzsh.blogspot.cl^
 ||edhjzswehzshzsh.blogspot.com.co^
@@ -49067,6 +49069,7 @@
 ||pontotecno.com.br^
 ||pontovaloriza.co^
 ||pontuaagora.co^
+||pontuarmais.co^
 ||pony19.esy.es^
 ||ponytutorial.esy.es^
 ||poocoin-app.co^
@@ -55382,7 +55385,6 @@
 ||sumipancarabobo.com.ve^
 ||sumitorial.es^
 ||summer-haze-6540.on.fleek.co^
-||summerhill.co^
 ||summernic.gq^
 ||summitsicredidegovernanca.com.br^
 ||sumnavarro.es^
