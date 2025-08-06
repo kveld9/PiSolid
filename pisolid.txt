@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-06T03:02:46.667Z
+! Last modified: 2025-08-06T15:02:43.715Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -22380,6 +22380,7 @@
 ||dailyclipupdating.blogspot.cl^
 ||dailyclipupdating.blogspot.com.es^
 ||dailyclipupdating.blogspot.mx^
+||dailydealswarehouse.co^
 ||dailyhotcliphot.blogspot.cl^
 ||dailymodelclips.blogspot.cl^
 ||dailymodelclips.blogspot.com.br^
@@ -25317,6 +25318,7 @@
 ||empresas-lnterbank.pe^
 ||empresasajato.com.br^
 ||empresasamazonas.com.br^
+||emprotel.net.bo^
 ||empty-field-8641.on.fleek.co^
 ||empty-fire-0208.on.fleek.co^
 ||empty-mountain-8445.on.fleek.co^
@@ -35675,6 +35677,7 @@
 ||id-rec-check.ar-me.co^
 ||id-support.co^
 ||id.com.py^
+||id.handel.mobile.de.login.service.ativadriver.eng.br^
 ||id.ion0o0s.es.zanuum.com.br^
 ||id.sv^
 ||id200654log.hol.es^
@@ -50226,7 +50229,6 @@
 ||pss-appart.es^
 ||pst.ldtelecom.net.br^
 ||pstas.emiweb.es^
-||psuyc.qoaiozi.es^
 ||psy-app.vmb.co^
 ||pt9.com.br^
 ||ptamazonas.org.br^
@@ -54777,6 +54779,7 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
+||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
@@ -55471,6 +55474,7 @@
 ||sumitorial.es^
 ||summer-haze-6540.on.fleek.co^
 ||summernic.gq^
+||summitdns.co^
 ||summitsicredidegovernanca.com.br^
 ||sumnavarro.es^
 ||sumobet888.co^
