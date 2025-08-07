@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-06T15:02:43.715Z
+! Last modified: 2025-08-07T03:02:30.653Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3942,6 +3942,7 @@
 ||agenciaitaliaonline.com.br^
 ||agenciak.com.br^
 ||agenciaka.com.br^
+||agencialatam.com.br^
 ||agencialogan.com.br^
 ||agenciamarketingchatgpt.com.br^
 ||agenciamazonia.com.br^
@@ -9572,6 +9573,8 @@
 ||apollodiesel.com.br^
 ||apollomedflight.co^
 ||apolloplanejados.com.br^
+||apoloproxyopenai-dev.cloud.itau.com.br^
+||apoloproxyopenai.cloud.itau.com.br^
 ||apophissecurity.co^
 ||apostilaconcursos.net.br^
 ||apostolasdocenaculo.com.br^
@@ -9619,7 +9622,6 @@
 ||app.cartoriofederal.com.br^
 ||app.factuel.pe^
 ||app.getinput.co^
-||app.histobellum.cl^
 ||app.idestgestao.com.br^
 ||app.imobisales.com.br^
 ||app.instagram.com-login-mobile.ciberconsulta.es^
@@ -13135,6 +13137,7 @@
 ||bacanafesta.com.br^
 ||bacarrepuestos.com.ar^
 ||baccredomatic-pa.bcredomatic.repl.co^
+||bachilleratoporciclos.co^
 ||baciamazonica.paginasamarelas-virtual.com.br^
 ||back-amazonas.fairvoting.cl^
 ||back-app.mepsi.co^
@@ -17786,6 +17789,7 @@
 ||chat.gpt.bigtienda.es^
 ||chat.gpt.bz^
 ||chat.gpt.do^
+||chat.gpt996.co^
 ||chat.gptfy.co^
 ||chat.gptgov.com.br^
 ||chat.gptjuridico.com.br^
@@ -18005,6 +18009,7 @@
 ||chatgpt.mktdigbr.com.br^
 ||chatgpt.modernstuff.com.br^
 ||chatgpt.mov3.co^
+||chatgpt.moveinformatica.cl^
 ||chatgpt.multiplicarsocial.com.br^
 ||chatgpt.my-ai.co^
 ||chatgpt.namegenerator.co^
@@ -18274,6 +18279,7 @@
 ||chatgptee.co^
 ||chatgptees.co^
 ||chatgptein.repl.co^
+||chatgptemportugues.com.br^
 ||chatgptempresa.es^
 ||chatgptempresas.com.br^
 ||chatgpteros.co^
@@ -19682,6 +19688,7 @@
 ||commerz-bank.co^
 ||commerzbank-phototan-9ba78.firebaseapp.co^
 ||commerzbank-secure.liids.com.br^
+||commerzbank.co^
 ||commerzbank.com.br^
 ||commerzbank.de.connectcableservice.com.br^
 ||commerzbank.es^
@@ -25421,6 +25428,7 @@
 ||engenerconstrucao.com.br^
 ||engenhariaconceitoamazonia.com.br^
 ||engenhariaforma.com.br^
+||engenhariatb.com.br^
 ||engenhoweb.com.br^
 ||engepool.com.br^
 ||engerrow.gq^
@@ -27955,6 +27963,7 @@
 ||fnogv-mtechg.qkipikpp.es^
 ||fnpmarkets.co^
 ||fnv26v.yonkou.co^
+||fnvimoyvwkbxbmczlqus.supabase.co^
 ||fnvnh-harlanbakeries.ghjigclbopy.es^
 ||foborox.gq^
 ||focco.cl^
@@ -31066,6 +31075,7 @@
 ||hirleicarlos.com.br^
 ||hisensetech.gq^
 ||hisparotulos.es^
+||histobellum.cl^
 ||historiadigital.cl^
 ||historiaschatgpt.com.br^
 ||historiaschatgpt.raciociniocristao.com.br^
@@ -36553,6 +36563,7 @@
 ||instagram.cajuinaweb.com.br^
 ||instagram.com.ec^
 ||instagram.cycloneaddons.repl.co^
+||instagram.dlscomunicacao.com.br^
 ||instagram.itzfadi111.repl.co^
 ||instagram.logian.repl.co^
 ||instagram.loginein.repl.co^
@@ -37245,6 +37256,7 @@
 ||it4apple.com.br^
 ||ita-areia.com.br^
 ||itabachillerato.edu.co^
+||itabranca.com.br^
 ||itabunapalacehotel.com.br^
 ||itacarcasi.edu.co^
 ||itacolor.com.br^
@@ -38470,6 +38482,7 @@
 ||khsambhav.co^
 ||khujooutlet.es^
 ||khwhhappsb.gq^
+||khwvjpaypalcorp.deals.ar^
 ||khwy.ouqptt.es^
 ||kiancable.co^
 ||kiannak.gq^
@@ -44098,6 +44111,7 @@
 ||nbqeyxovcu.es^
 ||nbsnoticias.com.mx^
 ||ncbrasil.com.br^
+||ncconceito.com.br^
 ||ncestiohicthesealet.gq^
 ||ncl.co^
 ||ncl95rdcuohejkliyz.we9ixzz.co^
@@ -45866,6 +45880,7 @@
 ||openai.appcasacor.com.br^
 ||openai.appclouds.com.br^
 ||openai.aquinolamunier.adv.br^
+||openai.ar^
 ||openai.associahub.com.br^
 ||openai.astrobot.cl^
 ||openai.aws.kane.mx^
@@ -45887,6 +45902,7 @@
 ||openai.co^
 ||openai.code.co^
 ||openai.codegsistemas.com.br^
+||openai.com.ar^
 ||openai.com.br^
 ||openai.com.do^
 ||openai.com.mx^
@@ -45918,6 +45934,7 @@
 ||openai.govia.inf.br^
 ||openai.gq^
 ||openai.gqqg.gq^
+||openai.greyblock.co^
 ||openai.gruber.dev.br^
 ||openai.grupocellere.com.br^
 ||openai.grupomdpontes.com.br^
@@ -45995,6 +46012,7 @@
 ||openai.weixin.qq.cl^
 ||openai.wolai.gq^
 ||openai.workspace.lebs.com.br^
+||openai.wscripts.com.br^
 ||openai.x10.bz^
 ||openai.x10.mx^
 ||openai.xeventos.es^
@@ -46096,6 +46114,7 @@
 ||openairliving.co^
 ||openairllc.co^
 ||openairproject.com.br^
+||openairservicios.jpmkt.cl^
 ||openairshop.com.br^
 ||openairsolutions.co^
 ||openairsp.com.br^
@@ -47525,6 +47544,7 @@
 ||paypal-prepagata.careers.mx^
 ||paypal-prepagata.forum.ar^
 ||paypal-prepagata.group.ar^
+||paypal-prepagata.hotels.bz^
 ||paypal-prepagata.htc.cl^
 ||paypal-prepagata.insure.ar^
 ||paypal-prepagata.ooo.co^
@@ -47662,6 +47682,7 @@
 ||paypal.academy.ar^
 ||paypal.account-uk.co^
 ||paypal.account.com.valdecirsantana.com.br^
+||paypal.account.verify.co^
 ||paypal.accountguest.repl.co^
 ||paypal.acmengenharia.acmengenharia.com.br^
 ||paypal.aidan1234567898.repl.co^
@@ -47681,6 +47702,7 @@
 ||paypal.bullishtrader.co^
 ||paypal.bundas.com.br^
 ||paypal.business.do^
+||paypal.bz^
 ||paypal.cachorrosaiyajin.com.br^
 ||paypal.cadejur.com.br^
 ||paypal.cadernodecinema.com.br^
@@ -47804,6 +47826,7 @@
 ||paypal.p9p1.co^
 ||paypal.paisco.com.do^
 ||paypal.percovich.com.ar^
+||paypal.plutus.h4k.co^
 ||paypal.prepaid.co^
 ||paypal.press.mx^
 ||paypal.primecreditoinvest.com.br^
@@ -48007,6 +48030,7 @@
 ||paypalverification.whf.bz^
 ||paypalverificationcode.parkdoor.gq^
 ||paypalverify.whf.bz^
+||paypalwww.goole.co^
 ||paypalyes.bpp.com.br^
 ||paypalzkawyv0.blogspot.com.es^
 ||paypan.co^
@@ -49122,7 +49146,6 @@
 ||pontonexo.com.br^
 ||pontoregistrado.com.br^
 ||pontoresgatar.co^
-||pontoresgate.co^
 ||pontosalvos.co^
 ||pontosaplique.co^
 ||pontosativar.co^
@@ -57984,6 +58007,7 @@
 ||ventepaka.cl^
 ||ventlogos.com.br^
 ||vento.net.br^
+||ventomgmt.com.mx^
 ||ventupros.com.ve^
 ||venturaparts.com.br^
 ||ventureriders.co^
