@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-09T03:02:41.061Z
+! Last modified: 2025-08-09T15:02:45.868Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -16571,6 +16571,7 @@
 ||cable200-116-159-109.epm.net.co^
 ||caboclaamazonia.com.br^
 ||caboenrolado.com.br^
+||cabralmed.com.br^
 ||cac.landsagenciaweb.com.br^
 ||cacaairsoft.com.br^
 ||cacalv.com.br^
@@ -45603,6 +45604,7 @@
 ||omestredoamassadocg.com.br^
 ||omeuhost.com.br^
 ||omfadvogados.com.br^
+||omfgtizdie-sad.blogspot.com.ar^
 ||omg-omise.co^
 ||omgeving0nline.gq^
 ||omise.com.co^
