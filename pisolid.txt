@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-08T15:02:39.816Z
+! Last modified: 2025-08-09T03:02:41.061Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -28813,6 +28813,7 @@
 ||garrapucho.es^
 ||garrena-membership.gq^
 ||garrulous-mood.uncrn.co^
+||garyoliver.es^
 ||gas-ertrag.co^
 ||gas-natural.com.mx^
 ||gas.inf.br^
@@ -43348,6 +43349,7 @@
 ||multipackchile.cl^
 ||multipool.es^
 ||multipools.cl^
+||multirao.ufop.br^
 ||multirepuestos.cl^
 ||multiserviciosyyr.com.ve^
 ||multisolucionsocial.com.co^
