@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-10T03:02:34.875Z
+! Last modified: 2025-08-10T15:02:42.266Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -14435,6 +14435,7 @@
 ||benesoft.es^
 ||benetakocuphitzak.co^
 ||benettonmexicoonline.com.mx^
+||benezar.com.br^
 ||benicio.es^
 ||benimar.es^
 ||benkoabogados.cl^
@@ -20381,6 +20382,7 @@
 ||contratarofertavodafone.es^
 ||contrateumplanodesaude.com.br^
 ||contrato-servicios.renovar.repl.co^
+||contrato.acordo.x10.mx^
 ||contratodeparceria.com.br^
 ||contratos-v2-app.dth.nuvem.gov.br^
 ||control-app-aga.es^
@@ -36102,7 +36104,6 @@
 ||impexo.co^
 ||impi.com.br^
 ||impisholiveregression.angueluisreyama.repl.co^
-||implantesdentalesjmartinezr.com.ar^
 ||implarededeensino.com.br^
 ||implementosagricolas.com.mx^
 ||impm.upel.edu.ve^
@@ -41056,6 +41057,7 @@
 ||malaysiadfh.pages.net.br^
 ||malbecediciones.es^
 ||malchikzer.gq^
+||malhariasublime.com.br^
 ||malhaviaria.com.br^
 ||malibertefinanciere.co^
 ||maliboohost.com.br^
@@ -47110,6 +47112,7 @@
 ||paymentdashboard-app.ese.et3.co^
 ||paymentmaster.gq^
 ||paymentsprocessing.gq^
+||paynotificacaobrflix.btv.net.br^
 ||paynowapp.com.mx^
 ||payogaherdikapt.gq^
 ||payogimete-app-ca-central-1-0.deploy-delete-test-ca-centrapop.support.remweb.apwwtemaps.cursosbelepport.secure.sitemaps.cursosbelezaestetica.com.br^
@@ -54824,6 +54827,7 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
+||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
