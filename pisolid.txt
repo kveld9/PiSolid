@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-09T15:02:45.868Z
+! Last modified: 2025-08-10T03:02:34.875Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -8802,6 +8802,7 @@
 ||amazonzaqws.co^
 ||amazonzc.co^
 ||amazonzds.co^
+||amazonzdzc.co^
 ||amazonzfv.co^
 ||amazonzia.co^
 ||amazonzip.com.br^
@@ -9140,6 +9141,7 @@
 ||andredalcarobo.com.br^
 ||andreefelipe.com.br^
 ||andreempreendimentos.com.br^
+||andrefelipedonascime1753562407700.0461178.meusitehostgator.com.br^
 ||andreflores.com.br^
 ||andreiacalcada.com.br^
 ||andreialopes.adm.br^
@@ -11744,7 +11746,6 @@
 ||arcinstalacoes.com.br^
 ||arclim.com.br^
 ||arcoldarcondicionado.com.br^
-||arcon.com.pe^
 ||arcon.pa.gov.br^
 ||arcondicionadoicm.com.br^
 ||arcoorion.es^
@@ -17944,6 +17945,7 @@
 ||chatgpt.dongxin.co^
 ||chatgpt.dsinove.com.br^
 ||chatgpt.dytweb.cl^
+||chatgpt.e-commercenvios.cl^
 ||chatgpt.e-mat.cl^
 ||chatgpt.eactiva.pe^
 ||chatgpt.ec^
@@ -17953,6 +17955,7 @@
 ||chatgpt.es^
 ||chatgpt.etiquetasyenvases.es^
 ||chatgpt.evacommerce.com.br^
+||chatgpt.faculdadealternativa.com.br^
 ||chatgpt.fauget.co^
 ||chatgpt.fiveperformancedigital.com.br^
 ||chatgpt.fluxfy.com.br^
@@ -18028,6 +18031,7 @@
 ||chatgpt.nocodetalks.co^
 ||chatgpt.novojornalismo.com.br^
 ||chatgpt.nowhats.com.br^
+||chatgpt.nuvdigital.com.br^
 ||chatgpt.okysoft.com.mx^
 ||chatgpt.olinia.com.mx^
 ||chatgpt.olsensolucoes.com.br^
@@ -27843,6 +27847,7 @@
 ||flipsocial.co^
 ||flirts.gq^
 ||flitterbox.gq^
+||flixpaysite.yukem.com.br^
 ||flladv.com.br^
 ||flndmyphone.com.es^
 ||flomar.do^
@@ -38502,6 +38507,7 @@
 ||kickico.co^
 ||kidahora.com.br^
 ||kidjfgsdjihfgsdjkfhskjdfhdsf.blogspot.cl^
+||kidschatgpt.co^
 ||kiemprego.com.br^
 ||kievkidstalent.co^
 ||kifortequimica.com.br^
@@ -47662,6 +47668,7 @@
 ||paypal-techsupport.sling.co^
 ||paypal-techsupport.vodka.es^
 ||paypal-test.torque360.co^
+||paypal-transactions.dekra-empleo.es^
 ||paypal-turkiye.bharti.co^
 ||paypal-turkiye.box.cl^
 ||paypal-turkiye.channel.ar^
@@ -47763,6 +47770,7 @@
 ||paypal.com.webapps.mpp.accueil.pizzo.com.br^
 ||paypal.comco.co^
 ||paypal.comedypass.cl^
+||paypal.como.co^
 ||paypal.conectaless.com.mx^
 ||paypal.consultoranorte.com.pe^
 ||paypal.contact.customer.service.publicidadwg.es^
@@ -47808,6 +47816,7 @@
 ||paypal.isungcheongnamapp.gq^
 ||paypal.jdns.com.br^
 ||paypal.jvaonline.com.br^
+||paypal.kom.co^
 ||paypal.legal.ar^
 ||paypal.lilypay.co^
 ||paypal.login.home.summary.radiolatinadocaribe.com.br^
@@ -54815,7 +54824,6 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
-||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
@@ -58393,6 +58401,7 @@
 ||vistamail.com.br^
 ||vistamarina.co^
 ||vistome.com.br^
+||vistosimportados.com.br^
 ||visu-app.cmchat.com.br^
 ||visu.com.uy^
 ||visualamazonico.com.br^
