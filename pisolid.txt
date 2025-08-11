@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-10T15:02:42.266Z
+! Last modified: 2025-08-11T03:03:18.045Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -38919,6 +38919,7 @@
 ||ladusurmezzssnnchppbaba.blogspot.com.es^
 ||ladytattoo.es^
 ||laercioapple.com.br^
+||laescudera.es^
 ||lafactoriadecuentos.es^
 ||lafacunda.cl^
 ||lafamilledegazon.com.br^
@@ -43435,7 +43436,6 @@
 ||muniquerecotillo.gob.pe^
 ||munisanborja.gob.pe^
 ||munoubengoshi.gq^
-||muriaspetin.es^
 ||murlioter.gq^
 ||murospremoldado.com.br^
 ||musashi-da-amazonia.my3cx.com.br^
@@ -51698,7 +51698,6 @@
 ||reno.ind.br^
 ||renodrives.com.br^
 ||renona.co^
-||renov-habitat-9.jimdosite.co^
 ||renovacionautomatica.blogspot.cl^
 ||renovacionautomatica.blogspot.mx^
 ||renovaremedlab.com.br^
@@ -60040,6 +60039,7 @@
 ||zelixfornit.blogspot.mx^
 ||zenaimoveis.com.br^
 ||zentyalidt-app.control.aapzconsulting.pe^
+||zeon-lim.co^
 ||zephyrustech.co^
 ||zepmgpaypal-events.box.cl^
 ||zepule.gq^
