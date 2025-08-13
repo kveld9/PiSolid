@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-13T03:02:36.167Z
+! Last modified: 2025-08-13T15:02:41.437Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6732,6 +6732,7 @@
 ||amazonfuv.co^
 ||amazonfwn.co^
 ||amazonfwq.co^
+||amazonfyc.co^
 ||amazonfz.co^
 ||amazong.co^
 ||amazongalvanica.com.br^
@@ -8072,6 +8073,7 @@
 ||amazonqdf.co^
 ||amazonqfplx.co^
 ||amazonqfv.co^
+||amazonqmc.co^
 ||amazonqon.co^
 ||amazonqqobb.co^
 ||amazonqr.co^
@@ -8469,6 +8471,7 @@
 ||amazontwitchprime.co^
 ||amazontxc.co^
 ||amazontxn.co^
+||amazontyc.co^
 ||amazontyt.co^
 ||amazonu.co^
 ||amazonuae.co^
@@ -8807,6 +8810,7 @@
 ||amazonzfv.co^
 ||amazonzia.co^
 ||amazonzip.com.br^
+||amazonzjv.co^
 ||amazonzk.co^
 ||amazonzll.co^
 ||amazonzmc.co^
@@ -51258,6 +51262,7 @@
 ||reasucheck-jancuk-pageshelp.000.pe^
 ||reb.cl^
 ||rebajasoutlet.co^
+||rebloco.com.br^
 ||rebootaccess827-online.gq^
 ||rebornsolutions.co^
 ||rebotecamazonas.com.br^
@@ -57332,6 +57337,7 @@
 ||tuyingan.co^
 ||tuyul77login.co^
 ||tuyul88login.co^
+||tv-smart.co^
 ||tv20hs.com.br^
 ||tv5.com.mx^
 ||tv777.com.br^
@@ -58774,6 +58780,7 @@
 ||we1hf-vanguardlogistics.ghjigclbopy.es^
 ||wea.com.ec^
 ||wealthcre.gq^
+||wearbreeze.co^
 ||wearepineapple.co^
 ||wearepineapple.com.ar^
 ||wearhub.co^
