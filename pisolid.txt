@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-14T03:02:44.175Z
+! Last modified: 2025-08-14T15:02:34.129Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -36132,6 +36132,7 @@
 ||imobiliariavalmor.com.br^
 ||imoveisairbnb.com.br^
 ||imoveisamazonas.com.br^
+||imoveisavendaemaraxa.com.br^
 ||imoveisbragabh.com.br^
 ||imoveisbrokersp.com.br^
 ||imoveiscampesinos.com.br^
@@ -51347,7 +51348,6 @@
 ||reasucheck-jancuk-pageshelp.000.pe^
 ||reb.cl^
 ||rebajasoutlet.co^
-||rebloco.com.br^
 ||rebootaccess827-online.gq^
 ||rebornsolutions.co^
 ||rebotecamazonas.com.br^
@@ -59035,6 +59035,7 @@
 ||wep-wep-pro-wep-client-apple.wep.supplynet.mx^
 ||wep-wep-pro-wep-core-api-apple.wep.supplynet.mx^
 ||wep-wep-pro-wep-integrator-api-apple.wep.supplynet.mx^
+||wer.xmxwegk.es^
 ||wercell-app-hz-bot-name-ddd.repl.co^
 ||werda-market.co^
 ||werdiwerp.gq^
