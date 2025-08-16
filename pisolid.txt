@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-15T15:02:46.617Z
+! Last modified: 2025-08-16T03:02:34.135Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -378,6 +378,7 @@
 ||10errorxxx.gq^
 ||10krobuxus.blogspot.com.br^
 ||10mais.com.br^
+||10maneiraschatgpt.com.br^
 ||10presidentesparavoce.com.br^
 ||10puntos.cl^
 ||11--udea1.repl.co^
@@ -2885,6 +2886,7 @@
 ||abertura.michelledelara.com.br^
 ||aberturademercado.com.br^
 ||abes.co^
+||abevjauukapaypal-opinions.realestate.do^
 ||abginfectologia.com.br^
 ||abgp.com.br^
 ||abgreen.com.br^
@@ -3709,6 +3711,7 @@
 ||advdomingues.com.br^
 ||adventurejump.cl^
 ||adventuresofus.co^
+||adver.com.br^
 ||advert-active-recovery-verify-support-center-2019.gq^
 ||advert-recovery-support-center-verify-active.gq^
 ||advert-recovery-support-verify-center-active-2019.gq^
@@ -9543,6 +9546,7 @@
 ||apimanzanillo.com.mx^
 ||apingenieros.es^
 ||apiom-market.co^
+||apiopenai.agenteleadrix.com.br^
 ||apipaypal.vissioon.co^
 ||apireembolsosamazon.saludinteractiva.mx^
 ||apis.forsell.com.br^
@@ -11612,6 +11616,7 @@
 ||aprendavbaexcel.com.br^
 ||aprendeamanejar.mx^
 ||aprendechatgpt.cl^
+||aprendechatgpt.com.ar^
 ||aprendechatgpt.mx^
 ||aprendeconamazon.es^
 ||aprendedroneschile.cl^
@@ -15913,6 +15918,7 @@
 ||br688.hostgator.com.br^
 ||br710.hostgator.com.br^
 ||br736.hostgator.com.br^
+||bracell.latitude.net.br^
 ||bracomil.com.br^
 ||bradeco.co^
 ||bradescard-amazon.rcbserv.com.br^
@@ -16089,6 +16095,7 @@
 ||brinksloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||briocom.cl^
 ||brisamar.com.ar^
+||brisaopenair.es^
 ||brisasdealdeia.com.br^
 ||brisksoupydivisor.accountsss.repl.co^
 ||briskstandardpublishers.josealbertoal21.repl.co^
@@ -17051,6 +17058,7 @@
 ||cartoriofeiradesantana.com.br^
 ||cartoriovendanova.net.br^
 ||carulit.editoramelhoramentos.com.br^
+||carusoadvogados.com.br^
 ||carvalhoapple.com.br^
 ||carvalhocompany.com.br^
 ||carverdarden-org.gq^
@@ -17937,6 +17945,7 @@
 ||chatgpt.copycomfelipefontes.com.br^
 ||chatgpt.coronelazevedo.com.br^
 ||chatgpt.cr^
+||chatgpt.craft.net.br^
 ||chatgpt.cursopravoce.com.br^
 ||chatgpt.cursosinfornet.com.br^
 ||chatgpt.deados.es^
@@ -18010,6 +18019,7 @@
 ||chatgpt.lawfecta.co^
 ||chatgpt.ledautomotivo.com.br^
 ||chatgpt.linkspromocionais.com.br^
+||chatgpt.logicideas.co^
 ||chatgpt.luowe.gq^
 ||chatgpt.luxybag.co^
 ||chatgpt.luyang.co^
@@ -18080,6 +18090,7 @@
 ||chatgpt.publicosfacebookads.com.br^
 ||chatgpt.pumnet.co^
 ||chatgpt.quiksoft.com.br^
+||chatgpt.radios.ar^
 ||chatgpt.rangousfood.com.br^
 ||chatgpt.rcdigital12.com.br^
 ||chatgpt.renova360.co^
@@ -18194,6 +18205,7 @@
 ||chatgpt5.co^
 ||chatgpt5.com.mx^
 ||chatgpt5.mx^
+||chatgpt50mais.com.br^
 ||chatgpt5agi.es^
 ||chatgpt5curso.com.br.thiagocaliman.com.br^
 ||chatgpt5curso.com.br^
@@ -18477,6 +18489,7 @@
 ||chatgptpro.co^
 ||chatgptpro.com.br^
 ||chatgptpro.es^
+||chatgptpro.nuvdigital.com.br^
 ||chatgptprofissional.com.br^
 ||chatgptprofissional.maeciclopedia.com.br^
 ||chatgptprofissional.rodanac.com.br^
@@ -20042,7 +20055,6 @@
 ||connect.clientinfo07.ipq.co^
 ||connect.cloudscontroller.es^
 ||connect.codigodebarra.co^
-||connect.connectprotocol.es^
 ||connect.secure.wellsfargo.com.auth.login.present.origin.cob.cabe110.com.ar^
 ||connect.secure.wellsfargoauthlogin.hosteltravessia.com.br^
 ||connect.securelauthlogin.dolpresent-origin.cobllob.cons.maiamotos.com.br^
@@ -20060,7 +20072,6 @@
 ||connectmail.co^
 ||connectmobil.com.br^
 ||connects-apple.co^
-||connectscreen.connectprotocol.es^
 ||connecttrips.com.br^
 ||connectwallets.ipq.co^
 ||connectwebmarketing.com.br^
@@ -21176,6 +21187,7 @@
 ||cursochatgpt5.com.br^
 ||cursochatgptadvogados.com.br^
 ||cursochatgptsemmedo.victormolin.com.br^
+||cursodechatgpt.com.br^
 ||cursodecondominios.com.br^
 ||cursodeinglesnaflorida.com.br^
 ||cursodelper.com.mx^
@@ -23617,6 +23629,7 @@
 ||digitalmarketingcoursesonline.co^
 ||digitalmenu.unicorndigitalmarketing.co^
 ||digitalnews.cl^
+||digitalonline.cl^
 ||digitalplanos.com.br^
 ||digitalprodutos.com.br^
 ||digitalprofits.digitalprofits.com.br^
@@ -35702,6 +35715,7 @@
 ||icloudbackup.com.br^
 ||icloudfind.co^
 ||icloudlock.com.mx^
+||icloupzimi.update-app007.com.es^
 ||iclubapple.com.br^
 ||icluod.com.la-es.co^
 ||icm-historial-app-ar.com.ar^
@@ -35855,6 +35869,7 @@
 ||idiremi.co^
 ||idlevirtualtelecommunications.pastermil.repl.co^
 ||idmelickmano.esy.es^
+||idmpc.co^
 ||idmsa.apple.com.idmsw.rziluminacion.cl^
 ||idmsa.apple.com.idmswebautha123.eltrailer.cl^
 ||idmsa.apple.com.idmswebautha123.rziluminacion.cl^
@@ -36826,6 +36841,7 @@
 ||inter-digital-app.gq^
 ||interac.pcrentacar.com.br^
 ||interac.pizzariadopan.com.br^
+||interaccion.com.uy^
 ||interactive-api-trade.co^
 ||interactivechatgpt.co^
 ||interagro.com.py^
@@ -41256,6 +41272,7 @@
 ||maqfax.com.br^
 ||maqmat.cl^
 ||maqmax.cl^
+||maqprosoft.co^
 ||maquiamazonas.com.pe^
 ||maquicenter.cl^
 ||maquife.es^
@@ -47851,6 +47868,7 @@
 ||paypal.comco.co^
 ||paypal.comedypass.cl^
 ||paypal.como.co^
+||paypal.comu.es^
 ||paypal.conectaless.com.mx^
 ||paypal.consultoranorte.com.pe^
 ||paypal.contact.customer.service.publicidadwg.es^
@@ -47964,6 +47982,7 @@
 ||paypal.udd.cl^
 ||paypal.unelink.es^
 ||paypal.uniaodefe.com.br^
+||paypal.universidaddelsur.edu.mx^
 ||paypal.update.garko.com.mx^
 ||paypal.update.serviciosreunidos.es^
 ||paypal.valejunto.com.br^
@@ -47991,6 +48010,8 @@
 ||paypal95bd.blogspot.pe^
 ||paypalaccount.support.europa19.cl^
 ||paypalaccountverify.airbnbcoupon.co^
+||paypalbalance.com.mx^
+||paypalbalance.mx^
 ||paypalbenefits.bharti.co^
 ||paypalbenefits.forum.ar^
 ||paypalbenefits.htc.cl^
@@ -51790,6 +51811,7 @@
 ||reno.ind.br^
 ||renodrives.com.br^
 ||renona.co^
+||renov-habitat-9.jimdosite.co^
 ||renovacionautomatica.blogspot.cl^
 ||renovacionautomatica.blogspot.mx^
 ||renovaremedlab.com.br^
@@ -53613,7 +53635,6 @@
 ||sc-001.controlhub.es^
 ||sc-002.controlhub.es^
 ||sc-sp-app.ticketmais.com.br^
-||sc.connectprotocol.es^
 ||sc3-app.com.ar^
 ||sc3-app2.com.ar^
 ||sc3-app3.com.ar^
@@ -59997,6 +60018,7 @@
 ||young1acanada.co^
 ||youngla-colombia.com.co^
 ||youngla.com.pe^
+||youopenai-domain-verification-dr-jsl8vfyanttnkjrut21rgaxx.co^
 ||your-account-paypal-has-been-locked.adarve.com.br^
 ||your-authenticatorprocessing.es^
 ||youramazonconsultancy.co^
