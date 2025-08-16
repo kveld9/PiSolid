@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-16T03:02:34.135Z
+! Last modified: 2025-08-16T15:03:45.626Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -15047,6 +15047,7 @@
 ||biq.1oj.transagua.cl^
 ||birkephilippines.co^
 ||birtianatona.gq^
+||birzeit.co^
 ||bisa-web-persona--userhotmailes.repl.co^
 ||bisainformacionbanca--nuevobloqueo.repl.co^
 ||bisainformacionbanca.nuevobloqueo.repl.co^
@@ -20864,6 +20865,7 @@
 ||crepetown.com.br^
 ||cresca.faa.unicen.edu.ar^
 ||crescebrasil.org.br^
+||crescentegramas.com.br^
 ||creservpinhao.com.br^
 ||cresetuauto.mx^
 ||cresolamazonia.com.br^
@@ -36841,7 +36843,6 @@
 ||inter-digital-app.gq^
 ||interac.pcrentacar.com.br^
 ||interac.pizzariadopan.com.br^
-||interaccion.com.uy^
 ||interactive-api-trade.co^
 ||interactivechatgpt.co^
 ||interagro.com.py^
@@ -42749,7 +42750,6 @@
 ||mjyce.blogspot.mx^
 ||mk-app.officecom.com.br^
 ||mk-black-amazon.x10.mx^
-||mk.babyisis.com.br^
 ||mk1.net.br^
 ||mk12.com.br^
 ||mk7comunicacao.com.br^
