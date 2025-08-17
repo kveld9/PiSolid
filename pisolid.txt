@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-17T03:02:36.683Z
+! Last modified: 2025-08-17T15:02:42.749Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -16663,6 +16663,7 @@
 ||caixabom.com.br^
 ||caixacapitalrisc.send2sign.es^
 ||caixacinco.com.br^
+||caixaconsorcios.mundialconsorcios.com.br^
 ||caixadecompras.com.br^
 ||caixaeconimicafederal.com.br^
 ||caixanove.com.br^
@@ -17059,7 +17060,6 @@
 ||cartoriofeiradesantana.com.br^
 ||cartoriovendanova.net.br^
 ||carulit.editoramelhoramentos.com.br^
-||carusoadvogados.com.br^
 ||carvalhoapple.com.br^
 ||carvalhocompany.com.br^
 ||carverdarden-org.gq^
@@ -40448,6 +40448,7 @@
 ||lqno.vrncmwsk.es^
 ||lraciccdmuddbdor-application.ipedep.edu.gt^
 ||lrassessoriacerimonial.com.br^
+||lrautoeletrica.com.br^
 ||lrenvios.com.br^
 ||lrfamazonia.com.br^
 ||lrlndx.es^
@@ -49709,6 +49710,7 @@
 ||premiumc1944.blogspot.pe^
 ||premiumc2061.blogspot.cl^
 ||premiumchatgpt.co^
+||premiumcrops.com.mx^
 ||premiumdaamazonia.com.br^
 ||premiumdent.cl^
 ||premiumfm.com.ar^
@@ -53814,6 +53816,7 @@
 ||secure.bankofamerica.com-login-sign-onscreen-msg-onlineemptyrequest-locale-token.parceirospaf.com.br^
 ||secure.pivotal.co^
 ||secure.rastrear-paquetes-perdidos.mx^
+||secure.resguardrent.mx^
 ||secure.tradehallglobal.co^
 ||secure.yourpage.gq^
 ||secure540.hostgator.com.br^
@@ -53878,6 +53881,7 @@
 ||segurocaixa.net.br^
 ||segurocarroautomovel.com.br^
 ||seguroempresa-appsuite.com.mx^
+||seguropersonasvbog.co^
 ||seguros-visado.es^
 ||segurosaudebradesco.tmp.br^
 ||segurosayc.cl^
