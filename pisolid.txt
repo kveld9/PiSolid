@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-18T03:02:40.588Z
+! Last modified: 2025-08-18T15:02:39.950Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4820,6 +4820,7 @@
 ||alven-sa.com.ar^
 ||alvesemendesassociados.com.br^
 ||alvesepalma.adv.br^
+||alvesesantosadv.com.br^
 ||alvesmendesconstrucoes.com.br^
 ||alvimadv.com.br^
 ||alvo3000.com.br^
@@ -18694,6 +18695,7 @@
 ||chicasgolden.cl^
 ||chichbonghoa1.gq^
 ||chicisabella.mx^
+||chickeninhouse.com.br^
 ||chicobol.com.br^
 ||chicos.com.co^
 ||chidodo.gq^
@@ -31046,6 +31048,7 @@
 ||hi-techindustrial-pdf.gq^
 ||hi9.com.br^
 ||hialuroni.com.br^
+||hibazwaj1754497798308.0130138.meusitehostgator.com.br^
 ||hibiscopresentes.com.br^
 ||hibrum.gq^
 ||hiccup.com.ar^
@@ -36811,6 +36814,7 @@
 ||intcursos.com.br^
 ||intechs.mx^
 ||inteclon.com.br^
+||intecsachile.cl^
 ||intefin.mx^
 ||integracionamazonica.pe^
 ||integracionfacyc.com.co^
@@ -44216,6 +44220,7 @@
 ||nbpropiedades.cl^
 ||nbqeyxovcu.es^
 ||nbsnoticias.com.mx^
+||ncb-direct.co^
 ||ncbank.co^
 ||ncbrasil.com.br^
 ||ncconceito.com.br^
@@ -44355,6 +44360,7 @@
 ||netease-163mail-com.gq^
 ||netfdgdfgdfgcvc.blogspot.com.uy^
 ||netfdgdfgdfgdfg.blogspot.mx^
+||netfibratelecomunicacoes.com.br^
 ||netfix-client-area-payment-issue.repuestosmaquinet.cl^
 ||netfl-css.gq^
 ||netfli.bolanaredevisa.com.br^
@@ -50458,6 +50464,7 @@
 ||pueblados22.mx^
 ||pueblastars.mx^
 ||puebliando.com.co^
+||puertadehierroac.mx^
 ||puertolopez.gob.ec^
 ||puertonarino-amazonas.gov.co^
 ||puestifiestas.mx^
@@ -59266,6 +59273,7 @@
 ||workshopchatgpt.metamind.com.br^
 ||worksmail.gq^
 ||workspace-app-homol.app.trinus.co^
+||workterraza.cl^
 ||worldapplepantanal.com.br^
 ||worldcarveiculos.com.br^
 ||worldcred.com.br^
