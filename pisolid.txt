@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-19T03:02:43.781Z
+! Last modified: 2025-08-19T15:03:05.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -227,6 +227,7 @@
 ||070a75f9-fee1-4fb1-8479-a3260dc02769.id.repl.co^
 ||071439966658130.kitlanchesisa.com.br^
 ||07365g.co^
+||075229cm.nyash.es^
 ||07588.co^
 ||075mkt.com.br^
 ||076182973023611.cocopasa.com.mx^
@@ -17822,6 +17823,7 @@
 ||chat.gpt.bz^
 ||chat.gpt.do^
 ||chat.gpt996.co^
+||chat.gptedu.es^
 ||chat.gptfy.co^
 ||chat.gptgov.com.br^
 ||chat.gptjuridico.com.br^
@@ -18537,6 +18539,7 @@
 ||chatgptsummit.co^
 ||chatgptsupremo.estouapta.com.br^
 ||chatgptt.co^
+||chatgpttacademico.com.br^
 ||chatgptteacher.co^
 ||chatgptteachers.co^
 ||chatgpttech.co^
@@ -23638,7 +23641,6 @@
 ||digitalmarketingcoursesonline.co^
 ||digitalmenu.unicorndigitalmarketing.co^
 ||digitalnews.cl^
-||digitalonline.cl^
 ||digitalplanos.com.br^
 ||digitalprodutos.com.br^
 ||digitalprofits.digitalprofits.com.br^
@@ -44774,6 +44776,7 @@
 ||nhnh55hdc3.uqg.es^
 ||nhtvcd.blogspot.cl^
 ||nhtvcd.blogspot.com.uy^
+||nhvc.c7.cl^
 ||nhxsi.acaxhjzxhot.es^
 ||ni.skycellatacado.com.br^
 ||niaamazonia.com.br^
@@ -46726,6 +46729,7 @@
 ||pacaelosfardamentos.com.br^
 ||paceadmcondominio.com.br^
 ||pachafloripa.com.br^
+||pachaopenair.co^
 ||pachecorolamentos.com.br^
 ||paciente-app-staging.devprecission.com.ar^
 ||pacificoarcondicionado.com.br^
@@ -47659,6 +47663,7 @@
 ||paypal-plaza.eu.ar^
 ||paypal-plaza.forum.ar^
 ||paypal-plaza.game.ar^
+||paypal-plaza.hotels.bz^
 ||paypal-plaza.htc.cl^
 ||paypal-plaza.legal.ar^
 ||paypal-plaza.lotto.ar^
@@ -48012,6 +48017,7 @@
 ||paypal.zapizi.com.br^
 ||paypal.zenitgames.com.br^
 ||paypal04.sandbox.xoom.co^
+||paypal1signin8countyx-nz8localex-en-nz.pegi.co^
 ||paypal1year.noory.co^
 ||paypal6months.noory.co^
 ||paypal95bd.blogspot.cl^
@@ -53329,6 +53335,7 @@
 ||saldopaypal.com.ar^
 ||sales.expofranchise.com.br^
 ||salesianas-app.canalprotege.es^
+||salesianost.com.br^
 ||salesplaceapple.com.br^
 ||salestool.com.br^
 ||salewaoutletsespana.es^
@@ -55618,6 +55625,7 @@
 ||sucessofotoevideo.com.br^
 ||sucitabcrenlineafi-com4.webnode.es^
 ||sucitavirtualcr-com0.webnode.es^
+||suckvpaypal-shopping.memorial.co^
 ||sucospetry.com.br^
 ||sucplopez.com.ar^
 ||sucursalpersona.transaccionbcolombiss.hol.es^
@@ -57741,7 +57749,6 @@
 ||unisoftamazonia.com.br^
 ||uniswap.com.co^
 ||unitec-app.wikitek.com.mx^
-||unitech.x10.mx^
 ||united.co^
 ||unitedairlinesreservation.co^
 ||unitednames.co^
