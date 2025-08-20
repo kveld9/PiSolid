@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-19T15:03:05.596Z
+! Last modified: 2025-08-20T03:02:46.185Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1611,6 +1611,7 @@
 ||51105.311055.repl.co^
 ||51472565-2170-4910-8857-6803b7e50cb4.id.repl.co^
 ||516ejgy4ffqet.we9ixzz.co^
+||517518464314500083193120945874mqsjqxhzgioeobc.adelon.com.br^
 ||51755064423170637692080.jamb2022.co^
 ||5177248436.mexigas.com.mx^
 ||51987024589.blogspot.com.uy^
@@ -2408,6 +2409,7 @@
 ||8855118641.mexigas.com.mx^
 ||886.tynted.co^
 ||886c3d26-bbe3-4f6d-96f5-3a570c0ffb0c.id.repl.co^
+||887338591354223303680938806133mnnnhqusckzpape.adelon.com.br^
 ||888-8888888.pages.net.br^
 ||888.fxjkd.es^
 ||888183.co^
@@ -2533,6 +2535,7 @@
 ||9112a700.bcdashboards.com.br^
 ||912c2317-27f3-465e-a330-77c3e20dc3da.id.repl.co^
 ||91307adf-040a-44c7-bab3-6dc1ee649951.id.repl.co^
+||913789161621147280198065376576ipjpsvqgzrmxyey.adelon.com.br^
 ||913b5a80-e867-44fb-ae19-e72dc8a18c9b.id.repl.co^
 ||916028424412367.graficaaoquadrado.com.br^
 ||916875284003844.kitlanchesisa.com.br^
@@ -2618,6 +2621,7 @@
 ||9897867676767.45334543535pp.repl.co^
 ||98asc-asc89ac8y-asc89asc7-as8.ascna9s8c.repl.co^
 ||98uoiuoo.easy.co^
+||991271415223794037361492856882doctwjpndymflkk.adelon.com.br^
 ||9946e434-00d4-473f-9b7e-5e45a44e506c-00-exqux86b8b75.riker.repl.co^
 ||994870586187591.graficaaoquadrado.com.br^
 ||995064668806764167.mediawebs.co^
@@ -20184,6 +20188,7 @@
 ||consultatusenvios-4-72.com.co^
 ||consultax.cl^
 ||consultectreinamentos.com.br^
+||consulteja.co^
 ||consultele.com.br^
 ||consulteseuplano.com.br^
 ||consulteumplano.com.br^
@@ -31084,6 +31089,7 @@
 ||hidrocineticsa.com.ar^
 ||hidroconsultoria.com.br^
 ||hidrodrill.com.bo^
+||hidroestanque.cl^
 ||hidroeterapia.com.br^
 ||hidroglass.com.br^
 ||hidrorede.com.br^
@@ -57909,6 +57915,7 @@
 ||user-chatgpt.bilibili.com.co^
 ||user-socialshare2-fb.x10.mx^
 ||user.ownspy.es^
+||user3p.v-tal.net.br^
 ||useradmincloud.gq^
 ||userauth03d.es^
 ||useraven.com.br^
@@ -58022,6 +58029,7 @@
 ||valorminas.com.br^
 ||valorpresente.cl^
 ||valseg.com.br^
+||valsodre.com.br^
 ||valsystem.cl^
 ||valterviana.com.br^
 ||valterxavier.adv.br^
