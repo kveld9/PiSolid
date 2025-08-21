@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-21T03:02:40.683Z
+! Last modified: 2025-08-21T15:02:42.588Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -832,6 +832,7 @@
 ||212commerce.com.ve^
 ||213484515571858.kitlanchesisa.com.br^
 ||21388.co^
+||214516486749572587758010380508qakbkpdiganybxh.adelon.com.br^
 ||215648956.54644hb.repl.co^
 ||2167515541.mexigas.com.mx^
 ||216986649680841.graficaaoquadrado.com.br^
@@ -1933,6 +1934,7 @@
 ||5yhiietakr5rdpt8afd1l115qw8bh.mx^
 ||5yy777.com.br^
 ||6-app.representante.representante.grupoboticario.com.br^
+||600821253540523761936453389869rgsawnlccdbgpep.adelon.com.br^
 ||60090e04-a2b6-4888-9646-eba9edfb433c.id.repl.co^
 ||602--893648.repl.co^
 ||602.893648.repl.co^
@@ -7513,6 +7515,7 @@
 ||amazonikasa.com.br^
 ||amazonikhub.com.br^
 ||amazonimages.co^
+||amazonimc.co^
 ||amazonimobil.com.br^
 ||amazonimports.com.br^
 ||amazonin.co^
@@ -35742,6 +35745,7 @@
 ||iclubapple.com.br^
 ||icluod.com.la-es.co^
 ||icm-historial-app-ar.com.ar^
+||icm.pe^
 ||icn-apps.prod.canary.edgeguard.ecgwebapps-accountsecureverifyngitemap.supporeti.phpmyadmupdates-account-verilumex.pay.porta.old.pecure.sitemaps.cursosbelezaestetica.com.br^
 ||ico-telegram.co^
 ||ico.lendxpress.co^
@@ -52135,6 +52139,7 @@
 ||reyphpaypal-gifts.gmail.mx^
 ||rezak.gq^
 ||rezamundo.com.br^
+||rezuskiimoveis.com.br^
 ||rf1-stem-web-app.dev.stem.co^
 ||rfapple.com.br^
 ||rfbpar.com.br^
@@ -52266,6 +52271,7 @@
 ||rivieradamazonia.com.br^
 ||riziv-inami.blogspot.com.uy^
 ||rjconsultores.es^
+||rjhospitalar.com.br^
 ||rjlog.com.br^
 ||rjtransporteltda.com.br^
 ||rkd.com.br^
@@ -54261,6 +54267,7 @@
 ||sesamodelivery.cl^
 ||sesion-authsapp.es^
 ||sesionbr.gq^
+||session-azurestandard-1vzs3-xftqyrceud.microsmil.com.br^
 ||sestup.com.br^
 ||setamedicamentos.com.br^
 ||setbal-al.com.br^
@@ -54815,6 +54822,7 @@
 ||smartshutter.co^
 ||smartsolutionsenergy.com.ar^
 ||smartthings.com.ar^
+||smarttrio.com.br^
 ||smashcenter.com.br^
 ||smasq.blogspot.com.co^
 ||smbc-c.co^
@@ -59287,7 +59295,6 @@
 ||wonderdream.co^
 ||wonderfultiktok.co^
 ||wonfshes.com.ve^
-||woo-headless-bcknd.utvikl.es^
 ||woodxestofados.com.br^
 ||wordpress-import-app.cosmicapp1.co^
 ||wordpress.factoriadigitalpremium.es^
