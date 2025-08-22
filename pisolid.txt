@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-22T03:02:41.353Z
+! Last modified: 2025-08-22T15:02:46.911Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -604,6 +604,7 @@
 ||18-sublog-whatsapp.free-joint84.gq^
 ||18.vzlomschik.co^
 ||18183887-2fae-46ee-a003-3a293351528c.id.repl.co^
+||181878540065459458146067352864xqwqhwtulilditz.adelon.com.br^
 ||182.flaviadossantos.co^
 ||184324024474261.cocopasa.com.mx^
 ||1845145032.mexigas.com.mx^
@@ -1102,6 +1103,7 @@
 ||3172427551.mexigas.com.mx^
 ||31c5df48-9bdf-4022-82ba-d3b50dfbf536.id.repl.co^
 ||3200studios.co^
+||320467935040658768012465516081rgmiavhpjtbcizz.adelon.com.br^
 ||3210834521.1024033307541.repl.co^
 ||321365.co^
 ||3223522.josede91.repl.co^
@@ -16003,6 +16005,7 @@
 ||brasillista.com.br^
 ||brasilmailer.com.br^
 ||brasiltalentos.com.br^
+||brasiltocantins.com.br^
 ||braskulkibeer.ledi.com.br^
 ||brasnorte.com.br^
 ||brasnoxs.com.br^
@@ -30434,6 +30437,7 @@
 ||guide-hype.gq^
 ||guidoneira.cl^
 ||guilab.com.ar^
+||guildmerger.co^
 ||guildprime.gq^
 ||guilhermebaffi.com.br^
 ||guilhermeth.com.br^
