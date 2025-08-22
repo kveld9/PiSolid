@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-21T15:02:42.588Z
+! Last modified: 2025-08-22T03:02:41.353Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1032,6 +1032,7 @@
 ||2fo4xr6a7zyd7dd.we9ixzz.co^
 ||2funnyvideos.pagedemo.co^
 ||2g3eff33.blogspot.cl^
+||2g4ewf333.blogspot.mx^
 ||2giga.do^
 ||2go.net.br^
 ||2hfgjfg.pagedemo.co^
@@ -12375,6 +12376,7 @@
 ||atbct783tuyba45pegxrewhjf.barclayis.co^
 ||atchfubu.we9ixzz.co^
 ||atdlinkedinus.zz.com.ve^
+||ateaprovacaoescola.com.br^
 ||ateb.es^
 ||atec.net.ar^
 ||atecion-al-cliente.atencionalclien.repl.co^
@@ -17825,6 +17827,7 @@
 ||chat-whatsapp18.vert20.gq^
 ||chat-whatsapp2.gq^
 ||chat-whatsspp.co^
+||chat.afiliadomarket.com.br^
 ||chat.amrom.gq^
 ||chat.gpt.ar^
 ||chat.gpt.bigtienda.es^
@@ -28133,6 +28136,7 @@
 ||for-super-apps9.co^
 ||fora.art.br^
 ||forapple.com.br^
+||forcainvicta.com.br^
 ||forccis.com.br^
 ||force-xloot.gq^
 ||forcefultendervariable.paitoflowe.repl.co^
