@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-24T15:02:47.659Z
+! Last modified: 2025-08-25T03:02:43.306Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9516,6 +9516,7 @@
 ||api-jm-app.tec.br^
 ||api-openai.guarida.com.br^
 ||api-openai.lab-pedro.com.br^
+||api-openai.saclcm.com.br^
 ||api-openai.softboss.com.br^
 ||api-openai.zapform.com.br^
 ||api-saas-app.mktstudios.com.br^
@@ -12513,6 +12514,7 @@
 ||attduna.com.mx^
 ||attention-required.forevr.com.br^
 ||atticus-finch.es^
+||attijaripaypal.012.mx^
 ||attin.gq^
 ||attitude.mx^
 ||attmodas.com.br^
@@ -18229,6 +18231,7 @@
 ||chatgpt4you.co^
 ||chatgpt5.co^
 ||chatgpt5.com.mx^
+||chatgpt5.inteligencialinks.com.br^
 ||chatgpt5.mx^
 ||chatgpt50mais.com.br^
 ||chatgpt5agi.es^
@@ -18531,6 +18534,7 @@
 ||chatgptree.co^
 ||chatgptree.es^
 ||chatgptrentavel.com.br^
+||chatgptreviews.co^
 ||chatgpts.co^
 ||chatgpts.es^
 ||chatgptschool.co^
@@ -28249,7 +28253,6 @@
 ||fourappleeventos.com.br^
 ||foxbd.co^
 ||foxcacambas.com.br^
-||foxcentroautomotivo.com.br^
 ||foxeps.com.br^
 ||foxer-apps.cl^
 ||foxfood.com.br^
@@ -30420,6 +30423,7 @@
 ||guiadelacerveza.cl^
 ||guiadeplanos.com.br^
 ||guiadigitalairbnb.com.br^
+||guiadochatgpt.com.br^
 ||guiadochatgpt.profaclaudialilian.com.br^
 ||guiaeducacional.com.br^
 ||guiaenlapampa.com.ar^
@@ -46046,6 +46050,7 @@
 ||openai.businessintelligence.pixerama.com.br^
 ||openai.bz^
 ||openai.cartao.tur.br^
+||openai.ccc.ad^
 ||openai.ccoo-correos.es^
 ||openai.chat.com.ar^
 ||openai.cl^
@@ -47328,6 +47333,7 @@
 ||paypal-communications.fit.pe^
 ||paypal-communications.foo.es^
 ||paypal-communications.guardian.co^
+||paypal-communications.hotels.bz^
 ||paypal-communications.juegos.co^
 ||paypal-communications.nexus.mx^
 ||paypal-communications.pin.co^
@@ -47638,6 +47644,7 @@
 ||paypal-norge.grocery.co^
 ||paypal-norge.group.ar^
 ||paypal-norge.hoteles.ar^
+||paypal-norge.hotels.bz^
 ||paypal-norge.htc.cl^
 ||paypal-norge.lifestyle.co^
 ||paypal-norge.properties.ar^
@@ -47657,6 +47664,7 @@
 ||paypal-optimizer.esurance.co^
 ||paypal-optimizer.forum.ar^
 ||paypal-optimizer.game.ar^
+||paypal-optimizer.hotels.bz^
 ||paypal-optimizer.insure.ar^
 ||paypal-optimizer.juegos.co^
 ||paypal-optimizer.properties.ar^
@@ -47784,6 +47792,7 @@
 ||paypal-support.careers.mx^
 ||paypal-support.com.desenvolvedortheosbank.com.br^
 ||paypal-support.goodyear.mx^
+||paypal-support.hotels.bz^
 ||paypal-support.legal.ar^
 ||paypal-support.n4t.co^
 ||paypal-support.ooo.co^
@@ -48133,6 +48142,7 @@
 ||paypall.co^
 ||paypallemail.twittervideodownload.co^
 ||paypallogin.commoki.mysbuxben.co^
+||paypallogin.connectbyamfam.co^
 ||paypallogin.us.cash.ar^
 ||paypalloginin-usa.blogspot.cl^
 ||paypalloginin-usa.blogspot.com.ar^
@@ -50718,6 +50728,7 @@
 ||qramazon.com.br^
 ||qrcloud-app.hofo.co^
 ||qrcodeamazon.com.br^
+||qrkit.co^
 ||qrmania.com.br^
 ||qrtjbzogb.gq^
 ||qrybutgroup.co^
@@ -53360,6 +53371,7 @@
 ||salads.com.br^
 ||salaespecialcasa92.com.br^
 ||salamandraesports.com.br^
+||salamina.com.co^
 ||salaonovaera.com.br^
 ||salaorotadasemocoes.tur.br^
 ||salazarbondydewey.edu.pe^
@@ -55006,7 +55018,6 @@
 ||somarmalhas.com.br^
 ||somateleletronica.com.br^
 ||somatodrol.com.br^
-||somautomotivorj.com.br^
 ||somentehojecorra.com.br^
 ||somentesp.com.br^
 ||somepesa.cl^
