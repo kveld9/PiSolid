@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-25T03:02:43.306Z
+! Last modified: 2025-08-25T15:02:39.892Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -15181,6 +15181,7 @@
 ||bitvavo.com.nl.services.rmtranslog.com.br^
 ||bitvavo.com.nl.services.sdsvilanova.com.br^
 ||bitvavo.com.nl.services.setedistribuidorapima.com.br^
+||bitvavo.com.nl.services.silhuetabh.com.br^
 ||bitvavo.com.nl.services.tactica7.com.mx^
 ||bitvavo.com.nl.services.transhelis.com.br^
 ||bitvavo.com.nl.services.victorcassiano.com.br^
@@ -24393,6 +24394,7 @@
 ||dry-bar-4120.on.fleek.co^
 ||dry-cake-6821.on.fleek.co^
 ||dry-dream-3043.on.fleek.co^
+||dry-rain-6994.on.fleek.co^
 ||dry-wind-6899.on.fleek.co^
 ||drycompatiblerange.hastermoonert.repl.co^
 ||drymagazine.com.br^
@@ -49651,6 +49653,7 @@
 ||powerperformance.co^
 ||powerrefficiency.co^
 ||powerslidemexico.com.mx^
+||powervex.mypi.co^
 ||powmorj.gq^
 ||powsecme.co^
 ||poypal.gq^
@@ -52404,6 +52407,7 @@
 ||roblox.com.gt^
 ||roblox.com.hn^
 ||roblox.com.ni^
+||roblox.com.pa^
 ||roblox.com.py^
 ||robloxacademy.com.br^
 ||robloxalonehowtogetafreenokilling.blogspot.com.ar^
