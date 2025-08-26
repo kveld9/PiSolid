@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-26T03:02:38.827Z
+! Last modified: 2025-08-26T15:02:38.901Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3964,6 +3964,7 @@
 ||agencianox.com.br^
 ||agenciaoncreative.com.br^
 ||agenciarays.com.br^
+||agenciarecbrasil.com.br^
 ||agenciarederica.com.br^
 ||agenciarioamazonas.com.br^
 ||agenciarizoma.cl^
@@ -22609,6 +22610,7 @@
 ||darkmulk.gq^
 ||darkorangesickquery.aaseasaa.repl.co^
 ||darkorchidjuvenilesort--ricardoillrea.repl.co^
+||darkosbarbershop.cl^
 ||darkpalladinnwced.blogspot.pe^
 ||darksalmonstunningkeyboardmacro.elmazoprieto.repl.co^
 ||darkseagreenshallowvendor.598184984.repl.co^
@@ -23667,6 +23669,7 @@
 ||digitalmarketingcoursesonline.co^
 ||digitalmenu.unicorndigitalmarketing.co^
 ||digitalnews.cl^
+||digitalonline.cl^
 ||digitalplanos.com.br^
 ||digitalprodutos.com.br^
 ||digitalprofits.digitalprofits.com.br^
@@ -29325,6 +29328,7 @@
 ||giada.com.pe^
 ||giamex.es^
 ||gian.com.ar^
+||gianiniadvogados.com.br^
 ||gianu.gq^
 ||giany.gq^
 ||giarqco.com.pe^
@@ -45646,7 +45650,6 @@
 ||oisikl9.gq^
 ||oitavabr.com.br^
 ||oitlook.co^
-||oitopharma.parceirodocontador.com.br^
 ||oitrema.blogspot.cl^
 ||oitwis.gq^
 ||oiyuiyfghoj--o0kayokay.repl.co^
@@ -48982,6 +48985,7 @@
 ||pl-en.update-app007.com.es^
 ||pl-logowaniegov.com.es^
 ||pl-pl-fb.pages.net.br^
+||pl-pl.update-app007.com.es^
 ||pl.depiclinic.com.py^
 ||pl.electric-scooter.co^
 ||pl.hideip.co^
