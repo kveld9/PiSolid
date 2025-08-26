@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-25T15:02:39.892Z
+! Last modified: 2025-08-26T03:02:38.827Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2360,6 +2360,7 @@
 ||85-srv14.grupouds.com.br^
 ||85116395.fastbiz.com.br^
 ||8516162504.mexigas.com.mx^
+||851749262175512044219798392350qzonnamoimjvwbu.adelon.com.br^
 ||854266.78552.repl.co^
 ||8545510738.mexigas.com.mx^
 ||855090amftps.fastfiles.co^
@@ -14180,6 +14181,7 @@
 ||bbludasdaamazonia.com.br^
 ||bbntwln.es^
 ||bbox.nova.med.br^
+||bbrlxwtkbgvpnpfykexu.supabase.co^
 ||bbrobx.blogspot.cl^
 ||bbrobx.blogspot.com.br^
 ||bbrobx.blogspot.com.uy^
@@ -26278,6 +26280,7 @@
 ||ewilla.com.br^
 ||ewrfwrfwrew.easy.co^
 ||ewsrv1.com.br^
+||exadigital.com.ar^
 ||exatuscont.com.br^
 ||excasa3530.com.br^
 ||excc.co^
@@ -29485,6 +29488,7 @@
 ||globalwebpay.co^
 ||globalwebsite.cl^
 ||globbers.com.br^
+||globeweb.com.br^
 ||globiscapital.co^
 ||globoart.es^
 ||globomail.co^
@@ -31288,6 +31292,7 @@
 ||hnfxed.blogspot.com.co^
 ||hngdrq.blogspot.cl^
 ||hngdrq.blogspot.com.uy^
+||hngqe.kvizxed.es^
 ||hnjwspaypal-experience.school.ar^
 ||hnluserwebsite.hnlvirtuweb.repl.co^
 ||hnmjtd.blogspot.pe^
@@ -35720,6 +35725,7 @@
 ||icennwebs.angjaywebs.co^
 ||icepar-sa.com.ar^
 ||iceuskadi.cl^
+||icfylmvlgk.es^
 ||ichatgpt.co^
 ||icinstalacoescomerciais.com.br^
 ||icioud.co^
@@ -49451,6 +49457,7 @@
 ||portaldadivisa.com.br^
 ||portaldasolucao.com.br^
 ||portaldecontabilidaderh.com.br^
+||portaldecontratosdaconta.com.br^
 ||portaldfm.com.br^
 ||portaldoamazonas.com.br^
 ||portaldocandomble.com.br^
@@ -60369,6 +60376,7 @@
 ||zsedxrfcgvt.gq^
 ||zsn5qtrgfpu4tmpg.onion.gq^
 ||zstorm.com.br^
+||zt8vhukkphg8ximjgfreyfkfpjusi.do^
 ||zucolottomais.com.br^
 ||zuggypizzaria.com.br^
 ||zulu.com.ar^
