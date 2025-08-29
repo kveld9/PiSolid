@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-29T03:02:37.248Z
+! Last modified: 2025-08-29T15:02:40.461Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -9399,6 +9399,7 @@
 ||anzoldeouro.com.br^
 ||anzverify.gq^
 ||aoajjf6ghz.we9ixzz.co^
+||aogarquitectura.cl^
 ||aok2bj.marcasocial.cl^
 ||aokct.soimper.com.br^
 ||aol-mail-sign-in.blogspot.com.co^
@@ -16245,7 +16246,6 @@
 ||brookscolombia.co^
 ||brooksmexicotenis.com.mx^
 ||brosco.mx^
-||brotesnativos.cl^
 ||brothersunion.es^
 ||browniemexico.com.mx^
 ||brownieropamexico.com.mx^
@@ -17423,7 +17423,6 @@
 ||cd-essonneloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||cd60e2c9-6b25-4361-8a8e-bc74b0898b93.id.repl.co^
 ||cd7573bd-c72b-4478-9fa1-31e7e6eaa477.id.repl.co^
-||cdadiagnostico.com.br^
 ||cdagoiania.com.br^
 ||cdamazonas.gov.co^
 ||cdan.gov.co^
@@ -36927,6 +36926,7 @@
 ||institutoeeamazonia.org.br^
 ||institutoestudosamazonicos.org.br^
 ||institutofazendoadiferenca.com.br^
+||institutofonteviva.com.br^
 ||institutohumanus.org.br^
 ||institutoibe.com.br^
 ||institutoidea.com.ar^
@@ -39075,6 +39075,7 @@
 ||kyoba.es^
 ||kyoto.com.br^
 ||kyppsworld.com.br^
+||kysgo.pe^
 ||kyuyiyioyuio.easy.co^
 ||kyxdev.blogspot.com.ar^
 ||kyxdev.blogspot.com.br^
@@ -41022,6 +41023,7 @@
 ||maeventos.com.mx^
 ||mafiaiii.gq^
 ||mafrig.com.br^
+||maga-de-oferta.com.br^
 ||magacaju.gq^
 ||magalu-rio-de-janeiro.lojaintegrada.com.br^
 ||magalupromo.gq^
@@ -56380,6 +56382,7 @@
 ||tbadistribuidora.com.br^
 ||tbforte-app.pathfindsistema.com.br^
 ||tbotpr.oeuxdxur.es^
+||tbsa.com.br^
 ||tc.shlok.co^
 ||tcdegzmg.es^
 ||tchat-gratuit-et-sans-inscription.blogspot.cl^
