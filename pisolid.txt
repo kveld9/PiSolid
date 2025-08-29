@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-28T15:02:38.684Z
+! Last modified: 2025-08-29T03:02:37.248Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -16026,6 +16026,7 @@
 ||brandedbills.co^
 ||brander.com.ar^
 ||brandfood.com.pe^
+||brandguides.com.br^
 ||brandidi.co^
 ||brandigital.com.co^
 ||brandjerseys.co^
@@ -16244,6 +16245,7 @@
 ||brookscolombia.co^
 ||brooksmexicotenis.com.mx^
 ||brosco.mx^
+||brotesnativos.cl^
 ||brothersunion.es^
 ||browniemexico.com.mx^
 ||brownieropamexico.com.mx^
@@ -17421,6 +17423,7 @@
 ||cd-essonneloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
 ||cd60e2c9-6b25-4361-8a8e-bc74b0898b93.id.repl.co^
 ||cd7573bd-c72b-4478-9fa1-31e7e6eaa477.id.repl.co^
+||cdadiagnostico.com.br^
 ||cdagoiania.com.br^
 ||cdamazonas.gov.co^
 ||cdan.gov.co^
@@ -59557,6 +59560,7 @@
 ||wolf-777.co^
 ||wolf-apparel.co^
 ||wolfmaya.com.br^
+||wolfranim.update-app007.com.es^
 ||women-moncler.co^
 ||womenswatch.co^
 ||womenswatches.co^
