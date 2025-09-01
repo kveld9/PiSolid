@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-08-31T15:02:44.125Z
+! Last modified: 2025-09-01T03:02:46.611Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1499,6 +1499,7 @@
 ||45tesdf--naveva1473.repl.co^
 ||4601.sgtransboys.com.br^
 ||462632677782330.kitlanchesisa.com.br^
+||463957cm.nyash.es^
 ||46411g.932supr.repl.co^
 ||464470523493722.kitlanchesisa.com.br^
 ||4665322551.mexigas.com.mx^
@@ -18210,6 +18211,7 @@
 ||chatgpt.staging.omnyve.com.br^
 ||chatgpt.startupvarejo.com.br^
 ||chatgpt.sv^
+||chatgpt.sx9.com.br^
 ||chatgpt.tandem.kowal.co^
 ||chatgpt.taskfoundation.co^
 ||chatgpt.tbadigital.com.br^
@@ -26637,7 +26639,6 @@
 ||facebook-956.pages.net.br^
 ||facebook-965.pages.app.br^
 ||facebook-account-business.pages.net.br^
-||facebook-alerts.blogspot.com.ar^
 ||facebook-alerts.blogspot.com.uy^
 ||facebook-clone--rovilandam.repl.co^
 ||facebook-clone.rovilandam.repl.co^
@@ -35951,6 +35952,7 @@
 ||id-rec-check.ar-me.co^
 ||id-support.co^
 ||id.com.py^
+||id.handel.mobile.de-login-service.primemassagemaltonivel.com.br^
 ||id.handel.mobile.de.login.service.ativadriver.eng.br^
 ||id.ion0o0s.es.zanuum.com.br^
 ||id.sv^
@@ -42859,6 +42861,7 @@
 ||mininuts.cl^
 ||miniparts.es^
 ||ministeriomenorah.com.br^
+||miniurl.cl^
 ||minmissy.gq^
 ||minolite.co^
 ||minorfixedrom--0000021.repl.co^
@@ -43760,6 +43763,7 @@
 ||muniquerecotillo.gob.pe^
 ||munisanborja.gob.pe^
 ||munoubengoshi.gq^
+||muriaspetin.es^
 ||murlioter.gq^
 ||murospremoldado.com.br^
 ||musashi-da-amazonia.my3cx.com.br^
@@ -44492,6 +44496,7 @@
 ||nectardamazonia.com.br^
 ||nectaribate.com.br^
 ||nectracker.co^
+||necxvpaypal-promo.technology.mx^
 ||nedoru2.gq^
 ||need4pineapple.eth.co^
 ||needs.ipq.co^
@@ -48073,6 +48078,7 @@
 ||paypal.aidcenter.co^
 ||paypal.anirc.es^
 ||paypal.api.org.br^
+||paypal.appeal.es^
 ||paypal.associates.co^
 ||paypal.autospaexpress.com.br^
 ||paypal.bancoford.com.br^
@@ -48080,6 +48086,7 @@
 ||paypal.billie.co^
 ||paypal.blogbirutagaivota.com.br^
 ||paypal.bo^
+||paypal.boardgamers.co^
 ||paypal.bpp-dev.com.br^
 ||paypal.bpp.com.br^
 ||paypal.brasilprepagos.com.br^
@@ -51304,6 +51311,7 @@
 ||raicespatagonia.cl^
 ||raichartsu.gq^
 ||raiffeisenloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
+||raifilho.com.br^
 ||raifix.com.br^
 ||raimapu.cl^
 ||raimundi.com.br^
@@ -52512,6 +52520,7 @@
 ||risepay.com.br^
 ||risesocial.co^
 ||rising-cloud-tr.on.fleek.co^
+||risonabank.co^
 ||risosemfronteiras.com.br^
 ||ritabolos.com.br^
 ||ritardalarmser.gq^
@@ -54799,7 +54808,6 @@
 ||sika3.co^
 ||sikatan.co^
 ||sikoruiz.es^
-||silentclickteam.co^
 ||silgonspa.cl^
 ||silmer.com.br^
 ||silvajardim.rj.gov.br^
