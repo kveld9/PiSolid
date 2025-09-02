@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-01T15:02:50.346Z
+! Last modified: 2025-09-02T03:02:38.196Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -810,6 +810,7 @@
 ||20200708122032.sefarisir.cloudns.cl^
 ||20200708145153.sefarisir.cloudns.cl^
 ||20200708185841.sefarisir.cloudns.cl^
+||2022.jahvmcgregor.com.co^
 ||2022725.loginyahoo.traditionalsoap.co^
 ||2022microsoft-office-356.on.fleek.co^
 ||2023apple.repl.co^
@@ -4194,7 +4195,6 @@
 ||ahorromaule.cl^
 ||ahrioniasakura.pages.net.br^
 ||ahumadosentrerios.cl^
-||ahzubrg.es^
 ||ai-adapter-open-ai.inforisk.es^
 ||ai-apps-co.websifu.co^
 ||ai-apps.co^
@@ -14319,6 +14319,7 @@
 ||bdt.org.br^
 ||bdv4.webnode.com.co^
 ||bdwva.blogspot.cl^
+||bdwwukf.es^
 ||bdycevqcm.es^
 ||bdz.sbu.unicamp.br^
 ||be-box.es^
@@ -15273,7 +15274,6 @@
 ||bkp.info836.gq^
 ||bkp.sociedadeneurovox.com.br^
 ||bkp18-newww.gq^
-||bkqeee.vvhrkjw.es^
 ||bl-fb-drosan-tvn24.co^
 ||bl-fb-krytol-tvn24.co^
 ||bl-fb-mirkon-tvn24.co^
@@ -17087,7 +17087,6 @@
 ||carnesboinobre.com.br^
 ||carnesselectasali.com.mx^
 ||carniceriacharcuterialucas.es^
-||carniceriajuanjo.es^
 ||carnimur.es^
 ||carnisseriacanmia.es^
 ||carnocha.gq^
@@ -23177,7 +23176,6 @@
 ||desafioserasaexperian.com.br^
 ||desafiowhatsappamazonia.com.br^
 ||desainrumahterbaik.co^
-||desamahjong.co^
 ||desapaypal.mcdesaqa.cl^
 ||desarrolloapplealtad.solucionesoftware.com.mx^
 ||desarrollodepaginasweb.com.mx^
@@ -24694,7 +24692,6 @@
 ||e07plrmj.we9ixzz.co^
 ||e10126ee-e7d0-4dce-b1ea-ba1f5a733e82.id.repl.co^
 ||e17srijon.com.br^
-||e1gys8.dqcvhzb.es^
 ||e28e0cda-0957-4e88-bfdc-710ae794d6f7.id.repl.co^
 ||e2d0.ujnvfsj.es^
 ||e2yhtncs3yayzmv6isp.we9ixzz.co^
@@ -28799,7 +28796,6 @@
 ||fxttcxobow.es^
 ||fyblegales.com.ar^
 ||fyhderurtjhdjfhhdhhfdfgh.blogspot.com.co^
-||fylecxj.es^
 ||fyuhjb.gq^
 ||fzcia.com.br^
 ||fzfootballzone.com.mx^
@@ -31340,7 +31336,6 @@
 ||hjggcl.gq^
 ||hjghhjghgfdg.easy.co^
 ||hjghkjgsaewwa.easy.co^
-||hjgkvnc.es^
 ||hjgyxw.blogspot.com.co^
 ||hjhkhg.yao.cl^
 ||hjigvanln.es^
@@ -55214,6 +55209,7 @@
 ||solikun.gq^
 ||solinfor.ec^
 ||solintal.com.br^
+||soliplas.com.mx^
 ||solitary-glade-1436.on.fleek.co^
 ||solitary-snow-3512.on.fleek.co^
 ||solizetank.gq^
@@ -58947,7 +58943,6 @@
 ||vivoshoesuk.co^
 ||vixii.co^
 ||vizadetalles.pe^
-||vizmu.anoslaz.es^
 ||vjt09.jbifnidlafjb.es^
 ||vkc9q-dw1.ghjigclbopy.es^
 ||vkg.nyzebtvo.es^
@@ -59028,7 +59023,6 @@
 ||vpyad.es^
 ||vqce.kytiauyoss.es^
 ||vqsiz.crapkdtubgo.es^
-||vqyoysr.es^
 ||vr-whats-app.co^
 ||vrasociados.cl^
 ||vresponse.com.br^
@@ -60202,7 +60196,6 @@
 ||xuncoco.es^
 ||xunilzita.es^
 ||xunxt.pqwlcuhsxvd.es^
-||xupwq.dqcvhzb.es^
 ||xurl.es^
 ||xvccggczc.es^
 ||xvmggdoky.es^
@@ -60339,6 +60332,7 @@
 ||yicongesac.com.pe^
 ||yj7te.oeuxdxur.es^
 ||yjk.co^
+||yjxbrhi.es^
 ||yk188apple.co^
 ||yk988apple.co^
 ||ykaiqapplemail.a.com.ar^
