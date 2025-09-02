@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-02T03:02:38.196Z
+! Last modified: 2025-09-02T15:02:51.000Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4626,7 +4626,6 @@
 ||allamazonrecovery.co^
 ||allarcticaccess.supporting212.repl.co^
 ||allatacadista.com.br^
-||allbreak.com.br^
 ||allceramic.com.br^
 ||allclean.net.br^
 ||allclutteredkeygenerator.jose20200l.repl.co^
@@ -12995,6 +12994,7 @@
 ||awtiout.gq^
 ||ax0flmtylakserpxdax1q0kwsril.we9ixzz.co^
 ||axaecfgty.gq^
+||axapartners.co^
 ||axauh.urcutgolmi.es^
 ||axbios.co^
 ||axeamazonia.com.br^
@@ -14140,6 +14140,7 @@
 ||base-archiv.hol.es^
 ||basecangulo.com.br^
 ||basecinco.com.ar^
+||basedate.formaloo.co^
 ||baseddevs.co^
 ||baseits.com.br^
 ||bases-concurso.ucv.edu.pe^
@@ -14319,7 +14320,6 @@
 ||bdt.org.br^
 ||bdv4.webnode.com.co^
 ||bdwva.blogspot.cl^
-||bdwwukf.es^
 ||bdycevqcm.es^
 ||bdz.sbu.unicamp.br^
 ||be-box.es^
@@ -16818,6 +16818,7 @@
 ||camarabebedouro.sp.gov.br^
 ||camaracomerciolag.org.ve^
 ||camaradeaugustodelima.mg.gov.br^
+||camaradecomerciodejesusmaria.pe^
 ||camaradecorregodoouro.go.gov.br^
 ||camaradefarmacias.com.ar^
 ||camaraeugeniodecastro.rs.gov.br^
@@ -55357,7 +55358,6 @@
 ||southvalley.com.br^
 ||soutson-france-24-heures-pages-net-br-communaute-2025.pages.net.br^
 ||souzaazevedo.com.br^
-||souzaeoliveira.com.br^
 ||souzasistemas.com.br^
 ||sowingminerals.cl^
 ||sowt-app.com.br^
@@ -60332,7 +60332,6 @@
 ||yicongesac.com.pe^
 ||yj7te.oeuxdxur.es^
 ||yjk.co^
-||yjxbrhi.es^
 ||yk188apple.co^
 ||yk988apple.co^
 ||ykaiqapplemail.a.com.ar^
