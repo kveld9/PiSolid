@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-02T15:02:51.000Z
+! Last modified: 2025-09-03T03:02:45.403Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -810,7 +810,6 @@
 ||20200708122032.sefarisir.cloudns.cl^
 ||20200708145153.sefarisir.cloudns.cl^
 ||20200708185841.sefarisir.cloudns.cl^
-||2022.jahvmcgregor.com.co^
 ||2022725.loginyahoo.traditionalsoap.co^
 ||2022microsoft-office-356.on.fleek.co^
 ||2023apple.repl.co^
@@ -2188,6 +2187,7 @@
 ||73872328.seguridad82738.repl.co^
 ||7389.7392.repl.co^
 ||7392348932348.459674.repl.co^
+||73j8.ckrrniu.es^
 ||74.200-57-8.bestelclientes.com.mx^
 ||74075d1c-afb3-4928-ae30-0b04b31c00fb.id.repl.co^
 ||74176.co^
@@ -25104,6 +25104,7 @@
 ||eipc.ca-bretagne.oktave.co^
 ||eiqdjdrn.gq^
 ||eise.es^
+||eisenhardt.com.py^
 ||eit.u9n.mx^
 ||eixointerior.es^
 ||ejamazonas.com.br^
@@ -26516,6 +26517,7 @@
 ||extremeimports.com.br^
 ||extremesforcerbabel.industrisverifi.repl.co^
 ||exxa.co^
+||exytrie.es^
 ||eycenteramazonas.atxsales.com.br^
 ||eydtuwvg.es^
 ||eyecenteramazonas.atxsales.com.br^
@@ -26620,7 +26622,9 @@
 ||facebook-956.pages.net.br^
 ||facebook-965.pages.app.br^
 ||facebook-account-business.pages.net.br^
+||facebook-alerts.blogspot.com.br^
 ||facebook-alerts.blogspot.com.uy^
+||facebook-alerts.blogspot.pe^
 ||facebook-clone--rovilandam.repl.co^
 ||facebook-clone.rovilandam.repl.co^
 ||facebook-com-py.blogspot.com.ar^
@@ -26647,6 +26651,8 @@
 ||facebook-net.gq^
 ||facebook-pengalihan.gq^
 ||facebook-profile.com.br^
+||facebook-psm.blogspot.com.co^
+||facebook-psm.blogspot.mx^
 ||facebook-reverso.wamanager.com.br^
 ||facebook-secure.cyourpages.gq^
 ||facebook-security-check.agropub.com.br^
@@ -42270,6 +42276,7 @@
 ||mercadodoriovermelho.com.br^
 ||mercadoextremosul.com.br^
 ||mercadoferretero.com.mx^
+||mercadolibre.com.ar^
 ||mercadolibreexperience.com.ar^
 ||mercadolivre.controlestate.com.br^
 ||mercadolivre2022.blogspot.cl^
@@ -42641,6 +42648,7 @@
 ||micropool-defi.co^
 ||microprice.com.br^
 ||microscopiavirtual.cl^
+||microservicenet.com.br^
 ||microsft0x8024f0040.gq^
 ||microsft0x8024f0045ru.gq^
 ||microsft0x8024f0047ru.gq^
@@ -45074,6 +45082,7 @@
 ||nkhegl.es^
 ||nkorah.gq^
 ||nkshoes.gq^
+||nkwoy-johnsondavis.sedico.com.co^
 ||nkxwm-engbim.ghjigclbopy.es^
 ||nl1umsotoque.com.br^
 ||nlaexpress.com.br^
@@ -51196,6 +51205,7 @@
 ||radiocomunitariaamazonian.site.radio.br^
 ||radiocriptonita.com.ar^
 ||radiodanubioazul.com.br^
+||radioestaciondj.com.ar^
 ||radioetvtropicaldaamazonia.com.br^
 ||radioetvvida.com.br^
 ||radioextasis.com.ar^
@@ -57599,6 +57609,7 @@
 ||truereligioncolombia.com.co^
 ||truetones.co^
 ||trulyamazon.com.br^
+||trumaolab.cl^
 ||truquedaamazon.com.br^
 ||trust-kyc.controlarcondominios.com.br^
 ||trust-pharmacy.co^
