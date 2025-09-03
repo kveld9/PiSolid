@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-03T03:02:45.403Z
+! Last modified: 2025-09-03T15:02:43.842Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3296,6 +3296,7 @@
 ||acimo.org.br^
 ||acipcdl.com.br^
 ||acirv.com.br^
+||acitybet.com.pe^
 ||acitylive.pe^
 ||aclcobranca.com.br^
 ||acle.mtyn.cl^
@@ -12089,6 +12090,7 @@
 ||artviso.com.br^
 ||artystick.co^
 ||aru-25469ba.blogspot.com.uy^
+||aruba-servizio.loginportal.co^
 ||arubait-fatturazione.estudioascuaga.com.ar^
 ||arucpe.es^
 ||arujalagos.com.br^
@@ -16889,6 +16891,7 @@
 ||cams-liveshow.blogspot.cl^
 ||cams-voyeur.blogspot.mx^
 ||camurt.gq^
+||canabrava.com.pe^
 ||canada-revenue-agency.co^
 ||canada-s.pages.net.br^
 ||canadagoose-mexico.com.mx^
@@ -40185,6 +40188,7 @@
 ||logicaglobalconvergente.com.br^
 ||logicainf.com.br^
 ||logical.com.bo^
+||logicasa.gob.ve^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.ativecell.com.br^
 ||logiin-appleeiid-appleeussvfy-auth-id-9098.jotacicli.com.br^
 ||login-1.galiciaoffic.repl.co^
@@ -41361,6 +41365,7 @@
 ||maltex.com.br^
 ||malucomail.com.br^
 ||malukamakea.es^
+||malupieng.com.br^
 ||maluuuuuuuuuu.com.br^
 ||malvisa.com.br^
 ||malwares-unibh.blogspot.com.br^
@@ -43317,6 +43322,8 @@
 ||monsalveycia.cl^
 ||monserratinformatica.cl^
 ||monsterbet888.co^
+||monstermeeple.com.mx^
+||monstruoespaguetivolador.org.ve^
 ||mont0n-ml.gq^
 ||monta-amazona.x10.mx^
 ||montaforro.com.br^
@@ -43467,6 +43474,7 @@
 ||movies342.gq^
 ||moviespedia.co^
 ||movilink.es^
+||movimentoesaude.com.br^
 ||movimientociudadanozac.org.mx^
 ||movimientosdetierra.cl^
 ||movistarporta.com.ar^
@@ -45969,6 +45977,7 @@
 ||oncarcasa.es^
 ||oncatel.com.ar^
 ||oncativo.net.ar^
+||oncehub.co^
 ||oncloudmexico.org.mx^
 ||onclouds.com.mx^
 ||oncofeliz.cl^
@@ -55267,6 +55276,7 @@
 ||sommons.co^
 ||sommosamazonia.art.br^
 ||somosamazoniasolar.com.br^
+||somosqualidade.com.br^
 ||somossostenibles.pe^
 ||somostodosamazonas.com.br^
 ||somostodosamazonia.com.br^
@@ -57109,7 +57119,6 @@
 ||tinhmiko.blogspot.com.ar^
 ||tinhmiko.blogspot.com.br^
 ||tininhoapple.com.br^
-||tinklas.com.br^
 ||tintasinovabrasil.com.br^
 ||tintasmundialsorocaba.com.br^
 ||tintasreal.com.br^
