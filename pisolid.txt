@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-06T15:02:48.821Z
+! Last modified: 2025-09-07T03:02:39.565Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11669,6 +11669,9 @@
 ||appxi.com.ar^
 ||apredial.com.br^
 ||aprendachatgpt.sinevagas.com.br^
+||aprendacomochatgpt.com.br.gabrielb1752525634166.0891384.meusitehostgator.com.br^
+||aprendacomochatgpt.com.br^
+||aprendacomochatgpt.gabrielb1752525634166.0891384.meusitehostgator.com.br^
 ||aprendainglesya.com.ve^
 ||aprendamosfacil.cl^
 ||aprendamosingles.com.py^
@@ -17964,6 +17967,7 @@
 ||chatgpt-er.com.br^
 ||chatgpt-free.es^
 ||chatgpt-gratis.es^
+||chatgpt-ia.com.br^
 ||chatgpt-ia.es^
 ||chatgpt-innovacioneducativa.es^
 ||chatgpt-login.co^
@@ -18115,6 +18119,7 @@
 ||chatgpt.joanmedina.es^
 ||chatgpt.jodines.com.br^
 ||chatgpt.joogtech.com.br^
+||chatgpt.jorge.co^
 ||chatgpt.josecortes.co^
 ||chatgpt.jubert.co^
 ||chatgpt.kdkhost.com.br^
@@ -18270,6 +18275,7 @@
 ||chatgpt.zcong.co^
 ||chatgpt.zdzcode.com.br^
 ||chatgpt.zilor.com.br^
+||chatgpt.zs3.com.br^
 ||chatgpt1.co^
 ||chatgpt1.socialforest.co^
 ||chatgpt100.co^
@@ -23582,6 +23588,7 @@
 ||dgfdtrdtfjty.easy.co^
 ||dgfdzsfsdfsdf.000.pe^
 ||dgfjrfgdytijf.blogspot.cl^
+||dgiadpaypal-corp.game.ar^
 ||dgict.co^
 ||dgkdrone.cl^
 ||dgkmexico.com.mx^
@@ -30717,6 +30724,7 @@
 ||h3pharma.com.br^
 ||h3y.co^
 ||h5.com.br^
+||h545466334.petaniuang.co^
 ||h5construtora.com.br^
 ||h5p.roboticamexico.com.mx^
 ||h6jh5la84aza8b3ypz4o8.barclayis.co^
@@ -42550,6 +42558,7 @@
 ||meuar.com.br^
 ||meucarrousado.com.br^
 ||meuchatgpt.com.br^
+||meuchatgpt.guif.com.br^
 ||meuconsorciodefabrica.com.br^
 ||meuconsorciomagalu.com.br^
 ||meudelivery.net.br^
@@ -47533,6 +47542,7 @@
 ||paypal-australia.finance.mx^
 ||paypal-australia.foo.es^
 ||paypal-australia.guardian.co^
+||paypal-australia.money.ar^
 ||paypal-australia.paris.mx^
 ||paypal-billing-exrctvybux45c6v7b.airbnbsex.co^
 ||paypal-brasil.aarp.co^
@@ -47590,9 +47600,11 @@
 ||paypal-communications.esurance.co^
 ||paypal-communications.fit.pe^
 ||paypal-communications.foo.es^
+||paypal-communications.futbol.do^
 ||paypal-communications.guardian.co^
 ||paypal-communications.hotels.bz^
 ||paypal-communications.juegos.co^
+||paypal-communications.money.cl^
 ||paypal-communications.nexus.mx^
 ||paypal-communications.pin.co^
 ||paypal-communications.post.ar^
@@ -47739,6 +47751,7 @@
 ||paypal-france.foo.es^
 ||paypal-france.group.ar^
 ||paypal-france.legal.ar^
+||paypal-france.money.ar^
 ||paypal-france.toshiba.cl^
 ||paypal-france.tvs.co^
 ||paypal-gestion.com.do^
@@ -47748,6 +47761,7 @@
 ||paypal-gifts.cards.mx^
 ||paypal-gifts.co^
 ||paypal-gifts.health.ar^
+||paypal-gifts.money.cl^
 ||paypal-gifts.realestate.mx^
 ||paypal-gifts.show.cl^
 ||paypal-gifts.sling.co^
@@ -47760,11 +47774,13 @@
 ||paypal-globalshops.htc.cl^
 ||paypal-globalshops.insure.ar^
 ||paypal-globalshops.juegos.mx^
+||paypal-globalshops.money.ec^
 ||paypal-globalshops.post.ar^
 ||paypal-globalshops.review.ar^
 ||paypal-globalshops.srt.cl^
 ||paypal-globalshops.tvs.co^
 ||paypal-globalshops.versicherung.bz^
+||paypal-globalshops.wedding.ar^
 ||paypal-id.co^
 ||paypal-id.n4t.co^
 ||paypal-idl.garko.com.mx^
@@ -47836,6 +47852,8 @@
 ||paypal-marketing.aarp.co^
 ||paypal-marketing.associates.co^
 ||paypal-marketing.eat.ec^
+||paypal-marketing.money.cl^
+||paypal-marketing.money.ec^
 ||paypal-marketing.post.ar^
 ||paypal-marketing.review.ar^
 ||paypal-marketing.room.ar^
@@ -47871,6 +47889,7 @@
 ||paypal-mktg.games.co^
 ||paypal-mktg.grocery.co^
 ||paypal-mktg.hotmail.ar^
+||paypal-mktg.money.ec^
 ||paypal-mktg.place.do^
 ||paypal-mktg.site.cl^
 ||paypal-mktg.tvs.co^
@@ -47886,6 +47905,7 @@
 ||paypal-nakit.insure.ar^
 ||paypal-nakit.juegos.co^
 ||paypal-nakit.lifestyle.co^
+||paypal-nakit.money.ar^
 ||paypal-nakit.organic.ar^
 ||paypal-nakit.sling.co^
 ||paypal-nakit.sohu.cl^
@@ -47907,6 +47927,7 @@
 ||paypal-norge.lifestyle.co^
 ||paypal-norge.properties.ar^
 ||paypal-norge.room.ar^
+||paypal-norge.td.cl^
 ||paypal-norge.uk.cl^
 ||paypal-opinions.careers.mx^
 ||paypal-opinions.chrome.es^
@@ -47983,6 +48004,7 @@
 ||paypal-prepaid.insure.ar^
 ||paypal-prepaid.lilly.ar^
 ||paypal-prepaid.lotto.ar^
+||paypal-prepaid.memorial.co^
 ||paypal-prepaid.srt.cl^
 ||paypal-prepaid.versicherung.bz^
 ||paypal-promo.auto.bz^
@@ -47993,6 +48015,8 @@
 ||paypal-promo.grocery.co^
 ||paypal-promo.group.ar^
 ||paypal-promo.lotto.ar^
+||paypal-promo.money.ar^
+||paypal-promo.money.ec^
 ||paypal-promo.organic.ar^
 ||paypal-promo.post.ar^
 ||paypal-promo.study.co^
@@ -48006,6 +48030,7 @@
 ||paypal-retail.forum.ar^
 ||paypal-retail.gay.mx^
 ||paypal-retail.legal.ar^
+||paypal-retail.money.ar^
 ||paypal-retail.organic.ar^
 ||paypal-retail.post.ar^
 ||paypal-retail.show.cl^
@@ -48030,6 +48055,7 @@
 ||paypal-shopping.legal.ar^
 ||paypal-shopping.lifestyle.co^
 ||paypal-shopping.memorial.co^
+||paypal-shopping.money.ar^
 ||paypal-shopping.ooo.co^
 ||paypal-shopping.properties.ar^
 ||paypal-shopping.read.co^
@@ -48260,6 +48286,7 @@
 ||paypal.onlysugar.com.br^
 ||paypal.oomovil.x10.mx^
 ||paypal.ouech.co^
+||paypal.ovnivox.co^
 ||paypal.p9p1.co^
 ||paypal.paisco.com.do^
 ||paypal.percovich.com.ar^
@@ -48269,6 +48296,7 @@
 ||paypal.primecreditoinvest.com.br^
 ||paypal.produkes.cl^
 ||paypal.promoterface.com.br^
+||paypal.proyecto705.com.mx^
 ||paypal.pruebassiweb.es^
 ||paypal.quatroventos.com.br^
 ||paypal.radiosc.com.br^
@@ -48337,6 +48365,8 @@
 ||paypalbenefits.htc.cl^
 ||paypalbenefits.insure.ar^
 ||paypalbenefits.lotto.ar^
+||paypalbenefits.money.cl^
+||paypalbenefits.money.ec^
 ||paypalbenefits.pin.co^
 ||paypalbenefits.post.ar^
 ||paypalbingo.co^
@@ -48367,6 +48397,7 @@
 ||paypalcredit.forum.ar^
 ||paypalcredit.insure.ar^
 ||paypalcredit.juegos.mx^
+||paypalcredit.money.ar^
 ||paypalcredit.post.ar^
 ||paypalcredit.study.co^
 ||paypalcredit.swiss.mx^
@@ -51439,6 +51470,7 @@
 ||random.autoescolapapaleguas.com.br^
 ||rangelferreira.adv.br^
 ||rani.ext.bz^
+||rankchatgpt.com.br^
 ||rankingchan.co^
 ||rankingdodia.com.br^
 ||ranoes.co^
@@ -53494,6 +53526,7 @@
 ||ruymatz.com.br^
 ||rva1.co^
 ||rvbnacion.repl.co^
+||rvdfbwfzyepaypalgivingfund.money.cl^
 ||rvelevadores.com.br^
 ||rvinformatica.factoriadigitalpremium.es^
 ||rvocomercial.com.br^
@@ -54254,6 +54287,7 @@
 ||seguroempresa-appsuite.com.mx^
 ||seguropersonasvbog.co^
 ||seguros-visado.es^
+||segurosargentinos.com.ar^
 ||segurosaudebradesco.tmp.br^
 ||segurosayc.cl^
 ||segurosconfianca.com.br^
@@ -56998,6 +57032,7 @@
 ||thepaypalblog.lb.cl^
 ||thepaypalblog.legal.ar^
 ||thepaypalblog.lotto.ar^
+||thepaypalblog.money.ec^
 ||thepaypalblog.post.ar^
 ||thepaypalblog.reliance.co^
 ||thepaypalblog.talk.mx^
