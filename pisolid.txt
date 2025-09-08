@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-07T15:02:43.829Z
+! Last modified: 2025-09-08T03:02:36.758Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -3604,6 +3604,7 @@
 ||admconsultoria.com.br^
 ||admedhospitalar.com.br^
 ||admesportes.com.br^
+||admforte.com.br^
 ||admin-app-interno-gkudrdvwc3vc7nqw9mjv28rd5.planosempre.com.br^
 ||admin-app-jb434f48d5gyqi55y74pqc5djunkp4mg.planosempre.com.br^
 ||admin-app-test.ihms.co^
@@ -12623,6 +12624,7 @@
 ||audiohifi.pe^
 ||audioimpacto.com.br^
 ||audiopank.com.br^
+||audiopodcasts.co^
 ||audioquilicura.cl^
 ||audioseminglesonline.com.br^
 ||audiosenior.es^
@@ -12792,6 +12794,7 @@
 ||automatika.gt^
 ||automatismosfr.com.mx^
 ||automecanicadinamica.com.br^
+||automercado.co.cr^
 ||automotoescolabr.com.br^
 ||automotoreschile.cl^
 ||automotriztecnocid.cl^
@@ -14141,6 +14144,7 @@
 ||barrocutina.com.mx^
 ||barros.com.ve^
 ||barrysalmon.gq^
+||barsaji.com.mx^
 ||bartolinicontabilidade.com.br^
 ||bartucevic.cl^
 ||barxaswebshotuofr.blogspot.com.ar^
@@ -14941,7 +14945,6 @@
 ||bigappletrees.co^
 ||bigapplewriter.co^
 ||bigapplezapatos.com.mx^
-||bigbag.wootraining.certificacion.cl^
 ||bigbubblyircbot--000102381239218.repl.co^
 ||bigbubblyircbot.000102381239218.repl.co^
 ||bigbuda.com.ar^
@@ -15210,6 +15213,7 @@
 ||bitpa.registrocolegiados.cl^
 ||bitpa.telecos.com.pe^
 ||bitpa.tradingchilespa.cl^
+||bitscrunch.co^
 ||bitservicios.com.ve^
 ||bitsoft360app.co^
 ||bittech.co^
@@ -16230,6 +16234,7 @@
 ||broad-wave-0335.on.fleek.co^
 ||broadband.makeweb.co^
 ||broadcal.gq^
+||broardband.makeweb.co^
 ||brocamuebles.com.ar^
 ||broken-butterfly-0280.on.fleek.co^
 ||broken-darkness-5572.on.fleek.co^
@@ -16602,6 +16607,7 @@
 ||byrosaamazonica.com.br^
 ||bys-santan.byssantan.repl.co^
 ||bytec.cl^
+||bytecortex.com.br^
 ||bytemasters.com.br^
 ||bytrade.com.br^
 ||bz-bz.bz^
@@ -16788,6 +16794,7 @@
 ||calcbitcoin.com.br^
 ||calceleve-app.alperprojetos.com.br^
 ||calchimelli.com.br^
+||calculadoras.mx^
 ||calculatingmealyvariety.elmuto00otrogit.repl.co^
 ||calculoplanos.com.br^
 ||calderon.com.mx^
@@ -17882,7 +17889,6 @@
 ||chat-gpt-mexico.mx^
 ||chat-gpt-software.es^
 ||chat-gpt-tech.es^
-||chat-gpt-translator-api.moonsys.co^
 ||chat-gpt.ai-ml.cyberh.com.br^
 ||chat-gpt.alattas.co^
 ||chat-gpt.bz^
@@ -20540,6 +20546,7 @@
 ||contract.usebebedouro.org.br^
 ||contraloria-amazonas.gov.co^
 ||contraloriaestadoamazonas.gob.ve^
+||contraloriaestadobarinas.gob.ve^
 ||contraloriamunicipaldeheres-bolivar.gob.ve^
 ||contrasa.com.gt^
 ||contratarofertavodafone.es^
@@ -20882,7 +20889,6 @@
 ||cpo.mx^
 ||cporiente.cl^
 ||cprodigio.com.br^
-||cpsess.barsaji.com.mx^
 ||cpsoroban.com.br^
 ||cptdigital.com.br^
 ||cpudaamazonia.com.br^
@@ -23765,6 +23771,7 @@
 ||digitaladvance.cl^
 ||digitalafiliados.net.br^
 ||digitalamazon.com.br^
+||digitalcurencygroup.co^
 ||digitaldream.cl^
 ||digitalemail.com.br^
 ||digitalevs.com.br^
@@ -25589,6 +25596,7 @@
 ||encontroamazonico.com.br^
 ||encontroamazonico.especializacaoemgenero.com.br^
 ||encontrodaamazonia.com.br^
+||encontrosmaracatu.com.br^
 ||encoop.com.br^
 ||encostadohorto.com.br^
 ||encuentroideal.es^
@@ -25910,6 +25918,7 @@
 ||erhbdf.gq^
 ||erhherrehhre.n4t.co^
 ||erhtrrtyw.easy.co^
+||erickeleo.com.br^
 ||erickruiz.mx^
 ||erika.cl^
 ||erikeichelberger.co^
@@ -28564,6 +28573,7 @@
 ||freefollowerstopfollowapk.blogspot.com.ar^
 ||freefollowerstopfollowapk.blogspot.com.es^
 ||freeform.com.br^
+||freeforum.co^
 ||freegems.co^
 ||freegemsofclashroyale.blogspot.com.br^
 ||freegift.frree.repl.co^
@@ -36794,6 +36804,7 @@
 ||inovavital.com.br^
 ||inovebartenders.com.br^
 ||inovecargo.com.br^
+||inovecommerce.com.br^
 ||inoveflex.com.br^
 ||inovtecautomacao.com.br^
 ||inoxserv.com.br^
@@ -38528,7 +38539,6 @@
 ||justchatgpt.es^
 ||justicaeamazonia.com.br^
 ||justicetube.co^
-||justin1one.com.barsaji.com.mx^
 ||justlightthat.co^
 ||justlovecloset.easy.co^
 ||justpineapple.repl.co^
@@ -39452,6 +39462,7 @@
 ||lax.com.mx^
 ||laxgps.cl^
 ||lay7czzsep.6.ubian.com.br^
+||layen.co^
 ||layerthree.cl^
 ||layerz.com.ve^
 ||layjzpaypal-opinions.realestate.do^
@@ -43418,6 +43429,7 @@
 ||mooney-app.mx^
 ||mooney.mx^
 ||moonlightmint.co^
+||moonsys.co^
 ||moonton-free-skins.gq^
 ||moonton-jrn.gq^
 ||moonton-mancing69.gq^
@@ -45547,6 +45559,7 @@
 ||nutrimarianamadalosso.com.br^
 ||nutrimundo.com.br^
 ||nutripasto.com.br^
+||nutrisc.com.br^
 ||nutrisilviaramos.com.br^
 ||nutrizu.com.br^
 ||nutrycap.com.br^
@@ -46114,6 +46127,7 @@
 ||online-cms011comptecreditagricole.webnode.com.ve^
 ||online-doc-trippumbach.gq^
 ||online-identity-issue-privacy-notifications.gq^
+||online-meeting.co^
 ||online-messagerie5.webnode.com.co^
 ||online-personas.leidysdobobuto.repl.co^
 ||online-promerica-svvc.support090.repl.co^
@@ -49515,7 +49529,6 @@
 ||pocoxxmas.gq^
 ||poczta-polska.co^
 ||poczta-polska.sistemaventas.pe^
-||poczta.neo.barsaji.com.mx^
 ||pocztowy.co^
 ||pocztpolskapl.co^
 ||pod-app.co^
@@ -50372,12 +50385,14 @@
 ||productosenlineaactivatee.focodistribuidora.com.br^
 ||productosnaturalesparaprostata.net.pe^
 ||productostopdeamazon.es^
+||products.do^
 ||produmix.com.ve^
 ||produpan.com.co^
 ||produt0-botija0-3453.x10.mx^
 ||produtoincrivel.com.br^
 ||produtoravip.inf.br^
 ||produtorosaamazonica.com.br^
+||produtos.sensebike.com.br^
 ||produtosamazonia.com.br^
 ||produtosamazony.com.br^
 ||produtosazroma.com.br^
@@ -50801,6 +50816,7 @@
 ||publicolor-rr.com.br^
 ||publiconews.com.br^
 ||publirutalca.cl^
+||publishapp.co^
 ||publishonamazon.co^
 ||publivip.com.br^
 ||publivip1.com.br^
@@ -55204,6 +55220,7 @@
 ||smestudio.com.uy^
 ||smileamazon.co^
 ||smileapple.cl^
+||smilekeepers.co^
 ||smileway.cl^
 ||sminicca.gq^
 ||smith-furniture-appliance.cl-dev.co^
@@ -55285,6 +55302,7 @@
 ||soft-bonus-0915.on.fleek.co^
 ||soft-got.co^
 ||softapple.com.br^
+||softcloudnet.co^
 ||softcorporation.com.br^
 ||softexamazonia.com.br^
 ||softglide.co^
@@ -55425,6 +55443,7 @@
 ||sopra.co^
 ||soprodutodequalidade.com.br^
 ||sora-openai.co^
+||sora.bz^
 ||soraopenai.co^
 ||soreloutletmexico.com.mx^
 ||soren.co^
@@ -55715,6 +55734,7 @@
 ||ssloq.mqzbrjwaeea.es^
 ||ssmso.cl^
 ||ssn.com.ve^
+||ssoc.cl^
 ||ssorajasthanid.co^
 ||sspropiedades.mx^
 ||ssses-bbva.acceso-secure.es^
@@ -56142,6 +56162,7 @@
 ||supershopstarshotels.com.es^
 ||supersmtp.com.br^
 ||superstarsfree.com.es^
+||superstatefund.co^
 ||supertecapple.com.br^
 ||supertechs.co^
 ||supertendas.com.br^
@@ -57077,7 +57098,6 @@
 ||thespotifypremiumapk.mx^
 ||thestain.es^
 ||thetatoken.gq^
-||thetest.selfhost.co^
 ||thetrilogy.co^
 ||thevisualexperience.co^
 ||thewaltdisneyco.co^
@@ -59746,6 +59766,7 @@
 ||wpk7088555.co^
 ||wpoptimizeinnodbtables.gq^
 ||wpp.digithiks.com.br^
+||wpsonline.co^
 ||wr0h11.ozouh.es^
 ||wrap-app.co^
 ||wrestlefuse.com.satelitnews.co^
