@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-08T03:02:36.758Z
+! Last modified: 2025-09-08T15:02:50.585Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -6514,6 +6514,7 @@
 ||amazondks.co^
 ||amazondl.co^
 ||amazondlz.co^
+||amazondmc.co^
 ||amazondobrasil.com.br^
 ||amazondobrasil.globalquality.com.br^
 ||amazondoi.co^
@@ -8724,6 +8725,7 @@
 ||amazonvtn.co^
 ||amazonvtu.co^
 ||amazonvus.co^
+||amazonvyc.co^
 ||amazonvyd.co^
 ||amazonvyx.co^
 ||amazonw.co^
@@ -9024,6 +9026,7 @@
 ||aml-app.es^
 ||aml-bots.co^
 ||amlogincloginmlcrosoftonlineservices.ribeiroautocapas.com.br^
+||amltest.co^
 ||amma.org.ar^
 ||ammacentromedico.com.br^
 ||ammcare-app-mruk.ammcare-production.ccdns.co^
@@ -16875,6 +16878,7 @@
 ||caminhocoop.com.br^
 ||caminhodearte.com.br^
 ||caminhosdaamazonia.com.br^
+||caminoalchapo.cl^
 ||caminodelsur.cl^
 ||caminolusco.es^
 ||camion-europeo.co^
@@ -48756,6 +48760,7 @@
 ||perceptioncan.co^
 ||perdas-sp-app.3ccloud.com.br^
 ||perdecolombia.com.co^
+||perdida-de-seguimiento-del-paquete.mx^
 ||perdty-app.vannila.co^
 ||perdty-test-app.vannila.co^
 ||pereiraartefatosdecimento.com.br^
@@ -59696,6 +59701,7 @@
 ||wmconsultor.com.br^
 ||wmlxt.iafpojfq.es^
 ||wmodz.gq^
+||wmvsolares.com.br^
 ||wmwmlv.com.br^
 ||wmzrf.co^
 ||wn1qfacegrj1zpl3gscmftv6rjqe2.do^
