@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-09T03:02:37.994Z
+! Last modified: 2025-09-09T15:02:46.792Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -1597,7 +1597,6 @@
 ||4nqexdrydabucxgnkak9l3tvtmru8q.we9ixzz.co^
 ||4nvf0mlh4pd3j8.barclayis.co^
 ||4o7.6mk.transagua.cl^
-||4px0yt.dqcvhzb.es^
 ||4pxq55.difarmafarmaceutica.com.br^
 ||4qmt6dkbntc66p.we9ixzz.co^
 ||4qukt.droplenia.es^
@@ -24355,6 +24354,7 @@
 ||dpto.mx^
 ||dpwc.co^
 ||dq2vdluych.6371.pokermoney.co^
+||dqcvhzb.es^
 ||dr-martens.es^
 ||dr0pbox4.gq^
 ||dr4.easy.co^
@@ -24979,6 +24979,7 @@
 ||edarmotopartes.com.ar^
 ||edb3dfc5-cf44-4ef5-8ef1-bb6e1d704b1a.id.repl.co^
 ||edca.org.ec^
+||edden3.com.mx^
 ||eddiesee.easy.co^
 ||eddycardona.mx^
 ||edemcentrodia.com.br^
@@ -30207,6 +30208,7 @@
 ||grencoscience.co^
 ||grenetina.mx^
 ||gresceramica.com.co^
+||grestruturasmetalicas.eng.br^
 ||greyapple.com.br^
 ||greystonefarms.ultramedicinadiagnostica.com.br^
 ||grhh.co^
@@ -35916,6 +35918,7 @@
 ||icareapple.com.br^
 ||icasa.com.br^
 ||icasf.com.br^
+||icash.trymore.co^
 ||icbeubetim.com.br^
 ||icbs-webs.co^
 ||iccarson.com.selus.mx^
@@ -38452,6 +38455,7 @@
 ||jtrxsw.blogspot.mx^
 ||jtwclmymzq.0813.pokermoney.co^
 ||jtynyy.mypi.co^
+||jualakunfb.co^
 ||juanadearco.com.uy^
 ||juancarlosalamo.es^
 ||juancarlosmartinez.consultoresweb.es^
@@ -39641,6 +39645,7 @@
 ||lendasamazonicas.com.br.coding2u.com.br^
 ||lendasamazonicas.com.br^
 ||lendlend-app.fontech.co^
+||lendowl.co^
 ||lengkapi-akun-facebook.gq^
 ||lengkapi-data-url-facebook-anda.phoenix77.gq^
 ||leni.cupomdedescontorappi.com.br^
@@ -41899,6 +41904,7 @@
 ||matelecchile.cl^
 ||materiadispuesta.mx^
 ||materialtatico.com.br^
+||materintercambios.com.br^
 ||maternalnadir.org.br^
 ||mathispaypal.repl.co^
 ||matiasonline.com.br^
@@ -43728,6 +43734,7 @@
 ||mulheresfinas.tv.br^
 ||mulheresnaamazonia.igarape.org.br^
 ||mulheruniverso.com.br^
+||muller-berlin.co^
 ||multas-jamais.com.br^
 ||multgrafic.com.br^
 ||multi-apps.es^
@@ -51249,7 +51256,6 @@
 ||qvalibest.gq^
 ||qvmhl2nyxrtupgj6es.we9ixzz.co^
 ||qvtfgkkkjetn.es^
-||qw2m.dqcvhzb.es^
 ||qw7bf.co^
 ||qwartwpb.gq^
 ||qwartwpsb.gq^
@@ -54907,6 +54913,7 @@
 ||sig.caceres.es^
 ||siga.com.pe^
 ||sigaglobal.cl^
+||sigapp.co^
 ||sigarastreadores.app.br^
 ||sigaweb.ugel01.gob.pe^
 ||sigbackmi.gq^
