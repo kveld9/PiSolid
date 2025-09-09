@@ -3,7 +3,7 @@
 ! Description: Proyecto creado con la finalidad de aumentar la seguridad en internet en Latinoamerica, bloqueando phishing, estafas, fake news, apuestas, crypto, casinos virtuales.
 ! Homepage: https://codeberg.org/kveld9/PiSolid
 ! License: GPLv3
-! Last modified: 2025-09-08T15:02:50.585Z
+! Last modified: 2025-09-09T03:02:37.994Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -11972,7 +11972,6 @@
 ||arqflora.com.br^
 ||arqlon.mx^
 ||arqmdiaz.com.ar^
-||arqnit.org.br^
 ||arqsustancial.com.ar^
 ||arqueirosdaamazonia.com.br^
 ||arquelau.com.br^
@@ -13056,6 +13055,7 @@
 ||ays.com.co^
 ||aysbc.com.pe^
 ||aytotest-app.muniges.es^
+||aytxtpaypal-partners.goo.es^
 ||ayuda--verificacionco9.repl.co^
 ||ayuda-familiar2023.aceptar.repl.co^
 ||ayudaalamazonasconemma.es^
@@ -16078,6 +16078,7 @@
 ||brasilamazonia.cff.org.br^
 ||brasilamazoniaagora.com.br^
 ||brasilapple.com.br^
+||brasilarcelormittal.com.br^
 ||brasilarq.com.br^
 ||brasilcooperativa.org.br^
 ||brasilcopy.com.br^
@@ -23244,7 +23245,6 @@
 ||descargartrap.com.ve^
 ||descargas.componemos.es^
 ||descente.es^
-||desckvbrat.com.br^
 ||descoleta4086.ksgps.com.br^
 ||descomoveis.com.br^
 ||descomplicandochatgpt.com.br^
@@ -24121,6 +24121,7 @@
 ||dmzeletrica.com.br^
 ||dnamazonpet.com.br^
 ||dnamazonpetcare.com.br^
+||dnanipaypal-danmark.today.ar^
 ||dnc-equipseg.com.br^
 ||dndchile.cl^
 ||dns-applinet.es^
@@ -30963,6 +30964,7 @@
 ||hcighyjgpsjmn2hhrugajm.we9ixzz.co^
 ||hcllo.z0dwomyu.cardiopedbrasil.com.br^
 ||hcpvvtq.es^
+||hcsnet.com.br^
 ||hcvghb.maniguaorganica.com.co^
 ||hcvjx1.gq^
 ||hcvu.pmzsovq.es^
@@ -37626,6 +37628,7 @@
 ||itaucard.programademilha.com.br^
 ||itaucartoes.painelrs.com.br^
 ||itaucartoesweb.com.br^
+||itauco.com.co^
 ||itaucomunication.x10.mx^
 ||itaucomvoce.com.br^
 ||itauconfirmar.itauconfirm14.repl.co^
@@ -39036,6 +39039,7 @@
 ||kpggt3y8rfxeeruooy9duixm1bzzq.uy^
 ||kpi-ltd.co^
 ||kposetu.gq^
+||kqurjpaypalcredit.vacations.es^
 ||kr.pe^
 ||kra11.cl^
 ||kra24.ec^
@@ -46442,6 +46446,7 @@
 ||openai.train-ai.co^
 ||openai.uniaqua.co^
 ||openai.velmas.co^
+||openai.voody.co^
 ||openai.voupazzw.gq^
 ||openai.webandcode.mx^
 ||openai.wedatasolution.com.br^
@@ -47633,6 +47638,7 @@
 ||paypal-communications.tvs.co^
 ||paypal-community-service.twittervideodownload.co^
 ||paypal-community.aarp.co^
+||paypal-community.bingo.mx^
 ||paypal-community.box.cl^
 ||paypal-community.dabur.co^
 ||paypal-community.farmers.co^
@@ -47657,6 +47663,7 @@
 ||paypal-corp.forum.ar^
 ||paypal-corp.game.ar^
 ||paypal-corp.group.ar^
+||paypal-corp.mtn.es^
 ||paypal-corp.pin.co^
 ||paypal-corp.review.ar^
 ||paypal-corp.sling.co^
@@ -47684,9 +47691,11 @@
 ||paypal-deutschland.dabur.co^
 ||paypal-deutschland.desi.co^
 ||paypal-deutschland.foo.es^
+||paypal-deutschland.futbol.do^
 ||paypal-deutschland.game.ar^
 ||paypal-deutschland.games.co^
 ||paypal-deutschland.group.ar^
+||paypal-deutschland.hospital.es^
 ||paypal-deutschland.review.ar^
 ||paypal-deutschland.room.ar^
 ||paypal-deutschland.scb.cl^
@@ -47698,6 +47707,7 @@
 ||paypal-donations.careers.mx^
 ||paypal-donations.dabur.co^
 ||paypal-donations.foo.es^
+||paypal-donations.money.cl^
 ||paypal-donations.nexus.mx^
 ||paypal-donations.properties.ar^
 ||paypal-donations.realestate.do^
@@ -47723,6 +47733,7 @@
 ||paypal-engineering.goodyear.mx^
 ||paypal-engineering.group.ar^
 ||paypal-engineering.insure.ar^
+||paypal-engineering.money.ar^
 ||paypal-engineering.post.ar^
 ||paypal-engineering.school.ar^
 ||paypal-engineering.tvs.co^
@@ -47831,6 +47842,7 @@
 ||paypal-integration.nexus.mx^
 ||paypal-integration.organic.ar^
 ||paypal-integration.realestate.do^
+||paypal-integration.shop.cl^
 ||paypal-integration.toshiba.cl^
 ||paypal-integration.tvs.co^
 ||paypal-kc.com.co^
@@ -47846,6 +47858,7 @@
 ||paypal-knowledge.game.ar^
 ||paypal-knowledge.legal.ar^
 ||paypal-knowledge.rugby.cl^
+||paypal-knowledge.shop.cl^
 ||paypal-knowledge.tunes.mx^
 ||paypal-latam.bl.ar^
 ||paypal-latam.channel.ar^
@@ -47878,7 +47891,9 @@
 ||paypal-marketing.room.ar^
 ||paypal-marketing.school.ar^
 ||paypal-marketing.study.co^
+||paypal-marketing.vacations.es^
 ||paypal-marketing.vip.cl^
+||paypal-media.basketball.do^
 ||paypal-media.channel.ar^
 ||paypal-media.game.ar^
 ||paypal-media.insure.ar^
@@ -47936,6 +47951,7 @@
 ||paypal-nederland.read.co^
 ||paypal-nederland.reliance.co^
 ||paypal-norge.academy.ar^
+||paypal-norge.basketball.do^
 ||paypal-norge.fish.mx^
 ||paypal-norge.foo.es^
 ||paypal-norge.grocery.co^
@@ -47948,12 +47964,14 @@
 ||paypal-norge.room.ar^
 ||paypal-norge.td.cl^
 ||paypal-norge.uk.cl^
+||paypal-opinions.bl.cl^
 ||paypal-opinions.careers.mx^
 ||paypal-opinions.chrome.es^
 ||paypal-opinions.fit.pe^
 ||paypal-opinions.gay.mx^
 ||paypal-opinions.juegos.mx^
 ||paypal-opinions.memorial.co^
+||paypal-opinions.money.ec^
 ||paypal-opinions.nexus.mx^
 ||paypal-opinions.realestate.do^
 ||paypal-opinions.vodka.es^
@@ -47961,6 +47979,7 @@
 ||paypal-optimizer.capital.bz^
 ||paypal-optimizer.esurance.co^
 ||paypal-optimizer.forum.ar^
+||paypal-optimizer.futbol.do^
 ||paypal-optimizer.game.ar^
 ||paypal-optimizer.hotels.bz^
 ||paypal-optimizer.insure.ar^
@@ -48017,6 +48036,7 @@
 ||paypal-prepagata.ooo.co^
 ||paypal-prepagata.reliance.co^
 ||paypal-prepagata.review.ar^
+||paypal-prepaid.casino.do^
 ||paypal-prepaid.game.ar^
 ||paypal-prepaid.grocery.co^
 ||paypal-prepaid.htc.cl^
@@ -48025,6 +48045,7 @@
 ||paypal-prepaid.lotto.ar^
 ||paypal-prepaid.memorial.co^
 ||paypal-prepaid.srt.cl^
+||paypal-prepaid.tours.do^
 ||paypal-prepaid.versicherung.bz^
 ||paypal-promo.auto.bz^
 ||paypal-promo.es^
@@ -48320,6 +48341,7 @@
 ||paypal.quatroventos.com.br^
 ||paypal.radiosc.com.br^
 ||paypal.read.co^
+||paypal.reisen.es^
 ||paypal.salzillo.com.mx^
 ||paypal.santmarti.es^
 ||paypal.se.uan.mx^
@@ -48419,6 +48441,7 @@
 ||paypalcredit.money.ar^
 ||paypalcredit.post.ar^
 ||paypalcredit.study.co^
+||paypalcredit.surf.do^
 ||paypalcredit.swiss.mx^
 ||paypalcredit.versicherung.bz^
 ||paypalcredit.vip.cl^
@@ -48437,6 +48460,7 @@
 ||paypalgivingfund.grocery.co^
 ||paypalgivingfund.legal.ar^
 ||paypalgivingfund.lotto.ar^
+||paypalgivingfund.money.ar^
 ||paypalgivingfund.paris.mx^
 ||paypalgivingfund.room.ar^
 ||paypalgivingfund.scb.cl^
@@ -52649,6 +52673,7 @@
 ||rkfiresrl.com.ar^
 ||rkfmudas.com.br^
 ||rkhcd-enpal.ghjigclbopy.es^
+||rkhnopaypal-knowledge.tunes.es^
 ||rkindustries.co^
 ||rklvrk.com.br^
 ||rkmrjq.es^
@@ -54154,6 +54179,7 @@
 ||sdfsgjshfjdsgfhjdsghfjgdshfjd.blogspot.mx^
 ||sdfssfe.blogspot.com.ar^
 ||sdfssfe.blogspot.pe^
+||sdgnapaypal-knowledge.wow.es^
 ||sdgyhdfjhfgjfgjyjfjfgj.blogspot.com.br^
 ||sdireqta.gq^
 ||sdkasjdh821323.blogspot.com.br^
