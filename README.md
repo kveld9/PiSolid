@@ -6,17 +6,13 @@
 
 ## ¿En qué consiste?
 
-Este proyecto consta de una serie de dominios bloqueados que fueron considerados inapropiados o inseguros.
-
-El enfoque de este proyecto es específico para Latinoamérica, ya que muchos proyectos similares están orientados internacionalmente y suelen omitir dominios relevantes para esta región. Este proyecto busca llenar ese vacío y mejorar la seguridad en la navegación para usuarios latinoamericanos.
+Mediante la herramienta de compilación de listas del equipo de AdGuard, cada 12 horas se compilarán distintas listas con distintos objetivos cada una, donde se recolectan las mejores fuentes de la actualidad para mejorar la seguridad general de la red.
 
 ## Contenido bloqueado
-- Criptomonedas.
-- Drogas.
 - Estafas.
-- Fake news.
 - Malware.
 - Phishing.
+- NSFW (solo la lista que lo indica).
 
 ## ¿Cómo se utiliza?
 
@@ -25,11 +21,6 @@ El formato de bloqueo de dominios en AdBlock permite filtrar contenido al bloque
 Para que estos softwares o extensiones puedan aplicar correctamente las reglas de bloqueo, es crucial proporcionar la URL del archivo en formato RAW.
 
 ## Enlaces para utilizar
-### **PiSolid**
-- [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid.txt)
-- [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid.txt)
-- [Mirror](https://brevent.sytes.net/dns/pisolid.txt)
-
 ### **PiSolid-Ultra**
 - [GitHub](https://raw.githubusercontent.com/kveld9/PiSolid/refs/heads/main/pisolid-ultra.txt)
 - [Codeberg](https://codeberg.org/kveld9/PiSolid/raw/branch/main/pisolid-ultra.txt)
@@ -50,6 +41,9 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [HaGeZi's Threat Intelligence Feeds DNS Blocklist - full version](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/tif.txt)  
 - [HaGeZi-Ultimate](https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/adblock/ultimate.txt)  
 - [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.adblock)  
+- [Malicious URL Blocklist (URLHaus)](https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt)
+- [uBlock filters – Badware risks](https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt)
+- [Peter Lowe - hosts](https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts)
 
 ### **PiSolid-Ultra-Lite**
 - [HaGeZi's Threat Intelligence Feeds DNS Blocklist - mini version](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/tif.mini.txt)
@@ -57,11 +51,9 @@ Para que estos softwares o extensiones puedan aplicar correctamente las reglas d
 - [OISD-Big-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains.top-n.adblock)
 
 ### **PiSolid-NSFW**
-- [Accomplist-AdultThemed-cbuijs](https://raw.githubusercontent.com/cbuijs/accomplist/refs/heads/main/adult-themed/optimized.black.top-n.domain.list)  
-- [Jarellama-NSFW](https://raw.githubusercontent.com/jarelllama/Scam-Blocklist/main/lists/adblock/nsfw.txt)
-- [KidSaf-cbuijs](https://raw.githubusercontent.com/cbuijs/1hosts/refs/heads/main/KidSaf/domains.top-n.adblock)  
 - [OISD-NSFW-cbuijs](https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/nsfw/domains.top-n.adblock)  
 - [StevenBlack-NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts)  
+- [HaGeZi's NSFW DNS Blocklist](https://codeberg.org/hagezi/mirror2/raw/branch/main/dns-blocklists/adblock/nsfw.txt)
 
 ## Agradecimientos
 - Gracias a [xdL](https://t.me/xdlane) por la colaboración en el diseño gráfico.
