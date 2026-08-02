@@ -13,9 +13,9 @@ Mediante la herramienta de compilación de listas del equipo de AdGuard, cada 12
 
 | Lista               | Dominios actuales | Última actualización |
 |---------------------|-------------------|----------------------|
-| **PiSolid Ultra**       | <!-- AUTO_COUNT_ULTRA --> ![Ultra](https://img.shields.io/badge/dominios-2.511.074-blue) | ![Ultra updated](https://img.shields.io/github/last-commit/kveld9/PiSolid/main/pisolid-ultra.txt?label=actualizado) |
-| **PiSolid Ultra Lite**  | <!-- AUTO_COUNT_ULTRA_LITE --> ![Ultra Lite](https://img.shields.io/badge/dominios-393.083-blue) | ![Lite updated](https://img.shields.io/github/last-commit/kveld9/PiSolid/main/pisolid-ultra-lite.txt?label=actualizado) |
-| **PiSolid NSFW**        | <!-- AUTO_COUNT_NSFW --> ![NSFW](https://img.shields.io/badge/dominios-583.177-blue) | ![NSFW updated](https://img.shields.io/github/last-commit/kveld9/PiSolid/main/pisolid-nsfw.txt?label=actualizado) |
+<!-- AUTO_COUNT_ULTRA --> ![ULTRA](https://img.shields.io/badge/dominios-2.511.074-blue)
+<!-- AUTO_COUNT_ULTRA_LITE --> ![ULTRA_LITE](https://img.shields.io/badge/dominios-393.083-blue)
+<!-- AUTO_COUNT_NSFW --> ![NSFW](https://img.shields.io/badge/dominios-583.177-blue)
 
 > **Nota:** La lista NSFW puede combinarse con Ultra o Ultra Lite si deseas bloquear también contenido adulto.
 
