@@ -13,9 +13,9 @@ PiSolid utiliza la herramienta de compilación de listas del equipo de AdGuard p
 
 | Lista                  |                                                                                 Dominios actuales | Frecuencia de actualización |
 | ---------------------- | ------------------------------------------------------------------------------------------------: | --------------------------- |
-| **PiSolid Ultra**      |          <!-- AUTO_COUNT_ULTRA --> ![ULTRA](https://img.shields.io/badge/dominios-1962773-blue) | Cada 12 horas               |
-| **PiSolid Ultra Lite** | <!-- AUTO_COUNT_ULTRA_LITE --> ![ULTRA\_LITE](https://img.shields.io/badge/dominios-392320-blue) | Cada 12 horas               |
-| **PiSolid NSFW**       |              <!-- AUTO_COUNT_NSFW --> ![NSFW](https://img.shields.io/badge/dominios-515400-blue) | Cada 12 horas               |
+| **PiSolid Ultra**      |          <!-- AUTO_COUNT_ULTRA --> ![ULTRA](https://img.shields.io/badge/dominios-1811968-blue) | Cada 12 horas               |
+| **PiSolid Ultra Lite** | <!-- AUTO_COUNT_ULTRA_LITE --> ![ULTRA\_LITE](https://img.shields.io/badge/dominios-382684-blue) | Cada 12 horas               |
+| **PiSolid NSFW**       |              <!-- AUTO_COUNT_NSFW --> ![NSFW](https://img.shields.io/badge/dominios-515742-blue) | Cada 12 horas               |
 
 > **Nota:** PiSolid NSFW puede combinarse con PiSolid Ultra o PiSolid Ultra Lite si también deseas bloquear contenido para adultos.
 
